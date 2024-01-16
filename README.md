@@ -16,7 +16,7 @@
 
 <h2>
   
-Para visualizar la versión detallada del presente proyecto véase el notebook ["analysis"](https://github.com/UrkoRegueiro/HACK-A-BOSS-PROJECTS/blob/main/ETL%26Analysis_Online_Perfumeries/analysis.ipynb)
+Para visualizar la versión detallada del presente proyecto véase el notebook ["analysis"](https://github.com/UrkoRegueiro/ETL-Analisis_Perfumerias_Online/blob/main/analysis.ipynb)
 
 <h2>
   
@@ -53,7 +53,7 @@ Mediante el scrapeo web, utilizando las librerías Beautiful Soup y Selenium, se
 
 <h2>
   
- En la carpeta ["scrapers"](https://github.com/UrkoRegueiro/HACK-A-BOSS-PROJECTS/tree/main/ETL%26Analysis_Online_Perfumeries/scrapers) puede visualizarse el código y todo el proceso de extracción de datos realizado.
+ En la carpeta ["scrapers"](https://github.com/UrkoRegueiro/ETL-Analisis_Perfumerias_Online/tree/main/scrapers) puede visualizarse el código y todo el proceso de extracción de datos realizado.
 
 <h2>
 
