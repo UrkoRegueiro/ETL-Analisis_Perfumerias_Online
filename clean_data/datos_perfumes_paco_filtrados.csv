@@ -1,0 +1,1568 @@
+tienda,categoria,marca,nombre,tipo,precio_sin_desc,descuento,precio_con_desc,valoracion,num_valoraciones
+paco,hombre,paco rabanne,1 million,eau de toilette,80.5,38.0,49.91,5,4
+paco,hombre,dior,sauvage,eau de parfum,77.94,0.0,77.94,4,17
+paco,hombre,paco rabanne,invictus,eau de toilette,79.0,38.0,48.98,4,58
+paco,hombre,armani,acqua di giò hombre,eau de toilette,70.0,50.0,35.0,4,10
+paco,hombre,loewe,esencia loewe,eau de toilette,97.0,35.0,63.05,4,2
+paco,hombre,hugo boss,boss bottled,eau de toilette,69.0,57.0,29.67,4,14
+paco,hombre,jean paul gaultier,le male,eau de toilette,61.5,51.0,30.14,4,41
+paco,hombre,ralph lauren,polo blue,eau de toilette,82.0,51.0,40.18,5,9
+paco,hombre,adolfo domínguez,agua fresca,eau de toilette,36.5,40.0,21.9,5,4
+paco,hombre,carolina herrera,212 men,eau de toilette,74.5,49.0,37.99,4,10
+paco,hombre,carolina herrera,bad boy,eau de toilette,79.5,33.0,53.26,4,7
+paco,hombre,yves saint laurent,y men,eau de toilette,90.0,50.0,45.0,5,1
+paco,hombre,givenchy,gentleman society,eau de parfum,96.0,48.0,49.92,0,0
+paco,hombre,davidoff,cool water,eau de toilette,57.0,74.0,14.82,4,9
+paco,hombre,rochas,rochas man,eau de toilette,63.0,59.0,25.83,4,7
+paco,hombre,dolce & gabbana,k by dolce & gabbana,eau de toilette,82.0,45.0,45.1,4,13
+paco,hombre,jean paul gaultier,ultra male,eau de toilette,83.0,52.0,39.84,4,9
+paco,hombre,calvin klein,ck one,eau de toilette,76.0,72.0,21.28,4,12
+paco,hombre,yves saint laurent,myslf,eau de parfum,92.0,35.0,59.8,0,0
+paco,hombre,calvin klein,ck be,eau de toilette,76.0,74.0,19.76,4,7
+paco,hombre,armani,acqua di giò profondo,eau de parfum,115.0,52.0,55.2,4,12
+paco,hombre,calvin klein,eternity for men,eau de toilette,53.0,62.0,20.14,4,9
+paco,hombre,yves saint laurent,la nuit de l'homme,eau de toilette,90.0,49.0,45.9,5,5
+paco,hombre,nikos,sculpture,eau de toilette,65.9,74.0,17.13,4,231
+paco,hombre,issey miyake,l'eau d'issey pour homme,eau de toilette,57.0,35.0,37.05,4,12
+paco,hombre,paco rabanne,pour homme,eau de toilette,56.5,47.0,29.94,5,1
+paco,hombre,adolfo domínguez,agua fresca citrus cedro,eau de toilette,36.5,59.0,14.97,5,2
+paco,hombre,adolfo domínguez,bambú,eau de toilette,31.5,54.0,14.49,4,11
+paco,hombre,armani,acqua di giò parfum,parfum,115.0,44.0,64.4,5,5
+paco,hombre,loewe,esencia loewe edp,eau de parfum,110.0,35.0,71.5,4,7
+paco,hombre,prada,infusion d'iris,eau de parfum,110.0,46.0,59.4,4,15
+paco,hombre,hugo boss,hugo man,eau de toilette,80.0,56.0,35.2,5,2
+paco,hombre,jean paul gaultier,le beau le parfum,eau de parfum,89.5,46.0,48.33,4,1
+paco,hombre,carolina herrera,212 vip men,eau de toilette,74.5,52.0,35.76,4,6
+paco,hombre,armani,code hombre,eau de toilette,89.0,44.0,49.84,0,0
+paco,hombre,paco rabanne,ultraviolet man,eau de toilette,61.5,51.0,30.14,4,8
+paco,hombre,armani,code le parfum,eau de parfum,95.0,47.0,50.35,5,2
+paco,hombre,paco rabanne,black xs,eau de toilette,73.5,46.0,39.69,5,2
+paco,hombre,jean paul gaultier,le beau,eau de toilette,81.5,39.0,49.72,4,8
+paco,hombre,calvin klein,ck one reflections,eau de toilette,70.0,65.0,24.5,5,4
+paco,hombre,rochas,eau de rochas pour homme,eau de toilette,54.0,63.0,19.98,4,2
+paco,hombre,jean paul gaultier,le male elixir,eau de parfum,96.0,34.0,63.36,0,0
+paco,hombre,prada,amber pour homme,eau de toilette,120.0,58.0,50.4,4,18
+paco,hombre,hugo boss,boss the scent,eau de toilette,89.0,57.0,38.27,4,7
+paco,hombre,armani,eau pour homme,eau de toilette,150.0,57.0,64.5,4,53
+paco,hombre,yves saint laurent,l'homme,eau de toilette,90.0,49.0,45.9,4,5
+paco,hombre,azzaro,chrome,eau de toilette,90.0,56.0,39.6,4,5
+paco,hombre,lancaster,eau de lancaster,eau de toilette,64.9,74.0,16.87,4,2
+paco,hombre,quorum,quorum,eau de toilette,11.95,0.0,11.95,4,47
+paco,hombre,carolina herrera,212 vip black,eau de parfum,78.0,44.0,43.68,4,3
+paco,hombre,givenchy,gentleman givenchy,eau de toilette,107.0,48.0,55.64,5,13
+paco,hombre,calvin klein,obsession for men,eau de toilette,64.95,65.0,22.73,4,18
+paco,hombre,valentino,uomo intense,eau de parfum,95.0,48.0,49.4,5,2
+paco,hombre,diesel,only the brave tattoo,eau de toilette,79.0,49.0,40.29,4,3
+paco,hombre,armani,stronger with you absolutely,parfum,89.0,46.0,48.06,5,2
+paco,hombre,ralph lauren,polo red,eau de toilette,77.0,49.0,39.27,4,5
+paco,hombre,loewe,agua de loewe,eau de toilette,71.0,35.0,46.15,0,0
+paco,hombre,yves saint laurent,y men edp,eau de parfum,98.0,50.0,49.0,4,5
+paco,hombre,prada,luna rossa carbon,eau de toilette,85.0,47.0,45.05,5,1
+paco,hombre,carolina herrera,herrera for men,eau de toilette,95.5,53.0,44.88,4,31
+paco,hombre,yves saint laurent,y le parfum,eau de parfum,110.0,50.0,55.0,5,3
+paco,hombre,valentino,born in roma uomo,eau de toilette,87.0,52.0,41.76,0,0
+paco,hombre,armani,stronger with you,eau de toilette,69.0,49.0,35.19,5,1
+paco,hombre,loewe,solo loewe,eau de toilette,96.0,35.0,62.4,5,3
+paco,hombre,prada,luna rossa ocean,eau de toilette,85.0,47.0,45.05,0,0
+paco,hombre,armani,acqua di giò edp,eau de parfum,115.0,48.0,59.8,0,0
+paco,hombre,hermès,un jardin sur le nil,eau de toilette,96.0,33.0,64.32,4,7
+paco,hombre,hugo boss,boss in motion,eau de toilette,83.0,64.0,29.88,4,2
+paco,hombre,diesel,only the brave,eau de toilette,73.15,48.0,38.04,5,8
+paco,hombre,calvin klein,contradiction for men,eau de toilette,67.55,56.0,29.72,4,15
+paco,hombre,calvin klein,eternity for men edp,eau de parfum,80.0,61.0,31.2,3,2
+paco,hombre,carolina herrera,ch men,eau de toilette,78.0,50.0,39.0,0,0
+paco,hombre,diesel,bad,eau de toilette,69.0,42.0,40.02,4,1
+paco,hombre,hugo boss,boss bottled edp,eau de parfum,94.0,58.0,39.48,4,2
+paco,hombre,kenzo,homme intense,eau de toilette,78.5,54.0,36.11,4,8
+paco,hombre,givenchy,gentleman réserve privée,eau de parfum,91.5,41.0,53.99,4,3
+paco,hombre,loewe,7 loewe,eau de toilette,84.0,35.0,54.6,4,2
+paco,hombre,loewe,agua de loewe mar de coral,eau de toilette,71.0,35.0,46.15,4,3
+paco,hombre,loewe,pour homme,eau de toilette,88.0,35.0,57.2,5,1
+paco,hombre,montblanc,legend,eau de toilette,50.0,60.0,20.0,4,1
+paco,hombre,paco rabanne,invictus legend,eau de parfum,74.5,46.0,40.23,5,7
+paco,hombre,viktor & rolf,spicebomb pour homme,eau de toilette,80.0,54.0,36.8,4,3
+paco,hombre,adolfo domínguez,agua fresca lima tonka,eau de toilette,54.5,54.0,25.07,0,0
+paco,hombre,dior,eau sauvage,eau de toilette,64.95,0.0,64.95,4,4
+paco,hombre,boucheron,pour homme edp,eau de parfum,109.0,70.0,32.7,4,8
+paco,hombre,tom ford,ombré leather,eau de parfum,84.5,0.0,84.5,5,3
+paco,hombre,paco rabanne,pure xs,eau de toilette,77.5,48.0,40.3,4,1
+paco,hombre,dunhill,desire for man edt,eau de toilette,62.0,68.0,19.84,4,20
+paco,hombre,loewe,agua de loewe mar de coral icono,eau de toilette,125.0,35.0,81.25,5,1
+paco,hombre,hugo boss,boss bottled elixir,parfum,111.0,41.0,65.49,0,0
+paco,hombre,dior,sauvage edt,eau de toilette,52.94,0.0,52.94,0,0
+paco,hombre,yves saint laurent,y men edp intense,eau de parfum,105.0,48.0,54.6,0,0
+paco,hombre,armani,emporio armani hombre,eau de toilette,110.0,55.0,49.5,4,12
+paco,hombre,montblanc,explorer,eau de parfum,80.0,50.0,40.0,4,8
+paco,hombre,versace,eros,eau de toilette,83.0,43.0,47.31,5,1
+paco,hombre,yves saint laurent,kouros,eau de toilette,82.0,42.0,47.56,4,7
+paco,hombre,paco rabanne,1 million parfum,eau de parfum,87.0,38.0,53.94,4,6
+paco,hombre,valentino,born in roma uomo intense,eau de parfum,87.0,37.0,54.81,0,0
+paco,hombre,dolce & gabbana,light blue pour homme,eau de toilette,65.0,43.0,37.05,0,0
+paco,hombre,azzaro,azzaro sport,eau de toilette,78.0,72.0,21.84,5,1
+paco,hombre,dior,sauvage parfum,parfum,75.75,0.0,75.75,0,0
+paco,hombre,versace,pour homme,eau de toilette,83.0,40.0,49.8,0,0
+paco,hombre,cacharel,pour homme,eau de toilette,100.0,60.0,40.0,4,18
+paco,hombre,loewe,7 cobalt,eau de parfum,95.0,35.0,61.75,4,3
+paco,hombre,diesel,fuel for life homme,eau de toilette,48.0,54.0,22.08,5,2
+paco,hombre,bvlgari,pour homme extrême,eau de toilette,99.0,35.0,64.35,4,28
+paco,hombre,carolina herrera,212 sexy men,eau de toilette,79.5,12.0,69.96,5,3
+paco,hombre,ralph lauren,polo blue edp,eau de parfum,92.0,53.0,43.24,3,5
+paco,hombre,calvin klein,in2u him,eau de toilette,76.0,76.0,18.24,4,42
+paco,hombre,bvlgari,man in black,eau de parfum,100.0,35.0,65.0,0,0
+paco,hombre,calvin klein,ck one shock for him,eau de toilette,76.0,70.0,22.8,5,2
+paco,hombre,calvin klein,ck everyone,eau de toilette,58.0,59.0,23.78,4,2
+paco,hombre,dolce & gabbana,the one for men,eau de toilette,82.0,39.0,50.02,0,0
+paco,hombre,tom ford,costa azzurra parfum,parfum,99.0,0.0,99.0,5,1
+paco,hombre,dolce & gabbana,k by dolce & gabbana edp,eau de parfum,90.0,45.0,49.5,4,4
+paco,hombre,versace,eros edp,eau de parfum,92.0,40.0,55.2,4,6
+paco,hombre,azzaro,pour homme,eau de toilette,85.0,58.0,35.7,5,1
+paco,hombre,tom ford,noir extreme,eau de parfum,84.5,0.0,84.5,5,2
+paco,hombre,dolce & gabbana,pour homme,eau de toilette,86.0,36.0,55.04,0,0
+paco,hombre,dolce & gabbana,light blue eau intense pour homme,eau de parfum,76.0,44.0,42.56,0,0
+paco,hombre,prada,luna rossa ocean edp,eau de parfum,95.0,46.0,51.3,0,0
+paco,hombre,dolce & gabbana,light blue summer vibes pour homme,eau de toilette,90.0,41.0,53.1,0,0
+paco,hombre,yves saint laurent,la nuit de l'homme le parfum,eau de parfum,125.0,48.0,65.0,5,19
+paco,hombre,cerruti,1881 pour homme,eau de toilette,68.6,67.0,22.64,5,2
+paco,hombre,angel schlesser,les eaux d'un instant profound orange wood,eau de toilette,53.0,54.0,24.38,5,2
+paco,hombre,tom ford,ombré leather parfum,parfum,99.0,0.0,99.0,4,2
+paco,hombre,adolfo domínguez,agua de bambú man,eau de toilette,31.5,50.0,15.75,4,7
+paco,hombre,dior,fahrenheit,eau de toilette,67.25,0.0,67.25,5,4
+paco,hombre,loewe,7 loewe icono,eau de toilette,151.0,35.0,98.15,5,3
+paco,hombre,paco rabanne,invictus victory elixir,parfum,95.0,37.0,59.85,0,0
+paco,hombre,viktor & rolf,spicebomb night vision,eau de parfum,92.0,46.0,49.68,5,2
+paco,hombre,hermès,le jardin de monsieur li,eau de toilette,96.0,30.0,67.2,4,2
+paco,hombre,issey miyake,l'eau super majeure d'issey,eau de toilette,95.0,35.0,61.75,4,1
+paco,hombre,loewe,agua de loewe miami,eau de toilette,102.0,35.0,66.3,5,2
+paco,hombre,hermès,concentré d'orange verte,eau de toilette,118.0,38.0,73.16,5,9
+paco,hombre,bvlgari,eau parfumée au thé blanc,eau de cologne,98.0,35.0,63.7,4,26
+paco,hombre,valentino,uomo,eau de toilette,90.0,48.0,46.8,5,2
+paco,hombre,hermès,terre d'hermès edt,eau de toilette,87.0,30.0,60.9,5,3
+paco,hombre,loewe,solo loewe cedro,eau de toilette,96.0,35.0,62.4,5,1
+paco,hombre,dior,dior homme intense,eau de parfum,68.94,0.0,68.94,4,3
+paco,hombre,hugo boss,boss bottled parfum,parfum,96.0,50.0,48.0,4,1
+paco,hombre,azzaro,wanted by night,eau de parfum,79.0,49.0,40.29,4,4
+paco,hombre,givenchy,pi,eau de toilette,107.0,48.0,55.64,4,8
+paco,hombre,dolce & gabbana,intenso pour homme,eau de parfum,88.0,43.0,50.16,4,3
+paco,hombre,versace,blue jeans man,eau de toilette,44.0,62.0,16.72,4,39
+paco,hombre,clinique,happy for men,eau de toilette,39.94,0.0,39.94,4,23
+paco,hombre,calvin klein,ck everyone edp,eau de parfum,64.0,53.0,30.08,4,1
+paco,hombre,loewe,earth,eau de parfum,92.0,35.0,59.8,5,1
+paco,hombre,kenzo,homme,eau de toilette,53.0,40.0,31.8,3,1
+paco,hombre,mandarina duck,man blue edt,eau de toilette,61.86,68.0,19.8,4,17
+paco,hombre,hugo boss,hugo jeans,eau de toilette,80.0,58.0,33.6,0,0
+paco,hombre,kenzo,homme edp,eau de parfum,80.5,44.0,45.08,5,1
+paco,hombre,versace,eros flame,eau de parfum,92.0,40.0,55.2,0,0
+paco,hombre,tom ford,eau de soleil blanc,eau de toilette,84.5,0.0,84.5,0,0
+paco,hombre,yves saint laurent,l'homme edp,eau de parfum,100.0,45.0,55.0,0,0
+paco,hombre,loewe,paula's ibiza,eau de toilette,82.0,35.0,53.3,4,21
+paco,hombre,prada,l'homme,eau de toilette,90.0,47.0,47.7,5,4
+paco,hombre,paco rabanne,phantom,eau de toilette,80.0,35.0,52.0,4,5
+paco,hombre,paco rabanne,invictus victory,eau de parfum,89.0,37.0,56.07,5,2
+paco,hombre,givenchy,gentleman eau de parfum,eau de parfum,91.5,40.0,54.9,0,0
+paco,hombre,loewe,agua de loewe icono,eau de toilette,125.0,35.0,81.25,5,4
+paco,hombre,guy laroche,drakkar noir edt,eau de toilette,39.0,49.0,19.89,0,0
+paco,hombre,loewe,esencia loewe icono,eau de toilette,174.0,35.0,113.1,5,4
+paco,hombre,montblanc,legend edp,eau de parfum,76.0,47.0,40.28,0,0
+paco,hombre,loewe,paula's ibiza eclectic,eau de toilette,82.0,35.0,53.3,4,2
+paco,hombre,moschino,toy boy,eau de parfum,85.0,40.0,51.0,5,3
+paco,hombre,versace,dylan blue,eau de toilette,83.0,43.0,47.31,0,0
+paco,hombre,ralph lauren,polo sport,eau de toilette,69.0,64.0,24.84,4,8
+paco,hombre,calvin klein,escape for men,eau de toilette,83.0,64.0,29.88,4,16
+paco,hombre,loewe,solo loewe icono,eau de toilette,169.0,35.0,109.85,0,0
+paco,hombre,jean paul gaultier,scandal pour homme le parfum,eau de parfum,85.5,36.0,54.72,5,2
+paco,hombre,paco rabanne,1 million royal,eau de parfum,92.5,37.0,58.28,0,0
+paco,hombre,calvin klein,euphoria men,eau de toilette,90.06,57.0,38.73,5,2
+paco,hombre,givenchy,gentleman boisée,eau de parfum,91.5,40.0,54.9,0,0
+paco,hombre,paco rabanne,1 million elixir,parfum,98.5,38.0,61.07,0,0
+paco,hombre,loewe,agua él,eau de toilette,102.0,35.0,66.3,4,15
+paco,hombre,tom ford,noir extreme parfum,parfum,99.0,0.0,99.0,0,0
+paco,hombre,hermès,un jardin en méditerranée,eau de toilette,133.0,47.0,70.49,5,4
+paco,hombre,carolina herrera,ch men pasión,eau de parfum,111.5,53.0,52.4,0,0
+paco,hombre,carolina herrera,"212 vip black i love ny ""edición limitada""",eau de parfum,106.5,53.0,50.06,5,1
+paco,hombre,diesel,d by diesel,eau de toilette,45.0,45.0,24.75,5,1
+paco,hombre,jean paul gaultier,le male le parfum,eau de parfum,87.5,33.0,58.62,4,5
+paco,hombre,montblanc,legend spirit,eau de toilette,105.0,60.0,42.0,4,4
+paco,hombre,loewe,7 loewe anónimo,eau de parfum,95.0,35.0,61.75,0,0
+paco,hombre,versace,man eau fraîche,eau de toilette,76.0,40.0,45.6,0,0
+paco,hombre,bvlgari,pour homme,eau de toilette,117.0,35.0,76.05,0,0
+paco,hombre,hermès,eau de citron noir,eau de cologne,118.0,38.0,73.16,4,6
+paco,hombre,calvin klein,eternity reflections for men,eau de toilette,89.0,61.0,34.71,5,1
+paco,hombre,courrèges,eau de courrèges,eau de toilette,80.0,66.0,27.2,4,36
+paco,hombre,dior,sauvage elixir,parfum,130.94,0.0,130.94,5,3
+paco,hombre,prada,infusion d'iris cèdre,eau de parfum,150.0,43.0,85.5,4,6
+paco,hombre,tom ford,costa azzurra,eau de parfum,84.5,0.0,84.5,0,0
+paco,hombre,gucci,guilty pour homme parfum,parfum,113.0,52.0,54.24,0,0
+paco,hombre,givenchy,gentlemen only,eau de toilette,107.0,50.0,53.5,5,7
+paco,hombre,yves saint laurent,m7,eau de toilette,120.0,50.0,60.0,4,14
+paco,hombre,ralph lauren,ralph's club,eau de parfum,95.0,58.0,39.9,4,1
+paco,hombre,dior,dior homme sport,eau de toilette,71.94,0.0,71.94,0,0
+paco,hombre,issey miyake,l'eau d'issey pour homme eau & cedre,eau de toilette,80.0,35.0,52.0,0,0
+paco,hombre,joop!,homme,eau de toilette,100.3,80.0,20.06,4,34
+paco,hombre,rochas,rochas man intense,eau de parfum,100.0,60.0,40.0,0,0
+paco,hombre,carolina herrera,bad boy le parfum,eau de parfum,87.5,37.0,55.12,5,4
+paco,hombre,tous,man les colognes concentrées,eau de toilette,73.0,55.0,32.85,0,0
+paco,hombre,adolfo domínguez,vetiver terra,eau de parfum,59.5,41.0,35.11,5,1
+paco,hombre,loewe,solo mercurio,eau de parfum,105.0,35.0,68.25,5,2
+paco,hombre,armani,eau de nuit,eau de toilette,150.0,58.0,63.0,4,12
+paco,hombre,thierry mugler,a*men,eau de toilette,92.0,40.0,55.2,5,1
+paco,hombre,dior,dior homme,eau de toilette,62.94,0.0,62.94,0,0
+paco,hombre,adolfo domínguez,ébano salvia,eau de parfum,59.5,41.0,35.11,5,5
+paco,hombre,tom ford,grey vetiver,eau de parfum,84.5,0.0,84.5,0,0
+paco,hombre,givenchy,gentleman intense,eau de toilette,84.5,43.0,48.17,4,3
+paco,hombre,jean paul gaultier,le male pride 2023,eau de toilette,114.5,43.0,65.26,0,0
+paco,hombre,hugo boss,hugo just different,eau de toilette,81.0,46.0,43.74,5,2
+paco,hombre,armand basi,homme edt,eau de toilette,76.0,54.0,34.96,4,25
+paco,hombre,narciso rodríguez,bleu noir for him edp,eau de parfum,81.0,35.0,52.65,4,2
+paco,hombre,ralph lauren,ralph's club parfum,eau de parfum,100.0,54.0,46.0,0,0
+paco,hombre,hugo boss,boss the scent magnetic,eau de parfum,98.0,44.0,54.88,0,0
+paco,hombre,hermès,un jardin sur le toit,eau de toilette,96.0,33.0,64.32,5,1
+paco,hombre,versace,eros parfum,parfum,155.0,43.0,88.35,5,1
+paco,hombre,angel schlesser,les eaux d'un instant vibrant sandalwood,eau de toilette,53.0,54.0,24.38,5,1
+paco,hombre,valentino,born in roma uomo coral fantasy,eau de toilette,87.0,54.0,40.02,0,0
+paco,hombre,hermès,eau de rhubarbe écarlate,eau de cologne,118.0,38.0,73.16,5,1
+paco,hombre,calvin klein,defy for him,eau de toilette,96.0,58.0,40.32,0,0
+paco,hombre,bvlgari,aqua pour homme,eau de toilette,82.0,35.0,53.3,0,0
+paco,hombre,prada,infusion fleur d'oranger,eau de parfum,150.0,47.0,79.5,4,3
+paco,hombre,paco rabanne,phantom parfum,parfum,90.0,35.0,58.5,0,0
+paco,hombre,hermès,eau de basilic pourpre,eau de cologne,87.0,54.0,40.02,0,0
+paco,hombre,loewe,solo loewe cedro icono,eau de toilette,126.0,35.0,81.9,0,0
+paco,hombre,carolina herrera,bad boy cobalt,eau de parfum,84.0,37.0,52.92,0,0
+paco,hombre,zadig & voltaire,this is him!,eau de toilette,58.0,35.0,37.7,0,0
+paco,hombre,calvin klein,man,eau de toilette,90.0,72.0,25.2,4,9
+paco,hombre,montblanc,explorer platinum,eau de parfum,80.0,46.0,43.2,5,1
+paco,hombre,hermès,eau d'orange verte,eau de cologne,87.0,31.0,60.03,0,0
+paco,hombre,hermès,terre d'hermès eau intense vetiver,eau de parfum,98.0,31.0,67.62,0,0
+paco,hombre,comme des garçons,wonderwood,eau de parfum,85.0,10.0,76.5,4,8
+paco,hombre,loewe,esencia loewe elixir,eau de parfum,140.0,35.0,91.0,0,0
+paco,hombre,adolfo domínguez,ámbar negro,eau de parfum,59.5,41.0,35.11,5,1
+paco,hombre,tous,man,eau de toilette,76.0,47.0,40.28,5,3
+paco,hombre,issey miyake,fusion d'issey,eau de toilette,73.0,35.0,47.45,4,6
+paco,hombre,hermès,un jardin sur la lagune,eau de toilette,70.0,33.0,46.9,0,0
+paco,hombre,hugo boss,boss orange man,eau de toilette,87.0,58.0,36.54,0,0
+paco,hombre,zadig & voltaire,this is us!,eau de toilette,60.0,35.0,39.0,0,0
+paco,hombre,adolfo domínguez,verbena jengibre,eau de parfum,54.5,45.0,29.98,0,0
+paco,hombre,clarins,eau dynamisante,eau de toilette,58.0,45.0,31.9,0,0
+paco,hombre,moschino,uomo? edt,eau de toilette,63.2,40.0,37.92,4,23
+paco,hombre,davidoff,adventure,eau de toilette,108.0,68.0,34.56,4,8
+paco,hombre,alyssa ashley,musk edp,eau de parfum,56.65,38.0,35.12,4,6
+paco,hombre,desigual,dark fresh,eau de toilette,12.0,34.0,7.92,0,0
+paco,hombre,ralph lauren,polo blue parfum,parfum,95.0,54.0,43.7,0,0
+paco,hombre,angel schlesser,essential for men,eau de toilette,78.0,49.0,39.78,4,10
+paco,hombre,angel schlesser,les eaux d'un instant instictive marine,eau de toilette,53.0,54.0,24.38,5,1
+paco,hombre,hollister,wave for him,eau de toilette,72.0,65.0,25.2,5,2
+paco,hombre,jean paul gaultier,scandal pour homme,eau de toilette,83.0,34.0,54.78,4,5
+paco,hombre,boucheron,jaïpur homme edp,eau de parfum,109.0,63.0,40.33,4,5
+paco,hombre,el ganso,sunday mood,eau de toilette,50.0,36.0,32.0,0,0
+paco,hombre,sisley,l'eau rêvée d'hubert,eau de toilette,96.0,30.0,67.2,5,1
+paco,hombre,ralph lauren,polo deep blue parfum,eau de parfum,130.0,51.0,63.7,4,7
+paco,hombre,dior,dune pour homme,eau de toilette,91.95,0.0,91.95,5,13
+paco,hombre,givenchy,gentleman eau de toilette,eau de toilette,107.0,48.0,55.64,5,1
+paco,hombre,givenchy,eau de givenchy,eau de toilette,98.0,40.0,58.8,0,0
+paco,hombre,lacoste,l.12.12 blanc edp,eau de parfum,92.7,41.0,54.69,0,0
+paco,hombre,gucci,guilty pour homme edp,eau de parfum,94.0,54.0,43.24,0,0
+paco,hombre,bvlgari,eau parfumée au thé vert,eau de cologne,98.0,35.0,63.7,4,29
+paco,hombre,hermès,voyage d'hermès edt,eau de toilette,134.0,30.0,93.8,5,1
+paco,hombre,prada,l'homme l'eau,eau de toilette,90.0,49.0,45.9,4,1
+paco,hombre,dolce & gabbana,the one for men edp,eau de parfum,116.0,35.0,75.4,0,0
+paco,hombre,prada,luna rossa,eau de toilette,85.0,44.0,47.6,5,1
+paco,hombre,kenzo,homme marine,eau de toilette,74.0,40.0,44.4,0,0
+paco,hombre,loewe,solo atlas,eau de parfum,105.0,35.0,68.25,0,0
+paco,hombre,ralph lauren,polo red parfum,parfum,105.0,39.0,64.05,0,0
+paco,hombre,tom ford,noir,eau de parfum,84.5,0.0,84.5,5,1
+paco,hombre,tous,man sport,eau de toilette,76.0,47.0,40.28,5,6
+paco,hombre,dunhill,desire blue ,eau de toilette,85.0,53.0,39.95,0,0
+paco,hombre,pepe jeans,celebrate for him,eau de parfum,91.0,67.0,30.03,5,1
+paco,hombre,zadig & voltaire,this is him! vibes of freedom,eau de toilette,71.0,35.0,46.15,0,0
+paco,hombre,bvlgari,man rain essence,eau de parfum,100.0,35.0,65.0,0,0
+paco,hombre,el ganso,bravo monsieur,eau de toilette,50.0,80.0,10.0,5,2
+paco,hombre,azzaro,wanted,eau de toilette,64.2,41.0,37.88,5,1
+paco,hombre,ralph lauren,polo red edp,eau de parfum,85.0,51.0,41.65,5,1
+paco,hombre,bvlgari,blv pour homme,eau de toilette,111.0,35.0,72.15,4,9
+paco,hombre,guerlain,vetiver,eau de toilette,121.4,42.0,70.41,5,2
+paco,hombre,alyssa ashley,oud pour lui edp,eau de parfum,61.55,53.0,28.93,5,3
+paco,hombre,paco rabanne,invictus platinum,eau de parfum,87.0,37.0,54.81,0,0
+paco,hombre,burberry,mr. burberry edt,eau de toilette,132.0,62.0,50.16,0,0
+paco,hombre,carolina herrera,"bad boy dazzling garden ""edición limitada""",eau de toilette,116.0,36.0,74.24,0,0
+paco,hombre,sisley,l'eau rêvée d'eliya,eau de toilette,96.0,30.0,67.2,0,0
+paco,hombre,moschino,toy 2,eau de parfum,57.0,40.0,34.2,4,4
+paco,hombre,sisley,l'eau rêvée d'alma,eau de toilette,96.0,30.0,67.2,0,0
+paco,hombre,valentino,born in roma yellow dream uomo,eau de toilette,87.0,54.0,40.02,5,2
+paco,hombre,comme des garçons,2 man,eau de toilette,80.0,16.0,67.2,5,3
+paco,hombre,hermès,h24,eau de toilette,87.0,30.0,60.9,0,0
+paco,hombre,montblanc,explorer ultra blue,eau de parfum,80.0,46.0,43.2,4,3
+paco,hombre,tom ford,beau de jour,eau de parfum,84.5,0.0,84.5,5,2
+paco,hombre,jean paul gaultier,classique pride 2023,eau de toilette,102.0,41.0,60.18,0,0
+paco,hombre,angel schlesser,les eaux d'un instant mediterranean cypress,eau de toilette,53.0,54.0,24.38,0,0
+paco,hombre,bvlgari,man wood essence,eau de parfum,100.0,35.0,65.0,5,3
+paco,hombre,nike,gold edition man edt,eau de toilette,2.9,0.0,2.9,0,0
+paco,hombre,tommy hilfiger,tommy,eau de toilette,72.0,40.0,43.2,4,12
+paco,hombre,dior,eau sauvage extrême,eau de toilette,101.95,0.0,101.95,5,4
+paco,hombre,sisley,eau de campagne,eau de toilette,95.0,30.0,66.5,0,0
+paco,hombre,prada,infusion rose,eau de parfum,150.0,47.0,79.5,5,3
+paco,hombre,dolce & gabbana,the one for men edp intense,eau de parfum,92.0,51.0,45.08,0,0
+paco,hombre,guerlain,l'homme ideal,eau de toilette,121.4,46.0,65.56,5,4
+paco,hombre,hermès,voyage d'hermès,eau de parfum,149.0,34.0,98.34,4,6
+paco,hombre,ralph lauren,polo black,eau de toilette,155.0,48.0,80.6,4,4
+paco,hombre,armani,stronger with you intensely,eau de parfum,75.0,47.0,39.75,4,2
+paco,hombre,gucci,guilty pour homme,eau de toilette,83.0,54.0,38.18,5,1
+paco,hombre,tom ford,neroli portofino acqua,eau de toilette,118.8,0.0,118.8,0,0
+paco,hombre,loewe,001 man edt,eau de toilette,126.0,35.0,81.9,5,1
+paco,hombre,kenzo,l'eau kenzo pour homme,eau de toilette,85.0,41.0,50.15,5,4
+paco,hombre,tous,1920 the origin edt,eau de toilette,76.5,59.0,31.36,5,1
+paco,hombre,issey miyake,l'eau d'issey pour homme fraîche,eau de toilette,85.5,35.0,55.58,4,7
+paco,hombre,calvin klein,ck one gold,eau de toilette,56.5,56.0,24.86,4,10
+paco,hombre,zadig & voltaire,this is him! undressed,eau de toilette,71.0,35.0,46.15,0,0
+paco,hombre,rochas,l'homme rochas,eau de toilette,52.0,62.0,19.76,5,1
+paco,hombre,angel schlesser,les eaux d'un instant vibrant woody mandarin,eau de toilette,53.0,54.0,24.38,0,0
+paco,hombre,boucheron,pour homme edt,eau de toilette,121.0,74.0,31.46,0,0
+paco,hombre,tommy hilfiger,impact,eau de toilette,63.0,45.0,34.65,5,1
+paco,hombre,dior,dior homme cologne,eau de cologne,70.98,0.0,70.98,4,7
+paco,hombre,hermès,eau de pamplemousse rose,eau de cologne,118.0,31.0,81.42,0,0
+paco,hombre,sisley,l'eau rêvée d'aria,eau de toilette,96.0,30.0,67.2,0,0
+paco,hombre,sisley,l'eau rêvée d'isa,eau de toilette,96.0,30.0,67.2,0,0
+paco,hombre,dior,eau sauvage parfum,parfum,101.95,0.0,101.95,5,2
+paco,hombre,pepe jeans,for him,eau de toilette,91.65,67.0,30.24,5,1
+paco,hombre,comme des garçons,backpepper,eau de parfum,85.0,10.0,76.5,5,5
+paco,hombre,prada,infusion d'amande,eau de parfum,150.0,49.0,76.5,0,0
+paco,hombre,dior,higher,eau de toilette,92.25,0.0,92.25,5,3
+paco,hombre,calvin klein,eternity intense for men,eau de parfum,84.0,54.0,38.64,0,0
+paco,hombre,guerlain,l'homme ideal l'intense,eau de parfum,136.45,49.0,69.59,4,5
+paco,hombre,boucheron,boucheron singulier,eau de parfum,98.0,54.0,45.08,0,0
+paco,hombre,prada,l'homme intense,eau de parfum,130.0,46.0,70.2,4,12
+paco,hombre,kenzo,memori collection rêve lotus,eau de parfum,96.0,0.0,96.0,0,0
+paco,hombre,comme des garçons,2,eau de parfum,85.0,10.0,76.5,4,8
+paco,hombre,viktor & rolf,spicebomb infrared,eau de toilette,80.0,43.0,45.6,5,1
+paco,hombre,guerlain,habit rouge,eau de toilette,121.4,43.0,69.2,4,1
+paco,hombre,lolita lempicka,lempicka homme,eau de toilette,62.0,52.0,29.76,5,1
+paco,hombre,el ganso,after game,eau de toilette,50.0,48.0,26.0,4,3
+paco,hombre,van cleef & arpels,ambre impérial collection extraordinaire,eau de parfum,164.0,0.0,164.0,5,1
+paco,hombre,guerlain,l'instant pour homme edp,eau de parfum,136.45,35.0,88.69,0,0
+paco,hombre,hugo boss,hugo reflective edition,eau de toilette,80.0,50.0,40.0,5,1
+paco,hombre,guerlain,l'instant pour homme,eau de toilette,121.4,42.0,70.41,4,2
+paco,hombre,alyssa ashley,green tea edt,eau de toilette,21.95,59.0,9.0,5,1
+paco,hombre,guerlain,guerlain homme edp,eau de parfum,136.45,35.0,88.69,0,0
+paco,hombre,el ganso,limoncello season,eau de toilette,50.0,40.0,30.0,4,2
+paco,hombre,hugo boss,boss the scent pure accord,eau de toilette,113.0,50.0,56.5,5,1
+paco,hombre,karl lagerfeld,"new york, mercer street",eau de toilette,100.0,70.0,30.0,0,0
+paco,hombre,loewe,pour homme icono,eau de toilette,155.0,35.0,100.75,5,3
+paco,hombre,hermès,terre d'hermès,eau de parfum,124.5,17.0,103.34,0,0
+paco,hombre,carolina herrera,212 heroes,eau de toilette,78.0,32.0,53.04,0,0
+paco,hombre,carolina herrera,bad boy extreme,eau de parfum,87.5,37.0,55.12,0,0
+paco,hombre,montblanc,legend red,eau de parfum,76.0,47.0,40.28,0,0
+paco,hombre,halloween,halloween man mystery,eau de parfum,79.5,53.0,37.36,0,0
+paco,hombre,jimmy boyd,wild roses eau de toilette,eau de toilette,62.0,15.0,52.7,0,0
+paco,hombre,guerlain,aqua allegoria forte rosa palissandro,eau de parfum,121.4,42.0,70.41,0,0
+paco,hombre,guerlain,aqua allegoria forte bosca vanilla,eau de parfum,121.4,42.0,70.41,0,0
+paco,hombre,guerlain,aqua allegoria forte oud yuzu,eau de parfum,121.4,42.0,70.41,0,0
+paco,hombre,loewe,001 man,eau de parfum,89.0,35.0,57.85,5,3
+paco,hombre,hermès,terre d'hermès eau givrée,eau de parfum,98.0,31.0,67.62,5,1
+paco,hombre,boucheron,quatre intense pour homme,eau de toilette,75.0,45.0,41.25,0,0
+paco,hombre,dolce & gabbana,the one grey,eau de toilette,103.0,42.0,59.74,5,2
+paco,hombre,sisley,l'eau rêvée d'ikar,eau de toilette,96.0,30.0,67.2,0,0
+paco,hombre,aramis,aramis edt,eau de toilette,97.0,49.0,49.47,4,5
+paco,hombre,guerlain,aqua allegoria granada salvia,eau de toilette,105.35,43.0,60.05,5,1
+paco,hombre,issey miyake,l'eau d'issey pour homme intense,eau de toilette,88.0,35.0,57.2,5,2
+paco,hombre,comme des garçons,wonderoud,eau de parfum,115.0,10.0,103.5,4,2
+paco,hombre,dior,eau sauvage cologne,eau de cologne,84.94,0.0,84.94,4,5
+paco,hombre,hermès,l'ombre des merveilles,eau de parfum,67.0,30.0,46.9,0,0
+paco,hombre,prada,infusion de figue,eau de parfum,150.0,43.0,85.5,0,0
+paco,hombre,comme des garçons,floriental,eau de parfum,85.0,10.0,76.5,1,1
+paco,hombre,hollister,canyon escape him,eau de toilette,55.0,58.0,23.1,0,0
+paco,hombre,comme des garçons,concrete,eau de parfum,144.0,3.0,139.68,4,3
+paco,hombre,kenzo,memori collection ciel magnolia,eau de parfum,96.0,0.0,96.0,0,0
+paco,hombre,jimmy boyd,ibiza ,eau de toilette,62.0,15.0,52.7,0,0
+paco,hombre,comme des garçons,zero,eau de parfum,144.0,13.0,125.28,5,1
+paco,hombre,davidoff,cool water reborn,eau de toilette,114.0,65.0,39.9,0,0
+paco,hombre,dior,higher energy,eau de toilette,92.25,0.0,92.25,4,6
+paco,hombre,scalpers,scalpers the club,eau de parfum,59.0,51.0,28.91,5,1
+paco,hombre,halloween,halloween man,eau de toilette,73.0,59.0,29.93,5,5
+paco,hombre,hugo boss,boss bottled united,eau de toilette,85.0,53.0,39.95,5,1
+paco,hombre,guerlain,les absolus d'orient santal royal,eau de parfum,190.65,35.0,123.92,4,2
+paco,hombre,guerlain,l'homme ideal edp,eau de parfum,136.45,49.0,69.59,4,4
+paco,hombre,roberto verino,rv pure man intense,eau de parfum,56.0,55.0,25.2,4,6
+paco,hombre,aramis,tuscany per uomo,eau de toilette,79.5,37.0,50.08,4,10
+paco,hombre,prada,luna rossa ocean estuche,eau de toilette,99.5,30.0,69.65,5,1
+paco,hombre,guerlain,héritage,eau de toilette,120.4,35.0,78.26,0,0
+paco,hombre,guerlain,habit rouge edp,eau de parfum,136.45,35.0,88.69,0,0
+paco,hombre,guerlain,les absolus d'orient oud essentiel,eau de parfum,190.65,35.0,123.92,5,1
+paco,hombre,tous,man chill,eau de toilette,76.0,47.0,40.28,0,0
+paco,hombre,guerlain,les absolus d'orient epices exquises,eau de parfum,190.65,35.0,123.92,0,0
+paco,hombre,coach,coach for men,eau de toilette,96.0,58.0,40.32,4,1
+paco,hombre,montale paris,sensual instinct,eau de parfum,129.95,0.0,129.95,0,0
+paco,hombre,issey miyake,igo l'eau d'issey pour homme,eau de toilette,107.0,35.0,69.55,3,1
+paco,hombre,issey miyake,l'eau d'issey pour homme vetiver,eau de toilette,80.0,35.0,52.0,0,0
+paco,hombre,jimmy boyd,whisky fragrance,eau de toilette,62.0,15.0,52.7,0,0
+paco,hombre,hermès,un jardin à cythère,eau de toilette,70.0,33.0,46.9,0,0
+paco,hombre,burberry,weekend for men,eau de toilette,77.5,48.0,40.3,5,1
+paco,hombre,hermès,h24 edp,eau de parfum,98.0,30.0,68.6,0,0
+paco,hombre,lacoste,l'homme lacoste,eau de toilette,92.9,46.0,50.17,5,1
+paco,hombre,guerlain,aqua allegoria orange soleia,eau de toilette,105.35,43.0,60.05,0,0
+paco,hombre,guerlain,l'homme ideal extrême,eau de parfum,136.45,45.0,75.05,4,2
+paco,hombre,versace,l'homme,eau de toilette,70.4,40.0,42.24,5,6
+paco,hombre,ralph lauren,polo,eau de toilette,174.9,46.0,94.45,4,3
+paco,hombre,tom ford,black orchid edt,eau de toilette,44.1,0.0,44.1,0,0
+paco,hombre,lacoste,l'homme lacoste intense,eau de toilette,66.0,47.0,34.98,5,1
+paco,hombre,comme des garçons,amazingreen,eau de parfum,85.0,10.0,76.5,2,2
+paco,hombre,narciso rodríguez,bleu noir for him edt,eau de toilette,72.0,35.0,46.8,3,3
+paco,hombre,narciso rodríguez,for him bleu noir parfum,parfum,93.0,35.0,60.45,5,1
+paco,hombre,alyssa ashley,marijane edp,eau de parfum,35.0,43.0,19.95,0,0
+paco,hombre,tom ford,grey vetiver parfum,parfum,105.0,0.0,105.0,0,0
+paco,hombre,comme des garçons,rouge,eau de parfum,144.0,13.0,125.28,4,1
+paco,hombre,guerlain,mitsouko edp,eau de parfum,146.5,35.0,95.22,4,1
+paco,hombre,kenzo,memori collection poudre matcha,eau de parfum,96.0,0.0,96.0,0,0
+paco,hombre,tommy hilfiger,impact spark,eau de toilette,83.0,52.0,39.84,0,0
+paco,hombre,montale paris,white musk,eau de parfum,99.95,0.0,99.95,0,0
+paco,hombre,montale paris,arabians,eau de parfum,134.95,0.0,134.95,0,0
+paco,hombre,montale paris,oud tobacco,eau de parfum,119.95,0.0,119.95,0,0
+paco,hombre,montale paris,red vetiver,eau de parfum,119.95,0.0,119.95,0,0
+paco,hombre,montale paris,wood on fire,eau de parfum,119.95,0.0,119.95,0,0
+paco,hombre,montale paris,oudmazing,eau de parfum,134.95,0.0,134.95,0,0
+paco,hombre,montale paris,soleil de capri,eau de parfum,99.95,0.0,99.95,0,0
+paco,hombre,montale paris,aqua palma,eau de parfum,134.95,0.0,134.95,0,0
+paco,hombre,montale paris,fantastic oud,eau de parfum,134.95,0.0,134.95,0,0
+paco,hombre,montale paris,pretty fruity,eau de parfum,119.95,0.0,119.95,0,0
+paco,hombre,montale paris,sweet vanilla,eau de parfum,134.95,0.0,134.95,0,0
+paco,hombre,montale paris,aoud night,eau de parfum,129.95,0.0,129.95,0,0
+paco,hombre,montale paris,dark aoud,eau de parfum,119.95,0.0,119.95,0,0
+paco,hombre,montale paris,oud dream,eau de parfum,134.95,0.0,134.95,0,0
+paco,hombre,montale paris,intense black aoud,eau de parfum,154.95,0.0,154.95,0,0
+paco,hombre,montale paris,mukhallat,eau de parfum,129.95,0.0,129.95,0,0
+paco,hombre,montale paris,fantastic basilic,eau de parfum,99.95,0.0,99.95,0,0
+paco,hombre,montale paris,blue matcha,eau de parfum,129.95,0.0,129.95,0,0
+paco,hombre,montale paris,oud pashmina,eau de parfum,129.95,0.0,129.95,0,0
+paco,hombre,montale paris,so amber,eau de parfum,129.95,0.0,129.95,0,0
+paco,hombre,montale paris,white aoud,eau de parfum,119.95,0.0,119.95,0,0
+paco,hombre,montale paris,amber musk,eau de parfum,129.95,0.0,129.95,0,0
+paco,hombre,montale paris,wild aoud,eau de parfum,119.95,0.0,119.95,0,0
+paco,hombre,montale paris,intense café,eau de parfum,119.95,0.0,119.95,0,0
+paco,hombre,el ganso,part time hero,eau de toilette,50.0,48.0,26.0,0,0
+paco,hombre,guerlain,mitsouko,eau de toilette,126.45,38.0,78.4,0,0
+paco,hombre,philippe starck,peau de nuit infinite,eau de parfum,99.0,19.0,80.19,0,0
+paco,hombre,montale paris,pure love,eau de parfum,114.95,0.0,114.95,0,0
+paco,hombre,comme des garçons,copper,eau de parfum,144.0,13.0,125.28,5,1
+paco,hombre,montale paris,chocolate greedy,eau de parfum,99.95,0.0,99.95,0,0
+paco,hombre,montale paris,black aoud,eau de parfum,119.95,0.0,119.95,0,0
+paco,hombre,kenzo,memori collection coeur azuki,eau de parfum,96.0,0.0,96.0,0,0
+paco,hombre,jimmy choo,man aqua,eau de toilette,55.0,46.0,29.7,0,0
+paco,hombre,police,to be bad guy edt,eau de toilette,35.0,54.0,16.1,0,0
+paco,hombre,kenzo,memori collection soleil thé,eau de parfum,96.0,0.0,96.0,0,0
+paco,hombre,montale paris,ristretto intense café,eau de parfum,154.95,0.0,154.95,0,0
+paco,hombre,bultaco,lobito rebel code,eau de toilette,65.0,39.0,39.65,0,0
+paco,hombre,montale paris,vetiver patchouli,eau de parfum,129.95,0.0,129.95,0,0
+paco,hombre,kenzo,memori collection nuit tatami,eau de parfum,96.0,0.0,96.0,0,0
+paco,hombre,montale paris,starry nights,eau de parfum,129.95,0.0,129.95,0,0
+paco,hombre,kenzo,memori collection cèdre secret,eau de parfum,96.0,0.0,96.0,0,0
+paco,hombre,montale paris,black musk,eau de parfum,99.95,0.0,99.95,0,0
+paco,hombre,montale paris,oud edition,eau de parfum,119.95,0.0,119.95,0,0
+paco,hombre,montale paris,aoud forest,eau de parfum,119.95,0.0,119.95,0,0
+paco,hombre,philippe starck,peau d'ailleurs,eau de toilette,56.0,0.0,56.0,0,0
+paco,hombre,bvlgari,man terrae essence,eau de parfum,135.0,35.0,87.75,4,1
+paco,hombre,montale paris,dark vanilla,eau de parfum,129.95,0.0,129.95,0,0
+paco,hombre,montale paris,intense tiaré,eau de parfum,99.95,0.0,99.95,0,0
+paco,hombre,police,to be good vibes man,eau de toilette,48.0,58.0,20.16,0,0
+paco,hombre,montale paris,herbal aquatica,eau de parfum,129.95,0.0,129.95,0,0
+paco,hombre,thierry mugler,mugler cologne,eau de toilette,96.0,48.0,49.92,4,82
+paco,hombre,rochas,moustache edp,eau de parfum,64.0,69.0,19.84,4,7
+paco,hombre,paco rabanne,pure xs night,eau de parfum,74.5,40.0,44.7,4,2
+paco,hombre,paco rabanne,1 million lucky,eau de toilette,69.5,43.0,39.62,4,6
+paco,hombre,hugo boss,boss bottled intense edp,eau de parfum,98.0,49.0,49.98,4,26
+paco,hombre,yves saint laurent,opium pour homme edt,eau de toilette,115.0,51.0,56.35,4,7
+paco,hombre,dior,dior homme parfum,eau de parfum,115.95,0.0,115.95,4,12
+paco,hombre,carolina herrera,ch men privé,eau de toilette,70.5,43.0,40.18,4,4
+paco,hombre,hugo boss,boss bottled night,eau de toilette,69.0,48.0,35.88,4,2
+paco,hombre,armani,code edp,eau de parfum,120.0,53.0,56.4,0,0
+paco,hombre,gianfranco ferré,gieffeffe,eau de toilette,43.0,54.0,19.78,4,15
+paco,hombre,hugo boss,boss bottled tonic,eau de toilette,85.0,57.0,36.55,5,1
+paco,hombre,lacoste,eau de lacoste l.12.12 blanc,eau de toilette,93.4,57.0,40.16,5,7
+paco,hombre,davidoff,cool water intense,eau de parfum,120.0,75.0,30.0,4,17
+paco,hombre,jean paul gaultier,le male pride,eau de toilette,93.5,27.0,68.26,5,1
+paco,hombre,hugo boss,boss bottled infinite,eau de parfum,89.0,55.0,40.05,4,1
+paco,hombre,hugo boss,dark blue,eau de toilette,76.0,67.0,25.08,4,54
+paco,hombre,paco rabanne,1 million elixir estuche,parfum,126.5,30.0,88.55,5,1
+paco,hombre,yves saint laurent,body kouros,eau de toilette,115.0,48.0,59.8,5,6
+paco,hombre,paco rabanne,invictus intense,eau de toilette,73.5,46.0,39.69,4,4
+paco,hombre,jean paul gaultier,le male pride 2022,eau de toilette,102.5,34.0,67.65,0,0
+paco,hombre,halloween,halloween man x,eau de toilette,73.0,51.0,35.77,5,1
+paco,hombre,burberry,for men,eau de toilette,93.0,68.0,29.76,5,2
+paco,hombre,dkny,dkny men,eau de toilette,69.0,42.0,40.02,4,8
+paco,hombre,van cleef & arpels,midnight in paris,eau de toilette,72.0,45.0,39.6,4,13
+paco,hombre,loewe,solo loewe esencial,eau de toilette,89.0,35.0,57.85,0,0
+paco,hombre,lacoste,pour homme,eau de toilette,75.0,60.0,30.0,4,31
+paco,hombre,paco rabanne,xs,eau de toilette,67.5,41.0,39.83,4,2
+paco,hombre,hugo boss,boss the scent le parfum,parfum,102.0,56.0,44.88,0,0
+paco,hombre,rochas,moustache edt,eau de toilette,64.0,69.0,19.84,5,1
+paco,hombre,scalpers,scalpers boxing club,eau de parfum,79.0,49.0,40.29,5,1
+paco,hombre,paco rabanne,invictus aqua,eau de toilette,87.0,37.0,54.81,4,4
+paco,hombre,hugo boss,boss the scent absolute,eau de parfum,98.0,49.0,49.98,5,1
+paco,hombre,davidoff,"cool water caribbean ""summer edition""",eau de toilette,49.0,63.0,18.13,4,17
+paco,hombre,gucci,mémoire d'une odeur,eau de parfum,113.0,56.0,49.72,5,3
+paco,hombre,issey miyake,l'eau d'issey pour homme wood & wood,eau de parfum,104.0,35.0,67.6,4,9
+paco,hombre,davidoff,cool water parfum,parfum,125.0,64.0,45.0,5,3
+paco,hombre,biotherm homme,aquafitness,eau de toilette,52.0,0.0,52.0,4,14
+paco,hombre,givenchy,xeryus rouge,eau de toilette,90.6,40.0,54.36,4,6
+paco,hombre,abercrombie & fitch,first instinct,eau de toilette,100.0,60.0,40.0,4,5
+paco,hombre,hugo boss,hugo red,eau de toilette,66.5,32.0,45.22,4,22
+paco,hombre,dunhill,desire silver,eau de toilette,42.0,64.0,15.12,0,0
+paco,hombre,bvlgari,aqua marine pour homme,eau de toilette,99.0,35.0,64.35,0,0
+paco,hombre,tom ford,neroli portofino,eau de parfum,158.4,0.0,158.4,0,0
+paco,hombre,zadig & voltaire,just rock! for him,eau de toilette,71.0,35.0,46.15,5,1
+paco,hombre,hugo boss,boss the scent intense,eau de parfum,83.0,40.0,49.8,5,1
+paco,hombre,hermès,un jardin après la mousson,eau de toilette,133.0,35.0,86.45,4,6
+paco,hombre,yves saint laurent,jazz,eau de toilette,120.0,42.0,69.6,5,6
+paco,hombre,hermès,terre d'hermès eau tres fraîche,eau de cologne,80.0,30.0,56.0,5,5
+paco,hombre,lacoste,lacoste challenge,eau de toilette,73.0,48.0,37.96,4,15
+paco,hombre,montale paris,arabians tonka,eau de parfum,134.95,0.0,134.95,0,0
+paco,hombre,guerlain,héritage edp,eau de parfum,136.45,35.0,88.69,0,0
+paco,hombre,tous,1920 the origin,eau de parfum,79.5,57.0,34.18,4,7
+paco,hombre,thierry mugler,alien man,eau de toilette,65.5,33.0,43.88,0,0
+paco,hombre,el ganso,friday edition,eau de toilette,50.0,44.0,28.0,0,0
+paco,hombre,jean paul gaultier,le male on board,eau de toilette,93.5,38.0,57.97,0,0
+paco,hombre,burberry,mr. burberry,eau de parfum,105.0,38.0,65.1,0,0
+paco,hombre,carolina herrera,"ch men under the sea ""edición limitada""",eau de parfum,111.0,46.0,59.94,5,1
+paco,hombre,calvin klein,obsessed for men,eau de toilette,81.9,60.0,32.76,4,10
+paco,hombre,montblanc,legend night,eau de parfum,90.0,44.0,50.4,5,1
+paco,hombre,hugo boss,boss bottled unlimited,eau de toilette,111.0,60.0,44.4,4,4
+paco,hombre,hugo boss,hugo iced,eau de toilette,81.0,43.0,46.17,4,6
+paco,hombre,hugo boss,boss bottled absolute,eau de parfum,72.45,43.0,41.3,0,0
+paco,hombre,davidoff,cool water grapefruit & sage,eau de toilette,81.45,63.0,30.14,5,1
+paco,hombre,hugo boss,hugo xy,eau de toilette,79.0,49.0,40.29,5,4
+paco,hombre,alyssa ashley,musk edt,eau de toilette,45.95,48.0,23.89,5,3
+paco,hombre,bvlgari,man glacial essence,eau de parfum,135.0,35.0,87.75,5,1
+paco,hombre,versace,dreamer,eau de toilette,82.04,45.0,45.12,4,17
+paco,hombre,davidoff,"cool water street fighter ""champion edition""",eau de toilette,81.45,57.0,35.02,5,2
+paco,hombre,hugo boss,boss bottled united edp,eau de parfum,93.0,57.0,39.99,0,0
+paco,hombre,carven,vétiver,eau de toilette,79.5,62.0,30.21,0,0
+paco,hombre,hugo boss,boss the scent private accord,eau de toilette,75.0,40.0,45.0,5,2
+paco,hombre,loewe,001 eau de cologne,eau de cologne,97.9,35.0,63.64,5,3
+paco,hombre,van cleef & arpels,in new york,eau de toilette,67.0,25.0,50.25,0,0
+paco,hombre,angel schlesser,homme,eau de toilette,76.0,67.0,25.08,4,7
+paco,hombre,prada,luna rossa sport,eau de toilette,115.0,40.0,69.0,5,2
+paco,hombre,burberry,brit rhythm for him,eau de toilette,79.5,37.0,50.08,5,1
+paco,hombre,gucci,made to measure,eau de toilette,100.0,40.0,60.0,4,7
+paco,hombre,lacoste,booster edt,eau de toilette,73.0,32.0,49.64,4,5
+paco,hombre,issey miyake,nuit d'issey edp,eau de parfum,121.0,35.0,78.65,4,11
+paco,hombre,montblanc,emblem,eau de toilette,90.0,50.0,45.0,4,4
+paco,hombre,calvin klein,eternity summer daze for men,eau de toilette,70.95,58.0,29.8,4,3
+paco,hombre,dolce & gabbana,the one gold for men,eau de parfum,124.0,44.0,69.44,5,1
+paco,hombre,jimmy choo,man,eau de toilette,101.0,60.0,40.4,5,1
+paco,hombre,bvlgari,man wood neroli,eau de parfum,111.0,35.0,72.15,0,0
+paco,hombre,calvin klein,eternity now for men,eau de toilette,82.68,60.0,33.07,4,11
+paco,hombre,calvin klein,eternity cologne for men,eau de toilette,73.0,66.0,24.82,0,0
+paco,hombre,calvin klein,eternity flame for men,eau de toilette,83.1,59.0,34.07,4,8
+paco,hombre,zadig & voltaire,this is love! for him,eau de toilette,71.0,35.0,46.15,0,0
+paco,hombre,issey miyake,fusion d'issey extrême,eau de toilette,106.0,35.0,68.9,4,3
+paco,hombre,carolina herrera,"212 vip black smiley ""edición limitada""",eau de parfum,96.0,30.0,67.2,0,0
+paco,hombre,hugo boss,hugo urban journey,eau de toilette,59.0,36.0,37.76,5,3
+paco,hombre,lacoste,eau de lacoste l.12.12 pour lui magnetic,eau de toilette,86.4,58.0,36.29,5,2
+paco,hombre,bultaco,lobito original,eau de toilette,65.0,39.0,39.65,0,0
+paco,hombre,calvin klein,ck free,eau de toilette,81.0,63.0,29.97,4,12
+paco,hombre,carolina herrera,"bad boy gold fantasy ""edición limitada""",eau de toilette,109.0,40.0,65.4,0,0
+paco,hombre,guerlain,les absolus d'orient bois mystérieux,eau de parfum,171.7,35.0,111.6,0,0
+paco,hombre,hugo boss,boss bottled marine,eau de toilette,85.0,53.0,39.95,0,0
+paco,hombre,hugo boss,hugo reversed,eau de toilette,68.0,49.0,34.68,4,1
+paco,hombre,lacoste,eau de lacoste l.12.12 rouge,eau de toilette,80.0,48.0,41.6,3,2
+paco,hombre,carolina herrera,chic for men,eau de toilette,79.5,27.0,58.04,4,22
+paco,hombre,lacoste,eau de lacoste l.12.12 noir,eau de toilette,80.0,50.0,40.0,4,3
+paco,hombre,hermès,equipage,eau de toilette,114.5,30.0,80.15,5,6
+paco,hombre,dkny,dkny men ii,eau de toilette,77.0,35.0,50.05,5,5
+paco,hombre,police,to be exotic jungle for man edt,eau de toilette,35.0,57.0,15.05,0,0
+paco,hombre,coach,coach platinum,eau de parfum,95.0,68.0,30.4,0,0
+paco,hombre,hermès,bel ami,eau de toilette,114.5,30.0,80.15,5,1
+paco,hombre,hugo boss,hugo now,eau de toilette,62.0,36.0,39.68,4,3
+paco,hombre,halloween,halloween man hero,eau de toilette,73.0,52.0,35.04,5,1
+paco,hombre,zadig & voltaire,"this is him! ""capsule no rules""",eau de toilette,78.0,35.0,50.7,4,2
+paco,hombre,geoffrey beene,grey flannel edt,eau de toilette,45.0,56.0,19.8,5,1
+paco,hombre,moschino,forever,eau de toilette,74.4,40.0,44.64,0,0
+paco,hombre,narciso rodríguez,for him bleu noir extreme,eau de toilette,67.0,35.0,43.55,4,1
+paco,hombre,philippe starck,peau de pierre,eau de toilette,95.0,0.0,95.0,0,0
+paco,hombre,issey miyake,nuit d'issey,eau de toilette,107.0,35.0,69.55,4,4
+paco,hombre,issey miyake,l'eau majeure d'issey,eau de toilette,86.0,35.0,55.9,5,3
+paco,hombre,montblanc,emblem intense,eau de toilette,96.0,50.0,48.0,3,1
+paco,hombre,sisley,eau d'ikar,eau de toilette,83.0,30.0,58.1,0,0
+paco,hombre,hermès,bel ami vetiver,eau de toilette,114.5,30.0,80.15,5,2
+paco,hombre,boucheron,quatre pour homme,eau de toilette,99.0,58.0,41.58,4,3
+paco,hombre,lacoste,eau de lacoste l. 12.12 eau fraiche pour lui,eau de toilette,82.1,51.0,40.23,0,0
+paco,hombre,lacoste,l.12.12 french panache pour lui,eau de toilette,86.4,54.0,39.74,5,1
+paco,hombre,burberry,brit for him edt,eau de toilette,81.5,51.0,39.94,5,1
+paco,hombre,davidoff,horizon,eau de toilette,83.0,36.0,53.12,0,0
+paco,hombre,hermès,eau de narcisse bleu,eau de cologne,137.0,31.0,94.53,5,2
+paco,hombre,hermès,eau de mandarine ambrée,eau de cologne,111.0,30.0,77.7,0,0
+paco,hombre,lacoste,match point,eau de toilette,69.2,52.0,33.22,0,0
+paco,hombre,mandarina duck,for him,eau de toilette,28.0,29.0,19.88,0,0
+paco,hombre,jean paul gaultier,classique pride 2022,eau de toilette,92.5,35.0,60.12,5,1
+paco,hombre,hermès,eau d'hermès,eau de toilette,108.0,31.0,74.52,0,0
+paco,hombre,burberry,mr. burberry edt indigo,eau de toilette,95.0,47.0,50.35,5,1
+paco,hombre,trussardi,uomo,eau de toilette,77.0,42.0,44.66,0,0
+paco,hombre,hermès,rocabar,eau de toilette,114.5,30.0,80.15,0,0
+paco,hombre,carolina herrera,"bad boy superstars ""edición limitada""",eau de toilette,102.0,24.0,77.52,0,0
+paco,hombre,carven,l'eau intense,eau de toilette,72.5,59.0,29.72,0,0
+paco,hombre,karl lagerfeld,bois de vétiver,eau de toilette,100.0,70.0,30.0,1,1
+paco,hombre,perris monte carlo,patchouli nosy be extrait,parfum,275.0,0.0,275.0,0,0
+paco,hombre,burberry,touch for men,eau de toilette,77.5,48.0,40.3,5,3
+paco,hombre,davidoff,champion,eau de toilette,108.0,72.0,30.24,4,10
+paco,hombre,lacoste,eau de lacoste l.12.12 jaune,eau de toilette,80.0,50.0,40.0,0,0
+paco,hombre,perris monte carlo,bois d'oud,eau de parfum,145.0,0.0,145.0,5,2
+paco,hombre,montale paris,wild pears,eau de parfum,99.95,0.0,99.95,0,0
+paco,hombre,trussardi,uomo the red,eau de toilette,95.8,48.0,49.82,0,0
+paco,hombre,perris monte carlo,essence de patchouli,eau de parfum,145.0,0.0,145.0,5,1
+paco,hombre,issey miyake,fusion d'issey igo,eau de toilette,101.5,35.0,65.98,0,0
+paco,hombre,jacques bogart,silver scent,eau de toilette,35.5,44.0,19.88,0,0
+paco,hombre,hermès,equipage geranium,eau de toilette,114.5,30.0,80.15,5,1
+paco,hombre,jimmy choo,man blue,eau de toilette,101.0,51.0,49.49,0,0
+paco,hombre,hermès,eau de néroli doré,eau de cologne,111.0,30.0,77.7,0,0
+paco,hombre,pierre balmain,balmain homme,eau de toilette,80.0,25.0,60.0,0,0
+paco,hombre,tous,man intense,eau de toilette,76.0,57.0,32.68,3,1
+paco,hombre,davidoff,hot water,eau de toilette,76.0,49.0,38.76,0,0
+paco,hombre,jimmy boyd,spring rain water,eau de toilette,62.0,15.0,52.7,0,0
+paco,hombre,burberry,london man,eau de toilette,81.9,51.0,40.13,5,1
+paco,hombre,montale paris,oudrising,eau de parfum,134.95,0.0,134.95,0,0
+paco,hombre,perris monte carlo,absolue d'osmanthe extrait,parfum,275.0,0.0,275.0,0,0
+paco,hombre,montale paris,wood & spices,eau de parfum,99.95,0.0,99.95,0,0
+paco,hombre,perris monte carlo,musk extreme,eau de parfum,145.0,0.0,145.0,0,0
+paco,hombre,jimmy boyd,wonderful india,eau de toilette,62.0,15.0,52.7,0,0
+paco,mujer,lancôme,la vie est belle,eau de parfum,37.0,33.0,24.79,5,6
+paco,mujer,carolina herrera,good girl,eau de parfum,70.0,30.0,49.0,5,4
+paco,mujer,yves saint laurent,black opium,eau de parfum,80.0,48.0,41.6,4,31
+paco,mujer,dolce & gabbana,light blue,eau de toilette,62.0,44.0,34.72,4,14
+paco,mujer,dior,j'adore,eau de parfum,64.95,0.0,64.95,4,6
+paco,mujer,loewe,aire de loewe,eau de toilette,57.0,35.0,37.05,5,7
+paco,mujer,armani,my way,eau de parfum,82.0,51.0,40.18,4,7
+paco,mujer,chloé,chloé,eau de parfum,73.0,55.0,32.85,4,15
+paco,mujer,gucci,bloom,eau de parfum,79.0,54.0,36.34,4,5
+paco,mujer,lancôme,idôle,eau de parfum,70.0,52.0,33.6,4,20
+paco,mujer,yves saint laurent,libre,eau de parfum,82.0,49.0,41.82,4,10
+paco,mujer,narciso rodríguez,for her,eau de parfum,105.0,35.0,68.25,4,13
+paco,mujer,bvlgari,omnia crystalline,eau de toilette,73.0,35.0,47.45,5,1
+paco,mujer,jean paul gaultier,scandal,eau de parfum,66.0,42.0,38.28,4,8
+paco,mujer,cacharel,yes i am,eau de parfum,55.0,49.0,28.05,4,14
+paco,mujer,guerlain,insolence,eau de parfum,146.5,49.0,74.72,5,8
+paco,mujer,elizabeth arden,provocative,eau de parfum,77.93,68.0,24.94,4,15
+paco,mujer,calvin klein,ck one,eau de toilette,76.0,72.0,21.28,4,12
+paco,mujer,yves saint laurent,mon paris,eau de parfum,77.0,44.0,43.12,4,4
+paco,mujer,carolina herrera,212,eau de toilette,58.0,48.0,30.16,4,14
+paco,mujer,prada,paradoxe,eau de parfum,85.0,47.0,45.05,4,4
+paco,mujer,calvin klein,ck be,eau de toilette,76.0,74.0,19.76,4,7
+paco,mujer,lancôme,trésor midnight rose,eau de parfum,115.0,48.0,59.8,4,13
+paco,mujer,calvin klein,eternity,eau de parfum,65.0,65.0,22.75,4,10
+paco,mujer,calvin klein,euphoria,eau de parfum,69.0,64.0,24.84,5,3
+paco,mujer,dkny,dkny women,eau de parfum,57.0,39.0,34.77,0,0
+paco,mujer,paco rabanne,pure xs for her,eau de parfum,65.5,54.0,30.13,5,1
+paco,mujer,armani,sì passione,eau de parfum,82.0,45.0,45.1,5,2
+paco,mujer,carolina herrera,ch,eau de toilette,63.5,53.0,29.84,4,21
+paco,mujer,armani,sì,eau de parfum,82.0,54.0,37.72,4,20
+paco,mujer,armani,acqua di gioia,eau de parfum,69.0,51.0,33.81,4,11
+paco,mujer,rochas,eau de rochas,eau de toilette,62.0,55.0,27.9,4,37
+paco,mujer,burberry,for women,eau de parfum,47.9,48.0,24.91,5,2
+paco,mujer,paco rabanne,olympea,eau de parfum,67.0,52.0,32.16,0,0
+paco,mujer,lancôme,poême,eau de parfum,85.0,46.0,45.9,4,12
+paco,mujer,prada,infusion d'iris,eau de parfum,110.0,46.0,59.4,4,15
+paco,mujer,loewe,aire sutileza,eau de toilette,84.0,35.0,54.6,5,1
+paco,mujer,carolina herrera,212 vip rosé,eau de parfum,59.0,50.0,29.5,4,20
+paco,mujer,thierry mugler,alien,eau de parfum,38.0,40.0,22.8,0,0
+paco,mujer,escada,magnetism,eau de parfum,102.0,61.0,39.78,4,14
+paco,mujer,lancôme,trésor,eau de parfum,85.0,50.0,42.5,5,7
+paco,mujer,givenchy,amarige,eau de toilette,62.5,41.0,36.88,4,11
+paco,mujer,clinique,aromatics elixir,eau de parfum,32.48,0.0,32.48,5,3
+paco,mujer,armani,emporio armani mujer,eau de parfum,69.0,49.0,35.19,5,1
+paco,mujer,calvin klein,ck one reflections,eau de toilette,70.0,65.0,24.5,5,4
+paco,mujer,davidoff,cool water woman,eau de toilette,61.0,75.0,15.25,5,3
+paco,mujer,ralph lauren,ralph,eau de toilette,77.0,68.0,24.64,4,28
+paco,mujer,angel schlesser,femme,eau de toilette,87.0,54.0,40.02,4,61
+paco,mujer,halloween,halloween,eau de toilette,76.0,67.0,25.08,4,89
+paco,mujer,thierry mugler,angel nova,eau de parfum,82.0,51.0,40.18,5,4
+paco,mujer,jean paul gaultier,la belle le parfum,eau de parfum,72.5,53.0,34.07,5,2
+paco,mujer,cacharel,noa,eau de toilette,49.0,51.0,24.01,4,7
+paco,mujer,armani,sì eau de parfum intense,eau de parfum,89.0,37.0,56.07,0,0
+paco,mujer,gucci,flora gorgeous gardenia,eau de parfum,79.0,48.0,41.08,0,0
+paco,mujer,estée lauder,pleasures,eau de parfum,33.95,0.0,33.95,5,3
+paco,mujer,cacharel,amor amor,eau de toilette,50.0,50.0,25.0,4,6
+paco,mujer,cerruti,1881 pour femme,eau de toilette,83.0,64.0,29.88,5,9
+paco,mujer,lancôme,miracle,eau de parfum,79.0,52.0,37.92,4,5
+paco,mujer,lancaster,eau de lancaster,eau de toilette,64.9,74.0,16.87,4,2
+paco,mujer,cacharel,lou lou,eau de parfum,49.0,48.0,25.48,4,21
+paco,mujer,tous,loveme the emerald elixir,parfum,58.0,48.0,30.16,4,3
+paco,mujer,carolina herrera,carolina herrera,eau de parfum,81.0,41.0,47.79,5,4
+paco,mujer,hugo boss,boss orange,eau de toilette,97.0,69.0,30.07,5,13
+paco,mujer,calvin klein,contradiction,eau de parfum,81.7,63.0,30.23,4,26
+paco,mujer,elizabeth arden,green tea,eau de parfum,18.76,47.0,9.94,4,8
+paco,mujer,calvin klein,in2u her,eau de toilette,76.0,76.0,18.24,4,36
+paco,mujer,yves saint laurent,rive gauche,eau de toilette,87.0,46.0,46.98,5,4
+paco,mujer,lancôme,magie noire,eau de toilette,92.0,57.0,39.56,4,41
+paco,mujer,lancôme,ô de lancôme,eau de toilette,82.0,52.0,39.36,4,59
+paco,mujer,elizabeth arden,green tea estuche,eau de parfum,27.75,28.0,19.98,0,0
+paco,mujer,thierry mugler,angel,eau de parfum,38.0,37.0,23.94,4,7
+paco,mujer,dolce & gabbana,the one,eau de parfum,76.0,34.0,50.16,0,0
+paco,mujer,chloé,chloé nomade,eau de parfum,73.0,56.0,32.12,4,4
+paco,mujer,loewe,agua de loewe,eau de toilette,71.0,35.0,46.15,0,0
+paco,mujer,valentino,born in roma donna,eau de parfum,82.0,43.0,46.74,4,3
+paco,mujer,adolfo domínguez,agua de bambú woman,eau de toilette,31.5,37.0,19.84,5,7
+paco,mujer,britney spears,radiance,eau de parfum,63.55,75.0,15.89,4,62
+paco,mujer,lancôme,la nuit trésor,eau de parfum,79.0,48.0,41.08,4,8
+paco,mujer,hugo boss,hugo deep red,eau de parfum,88.0,66.0,29.92,4,99
+paco,mujer,dolce & gabbana,devotion,eau de parfum,80.0,34.0,52.8,0,0
+paco,mujer,jean paul gaultier,la belle,eau de parfum,93.5,52.0,44.88,5,4
+paco,mujer,cacharel,anaïs anaïs,eau de toilette,45.0,52.0,21.6,4,10
+paco,mujer,jean paul gaultier,classique edt,eau de toilette,63.0,50.0,31.5,4,8
+paco,mujer,adolfo domínguez,agua fresca de rosas,eau de toilette,41.0,42.0,23.78,4,16
+paco,mujer,elizabeth arden,5th avenue,eau de parfum,39.07,44.0,21.88,4,9
+paco,mujer,calvin klein,eternity moment,eau de parfum,93.25,68.0,29.84,4,48
+paco,mujer,elizabeth arden,mediterranean,eau de parfum,81.68,76.0,19.6,4,19
+paco,mujer,adolfo domínguez,agua fresca de azahar,eau de toilette,41.0,55.0,18.45,5,3
+paco,mujer,dkny,be delicious,eau de parfum,57.0,47.0,30.21,4,16
+paco,mujer,givenchy,l'interdit,eau de parfum,78.5,43.0,44.74,4,12
+paco,mujer,kenzo,flower by kenzo,eau de parfum,69.0,41.0,40.71,5,1
+paco,mujer,tous,eau de toilette,eau de toilette,63.0,52.0,30.24,4,8
+paco,mujer,cacharel,eden,eau de parfum,50.0,48.0,26.0,5,4
+paco,mujer,armani,code mujer,eau de parfum,82.0,50.0,41.0,0,0
+paco,mujer,yves saint laurent,opium edt,eau de toilette,65.0,48.0,33.8,4,5
+paco,mujer,paco rabanne,ultraviolet,eau de parfum,79.5,50.0,39.75,4,15
+paco,mujer,hermès,un jardin sur le nil,eau de toilette,96.0,33.0,64.32,4,7
+paco,mujer,loewe,solo ella,eau de parfum,66.0,35.0,42.9,5,2
+paco,mujer,yves saint laurent,libre intense,eau de parfum,92.0,48.0,47.84,4,4
+paco,mujer,zadig & voltaire,this is her!,eau de parfum,62.0,35.0,40.3,4,13
+paco,mujer,carolina herrera,212 vip,eau de parfum,59.0,51.0,28.91,4,13
+paco,mujer,tous,touch the original gold,eau de toilette,68.0,56.0,29.92,4,6
+paco,mujer,armani,acqua di giò mujer,eau de toilette,150.0,53.0,70.5,4,29
+paco,mujer,dolce & gabbana,light blue summer vibes,eau de toilette,92.0,40.0,55.2,0,0
+paco,mujer,britney spears,fantasy,eau de parfum,44.07,44.0,24.68,4,54
+paco,mujer,loewe,solo ella edt,eau de toilette,84.0,35.0,54.6,5,2
+paco,mujer,paco rabanne,black xs for her edp,eau de parfum,65.5,54.0,30.13,5,10
+paco,mujer,loewe,agua de loewe mar de coral,eau de toilette,71.0,35.0,46.15,4,3
+paco,mujer,givenchy,l'interdit rouge,eau de parfum,81.0,41.0,47.79,5,3
+paco,mujer,valentino,valentina,eau de parfum,112.0,49.0,57.12,5,2
+paco,mujer,tous,gems party,eau de toilette,58.0,48.0,30.16,5,2
+paco,mujer,burberry,her,eau de parfum,77.0,52.0,36.96,5,2
+paco,mujer,dolce & gabbana,l'imperatrice,eau de toilette,100.0,60.0,40.0,4,19
+paco,mujer,rochas,madame rochas,eau de toilette,115.0,65.0,40.25,4,22
+paco,mujer,aristocrazy,wonder,eau de toilette,72.0,46.0,38.88,5,3
+paco,mujer,issey miyake,l'eau d'issey,eau de toilette,59.0,35.0,38.35,4,11
+paco,mujer,prada,paradoxe intense,eau de parfum,88.0,39.0,53.68,0,0
+paco,mujer,parfums grès,cabotine de grès edt,eau de toilette,62.5,84.0,10.0,4,31
+paco,mujer,britney spears,island fantasy,eau de toilette,63.55,75.0,15.89,4,13
+paco,mujer,lancôme,la vie est belle l'extrait,eau de parfum,100.0,40.0,60.0,0,0
+paco,mujer,tous,loveme,eau de parfum,49.5,48.0,25.74,4,8
+paco,mujer,givenchy,irresistible,eau de parfum,78.5,40.0,47.1,0,0
+paco,mujer,paco rabanne,olympea solar,eau de parfum,73.0,52.0,35.04,0,0
+paco,mujer,narciso rodríguez,all of me,eau de parfum,77.0,35.0,50.05,0,0
+paco,mujer,loewe,agua de loewe mar de coral icono,eau de toilette,125.0,35.0,81.25,5,1
+paco,mujer,armani,my way floral,eau de parfum,82.0,49.0,41.82,0,0
+paco,mujer,calvin klein,beauty,eau de parfum,126.0,68.0,40.32,4,14
+paco,mujer,valentino,voce viva,eau de parfum,85.0,53.0,39.95,4,1
+paco,mujer,loewe,a mi aire,eau de toilette,126.0,35.0,81.9,4,9
+paco,mujer,angel schlesser,les eaux d'un instant tempting bergamot,eau de toilette,53.0,54.0,24.38,4,9
+paco,mujer,gucci,flora gorgeous jasmine,eau de parfum,79.0,48.0,41.08,0,0
+paco,mujer,valentino,born in roma donna intense,eau de parfum,85.0,38.0,52.7,0,0
+paco,mujer,narciso rodríguez,for her musc noir rose,eau de parfum,73.0,35.0,47.45,4,2
+paco,mujer,narciso rodríguez,narciso poudrée,eau de parfum,73.0,35.0,47.45,5,11
+paco,mujer,adolfo domínguez,agua fresca de rosas blancas,eau de toilette,41.0,46.0,22.14,4,6
+paco,mujer,elizabeth arden,red door,eau de toilette,81.0,67.0,26.73,4,25
+paco,mujer,tous,l'eau,eau de parfum,86.0,56.0,37.84,4,9
+paco,mujer,clinique,happy,eau de parfum,35.95,0.0,35.95,4,6
+paco,mujer,elizabeth arden,sunflowers,eau de toilette,15.3,43.0,8.72,4,3
+paco,mujer,paco rabanne,lady million fabulous,eau de parfum,70.5,50.0,35.25,5,1
+paco,mujer,armani,my way intense,eau de parfum,87.0,48.0,45.24,5,3
+paco,mujer,mandarina duck,woman edt,eau de toilette,69.0,67.0,22.77,4,70
+paco,mujer,hugo boss,boss the scent for her,eau de parfum,99.0,54.0,45.54,5,1
+paco,mujer,narciso rodríguez,for her edt,eau de toilette,94.0,35.0,61.1,4,18
+paco,mujer,aristocrazy,intuitive,eau de toilette,72.0,46.0,38.88,4,4
+paco,mujer,jean paul gaultier,so scandal!,eau de parfum,66.0,35.0,42.9,5,1
+paco,mujer,nina ricci,nina,eau de toilette,50.5,37.0,31.82,4,10
+paco,mujer,tous,loveme onyx parfum,parfum,52.5,47.0,27.83,0,0
+paco,mujer,rochas,mademoiselle,eau de parfum,58.0,55.0,26.1,5,4
+paco,mujer,yves saint laurent,black opium le parfum,eau de parfum,85.0,41.0,50.15,0,0
+paco,mujer,armani,because it's you,eau de parfum,95.0,45.0,52.25,4,6
+paco,mujer,yves saint laurent,libre le parfum,eau de parfum,95.0,48.0,49.4,0,0
+paco,mujer,elizabeth arden,white tea edp,eau de parfum,30.0,42.0,17.4,4,1
+paco,mujer,dior,miss dior,eau de parfum,64.94,0.0,64.94,0,0
+paco,mujer,yves saint laurent,black opium extreme,eau de parfum,85.0,47.0,45.05,5,1
+paco,mujer,nina ricci,l'air du temps,eau de toilette,49.5,56.0,21.78,5,1
+paco,mujer,jean paul gaultier,gaultier divine,eau de parfum,76.0,34.0,50.16,5,1
+paco,mujer,carolina herrera,"good girl dazzling garden ""edición limitada""",eau de parfum,137.5,31.0,94.87,0,0
+paco,mujer,narciso rodríguez,fleur musc for her,eau de parfum,73.0,35.0,47.45,4,10
+paco,mujer,calvin klein,ck everyone,eau de toilette,58.0,59.0,23.78,4,2
+paco,mujer,viktor & rolf,flowerbomb,eau de parfum,115.0,48.0,59.8,4,9
+paco,mujer,versace,bright crystal,eau de toilette,69.0,40.0,41.4,5,1
+paco,mujer,lancôme,la vie est belle intensément,eau de parfum,37.5,41.0,22.13,0,0
+paco,mujer,gucci,guilty pour femme edp,eau de parfum,79.0,56.0,34.76,0,0
+paco,mujer,tom ford,black orchid,eau de parfum,84.5,0.0,84.5,5,1
+paco,mujer,britney spears,curious,eau de parfum,58.95,66.0,20.04,4,34
+paco,mujer,rochas,byzance edp,eau de parfum,59.0,56.0,25.96,4,12
+paco,mujer,escada,"party love ""edición limitada""",eau de parfum,54.0,54.0,24.84,4,1
+paco,mujer,tous,l'eau edt,eau de toilette,76.0,61.0,29.64,4,19
+paco,mujer,shiseido,ginza,eau de parfum,77.5,35.0,50.38,5,2
+paco,mujer,versace,versense,eau de toilette,69.0,40.0,41.4,0,0
+paco,mujer,kenzo,parfum d'eté,eau de parfum,115.0,40.0,69.0,4,8
+paco,mujer,angel schlesser,les eaux d'un instant inmense peony,eau de toilette,53.0,54.0,24.38,3,1
+paco,mujer,loewe,aire fantasía,eau de toilette,84.0,35.0,54.6,4,2
+paco,mujer,paco rabanne,fame,eau de parfum,65.5,34.0,43.23,5,1
+paco,mujer,escada,"santorini sunrise ""edición limitada""",eau de toilette,43.5,43.0,24.8,5,2
+paco,mujer,loewe,aura white magnolia,eau de parfum,66.0,35.0,42.9,4,5
+paco,mujer,lancôme,idôle now,eau de parfum,70.0,49.0,35.7,0,0
+paco,mujer,valentino,voce viva intensa,eau de parfum,95.0,58.0,39.9,0,0
+paco,mujer,calvin klein,ck one shock for her,eau de toilette,76.0,54.0,34.96,4,18
+paco,mujer,dior,escale à portofino,eau de toilette,75.47,0.0,75.47,4,23
+paco,mujer,hermès,le jardin de monsieur li,eau de toilette,96.0,30.0,67.2,4,2
+paco,mujer,hugo boss,ma vie pour femme,eau de parfum,89.0,55.0,40.05,4,9
+paco,mujer,gucci,bloom estuche,eau de parfum,172.5,54.0,79.35,5,1
+paco,mujer,lolita lempicka,mon premier,eau de parfum,63.5,57.0,27.31,5,1
+paco,mujer,loewe,solo ella icono,eau de parfum,140.0,35.0,91.0,5,6
+paco,mujer,paco rabanne,calandre,eau de toilette,117.5,53.0,55.22,4,34
+paco,mujer,prada,amber,eau de parfum,145.0,52.0,69.6,5,3
+paco,mujer,loewe,agua de loewe miami,eau de toilette,102.0,35.0,66.3,5,2
+paco,mujer,versace,yellow diamond,eau de toilette,69.0,40.0,41.4,0,0
+paco,mujer,valentino,donna,eau de parfum,82.0,45.0,45.1,5,1
+paco,mujer,hermès,concentré d'orange verte,eau de toilette,118.0,38.0,73.16,5,9
+paco,mujer,bvlgari,eau parfumée au thé blanc,eau de cologne,98.0,35.0,63.7,4,26
+paco,mujer,valentino,born in roma donna coral fantasy,eau de parfum,82.0,51.0,40.18,0,0
+paco,mujer,angel schlesser,les eaux d'un instant intimate white flowers,eau de toilette,53.0,54.0,24.38,4,7
+paco,mujer,armani,sì passione éclat,eau de parfum,115.0,50.0,57.5,5,1
+paco,mujer,rochas,eau de rochas fraîche,eau de toilette,100.0,64.0,36.0,4,11
+paco,mujer,tiffany & co.,tiffany,eau de parfum,81.0,51.0,39.69,5,5
+paco,mujer,angel schlesser,les eaux d'un instant splendid orange blossom,eau de toilette,53.0,54.0,24.38,5,1
+paco,mujer,guerlain,aqua allegoria mandarine basilic,eau de toilette,105.35,43.0,60.05,4,3
+paco,mujer,tous,eau de parfum,eau de parfum,91.0,50.0,45.5,4,41
+paco,mujer,calvin klein,truth,eau de parfum,87.9,60.0,35.16,4,14
+paco,mujer,aristocrazy,brilliant,eau de toilette,72.5,49.0,36.98,5,1
+paco,mujer,calvin klein,ck everyone edp,eau de parfum,64.0,53.0,30.08,4,1
+paco,mujer,loewe,earth,eau de parfum,92.0,35.0,59.8,5,1
+paco,mujer,dior,dune,eau de toilette,105.95,0.0,105.95,4,17
+paco,mujer,tom ford,eau de soleil blanc,eau de toilette,84.5,0.0,84.5,0,0
+paco,mujer,yves saint laurent,yvresse,eau de toilette,155.0,44.0,86.8,4,14
+paco,mujer,paco rabanne,lady million,eau de parfum,67.5,33.0,45.22,4,24
+paco,mujer,versace,red jeans woman,eau de toilette,44.0,62.0,16.72,5,9
+paco,mujer,loewe,aire de loewe icono,eau de toilette,151.0,35.0,98.15,4,3
+paco,mujer,loewe,paula's ibiza,eau de toilette,82.0,35.0,53.3,4,21
+paco,mujer,chloé,chloé love story,eau de parfum,125.0,52.0,60.0,4,13
+paco,mujer,halloween,halloween blue drop,eau de toilette,59.0,53.0,27.73,4,6
+paco,mujer,dolce & gabbana,q by dolce & gabbana,eau de parfum,76.0,34.0,50.16,5,1
+paco,mujer,dior,dior addict,eau de parfum,64.94,0.0,64.94,5,2
+paco,mujer,loewe,agua de loewe icono,eau de toilette,125.0,35.0,81.25,5,4
+paco,mujer,boucheron,boucheron,eau de parfum,122.0,71.0,35.38,5,3
+paco,mujer,loewe,paula's ibiza eclectic,eau de toilette,82.0,35.0,53.3,4,2
+paco,mujer,givenchy,very irrésistible,eau de parfum,129.5,50.0,64.75,4,15
+paco,mujer,versace,dylan purple pour femme,eau de parfum,74.0,41.0,43.66,4,1
+paco,mujer,guerlain,mon guerlain edp,eau de parfum,86.3,45.0,47.46,4,6
+paco,mujer,kenzo,flower by kenzo edt,eau de toilette,59.5,51.0,29.16,0,0
+paco,mujer,sisley,eau du soir,eau de parfum,122.5,30.0,85.75,5,4
+paco,mujer,yves saint laurent,libre edt,eau de toilette,110.0,50.0,55.0,0,0
+paco,mujer,thierry mugler,alien edt,eau de toilette,59.0,49.0,30.09,5,1
+paco,mujer,narciso rodríguez,for her forever,eau de parfum,73.0,35.0,47.45,0,0
+paco,mujer,narciso rodríguez,for her pure musc,eau de parfum,73.0,35.0,47.45,4,12
+paco,mujer,thierry mugler,alien goddess,eau de parfum,85.0,41.0,50.15,5,4
+paco,mujer,hermès,eau des merveilles,eau de toilette,110.0,30.0,77.0,0,0
+paco,mujer,dior,hypnotic poison,eau de toilette,55.24,0.0,55.24,4,8
+paco,mujer,sisley,izia,eau de parfum,99.5,30.0,69.65,3,4
+paco,mujer,issey miyake,a drop d'issey fraîche,eau de parfum,66.0,35.0,42.9,4,2
+paco,mujer,thierry mugler,angel elixir,eau de parfum,82.0,43.0,46.74,0,0
+paco,mujer,givenchy,very irrésistible edt,eau de toilette,66.5,40.0,39.9,5,3
+paco,mujer,alyssa ashley,white musk,eau de parfum,12.05,34.0,7.95,4,5
+paco,mujer,dolce & gabbana,light blue eau intense,eau de parfum,99.0,45.0,54.45,4,7
+paco,mujer,givenchy,hot couture,eau de parfum,126.1,40.0,75.66,5,1
+paco,mujer,armani,my way le parfum,eau de parfum,92.0,43.0,52.44,0,0
+paco,mujer,narciso rodríguez,narciso rouge,eau de parfum,67.0,35.0,43.55,4,7
+paco,mujer,lancôme,trésor estuche,eau de parfum,156.0,44.0,87.36,0,0
+paco,mujer,hermès,un jardin en méditerranée,eau de toilette,133.0,47.0,70.49,5,4
+paco,mujer,givenchy,l'interdit edt,eau de toilette,67.0,42.0,38.86,0,0
+paco,mujer,armani,in love with you,eau de parfum,105.0,52.0,50.4,3,1
+paco,mujer,diesel,d by diesel,eau de toilette,45.0,45.0,24.75,5,1
+paco,mujer,cacharel,anaïs anaïs premier délice,eau de toilette,50.0,56.0,22.0,4,2
+paco,mujer,estée lauder,white linen,eau de parfum,49.94,0.0,49.94,4,11
+paco,mujer,marc jacobs,perfect,eau de parfum,105.0,53.0,49.35,0,0
+paco,mujer,narciso rodríguez,for her musc noir,eau de parfum,73.0,35.0,47.45,5,1
+paco,mujer,estée lauder,knowing,eau de parfum,69.95,0.0,69.95,4,4
+paco,mujer,giorgio beverly hills,giorgio beverly hills edt,eau de toilette,39.78,35.0,25.86,4,49
+paco,mujer,zadig & voltaire,this is her! undressed,eau de parfum,90.0,35.0,58.5,0,0
+paco,mujer,versace,dylan blue pour femme,eau de parfum,74.0,43.0,42.18,5,4
+paco,mujer,hermès,eau de citron noir,eau de cologne,118.0,38.0,73.16,4,6
+paco,mujer,juicy couture,viva la juicy noir,eau de parfum,108.0,56.0,47.52,5,1
+paco,mujer,jean paul gaultier,classique,eau de parfum,93.5,50.0,46.75,3,1
+paco,mujer,tous,your moments,eau de toilette,74.0,42.0,42.92,4,16
+paco,mujer,cacharel,yes i am glorious,eau de parfum,57.0,47.0,30.21,5,5
+paco,mujer,givenchy,irresistible fraiche,eau de toilette,67.0,52.0,32.16,5,1
+paco,mujer,bvlgari,omnia coral,eau de toilette,80.0,35.0,52.0,4,2
+paco,mujer,clinique,aromatics elixir edt,eau de toilette,34.95,0.0,34.95,5,6
+paco,mujer,alyssa ashley,vanilla,eau de cologne,12.05,47.0,6.39,4,2
+paco,mujer,hermès,twilly d'hermès,eau de parfum,77.0,40.0,46.2,0,0
+paco,mujer,givenchy,l'interdit intense,eau de parfum,85.0,51.0,41.65,5,1
+paco,mujer,viktor & rolf,flowerbomb nectar,eau de parfum,98.0,43.0,55.86,4,6
+paco,mujer,calvin klein,my euphoria,eau de parfum,67.0,45.0,36.85,0,0
+paco,mujer,courrèges,eau de courrèges,eau de toilette,80.0,66.0,27.2,4,36
+paco,mujer,givenchy,l'interdit rouge ultime,eau de parfum,85.0,44.0,47.6,0,0
+paco,mujer,paco rabanne,olympea flora,eau de parfum,74.0,48.0,38.48,0,0
+paco,mujer,kenzo,jungle edp,eau de parfum,131.0,51.0,64.19,5,6
+paco,mujer,elizabeth arden,white tea,eau de toilette,26.5,40.0,15.9,4,1
+paco,mujer,prada,infusion d'iris cèdre,eau de parfum,150.0,43.0,85.5,4,6
+paco,mujer,el ganso,hey sunshine,eau de toilette,51.5,36.0,32.96,3,1
+paco,mujer,roberto verino,gold diamond,eau de parfum,53.0,53.0,24.91,5,3
+paco,mujer,shiseido,ever bloom edt,eau de toilette,56.0,35.0,36.4,5,4
+paco,mujer,lancôme,la vie est belle en rose,eau de toilette,95.0,48.0,49.4,5,1
+paco,mujer,burberry,weekend,eau de parfum,96.9,59.0,39.73,5,2
+paco,mujer,guerlain,aqua allegoria bergamota calabria,eau de toilette,105.35,43.0,60.05,4,2
+paco,mujer,gucci,guilty pour femme edp intense,eau de parfum,86.0,42.0,49.88,0,0
+paco,mujer,estée lauder,pleasures intense,eau de parfum,74.95,0.0,74.95,5,4
+paco,mujer,narciso rodríguez,narciso ambrée,eau de parfum,73.0,35.0,47.45,5,2
+paco,mujer,tous,happy moments,eau de toilette,74.0,51.0,36.26,3,8
+paco,mujer,calvin klein,eternity reflections,eau de parfum,116.0,68.0,37.12,0,0
+paco,mujer,shiseido,ginza murasaki,eau de parfum,77.5,35.0,50.38,0,0
+paco,mujer,tom ford,café rose,eau de parfum,59.95,0.0,59.95,5,1
+paco,mujer,hugo boss,boss alive,eau de parfum,71.0,51.0,34.79,5,2
+paco,mujer,juicy couture,viva la juicy rosé,eau de parfum,108.0,56.0,47.52,5,1
+paco,mujer,clinique,aromatics in white,eau de parfum,69.95,0.0,69.95,4,5
+paco,mujer,guy laroche,fidji edt,eau de toilette,103.0,61.0,40.17,5,5
+paco,mujer,lancôme,idôle aura,eau de parfum,72.0,51.0,35.28,0,0
+paco,mujer,jean paul gaultier,le male pride 2023,eau de toilette,114.5,43.0,65.26,0,0
+paco,mujer,valentino,born in roma yellow dream donna,eau de parfum,82.0,51.0,40.18,0,0
+paco,mujer,marc jacobs,daisy love,eau de toilette,96.0,54.0,44.16,0,0
+paco,mujer,paco rabanne,lady million empire,eau de parfum,63.5,45.0,34.93,5,2
+paco,mujer,clarins,eau des jardins,eau de toilette,58.0,48.0,30.16,0,0
+paco,mujer,emanuel ungaro,diva,eau de parfum,110.0,64.0,39.6,0,0
+paco,mujer,dkny,dkny women edt,eau de toilette,46.0,46.0,24.84,0,0
+paco,mujer,versace,eros pour femme,eau de parfum,81.0,43.0,46.17,0,0
+paco,mujer,guerlain,aqua allegoria forte nerolia vetiver,eau de parfum,121.4,47.0,64.34,0,0
+paco,mujer,marc jacobs,daisy ever so fresh,eau de parfum,122.0,53.0,57.34,0,0
+paco,mujer,hermès,un jardin sur le toit,eau de toilette,96.0,33.0,64.32,5,1
+paco,mujer,dior,dolce vita,eau de toilette,105.93,0.0,105.93,4,28
+paco,mujer,calvin klein,eternity intense,eau de parfum,64.0,53.0,30.08,0,0
+paco,mujer,bvlgari,splendida jasmin noir,eau de parfum,96.0,35.0,62.4,5,1
+paco,mujer,tous,les colognes concentrées,eau de toilette,86.0,57.0,36.98,3,5
+paco,mujer,lancôme,la nuit trésor intense,eau de parfum,120.0,48.0,62.4,0,0
+paco,mujer,montblanc,presence d'une femme,eau de toilette,83.0,66.0,28.22,5,3
+paco,mujer,juicy couture,viva la juicy neon,eau de parfum,110.0,56.0,48.4,5,1
+paco,mujer,givenchy,ange ou démon le secret,eau de parfum,148.0,43.0,84.36,4,18
+paco,mujer,hermès,eau de rhubarbe écarlate,eau de cologne,118.0,38.0,73.16,5,1
+paco,mujer,moschino,fresh couture,eau de toilette,98.0,59.0,40.18,5,8
+paco,mujer,prada,infusion fleur d'oranger,eau de parfum,150.0,47.0,79.5,4,3
+paco,mujer,elizabeth arden,splendor,eau de parfum,58.5,66.0,19.89,4,9
+paco,mujer,carolina herrera,good girl blush,eau de parfum,77.5,32.0,52.7,5,1
+paco,mujer,givenchy,irresistible rose velvet,eau de parfum,81.0,45.0,44.55,0,0
+paco,mujer,prada,candy,eau de parfum,92.0,51.0,45.08,5,1
+paco,mujer,hermès,eau de basilic pourpre,eau de cologne,87.0,54.0,40.02,0,0
+paco,mujer,jimmy choo,i want choo forever,eau de parfum,106.0,48.0,55.12,0,0
+paco,mujer,montblanc,femme individuelle,eau de toilette,83.0,65.0,29.05,4,14
+paco,mujer,thierry mugler,alien goddess intense,eau de parfum,92.0,46.0,49.68,0,0
+paco,mujer,boucheron,jaïpur bracelet,eau de parfum,94.0,63.0,34.78,5,2
+paco,mujer,versace,dylan turquoise pour femme,eau de toilette,69.0,42.0,40.02,0,0
+paco,mujer,hermès,eau d'orange verte,eau de cologne,87.0,31.0,60.03,0,0
+paco,mujer,tous,loveme the silver parfum,parfum,52.5,43.0,29.93,0,0
+paco,mujer,estée lauder,youth dew,eau de parfum,39.95,0.0,39.95,4,4
+paco,mujer,guerlain,aqua allegoria herba fresca,eau de toilette,105.35,43.0,60.05,4,2
+paco,mujer,versace,crystal noir,eau de toilette,69.0,40.0,41.4,0,0
+paco,mujer,elizabeth arden,"sunflowers ""summer air limit edit""",eau de toilette,24.0,46.0,12.96,4,9
+paco,mujer,biotherm,eau vitaminée,eau de toilette,60.0,50.0,30.0,4,26
+paco,mujer,dior,diorissimo,eau de toilette,72.57,0.0,72.57,5,1
+paco,mujer,nina ricci,nina fleur,eau de toilette,55.5,48.0,28.86,0,0
+paco,mujer,hermès,un jardin sur la lagune,eau de toilette,70.0,33.0,46.9,0,0
+paco,mujer,kenzo,flower by kenzo ikebana,eau de parfum,97.0,45.0,53.35,5,1
+paco,mujer,zadig & voltaire,this is us!,eau de toilette,60.0,35.0,39.0,0,0
+paco,mujer,tom ford,velvet orchid,eau de parfum,52.8,0.0,52.8,0,0
+paco,mujer,elizabeth arden,ardenbeauty,eau de parfum,72.5,77.0,16.67,4,3
+paco,mujer,clarins,eau dynamisante,eau de toilette,58.0,45.0,31.9,0,0
+paco,mujer,escada,"show me love ""edición limitada""",eau de parfum,54.0,54.0,24.84,0,0
+paco,mujer,tom ford,black orchid parfum gold,eau de parfum,99.0,0.0,99.0,0,0
+paco,mujer,nina ricci,nina extra rouge,eau de parfum,80.5,40.0,48.3,0,0
+paco,mujer,elizabeth arden,"sunflowers ""sunlight kiss limit edit""",eau de toilette,24.0,61.0,9.36,4,6
+paco,mujer,givenchy,irresistible eau de toilette,eau de toilette,67.0,48.0,34.84,5,3
+paco,mujer,alyssa ashley,musk edp,eau de parfum,56.65,38.0,35.12,4,6
+paco,mujer,tom ford,white patchouli,eau de parfum,118.8,0.0,118.8,5,3
+paco,mujer,hermès,twilly d'hermès estuche,eau de parfum,102.0,30.0,71.4,0,0
+paco,mujer,angel schlesser,femme adorable,eau de toilette,60.0,56.0,26.4,5,3
+paco,mujer,guerlain,insolence edt,eau de toilette,126.45,49.0,64.49,3,3
+paco,mujer,gucci,bloom nettare di fiori,eau de parfum,80.0,50.0,40.0,4,1
+paco,mujer,guerlain,aqua allegoria mandarine basilic forte,eau de parfum,121.4,42.0,70.41,5,1
+paco,mujer,gucci,flora gorgeous magnolia,eau de parfum,79.0,37.0,49.77,0,0
+paco,mujer,diesel,loverdose,eau de parfum,92.0,42.0,53.36,4,27
+paco,mujer,kenzo,l'eau kenzo pour femme,eau de toilette,85.0,38.0,52.7,5,3
+paco,mujer,pepe jeans,bright for her,eau de parfum,19.95,0.0,19.95,0,0
+paco,mujer,estée lauder,estée,eau de parfum,48.95,0.0,48.95,5,3
+paco,mujer,bvlgari,omnia amethyste,eau de toilette,73.0,35.0,47.45,0,0
+paco,mujer,kenzo,amour,eau de parfum,93.5,40.0,56.1,0,0
+paco,mujer,escada,"fairy love ""edición limitada""",eau de toilette,46.5,51.0,22.78,5,1
+paco,mujer,biotherm,eau d'énergie,eau de toilette,60.0,50.0,30.0,4,15
+paco,mujer,dkny,be golden delicious,eau de parfum,57.0,39.0,34.77,0,0
+paco,mujer,adolfo domínguez,iris vainilla,eau de parfum,46.0,41.0,27.14,3,1
+paco,mujer,sisley,l'eau rêvée d'hubert,eau de toilette,96.0,30.0,67.2,5,1
+paco,mujer,tous,floral touch so fresh,eau de toilette,84.0,52.0,40.32,5,1
+paco,mujer,dior,miss dior absolutely blooming,eau de parfum,88.13,0.0,88.13,4,2
+paco,mujer,adolfo domínguez,jazmín tonka,eau de parfum,46.0,41.0,27.14,0,0
+paco,mujer,hermès,eau des merveilles bleue ,eau de toilette,94.0,18.0,77.08,0,0
+paco,mujer,tiffany & co.,tiffany sheer,eau de toilette,72.0,51.0,35.28,0,0
+paco,mujer,estée lauder,spellbound,eau de parfum,62.95,0.0,62.95,4,3
+paco,mujer,givenchy,eau de givenchy,eau de toilette,98.0,40.0,58.8,0,0
+paco,mujer,yves saint laurent,paris,eau de parfum,110.0,49.0,56.1,4,9
+paco,mujer,bvlgari,eau parfumée au thé vert,eau de cologne,98.0,35.0,63.7,4,29
+paco,mujer,gucci,bloom edt,eau de toilette,99.0,51.0,48.51,0,0
+paco,mujer,moschino,cheap and chic stars,eau de parfum,68.1,40.0,40.86,0,0
+paco,mujer,lacoste,eau de lacoste l.12.12 pour elle sparkling,eau de toilette,62.0,44.0,34.72,0,0
+paco,mujer,hermès,voyage d'hermès edt,eau de toilette,134.0,30.0,93.8,5,1
+paco,mujer,rochas,eau de rochas escapade exotique,eau de toilette,95.0,63.0,35.15,5,9
+paco,mujer,carolina herrera,very good girl,eau de parfum,77.5,32.0,52.7,0,0
+paco,mujer,paco rabanne,fame parfum,parfum,73.5,35.0,47.78,0,0
+paco,mujer,estée lauder,beautiful,eau de parfum,63.97,0.0,63.97,4,8
+paco,mujer,elizabeth arden,sunflowers estuche,eau de toilette,24.5,31.0,16.9,0,0
+paco,mujer,issey miyake,l'eau d'issey pivoine,eau de toilette,92.0,35.0,59.8,0,0
+paco,mujer,paloma picasso,paloma picasso edp,eau de parfum,119.5,64.0,43.02,5,1
+paco,mujer,loewe,solo ella elixir,eau de parfum,140.0,35.0,91.0,0,0
+paco,mujer,dior,poison,eau de toilette,55.5,0.0,55.5,5,2
+paco,mujer,thierry mugler,angel edt,eau de toilette,65.0,51.0,31.85,5,2
+paco,mujer,lancôme,la vie est belle soleil cristal,eau de parfum,37.0,41.0,21.83,4,3
+paco,mujer,dior,miss dior rose n'roses,eau de toilette,55.5,0.0,55.5,0,0
+paco,mujer,dior,miss dior eau de toilette originale,eau de toilette,105.95,0.0,105.95,4,7
+paco,mujer,cacharel,yes i am bloom up,eau de parfum,57.0,30.0,39.9,0,0
+paco,mujer,desigual,fresh world,eau de toilette,44.0,32.0,29.92,5,2
+paco,mujer,hermès,calèche soie de parfum,eau de parfum,185.0,41.0,109.15,2,1
+paco,mujer,burberry,brit for her edp,eau de parfum,109.5,54.0,50.37,5,3
+paco,mujer,tous,oh! the origin,eau de parfum,96.0,57.0,41.28,5,4
+paco,mujer,armani,sì estuche,eau de parfum,151.0,47.0,80.03,0,0
+paco,mujer,dkny,dkny stories,eau de parfum,52.0,42.0,30.16,0,0
+paco,mujer,lancôme,hypnôse,eau de parfum,145.0,45.0,79.75,5,9
+paco,mujer,guerlain,idylle edp,eau de parfum,146.5,43.0,83.51,0,0
+paco,mujer,hugo boss,boss the scent le parfum for her,parfum,82.0,51.0,40.18,0,0
+paco,mujer,nina ricci,bella,eau de toilette,48.5,44.0,27.16,4,2
+paco,mujer,halloween,halloween blossom,eau de toilette,59.0,49.0,30.09,0,0
+paco,mujer,loewe,agua ella,eau de toilette,102.0,35.0,66.3,4,9
+paco,mujer,adolfo domínguez,verbena mandarina,eau de toilette,59.5,45.0,32.72,0,0
+paco,mujer,versace,bright crystal absolu,eau de parfum,74.0,41.0,43.66,0,0
+paco,mujer,nina ricci,nina le parfum,eau de parfum,65.0,39.0,39.65,0,0
+paco,mujer,dior,j'adore l'or,parfum,131.95,0.0,131.95,0,0
+paco,mujer,guerlain,aqua allegoria nerolia vetiver,eau de toilette,105.35,43.0,60.05,5,2
+paco,mujer,shiseido,ginza intense,eau de parfum,77.0,35.0,50.05,0,0
+paco,mujer,narciso rodríguez,narciso cristal,eau de parfum,73.0,35.0,47.45,0,0
+paco,mujer,carolina herrera,ch pasión,eau de parfum,127.5,41.0,75.23,0,0
+paco,mujer,sisley,l'eau rêvée d'eliya,eau de toilette,96.0,30.0,67.2,0,0
+paco,mujer,gianfranco ferré,camicia 113 edp,eau de parfum,73.0,59.0,29.93,5,4
+paco,mujer,moschino,toy 2,eau de parfum,57.0,40.0,34.2,4,4
+paco,mujer,guerlain,aqua allegoria pamplelune,eau de toilette,105.35,43.0,60.05,0,0
+paco,mujer,sisley,l'eau rêvée d'alma,eau de toilette,96.0,30.0,67.2,0,0
+paco,mujer,aristocrazy,brave,eau de toilette,72.0,46.0,38.88,4,6
+paco,mujer,chloé,chloé rose naturelle intense,eau de parfum,162.0,58.0,68.04,0,0
+paco,mujer,ralph lauren,romance,eau de parfum,155.0,61.0,60.45,5,5
+paco,mujer,adolfo domínguez,agua fresca de gardenia musk,eau de toilette,56.5,43.0,32.21,4,8
+paco,mujer,jean paul gaultier,classique pride 2023,eau de toilette,102.0,41.0,60.18,0,0
+paco,mujer,sisley,soir de lune,eau de parfum,122.5,30.0,85.75,5,1
+paco,mujer,adolfo domínguez,agua fresca de mimosa coriandro,eau de toilette,56.5,52.0,27.12,4,7
+paco,mujer,yves saint laurent,y,eau de toilette,150.0,45.0,82.5,5,17
+paco,mujer,jimmy choo,jimmy choo,eau de parfum,135.0,61.0,52.65,4,4
+paco,mujer,givenchy,ange ou démon,eau de parfum,107.0,40.0,64.2,0,0
+paco,mujer,dior,j'adore parfum d'eau,eau de parfum,65.25,0.0,65.25,0,0
+paco,mujer,jimmy choo,i want choo,eau de parfum,72.0,51.0,35.28,0,0
+paco,mujer,angel schlesser,les eaux d'un instant blooming grapefruit,eau de toilette,53.0,54.0,24.38,5,1
+paco,mujer,dolce & gabbana,pour femme,eau de parfum,145.0,46.0,78.3,4,5
+paco,mujer,guerlain,mon guerlain intense,eau de parfum,89.3,44.0,50.01,5,1
+paco,mujer,sisley,eau de campagne,eau de toilette,95.0,30.0,66.5,0,0
+paco,mujer,nina ricci,"nina nature ""edición limitada""",eau de toilette,80.5,53.0,37.84,5,2
+paco,mujer,prada,infusion rose,eau de parfum,150.0,47.0,79.5,5,3
+paco,mujer,prada,la femme,eau de parfum,165.0,45.0,90.75,5,3
+paco,mujer,guerlain,mon guerlain sparkling bouquet,eau de parfum,86.3,40.0,51.78,0,0
+paco,mujer,hermès,voyage d'hermès,eau de parfum,149.0,34.0,98.34,4,6
+paco,mujer,chloé,chloé naturelle edp,eau de parfum,76.0,41.0,44.84,0,0
+paco,mujer,pepe jeans,celebrate for her,eau de parfum,91.0,67.0,30.03,0,0
+paco,mujer,yves saint laurent,elle,eau de parfum,120.0,46.0,64.8,5,1
+paco,mujer,guerlain,shalimar,eau de toilette,136.45,35.0,88.69,5,2
+paco,mujer,guerlain,champs-elysées edt,eau de toilette,126.45,35.0,82.19,5,1
+paco,mujer,jean paul gaultier,scandal a paris,eau de toilette,52.5,32.0,35.7,5,3
+paco,mujer,tom ford,neroli portofino acqua,eau de toilette,118.8,0.0,118.8,0,0
+paco,mujer,lacoste,l.12.12 rose edp,eau de parfum,99.8,40.0,59.88,5,1
+paco,mujer,hugo boss,boss the scent private accord for her,eau de parfum,84.0,41.0,49.56,5,2
+paco,mujer,cacharel,yes i am delicious,eau de parfum,60.0,53.0,28.2,0,0
+paco,mujer,clarins,eau ressourcante,eau de toilette,58.0,48.0,30.16,0,0
+paco,mujer,yves saint laurent,black opium illicit green,eau de parfum,79.0,46.0,42.66,4,1
+paco,mujer,guerlain,l'instant edp,eau de parfum,146.5,39.0,89.36,4,1
+paco,mujer,desigual,fresh bloom,eau de toilette,44.0,32.0,29.92,5,3
+paco,mujer,alyssa ashley,essence de patchouli edp,eau de parfum,56.65,47.0,30.02,1,1
+paco,mujer,halloween,halloween estuche,eau de toilette,68.0,49.0,34.68,5,2
+paco,mujer,rochas,tocade,eau de toilette,108.0,70.0,32.4,5,27
+paco,mujer,tous,more more pink,eau de toilette,63.0,48.0,32.76,0,0
+paco,mujer,chloé,chloé lumineuse,eau de parfum,107.0,35.0,69.55,0,0
+paco,mujer,carolina herrera,212 heroes for her,eau de parfum,66.5,32.0,45.22,0,0
+paco,mujer,rochas,girl blooming,eau de toilette,59.0,54.0,27.14,3,1
+paco,mujer,calvin klein,ck one gold,eau de toilette,56.5,56.0,24.86,4,10
+paco,mujer,loewe,aire anthesis,eau de parfum,125.0,35.0,81.25,4,1
+paco,mujer,thierry mugler,alien goddess supra florale,eau de parfum,85.0,38.0,52.7,0,0
+paco,mujer,carolina herrera,very good girl glam,eau de parfum,81.0,32.0,55.08,3,1
+paco,mujer,angel schlesser,les eaux d'un instant luminous violet,eau de toilette,53.0,43.0,30.21,0,0
+paco,mujer,rochas,girl,eau de toilette,63.0,59.0,25.83,0,0
+paco,mujer,hermès,eau de pamplemousse rose,eau de cologne,118.0,31.0,81.42,0,0
+paco,mujer,dkny,be extra delicious,eau de parfum,57.0,47.0,30.21,0,0
+paco,mujer,dior,miss dior blooming bouquet,eau de toilette,57.5,0.0,57.5,0,0
+paco,mujer,dior,j'adore infinissime,eau de parfum,64.76,0.0,64.76,0,0
+paco,mujer,sisley,l'eau rêvée d'aria,eau de toilette,96.0,30.0,67.2,0,0
+paco,mujer,sisley,l'eau rêvée d'isa,eau de toilette,96.0,30.0,67.2,0,0
+paco,mujer,lancôme,la vie est belle iris absolu,eau de parfum,79.0,24.0,60.04,0,0
+paco,mujer,moschino,toy 2 bubble gum,eau de toilette,55.0,40.0,33.0,5,2
+paco,mujer,tous,your powers,eau de toilette,74.0,42.0,42.92,4,2
+paco,mujer,dior,pure poison,eau de parfum,64.94,0.0,64.94,4,7
+paco,mujer,angel schlesser,femme magique,eau de parfum,92.0,57.0,39.56,5,2
+paco,mujer,kenzo,flower by kenzo l'absolue,eau de parfum,74.5,46.0,40.23,0,0
+paco,mujer,azzaro,wanted girl,eau de parfum,60.0,33.0,40.2,0,0
+paco,mujer,carolina herrera,"212 vip rosé i love ny ""edición limitada""",eau de parfum,118.5,47.0,62.8,4,1
+paco,mujer,juicy couture,couture la la,eau de parfum,102.5,61.0,39.98,5,1
+paco,mujer,juicy couture,i am juicy couture,eau de parfum,110.0,56.0,48.4,5,2
+paco,mujer,givenchy,ysatis,eau de toilette,126.5,40.0,75.9,0,0
+paco,mujer,dior,miss dior edt,eau de toilette,76.24,0.0,76.24,0,0
+paco,mujer,orlane,be 21,eau de parfum,100.0,0.0,100.0,4,13
+paco,mujer,angel schlesser,les eaux d'un instant joyful nashi bloom,eau de toilette,53.0,54.0,24.38,0,0
+paco,mujer,biotherm,eau pure,eau de toilette,60.0,52.0,28.8,4,8
+paco,mujer,viktor & rolf,good fortune,eau de parfum,115.0,45.0,63.25,0,0
+paco,mujer,comme des garçons,backpepper,eau de parfum,85.0,10.0,76.5,5,5
+paco,mujer,nina ricci,nina rose,eau de toilette,55.5,39.0,33.85,5,1
+paco,mujer,loewe,001 woman,eau de parfum,92.0,35.0,59.8,0,0
+paco,mujer,prada,infusion d'amande,eau de parfum,150.0,49.0,76.5,0,0
+paco,mujer,lancôme,idôle nectar,eau de parfum,115.0,44.0,64.4,0,0
+paco,mujer,tom ford,metallique,eau de parfum,95.7,0.0,95.7,0,0
+paco,mujer,guerlain,la petite robe noire edp,eau de parfum,86.3,40.0,51.78,5,4
+paco,mujer,marc jacobs,perfect intense,eau de parfum,118.0,53.0,55.46,5,1
+paco,mujer,pepe jeans,for her,eau de parfum,91.65,67.0,30.24,5,4
+paco,mujer,prada,candy sugar pop,eau de parfum,67.0,28.0,48.24,0,0
+paco,mujer,tiffany & co.,tiffany eau de parfum intense,eau de parfum,84.0,52.0,40.32,4,4
+paco,mujer,alyssa ashley,ambre gris eau parfumeé cologne,eau de parfum,13.15,47.0,6.97,3,4
+paco,mujer,bvlgari,rose goldea,eau de parfum,109.0,35.0,70.85,5,1
+paco,mujer,furla,auténtica,eau de parfum,50.5,45.0,27.78,0,0
+paco,mujer,kenzo,memori collection rêve lotus,eau de parfum,96.0,0.0,96.0,0,0
+paco,mujer,comme des garçons,2,eau de parfum,85.0,10.0,76.5,4,8
+paco,mujer,moschino,cheap and chic i love love,eau de toilette,98.0,62.0,37.24,4,20
+paco,mujer,givenchy,organza,eau de parfum,148.0,43.0,84.36,4,9
+paco,mujer,yves saint laurent,paris edt,eau de toilette,87.0,43.0,49.59,4,5
+paco,mujer,armani,sì passione intense,eau de parfum,125.0,48.0,65.0,0,0
+paco,mujer,shiseido,ever bloom,eau de parfum,71.0,35.0,46.15,0,0
+paco,mujer,van cleef & arpels,ambre impérial collection extraordinaire,eau de parfum,164.0,0.0,164.0,5,1
+paco,mujer,alyssa ashley,green tea edt,eau de toilette,21.95,59.0,9.0,5,1
+paco,mujer,loewe,001 woman edt,eau de toilette,126.0,35.0,81.9,0,0
+paco,mujer,thierry mugler,alien flora futura,eau de toilette,79.0,39.0,48.19,4,7
+paco,mujer,hollister,canyon escape her,eau de parfum,55.0,58.0,23.1,0,0
+paco,mujer,dkny,be delicious orchard street,eau de parfum,57.0,39.0,34.77,0,0
+paco,mujer,jean paul gaultier,scandal le parfum,eau de parfum,72.0,33.0,48.24,0,0
+paco,mujer,juicy couture,juicy couture,eau de parfum,108.0,44.0,60.48,4,8
+paco,mujer,zadig & voltaire,this is her! zadig dream,eau de parfum,120.0,35.0,78.0,0,0
+paco,mujer,gucci,bloom intense,eau de parfum,120.0,42.0,69.6,0,0
+paco,mujer,issey miyake,a scent,eau de toilette,99.5,35.0,64.68,0,0
+paco,mujer,chloé,chloé nomade naturelle,eau de parfum,76.0,47.0,40.28,0,0
+paco,mujer,rochas,femme,eau de toilette,115.0,66.0,39.1,4,10
+paco,mujer,jimmy boyd,wild roses eau de toilette,eau de toilette,62.0,15.0,52.7,0,0
+paco,mujer,guerlain,aqua allegoria forte rosa palissandro,eau de parfum,121.4,42.0,70.41,0,0
+paco,mujer,guerlain,aqua allegoria forte bosca vanilla,eau de parfum,121.4,42.0,70.41,0,0
+paco,mujer,guerlain,aqua allegoria forte oud yuzu,eau de parfum,121.4,42.0,70.41,0,0
+paco,mujer,adolfo domínguez,nude musk,eau de parfum,46.0,41.0,27.14,5,1
+paco,mujer,hermès,calèche,eau de toilette,160.0,35.0,104.0,0,0
+paco,mujer,sisley,l'eau rêvée d'ikar,eau de toilette,96.0,30.0,67.2,0,0
+paco,mujer,dkny,be 100% delicious,eau de parfum,78.0,44.0,43.68,0,0
+paco,mujer,scalpers,her & here estuche,eau de parfum,82.0,42.0,47.56,0,0
+paco,mujer,juicy couture,i love juicy couture,eau de parfum,110.0,64.0,39.6,0,0
+paco,mujer,rochas,byzance gold,eau de parfum,84.5,59.0,34.65,0,0
+paco,mujer,prada,la femme intense,eau de parfum,85.0,41.0,50.15,0,0
+paco,mujer,guerlain,aqua allegoria granada salvia,eau de toilette,105.35,43.0,60.05,5,1
+paco,mujer,adolfo domínguez,terracota musk,eau de parfum,46.0,41.0,27.14,0,0
+paco,mujer,estée lauder,beautiful magnolia,eau de parfum,54.94,0.0,54.94,0,0
+paco,mujer,comme des garçons,wonderoud,eau de parfum,115.0,10.0,103.5,4,2
+paco,mujer,prada,candy kiss,eau de parfum,145.0,48.0,75.4,5,1
+paco,mujer,guerlain,aqua allegoria nettare di sole,eau de toilette,105.35,43.0,60.05,0,0
+paco,mujer,angel schlesser,femme adorable intense,eau de parfum,90.0,56.0,39.6,5,1
+paco,mujer,dolce & gabbana,the only one,eau de parfum,150.0,38.0,93.0,0,0
+paco,mujer,dior,j'adore edt,eau de toilette,76.24,0.0,76.24,5,1
+paco,mujer,bvlgari,splendida magnolia sensuel,eau de parfum,96.0,35.0,62.4,0,0
+paco,mujer,burberry,touch for women,eau de parfum,96.9,59.0,39.73,5,3
+paco,mujer,dior,joy by dior edp intense,eau de parfum,93.24,0.0,93.24,4,3
+paco,mujer,sisley,soir d'orient,eau de parfum,122.5,30.0,85.75,5,3
+paco,mujer,hermès,l'ombre des merveilles,eau de parfum,67.0,30.0,46.9,0,0
+paco,mujer,prada,infusion de figue,eau de parfum,150.0,43.0,85.5,0,0
+paco,mujer,sarah jessica parker,lovely,eau de parfum,66.6,40.0,39.96,4,5
+paco,mujer,comme des garçons,floriental,eau de parfum,85.0,10.0,76.5,1,1
+paco,mujer,elizabeth arden,sunflowers dream petals,eau de toilette,24.0,34.0,15.84,3,2
+paco,mujer,miu miu,miu miu,eau de parfum,116.0,48.0,60.32,5,4
+paco,mujer,orlane,eau d'orlane,eau de toilette,73.0,0.0,73.0,4,30
+paco,mujer,el ganso,ciao bella!,eau de toilette,72.0,45.0,39.6,5,3
+paco,mujer,halloween,halloween magic,eau de toilette,76.0,54.0,34.96,0,0
+paco,mujer,montale paris,pure gold,eau de parfum,119.95,0.0,119.95,0,0
+paco,mujer,comme des garçons,concrete,eau de parfum,144.0,3.0,139.68,4,3
+paco,mujer,kenzo,memori collection ciel magnolia,eau de parfum,96.0,0.0,96.0,0,0
+paco,mujer,karl lagerfeld,"paris, 21 rue saint guillaume",eau de parfum,100.0,70.0,30.0,0,0
+paco,mujer,jimmy boyd,ibiza ,eau de toilette,62.0,15.0,52.7,0,0
+paco,mujer,comme des garçons,zero,eau de parfum,144.0,13.0,125.28,5,1
+paco,mujer,boucheron,place vendôme elixir,eau de parfum,92.5,35.0,60.12,0,0
+paco,mujer,carolina herrera,good girl estuche,eau de parfum,130.0,26.0,96.2,5,3
+paco,mujer,guerlain,samsara edp,eau de parfum,146.5,39.0,89.36,0,0
+paco,mujer,guerlain,les absolus d'orient santal royal,eau de parfum,190.65,35.0,123.92,4,2
+paco,mujer,issey miyake,a drop d'issey,eau de parfum,98.0,35.0,63.7,5,1
+paco,mujer,dolce & gabbana,the only one 2,eau de parfum,104.0,38.0,64.48,5,3
+paco,mujer,hermès,twilly d'hermès eau poivrée,eau de parfum,65.0,33.0,43.55,0,0
+paco,mujer,lolita lempicka,lolitaland,eau de parfum,72.0,52.0,34.56,4,1
+paco,mujer,prada,la femme l'eau,eau de toilette,91.9,35.0,59.74,0,0
+paco,mujer,elizabeth arden,blue grass,eau de parfum,27.25,38.0,16.9,0,0
+paco,mujer,guerlain,la petite robe noire edt,eau de toilette,140.45,39.0,85.67,5,3
+paco,mujer,marc jacobs,daisy eau so fresh,eau de toilette,140.0,58.0,58.8,5,12
+paco,mujer,guerlain,samsara,eau de toilette,126.45,35.0,82.19,5,1
+paco,mujer,guerlain,les absolus d'orient oud essentiel,eau de parfum,190.65,35.0,123.92,5,1
+paco,mujer,davidoff,cool water woman parfum,parfum,123.0,63.0,45.51,0,0
+paco,mujer,coach,coach,eau de parfum,118.0,58.0,49.56,0,0
+paco,mujer,tous,oh! the origin edt,eau de toilette,91.0,57.0,39.13,4,2
+paco,mujer,guerlain,les absolus d'orient epices exquises,eau de parfum,190.65,35.0,123.92,0,0
+paco,mujer,guerlain,l'heure bleue,eau de toilette,126.45,35.0,82.19,0,0
+paco,mujer,montale paris,sensual instinct,eau de parfum,129.95,0.0,129.95,0,0
+paco,mujer,jimmy choo,floral,eau de toilette,111.0,57.0,47.73,0,0
+paco,mujer,hugo boss,boss the scent pure accord for her,eau de toilette,129.0,48.0,67.08,0,0
+paco,mujer,guerlain,chamade,eau de toilette,126.45,35.0,82.19,5,3
+paco,mujer,police,to be sweet girl edt,eau de toilette,35.0,54.0,16.1,0,0
+paco,mujer,rochas,eau sensuelle,eau de toilette,100.0,55.0,45.0,4,13
+paco,mujer,paco rabanne,lady million royal,eau de parfum,67.5,33.0,45.22,0,0
+paco,mujer,dkny,be delicious fresh blossom,eau de parfum,97.0,52.0,46.56,4,4
+paco,mujer,marc jacobs,perfect edt,eau de toilette,114.0,46.0,61.56,0,0
+paco,mujer,joop!,femme,eau de toilette,95.0,71.0,27.55,4,2
+paco,mujer,dior,escale à portofino - edición limitada,eau de toilette,135.0,0.0,135.0,0,0
+paco,mujer,hermès,tutti twilly d'hermès,eau de parfum,110.0,29.0,78.1,0,0
+paco,mujer,lanvin,éclat d'arpège,eau de parfum,107.0,67.0,35.31,4,6
+paco,mujer,jimmy boyd,whisky fragrance,eau de toilette,62.0,15.0,52.7,0,0
+paco,mujer,carolina herrera,good girl suprême,eau de parfum,77.5,32.0,52.7,0,0
+paco,mujer,hermès,un jardin à cythère,eau de toilette,70.0,33.0,46.9,0,0
+paco,mujer,nina ricci,nina rouge,eau de toilette,55.5,39.0,33.85,0,0
+paco,mujer,viktor & rolf,flowerbomb ruby orchid,eau de parfum,115.0,39.0,70.15,0,0
+paco,mujer,boucheron,place vendôme,eau de parfum,96.0,59.0,39.36,3,3
+paco,mujer,guerlain,aqua allegoria orange soleia,eau de toilette,105.35,43.0,60.05,0,0
+paco,mujer,dior,miss dior cofre,eau de parfum,149.6,0.0,149.6,0,0
+paco,mujer,guerlain,aqua allegoria flora salvaggia,eau de toilette,105.35,43.0,60.05,0,0
+paco,mujer,chloé,chloé nomade jasmin naturel intense,eau de parfum,137.0,46.0,73.98,0,0
+paco,mujer,juicy couture,viva la juicy la fleur,eau de toilette,102.5,32.0,69.7,0,0
+paco,mujer,paloma picasso,paloma picasso edt,eau de toilette,126.0,44.0,70.56,4,3
+paco,mujer,sisley,izia la nuit,eau de parfum,122.5,30.0,85.75,0,0
+paco,mujer,carolina herrera,212 heroes for her estuche,eau de parfum,123.5,29.0,87.68,0,0
+paco,mujer,lanvin,arpège,eau de parfum,122.0,75.0,30.5,5,1
+paco,mujer,yves saint laurent,libre l'absolu platine,parfum,140.0,30.0,98.0,0,0
+paco,mujer,dior,joy by dior,eau de parfum,90.95,0.0,90.95,5,3
+paco,mujer,juicy couture,couture couture,eau de parfum,110.0,56.0,48.4,2,2
+paco,mujer,tom ford,black orchid edt,eau de toilette,44.1,0.0,44.1,0,0
+paco,mujer,dior,forever and ever,eau de toilette,106.5,0.0,106.5,5,5
+paco,mujer,michael kors,sparkling blush,eau de parfum,62.5,54.0,28.75,0,0
+paco,mujer,alyssa ashley,marijane edp,eau de parfum,35.0,43.0,19.95,0,0
+paco,mujer,estée lauder,cinnabar,eau de parfum,69.95,0.0,69.95,4,2
+paco,mujer,dior,poison girl edt,eau de toilette,55.5,0.0,55.5,4,1
+paco,mujer,comme des garçons,rouge,eau de parfum,144.0,13.0,125.28,4,1
+paco,mujer,dior,j'adore infinissime roller-pearl,eau de parfum,45.46,0.0,45.46,5,2
+paco,mujer,guerlain,mitsouko edp,eau de parfum,146.5,35.0,95.22,4,1
+paco,mujer,kenzo,memori collection poudre matcha,eau de parfum,96.0,0.0,96.0,0,0
+paco,mujer,dior,poison girl,eau de parfum,125.25,0.0,125.25,5,4
+paco,mujer,estée lauder,bronze goddess,eau de cologne,59.91,0.0,59.91,0,0
+paco,mujer,dior,hypnotic poison roller-pearl,eau de toilette,38.25,0.0,38.25,4,3
+paco,mujer,zadig & voltaire,this is her! vibes of freedom,eau de parfum,90.0,35.0,58.5,0,0
+paco,mujer,montale paris,roses musk,eau de parfum,119.95,0.0,119.95,0,0
+paco,mujer,montale paris,white musk,eau de parfum,99.95,0.0,99.95,0,0
+paco,mujer,dior,poison girl unexpected,eau de toilette,106.5,0.0,106.5,0,0
+paco,mujer,montale paris,arabians,eau de parfum,134.95,0.0,134.95,0,0
+paco,mujer,nina ricci,"nina soleil ""edición limitada""",eau de toilette,73.0,41.0,43.07,0,0
+paco,mujer,dior,miss dior rose n'roses roller-pearl,eau de toilette,38.25,0.0,38.25,5,2
+paco,mujer,montale paris,oud tobacco,eau de parfum,119.95,0.0,119.95,0,0
+paco,mujer,montale paris,intense roses musk,eau de parfum,154.95,0.0,154.95,0,0
+paco,mujer,montale paris,wood on fire,eau de parfum,119.95,0.0,119.95,0,0
+paco,mujer,montale paris,oudmazing,eau de parfum,134.95,0.0,134.95,0,0
+paco,mujer,montale paris,soleil de capri,eau de parfum,99.95,0.0,99.95,0,0
+paco,mujer,montale paris,aqua palma,eau de parfum,134.95,0.0,134.95,0,0
+paco,mujer,montale paris,fantastic oud,eau de parfum,134.95,0.0,134.95,0,0
+paco,mujer,montale paris,pretty fruity,eau de parfum,119.95,0.0,119.95,0,0
+paco,mujer,montale paris,sweet vanilla,eau de parfum,134.95,0.0,134.95,0,0
+paco,mujer,montale paris,rose elixir,eau de parfum,119.95,0.0,119.95,0,0
+paco,mujer,montale paris,sweet flowers,eau de parfum,129.95,0.0,129.95,0,0
+paco,mujer,montale paris,dark purple,eau de parfum,119.95,0.0,119.95,0,0
+paco,mujer,montale paris,aoud night,eau de parfum,129.95,0.0,129.95,0,0
+paco,mujer,montale paris,dark aoud,eau de parfum,119.95,0.0,119.95,0,0
+paco,mujer,montale paris,sweet peony,eau de parfum,129.95,0.0,129.95,0,0
+paco,mujer,montale paris,oud dream,eau de parfum,134.95,0.0,134.95,0,0
+paco,mujer,montale paris,intense black aoud,eau de parfum,154.95,0.0,154.95,0,0
+paco,mujer,montale paris,mukhallat,eau de parfum,129.95,0.0,129.95,0,0
+paco,mujer,montale paris,fantastic basilic,eau de parfum,99.95,0.0,99.95,0,0
+paco,mujer,montale paris,blue matcha,eau de parfum,129.95,0.0,129.95,0,0
+paco,mujer,montale paris,oud pashmina,eau de parfum,129.95,0.0,129.95,0,0
+paco,mujer,montale paris,so amber,eau de parfum,129.95,0.0,129.95,0,0
+paco,mujer,montale paris,white aoud,eau de parfum,119.95,0.0,119.95,0,0
+paco,mujer,montale paris,amber musk,eau de parfum,129.95,0.0,129.95,0,0
+paco,mujer,montale paris,wild aoud,eau de parfum,119.95,0.0,119.95,0,0
+paco,mujer,montale paris,intense café,eau de parfum,119.95,0.0,119.95,0,0
+paco,mujer,hermès,jour d'hermès absolu,eau de parfum,172.0,35.0,111.8,5,1
+paco,mujer,guerlain,mitsouko,eau de toilette,126.45,38.0,78.4,0,0
+paco,mujer,dior,miss dior roller-pearl,eau de parfum,38.25,0.0,38.25,0,0
+paco,mujer,viktor & rolf,flowerbomb dew,eau de parfum,115.0,48.0,59.8,0,0
+paco,mujer,philippe starck,peau d'amour,eau de parfum,99.0,29.0,70.29,5,1
+paco,mujer,montale paris,pure love,eau de parfum,114.95,0.0,114.95,0,0
+paco,mujer,comme des garçons,copper,eau de parfum,144.0,13.0,125.28,5,1
+paco,mujer,montale paris,chocolate greedy,eau de parfum,99.95,0.0,99.95,0,0
+paco,mujer,kenzo,memori collection coeur azuki,eau de parfum,96.0,0.0,96.0,0,0
+paco,mujer,kenzo,memori collection soleil thé,eau de parfum,96.0,0.0,96.0,0,0
+paco,mujer,montale paris,ristretto intense café,eau de parfum,154.95,0.0,154.95,0,0
+paco,mujer,hollister,wave for her,eau de parfum,72.0,45.0,39.6,0,0
+paco,mujer,montale paris,crazy in love,eau de parfum,114.95,0.0,114.95,0,0
+paco,mujer,montale paris,vanilla extasy,eau de parfum,99.95,0.0,99.95,0,0
+paco,mujer,montale paris,vetiver patchouli,eau de parfum,129.95,0.0,129.95,0,0
+paco,mujer,kenzo,memori collection nuit tatami,eau de parfum,96.0,0.0,96.0,0,0
+paco,mujer,montale paris,starry nights,eau de parfum,129.95,0.0,129.95,0,0
+paco,mujer,kenzo,memori collection cèdre secret,eau de parfum,96.0,0.0,96.0,0,0
+paco,mujer,montale paris,black musk,eau de parfum,99.95,0.0,99.95,0,0
+paco,mujer,montale paris,oud edition,eau de parfum,119.95,0.0,119.95,0,0
+paco,mujer,montale paris,aoud forest,eau de parfum,119.95,0.0,119.95,0,0
+paco,mujer,lancôme,la vie est belle blanche,eau de parfum,97.0,38.0,60.14,5,1
+paco,mujer,guerlain,vol de nuit,eau de toilette,126.45,35.0,82.19,0,0
+paco,mujer,philippe starck,peau d'ailleurs,eau de toilette,56.0,0.0,56.0,0,0
+paco,mujer,kenzo,flower by kenzo poppy bouquet,eau de parfum,134.0,46.0,72.36,0,0
+paco,mujer,jil sander,simply,eau de parfum,75.5,0.0,75.5,0,0
+paco,mujer,hugo boss,boss alive edt,eau de toilette,89.0,52.0,42.72,5,1
+paco,mujer,dolce & gabbana,dolce shine,eau de parfum,129.0,46.0,69.66,0,0
+paco,mujer,guerlain,nahema,eau de parfum,146.5,35.0,95.22,0,0
+paco,mujer,police,to be good vibes woman,eau de parfum,48.0,58.0,20.16,0,0
+paco,mujer,montale paris,dark vanilla,eau de parfum,129.95,0.0,129.95,0,0
+paco,mujer,jimmy choo,l'eau,eau de toilette,111.0,37.0,69.93,0,0
+paco,mujer,montale paris,intense tiaré,eau de parfum,99.95,0.0,99.95,0,0
+paco,mujer,montale paris,herbal aquatica,eau de parfum,129.95,0.0,129.95,0,0
+paco,mujer,thierry mugler,mugler cologne,eau de toilette,96.0,48.0,49.92,4,82
+paco,mujer,gucci,rush,eau de toilette,71.0,51.0,34.79,4,7
+paco,mujer,balenciaga,florabotanica,eau de parfum,106.0,43.0,60.42,4,15
+paco,mujer,rochas,eau de rochas citron soleil,eau de toilette,95.0,47.0,50.35,4,4
+paco,mujer,lacoste,touch of pink,eau de toilette,99.2,65.0,34.72,4,112
+paco,mujer,dolce & gabbana,the one estuche,eau de parfum,132.0,47.0,69.96,5,1
+paco,mujer,lacoste,pour femme,eau de parfum,70.2,57.0,30.19,4,3
+paco,mujer,valentino,born in roma donna estuche,eau de parfum,136.0,44.0,76.16,3,2
+paco,mujer,calvin klein,obsession,eau de parfum,82.2,76.0,19.73,4,56
+paco,mujer,lancôme,idôle l'intense,eau de parfum,79.0,56.0,34.76,5,4
+paco,mujer,calvin klein,escape,eau de parfum,93.5,68.0,29.92,4,20
+paco,mujer,carolina herrera,"good girl fantastic pink ""edición limitada""",eau de parfum,120.0,32.0,81.6,4,5
+paco,mujer,elie saab,le parfum,eau de parfum,57.0,21.0,45.03,4,5
+paco,mujer,moschino,cheap and chic,eau de toilette,98.0,62.0,37.24,4,29
+paco,mujer,tommy hilfiger,tommy girl,eau de toilette,72.0,52.0,34.56,4,39
+paco,mujer,escada,"candy love ""edición limitada""",eau de toilette,61.0,43.0,34.77,5,3
+paco,mujer,gianfranco ferré,gieffeffe,eau de toilette,43.0,54.0,19.78,4,15
+paco,mujer,calvin klein,women,eau de parfum,67.0,63.0,24.79,4,6
+paco,mujer,shiseido,zen,eau de parfum,95.0,35.0,61.75,5,3
+paco,mujer,roberto cavalli,roberto cavalli,eau de parfum,103.8,71.0,30.1,5,1
+paco,mujer,narciso rodríguez,narciso,eau de parfum,130.0,35.0,84.5,4,22
+paco,mujer,lolita lempicka,lolita lempicka le parfum,eau de parfum,82.0,52.0,39.36,0,0
+paco,mujer,boucheron,quatre femme,eau de parfum,110.0,67.0,36.3,5,7
+paco,mujer,paco rabanne,olympea legend,eau de parfum,58.0,43.0,33.06,5,1
+paco,mujer,yves saint laurent,opium,eau de parfum,120.0,43.0,68.4,5,7
+paco,mujer,carolina herrera,ch privée,eau de parfum,80.5,63.0,29.78,5,2
+paco,mujer,carolina herrera,212 sexy,eau de parfum,92.0,24.0,69.92,4,24
+paco,mujer,jean paul gaultier,scandal by night,eau de parfum,64.5,38.0,39.99,4,3
+paco,mujer,davidoff,"cool water woman caribbean ""summer edition""",eau de toilette,49.0,51.0,24.01,4,4
+paco,mujer,van cleef & arpels,first,eau de parfum,86.0,59.0,35.26,4,6
+paco,mujer,jean paul gaultier,la belle fleur terrible,eau de parfum,121.0,36.0,77.44,0,0
+paco,mujer,jean paul gaultier,le male pride 2022,eau de toilette,102.5,34.0,67.65,0,0
+paco,mujer,chloé,chloé absolu de parfum,eau de parfum,80.0,50.0,40.0,4,2
+paco,mujer,davidoff,"cool water woman ""summer edition""",eau de toilette,49.0,55.0,22.05,4,4
+paco,mujer,jean paul gaultier,classique essence de parfum,eau de parfum,83.5,31.0,57.61,5,3
+paco,mujer,dkny,dkny women duo,eau de parfum,60.0,23.0,46.2,5,4
+paco,mujer,elizabeth arden,5th avenue after five,eau de parfum,69.3,80.0,13.86,4,28
+paco,mujer,hugo boss,boss femme,eau de parfum,103.0,52.0,49.44,4,44
+paco,mujer,carolina herrera,"ch under the sea ""edición limitada""",eau de parfum,111.0,46.0,59.94,5,1
+paco,mujer,carolina herrera,"good girl gold fantasy ""edición limitada""",eau de parfum,129.0,30.0,90.3,0,0
+paco,mujer,escada,"summer festival ""edición limitada""",eau de toilette,61.0,43.0,34.77,5,5
+paco,mujer,mandarina duck,cute blue edt,eau de toilette,26.05,69.0,8.08,4,10
+paco,mujer,escada,especially,eau de parfum,119.0,54.0,54.74,4,13
+paco,mujer,calvin klein,obsessed for women,eau de parfum,102.0,63.0,37.74,4,17
+paco,mujer,zadig & voltaire,girls can do anything,eau de parfum,59.0,35.0,38.35,5,1
+paco,mujer,rochas,mademoiselle edt,eau de toilette,46.0,57.0,19.78,4,8
+paco,mujer,angel schlesser,pirouette,eau de toilette,52.6,79.0,11.05,5,4
+paco,mujer,van cleef & arpels,first edt,eau de toilette,115.0,65.0,40.25,5,11
+paco,mujer,carolina herrera,ch l'eau,eau de toilette,68.5,56.0,30.14,5,2
+paco,mujer,bvlgari,splendida iris d'or,eau de parfum,135.0,35.0,87.75,4,2
+paco,mujer,gucci,bloom acqua di fiori,eau de toilette,136.0,56.0,59.84,5,3
+paco,mujer,chloé,chloé l'eau,eau de toilette,62.0,52.0,29.76,4,2
+paco,mujer,paco rabanne,olympea intense,eau de parfum,62.5,49.0,31.88,5,3
+paco,mujer,issey miyake,l'eau d'issey edp,eau de parfum,64.0,35.0,41.6,0,0
+paco,mujer,cacharel,yes i am fabulous,eau de parfum,59.0,53.0,27.73,4,2
+paco,mujer,yves saint laurent,black opium intense,eau de parfum,75.0,47.0,39.75,5,3
+paco,mujer,hugo boss,boss nuit pour femme,eau de parfum,101.0,51.0,49.49,4,22
+paco,mujer,yves saint laurent,manifesto,eau de parfum,140.0,43.0,79.8,4,11
+paco,mujer,escada,flor del sol,eau de toilette,43.0,47.0,22.79,5,5
+paco,mujer,leonard,eau fraîche edt,eau de toilette,66.0,55.0,29.7,4,20
+paco,mujer,hugo boss,hugo xx,eau de toilette,78.0,49.0,39.78,4,6
+paco,mujer,hermès,24 faubourg,eau de parfum,139.0,35.0,90.35,0,0
+paco,mujer,gucci,guilty intense,eau de parfum,116.0,48.0,60.32,5,10
+paco,mujer,jimmy choo,blossom,eau de parfum,56.0,64.0,20.16,0,0
+paco,mujer,gucci,mémoire d'une odeur,eau de parfum,113.0,56.0,49.72,5,3
+paco,mujer,burberry,body,eau de parfum,109.5,59.0,44.9,5,1
+paco,mujer,escada,"cherry in japan ""edición limitada""",eau de toilette,49.0,49.0,24.99,0,0
+paco,mujer,elie saab,girl of now,eau de parfum,53.0,22.0,41.34,4,4
+paco,mujer,zadig & voltaire,this is her! capsule collection,eau de parfum,74.0,35.0,48.1,5,2
+paco,mujer,carolina herrera,good girl légère,eau de parfum,60.0,37.0,37.8,5,5
+paco,mujer,burberry,my burberry black,eau de parfum,149.0,56.0,65.56,0,0
+paco,mujer,tous,love moments,eau de toilette,74.0,60.0,29.6,5,6
+paco,mujer,dolce & gabbana,the only one edp intense,eau de parfum,158.0,40.0,94.8,0,0
+paco,mujer,zadig & voltaire,this is love! for her,eau de parfum,120.0,35.0,78.0,0,0
+paco,mujer,thierry mugler,angel nova edt,eau de toilette,88.0,43.0,50.16,5,1
+paco,mujer,angel schlesser,femme intense,eau de parfum,90.0,56.0,39.6,4,1
+paco,mujer,nina ricci,premier jour,eau de parfum,91.5,45.0,50.32,4,7
+paco,mujer,tous,gems power,eau de toilette,60.0,50.0,30.0,5,2
+paco,mujer,dolce & gabbana,pour femme edt,eau de toilette,112.0,38.0,69.44,4,3
+paco,mujer,michael kors,sexy amber,eau de parfum,109.5,45.0,60.22,5,10
+paco,mujer,dolce & gabbana,the one edt,eau de toilette,104.0,42.0,60.32,5,4
+paco,mujer,lancôme,ô d'azur,eau de toilette,71.5,51.0,35.03,5,4
+paco,mujer,tom ford,neroli portofino,eau de parfum,158.4,0.0,158.4,0,0
+paco,mujer,alaïa,alaïa,eau de parfum,90.0,0.0,90.0,5,1
+paco,mujer,burberry,london women,eau de parfum,96.9,48.0,50.39,5,2
+paco,mujer,hermès,24 faubourg edt,eau de toilette,160.0,35.0,104.0,5,1
+paco,mujer,valentino,donna acqua,eau de toilette,56.0,36.0,35.84,0,0
+paco,mujer,issey miyake,l'eau d'issey pure,eau de parfum,107.0,35.0,69.55,4,6
+paco,mujer,rochas,mademoiselle couture,eau de parfum,55.0,56.0,24.2,5,2
+paco,mujer,paco rabanne,olympea aqua,eau de toilette,103.0,37.0,64.89,5,2
+paco,mujer,dolce & gabbana,"light blue italian love ""limited edition""",eau de toilette,111.0,31.0,76.59,4,3
+paco,mujer,calvin klein,downtown,eau de parfum,87.85,66.0,29.87,4,13
+paco,mujer,hermès,un jardin après la mousson,eau de toilette,133.0,35.0,86.45,4,6
+paco,mujer,mariah carey,m mariah carey edp,eau de parfum,64.1,53.0,30.13,4,3
+paco,mujer,calvin klein,eternity eau fresh,eau de parfum,93.0,68.0,29.76,0,0
+paco,mujer,coach,coach floral,eau de parfum,49.0,67.0,16.17,4,2
+paco,mujer,courrèges,blanc de courreges,eau de parfum,89.0,70.0,26.7,4,1
+paco,mujer,hermès,eau des merveilles elixir,eau de parfum,72.5,30.0,50.75,0,0
+paco,mujer,carolina herrera,"good girl superstars ""edición limitada""",eau de parfum,121.0,32.0,82.28,5,2
+paco,mujer,montale paris,arabians tonka,eau de parfum,134.95,0.0,134.95,0,0
+paco,mujer,davidoff,cool water intense for her,eau de parfum,118.0,75.0,29.5,4,1
+paco,mujer,hugo boss,hugo woman,eau de parfum,87.0,46.0,46.98,4,16
+paco,mujer,givenchy,dahlia divin,eau de parfum,113.5,40.0,68.1,5,7
+paco,mujer,yves saint laurent,mon paris floral,eau de parfum,140.0,46.0,75.6,4,5
+paco,mujer,moschino,cheap and chic so real,eau de toilette,98.0,64.0,35.28,5,3
+paco,mujer,chloé,chloé edt rose tangerine,eau de toilette,93.0,57.0,39.99,0,0
+paco,mujer,tous,rosa,eau de parfum,84.0,52.0,40.32,5,2
+paco,mujer,chloé,chloé nomade edt,eau de toilette,64.0,61.0,24.96,5,1
+paco,mujer,givenchy,live irrésistible,eau de parfum,129.5,40.0,77.7,5,3
+paco,mujer,dkny,be tempted,eau de parfum,97.0,38.0,60.14,4,2
+paco,mujer,elie saab,girl of now forever,eau de parfum,53.0,43.0,30.21,5,1
+paco,mujer,dolce & gabbana,pour femme intense,eau de parfum,151.0,45.0,83.05,4,8
+paco,mujer,viktor & rolf,flowerbomb midnight,eau de parfum,155.0,49.0,79.05,5,2
+paco,mujer,rochas,lumière,eau de toilette,115.0,78.0,25.3,3,4
+paco,mujer,calvin klein,women edt,eau de toilette,77.6,61.0,30.26,4,3
+paco,mujer,elie saab,le parfum royal,eau de parfum,57.0,30.0,39.9,5,1
+paco,mujer,bvlgari,splendida rose rose,eau de parfum,135.0,35.0,87.75,4,1
+paco,mujer,bvlgari,goldea,eau de parfum,95.0,35.0,61.75,5,2
+paco,mujer,elizabeth arden,5th avenue style,eau de parfum,45.5,56.0,20.02,4,12
+paco,mujer,narciso rodríguez,"for her edt ""edición limitada""",eau de toilette,121.0,35.0,78.65,0,0
+paco,mujer,chloé,chloé edt,eau de toilette,115.0,61.0,44.85,0,0
+paco,mujer,elie saab,le parfum in white,eau de parfum,57.0,21.0,45.03,5,1
+paco,mujer,coach,coach dreams,eau de parfum,106.0,62.0,40.28,5,1
+paco,mujer,chloé,chloé nomade absolu de parfum,eau de parfum,112.0,60.0,44.8,0,0
+paco,mujer,alyssa ashley,musk edt,eau de toilette,45.95,48.0,23.89,5,3
+paco,mujer,tous,touch the sensual gold,eau de toilette,96.0,58.0,40.32,0,0
+paco,mujer,nina ricci,nina l'eau,eau de toilette,37.5,49.0,19.12,4,6
+paco,mujer,kenzo,kenzo world edt,eau de toilette,101.5,40.0,60.9,4,4
+paco,mujer,burberry,my burberry,eau de parfum,113.0,49.0,57.63,5,1
+paco,mujer,nina ricci,les belles de nina luna,eau de toilette,48.5,38.0,30.07,5,1
+paco,mujer,miu miu,fleur d'argent,eau de parfum,167.0,61.0,65.13,5,3
+paco,mujer,loewe,001 eau de cologne,eau de cologne,97.9,35.0,63.64,5,3
+paco,mujer,escada,joyful,eau de parfum,54.0,35.0,35.1,5,2
+paco,mujer,burberry,her intense,eau de parfum,79.0,49.0,40.29,5,3
+paco,mujer,lacoste,eau de lacoste l.12.12 pour elle elegant,eau de toilette,85.0,47.0,45.05,5,6
+paco,mujer,carven,carven le parfum,eau de parfum,82.5,64.0,29.7,0,0
+paco,mujer,marc jacobs,daisy,eau de toilette,127.0,45.0,69.85,5,2
+paco,mujer,mandarina duck,for her,eau de toilette,28.0,29.0,19.88,0,0
+paco,mujer,carven,carven l'eau de toilette,eau de toilette,77.9,62.0,29.6,0,0
+paco,mujer,burberry,my burberry blush,eau de parfum,123.0,47.0,65.19,5,4
+paco,mujer,gucci,bloom ambrosia di fiori,eau de parfum,120.0,50.0,60.0,4,2
+paco,mujer,rochas,eau de rochas escapade au soleil,eau de toilette,100.0,63.0,37.0,4,11
+paco,mujer,burberry,body edt,eau de toilette,96.9,59.0,39.73,5,8
+paco,mujer,thierry mugler,alien fusion,eau de parfum,77.0,42.0,44.66,4,2
+paco,mujer,trussardi,trussardi,eau de parfum,61.0,56.0,26.84,0,0
+paco,mujer,hugo boss,boss the scent absolute for her,eau de parfum,109.0,59.0,44.69,5,1
+paco,mujer,dolce & gabbana,the one gold,eau de parfum,139.0,42.0,80.62,5,1
+paco,mujer,guerlain,aqua allegoria pera granita,eau de toilette,98.1,39.0,59.84,5,1
+paco,mujer,parfums de marly,darcy edp,eau de parfum,179.0,0.0,179.0,5,1
+paco,mujer,hermès,kelly calèche,eau de toilette,150.0,30.0,105.0,0,0
+paco,mujer,lanvin,marry me!,eau de parfum,87.0,77.0,20.01,5,1
+paco,mujer,hugo boss,boss the scent magnetic for her,eau de parfum,78.0,49.0,39.78,0,0
+paco,mujer,narciso rodríguez,for her fleur musc florale,eau de toilette,106.0,35.0,68.9,0,0
+paco,mujer,carven,ma griffe,eau de parfum,88.0,25.0,66.0,0,0
+paco,mujer,trussardi,sound of donna,eau de parfum,85.8,53.0,40.33,5,1
+paco,mujer,montblanc,lady emblem,eau de parfum,99.0,50.0,49.5,0,0
+paco,mujer,dolce & gabbana,dolce,eau de parfum,115.0,39.0,70.15,4,4
+paco,mujer,michael kors,wonderlust sublime,eau de parfum,107.0,44.0,59.92,4,5
+paco,mujer,rochas,byzance,eau de toilette,90.0,56.0,39.6,4,11
+paco,mujer,elie saab,girl of now shine,eau de parfum,53.0,42.0,30.74,4,3
+paco,mujer,burberry,brit for her edt,eau de toilette,96.9,59.0,39.73,5,2
+paco,mujer,paco rabanne,lady million lucky,eau de parfum,57.5,44.0,32.2,5,1
+paco,mujer,zadig & voltaire,girls can say anything,eau de parfum,59.0,35.0,38.35,0,0
+paco,mujer,carolina herrera,"212 vip rosé red ""edición limitada""",eau de parfum,99.0,26.0,73.26,5,2
+paco,mujer,guerlain,les absolus d'orient bois mystérieux,eau de parfum,171.7,35.0,111.6,0,0
+paco,mujer,burberry,brit rhythm for her,eau de toilette,97.9,69.0,30.35,4,2
+paco,mujer,narciso rodríguez,fleur musc for her generous spray,eau de parfum,98.0,35.0,63.7,5,1
+paco,mujer,guerlain,jardins de bagatelle,eau de parfum,146.5,35.0,95.22,0,0
+paco,mujer,philippe starck,peau de soie,eau de toilette,95.0,0.0,95.0,0,0
+paco,mujer,halloween,halloween i'm unique,eau de toilette,59.0,49.0,30.09,5,1
+paco,mujer,dkny,dkny nectar love,eau de parfum,97.0,46.0,52.38,4,2
+paco,mujer,alyssa ashley,ambre gris,eau de parfum,27.8,28.0,20.02,5,2
+paco,mujer,nina ricci,"les sorbets de nina ""edición limitada 2019""",eau de toilette,67.0,40.0,40.2,5,1
+paco,mujer,moschino,pink fresh couture,eau de toilette,98.0,59.0,40.18,0,0
+paco,mujer,elie saab,le parfum essentiel,eau de parfum,57.0,43.0,32.49,5,1
+paco,mujer,issey miyake,l'eau d'issey pure nectar,eau de parfum,125.0,35.0,81.25,5,7
+paco,mujer,tous,floral touch,eau de toilette,96.0,58.0,40.32,5,6
+paco,mujer,issey miyake,l'eau d'issey eau & magnolia,eau de toilette,92.0,35.0,59.8,0,0
+paco,mujer,alyssa ashley,oud pour elle,eau de parfum,61.55,59.0,25.24,0,0
+paco,mujer,lacoste,eau de lacoste l.12.12 pour elle magnetic,eau de parfum,96.2,53.0,45.21,5,4
+paco,mujer,michael kors,gorgeous!,eau de parfum,62.5,41.0,36.88,0,0
+paco,mujer,miu miu,l'eau bleue,eau de parfum,160.0,56.0,70.4,5,2
+paco,mujer,guerlain,mon guerlain bloom of rose edp,eau de parfum,105.35,36.0,67.42,0,0
+paco,mujer,guerlain,mon guerlain bloom of rose,eau de toilette,125.4,35.0,81.51,5,1
+paco,mujer,karl lagerfeld,fleur de pêcher,eau de parfum,100.0,70.0,30.0,5,2
+paco,mujer,burberry,her blossom,eau de toilette,65.0,46.0,35.1,5,1
+paco,mujer,lacoste,eau de lacoste sensuelle,eau de parfum,85.0,35.0,55.25,4,3
+paco,mujer,elizabeth arden,my fifth avenue,eau de parfum,60.0,40.0,36.0,3,1
+paco,mujer,bvlgari,goldea the roman night,eau de parfum,90.0,35.0,58.5,0,0
+paco,mujer,pierre balmain,extatic,eau de parfum,90.0,22.0,70.2,0,0
+paco,mujer,davidoff,cool water reborn for her,eau de toilette,112.0,64.0,40.32,0,0
+paco,mujer,hermès,galop d'hermès,eau de parfum,265.0,30.0,185.5,0,0
+paco,mujer,davidoff,cool water woman jasmine & tangerine,eau de toilette,82.05,63.0,30.36,0,0
+paco,mujer,hermès,jour d'hermès edp,eau de parfum,145.0,30.0,101.5,0,0
+paco,mujer,coach,coach floral blush,eau de parfum,118.0,58.0,49.56,0,0
+paco,mujer,lacoste,eau de lacoste l.12.12 pour elle natural,eau de toilette,84.0,46.0,45.36,4,3
+paco,mujer,dior,miss dior edt roller-pearl,eau de toilette,38.25,0.0,38.25,5,2
+paco,mujer,hugo boss,boss the scent intense for her,eau de parfum,92.0,46.0,49.68,5,1
+paco,mujer,hermès,hiris,eau de toilette,145.5,30.0,101.85,5,1
+paco,mujer,marc jacobs,"daisy eau so fresh twinkle ""edición limitada""",eau de toilette,72.45,45.0,39.85,5,2
+paco,mujer,hugo boss,ma vie intense pour femme,eau de parfum,104.0,52.0,49.92,4,5
+paco,mujer,dkny,dkny my ny,eau de parfum,91.0,40.0,54.6,0,0
+paco,mujer,hugo boss,boss the scent for her eau de toilette,eau de toilette,75.0,40.0,45.0,5,1
+paco,mujer,chopard,casmir,eau de parfum,74.0,0.0,74.0,0,0
+paco,mujer,nina ricci,"les sorbets de bella ""edición limitada 2019""",eau de toilette,67.0,39.0,40.87,5,3
+paco,mujer,tous,touch the luminous gold,eau de toilette,96.0,52.0,46.08,0,0
+paco,mujer,angel schlesser,pour elle,eau de parfum,77.6,41.0,45.78,5,7
+paco,mujer,el ganso,señorita mon amour,eau de toilette,72.0,45.0,39.6,0,0
+paco,mujer,police,to be exotic jungle for woman edp,eau de parfum,35.0,57.0,15.05,0,0
+paco,mujer,guerlain,après l'ondée,eau de toilette,106.1,35.0,68.96,0,0
+paco,mujer,guerlain,chant d'arômes,eau de toilette,120.1,35.0,78.06,5,1
+paco,mujer,marc jacobs,"daisy twinkle ""edición limitada""",eau de toilette,70.35,30.0,49.24,0,0
+paco,mujer,hermès,eau de narcisse bleu,eau de cologne,137.0,31.0,94.53,5,2
+paco,mujer,hermès,eau de mandarine ambrée,eau de cologne,111.0,30.0,77.7,0,0
+paco,mujer,jean paul gaultier,classique pride 2022,eau de toilette,92.5,35.0,60.12,5,1
+paco,mujer,salvatore ferragamo,signorina misteriosa,eau de parfum,122.0,34.0,80.52,5,1
+paco,mujer,hermès,eau d'hermès,eau de toilette,108.0,31.0,74.52,0,0
+paco,mujer,sisley,eau tropicale,eau de parfum,64.5,30.0,45.15,0,0
+paco,mujer,marc jacobs,daisy eau so intense,eau de parfum,136.0,52.0,65.28,0,0
+paco,mujer,hermès,rose amazone,eau de toilette,145.5,30.0,101.85,0,0
+paco,mujer,guerlain,jardins de bagatelle edt,eau de toilette,126.45,35.0,82.19,0,0
+paco,mujer,marc jacobs,daisy love eau so sweet,eau de toilette,123.0,55.0,55.35,5,3
+paco,mujer,carven,dans ma bulle,eau de parfum,85.9,65.0,30.06,0,0
+paco,mujer,issey miyake,l'eau d'issey rose & rose,eau de parfum,110.0,35.0,71.5,0,0
+paco,mujer,carolina herrera,"212 vip rosé smiley ""edición limitada""",eau de parfum,106.5,32.0,72.42,4,1
+paco,mujer,miu miu,twist,eau de parfum,80.0,50.0,40.0,0,0
+paco,mujer,perris monte carlo,patchouli nosy be extrait,parfum,275.0,0.0,275.0,0,0
+paco,mujer,montblanc,lady emblem l'eau,eau de toilette,90.0,44.0,50.4,5,2
+paco,mujer,nina ricci,les belles de nina luna blossom,eau de toilette,65.0,39.0,39.65,0,0
+paco,mujer,pierre balmain,extatic tiger orchid,eau de parfum,90.0,22.0,70.2,0,0
+paco,mujer,miu miu,l'eau rosée,eau de toilette,140.0,57.0,60.2,5,1
+paco,mujer,montale paris,vanille absolu,eau de parfum,99.95,0.0,99.95,0,0
+paco,mujer,perris monte carlo,bois d'oud,eau de parfum,145.0,0.0,145.0,5,2
+paco,mujer,hermès,l'ambre des merveilles,eau de parfum,165.0,30.0,115.5,0,0
+paco,mujer,hermès,amazone,eau de toilette,145.5,30.0,101.85,5,1
+paco,mujer,hermès,rouge,eau de toilette,145.5,30.0,101.85,5,1
+paco,mujer,marc jacobs,daisy dream,eau de toilette,127.0,49.0,64.77,4,9
+paco,mujer,lacoste,eau de lacoste l. 12. 12 eau fraîche pour elle,eau de toilette,87.5,49.0,44.62,4,3
+paco,mujer,montale paris,wild pears,eau de parfum,99.95,0.0,99.95,0,0
+paco,mujer,perris monte carlo,essence de patchouli,eau de parfum,145.0,0.0,145.0,5,1
+paco,mujer,davidoff,"cool water woman street fighter ""champion edition""",eau de toilette,82.05,57.0,35.28,0,0
+paco,mujer,liz claiborne,lucky you,eau de toilette,28.0,29.0,19.88,5,1
+paco,mujer,marc jacobs,"daisy spring ""edición limitada""",eau de toilette,71.9,31.0,49.61,0,0
+paco,mujer,lacoste,l.12.12 french panache pour elle,eau de toilette,91.8,54.0,42.23,5,1
+paco,mujer,issey miyake,igo l'eau d'issey,eau de toilette,124.0,35.0,80.6,0,0
+paco,mujer,hermès,eau de néroli doré,eau de cologne,111.0,30.0,77.7,0,0
+paco,mujer,miu miu,twist edt,eau de toilette,104.0,47.0,55.12,0,0
+paco,mujer,iceberg,eau de iceberg,eau de toilette,50.0,40.0,30.0,0,0
+paco,mujer,jimmy boyd,spring rain water,eau de toilette,62.0,15.0,52.7,0,0
+paco,mujer,carven,dans ma bulle de fleurs,eau de toilette,104.5,20.0,83.6,0,0
+paco,mujer,jil sander,evergreen,eau de toilette,62.9,0.0,62.9,0,0
+paco,mujer,montale paris,oudrising,eau de parfum,134.95,0.0,134.95,0,0
+paco,mujer,carven,dans ma bulle edt,eau de toilette,82.5,26.0,61.05,0,0
+paco,mujer,perris monte carlo,absolue d'osmanthe extrait,parfum,275.0,0.0,275.0,0,0
+paco,mujer,perris monte carlo,musk extreme,eau de parfum,145.0,0.0,145.0,0,0
+paco,mujer,jimmy boyd,wonderful india,eau de toilette,62.0,15.0,52.7,0,0
+paco,mujer,montale paris,velvet fantasy,eau de parfum,129.95,0.0,129.95,0,0
+paco,mujer,loewe,aura floral,eau de parfum,130.0,35.0,84.5,4,5
+paco,mujer,guerlain,l'heure bleue edp,eau de parfum,146.5,35.0,95.22,0,0

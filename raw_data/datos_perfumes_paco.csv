@@ -1,0 +1,1569 @@
+,categoria,marca,nombre,tipo,precio_sin_desc,descuento,precio_con_desc,valoracion,num_valoraciones
+0,Perfumes de Hombre,PACO RABANNE,1 MILLION,Eau de Toilette para Hombre,80.50,38%,80.50,5,4
+1,Perfumes de Hombre,Dior,SAUVAGE,Eau de Parfum,77.94,No tiene,Sin descuento,4,17
+2,Perfumes de Hombre,PACO RABANNE,INVICTUS,Eau de Toilette para Hombre,79.00,38%,79.00,4,58
+3,Perfumes de Hombre,ARMANI,ACQUA DI GIÒ Hombre,Eau de Toilette para Hombre,70.00,50%,70.00,4,10
+4,Perfumes de Hombre,LOEWE,ESENCIA LOEWE,Eau de Toilette para Hombre,97.00,35%,97.00,4,2
+5,Perfumes de Hombre,HUGO BOSS,BOSS BOTTLED,Eau de Toilette para Hombre,69.00,57%,69.00,4,14
+6,Perfumes de Hombre,JEAN PAUL GAULTIER,LE MALE,Eau de Toilette para Hombre,61.50,51%,61.50,4,41
+7,Perfumes de Hombre,RALPH LAUREN,POLO BLUE,Eau de Toilette para Hombre,82.00,51%,82.00,5,9
+8,Perfumes de Hombre,ADOLFO DOMÍNGUEZ,Agua Fresca,Eau de Toilette para Hombre,36.50,40%,36.50,5,4
+9,Perfumes de Hombre,CAROLINA HERRERA,212 MEN,Eau de Toilette para Hombre,74.50,49%,74.50,4,10
+10,Perfumes de Hombre,CAROLINA HERRERA,BAD BOY,Eau de Toilette para Hombre,79.50,33%,79.50,4,7
+11,Perfumes de Hombre,YVES SAINT LAURENT,Y MEN,Eau de Toilette para Hombre,90.00,50%,90.00,5,1
+12,Perfumes de Hombre,GIVENCHY,Gentleman Society,Eau de Parfum para Hombre,96.00,48%,96.00,0,0
+13,Perfumes de Hombre,DAVIDOFF,COOL WATER,Eau de Toilette para Hombre,57.00,74%,57.00,4,9
+14,Perfumes de Hombre,ROCHAS,ROCHAS MAN,Eau de Toilette para Hombre,63.00,59%,63.00,4,7
+15,Perfumes de Hombre,DOLCE & GABBANA,K BY DOLCE & GABBANA,Eau de Toilette para Hombre,82.00,45%,82.00,4,13
+16,Perfumes de Hombre,JEAN PAUL GAULTIER,ULTRA MALE,Eau de Toilette para Hombre,83.00,52%,83.00,4,9
+17,Perfumes de Hombre,CALVIN KLEIN,CK ONE,Eau de Toilette Unisex,76.00,72%,76.00,4,12
+18,Perfumes de Hombre,YVES SAINT LAURENT,MYSLF,Eau de Parfum para Hombre,92.00,35%,92.00,0,0
+19,Perfumes de Hombre,CALVIN KLEIN,CK BE,Eau de Toilette Unisex,76.00,74%,76.00,4,7
+20,Perfumes de Hombre,ARMANI,ACQUA DI GIÒ PROFONDO,Eau de Parfum para Hombre,115.00,52%,115.00,4,12
+21,Perfumes de Hombre,CALVIN KLEIN,ETERNITY For Men,Eau de Toilette para Hombre,53.00,62%,53.00,4,9
+22,Perfumes de Hombre,YVES SAINT LAURENT,LA NUIT DE L'HOMME,Eau de Toilette para Hombre,90.00,49%,90.00,5,5
+23,Perfumes de Hombre,Nikos,SCULPTURE,Eau de Toilette para hombre,65.90,74%,65.90,4,231
+24,Perfumes de Hombre,ISSEY MIYAKE,L'EAU D'ISSEY POUR HOMME,Eau de Toilette para Hombre,57.00,35%,57.00,4,12
+25,Perfumes de Hombre,PACO RABANNE,POUR HOMME,Eau de Toilette para Hombre,56.50,47%,56.50,5,1
+26,Perfumes de Hombre,ADOLFO DOMÍNGUEZ,Agua Fresca Citrus Cedro,Eau de Toilette para Hombre,36.50,59%,36.50,5,2
+27,Perfumes de Hombre,ADOLFO DOMÍNGUEZ,Bambú,Eau de Toilette para Hombre,31.50,54%,31.50,4,11
+28,Perfumes de Hombre,ARMANI,ACQUA DI GIÒ PARFUM,Parfum para Hombre,115.00,44%,115.00,5,5
+29,Perfumes de Hombre,LOEWE,ESENCIA LOEWE EDP,Eau de Parfum para Hombre,110.00,35%,110.00,4,7
+30,Perfumes de Hombre,PRADA,Infusion d'Iris,Eau de Parfum Unisex,110.00,46%,110.00,4,15
+31,Perfumes de Hombre,HUGO BOSS,HUGO MAN,Eau de Toilette para Hombre,80.00,56%,80.00,5,2
+32,Perfumes de Hombre,JEAN PAUL GAULTIER,LE BEAU Le Parfum,Eau de Parfum Intense para Hombre,89.50,46%,89.50,4,1
+33,Perfumes de Hombre,CAROLINA HERRERA,212 VIP MEN,Eau de Toilette para Hombre,74.50,52%,74.50,4,6
+34,Perfumes de Hombre,ARMANI,CODE Hombre,Eau de Toilette para Hombre,89.00,44%,89.00,0,0
+35,Perfumes de Hombre,PACO RABANNE,ULTRAVIOLET MAN,Eau de Toilette para Hombre,61.50,51%,61.50,4,8
+36,Perfumes de Hombre,ARMANI,CODE LE PARFUM,Eau de Parfum para Hombre,95.00,47%,95.00,5,2
+37,Perfumes de Hombre,PACO RABANNE,BLACK XS,Eau de Toilette para Hombre,73.50,46%,73.50,5,2
+38,Perfumes de Hombre,JEAN PAUL GAULTIER,LE BEAU,Eau de Toilette para Hombre,81.50,39%,81.50,4,8
+39,Perfumes de Hombre,CALVIN KLEIN,CK ONE REFLECTIONS,Eau de Toilette Unisex,70.00,65%,70.00,5,4
+40,Perfumes de Hombre,ROCHAS,EAU DE ROCHAS Pour Homme,Eau de Toilette para Hombre,54.00,63%,54.00,4,2
+41,Perfumes de Hombre,JEAN PAUL GAULTIER,LE MALE Elixir,Eau de Parfum para Hombre,96.00,34%,96.00,0,0
+42,Perfumes de Hombre,PRADA,Amber pour Homme,Eau de Toilette para Hombre,120.00,58%,120.00,4,18
+43,Perfumes de Hombre,HUGO BOSS,BOSS THE SCENT,Eau de Toilette para Hombre,89.00,57%,89.00,4,7
+44,Perfumes de Hombre,ARMANI,EAU POUR HOMME,Eau de Toilette para Hombre,150.00,57%,150.00,4,53
+45,Perfumes de Hombre,YVES SAINT LAURENT,L'HOMME,Eau de Toilette para Hombre,90.00,49%,90.00,4,5
+46,Perfumes de Hombre,AZZARO,Chrome,Eau de Toilette para Hombre,90.00,56%,90.00,4,5
+47,Perfumes de Hombre,LANCASTER,EAU DE LANCASTER,Eau de Toilette Unisex,64.90,74%,64.90,4,2
+48,Perfumes de Hombre,Quorum,QUORUM,Eau de Toilette para Hombre,11.95,No tiene,Sin descuento,4,47
+49,Perfumes de Hombre,CAROLINA HERRERA,212 VIP BLACK,Eau de Parfum para Hombre,78.00,44%,78.00,4,3
+50,Perfumes de Hombre,GIVENCHY,Gentleman Givenchy,Eau de Toilette para Hombre,107.00,48%,107.00,5,13
+51,Perfumes de Hombre,CALVIN KLEIN,OBSESSION For Men,Eau de Toilette para Hombre,64.95,65%,64.95,4,18
+52,Perfumes de Hombre,VALENTINO,UOMO INTENSE,Eau de Parfum para Hombre,95.00,48%,95.00,5,2
+53,Perfumes de Hombre,DIESEL,ONLY THE BRAVE TATTOO,Eau de Toilette para Hombre,79.00,49%,79.00,4,3
+54,Perfumes de Hombre,ARMANI,STRONGER WITH YOU ABSOLUTELY,Parfum para Hombre,89.00,46%,89.00,5,2
+55,Perfumes de Hombre,RALPH LAUREN,POLO RED,Eau de Toilette para Hombre,77.00,49%,77.00,4,5
+56,Perfumes de Hombre,LOEWE,AGUA DE LOEWE,Eau de Toilette Unisex,71.00,35%,71.00,0,0
+57,Perfumes de Hombre,YVES SAINT LAURENT,Y MEN EDP,Eau de Parfum para Hombre,98.00,50%,98.00,4,5
+58,Perfumes de Hombre,PRADA,Luna Rossa Carbon,Eau de Toilette para Hombre,85.00,47%,85.00,5,1
+59,Perfumes de Hombre,CAROLINA HERRERA,HERRERA FOR MEN,Eau de Toilette para Hombre,95.50,53%,95.50,4,31
+60,Perfumes de Hombre,YVES SAINT LAURENT,Y LE PARFUM,Eau de Parfum para Hombre,110.00,50%,110.00,5,3
+61,Perfumes de Hombre,VALENTINO,BORN IN ROMA UOMO,Eau de Toilette para Hombre,87.00,52%,87.00,0,0
+62,Perfumes de Hombre,ARMANI,STRONGER WITH YOU,Eau de Toilette para Hombre,69.00,49%,69.00,5,1
+63,Perfumes de Hombre,LOEWE,SOLO LOEWE,Eau de Toilette para Hombre,96.00,35%,96.00,5,3
+64,Perfumes de Hombre,PRADA,Luna Rossa Ocean,Eau de Toilette para Hombre,85.00,47%,85.00,0,0
+65,Perfumes de Hombre,ARMANI,ACQUA DI GIÒ EDP,Eau de Parfum para Hombre,115.00,48%,115.00,0,0
+66,Perfumes de Hombre,HERMÈS,Un Jardin Sur Le Nil,Eau de Toilette Unisex,96.00,33%,96.00,4,7
+67,Perfumes de Hombre,HUGO BOSS,BOSS IN MOTION,Eau de Toilette para Hombre,83.00,64%,83.00,4,2
+68,Perfumes de Hombre,DIESEL,ONLY THE BRAVE,Eau de Toilette para Hombre,73.15,48%,73.15,5,8
+69,Perfumes de Hombre,CALVIN KLEIN,CONTRADICTION For Men,Eau de Toilette para Hombre,67.55,56%,67.55,4,15
+70,Perfumes de Hombre,CALVIN KLEIN,ETERNITY For Men EDP,Eau de Parfum para Hombre,80.00,61%,80.00,3,2
+71,Perfumes de Hombre,CAROLINA HERRERA,CH MEN,Eau de Toilette para Hombre,78.00,50%,78.00,0,0
+72,Perfumes de Hombre,DIESEL,BAD,Eau de Toilette para Hombre,69.00,42%,69.00,4,1
+73,Perfumes de Hombre,HUGO BOSS,BOSS BOTTLED EDP,Eau de Parfum para Hombre,94.00,58%,94.00,4,2
+74,Perfumes de Hombre,KENZO,HOMME INTENSE,Eau de Toilette para Hombre,78.50,54%,78.50,4,8
+75,Perfumes de Hombre,GIVENCHY,Gentleman Réserve Privée,Eau de Parfum para Hombre,91.50,41%,91.50,4,3
+76,Perfumes de Hombre,LOEWE,7 LOEWE,Eau de Toilette para Hombre,84.00,35%,84.00,4,2
+77,Perfumes de Hombre,LOEWE,AGUA DE LOEWE MAR DE CORAL,Eau de Toilette Unisex,71.00,35%,71.00,4,3
+78,Perfumes de Hombre,LOEWE,POUR HOMME,Eau de Toilette para Hombre,88.00,35%,88.00,5,1
+79,Perfumes de Hombre,MONTBLANC,LEGEND,Eau de Toilette para Hombre,50.00,60%,50.00,4,1
+80,Perfumes de Hombre,PACO RABANNE,INVICTUS LEGEND,Eau de Parfum para Hombre,74.50,46%,74.50,5,7
+81,Perfumes de Hombre,VIKTOR & ROLF,Spicebomb Pour Homme,Eau de Toilette para Hombre,80.00,54%,80.00,4,3
+82,Perfumes de Hombre,ADOLFO DOMÍNGUEZ,Agua Fresca Lima Tonka,Eau de Toilette para Hombre,54.50,54%,54.50,0,0
+83,Perfumes de Hombre,Dior,EAU SAUVAGE,Eau de Toilette,64.95,No tiene,Sin descuento,4,4
+84,Perfumes de Hombre,BOUCHERON,POUR HOMME EDP,Eau de Parfum para Hombre,109.00,70%,109.00,4,8
+85,Perfumes de Hombre,TOM FORD,Ombré Leather,Eau de Parfum para Hombre,84.50,No tiene,Sin descuento,5,3
+86,Perfumes de Hombre,PACO RABANNE,PURE XS,Eau de Toilette para Hombre,77.50,48%,77.50,4,1
+87,Perfumes de Hombre,Dunhill,Desire For Man EDT,Eau de Toilette para Hombre,62.00,68%,62.00,4,20
+88,Perfumes de Hombre,LOEWE,AGUA DE LOEWE MAR DE CORAL Icono,Eau de Toilette Unisex,125.00,35%,125.00,5,1
+89,Perfumes de Hombre,HUGO BOSS,BOSS BOTTLED ELIXIR,Parfum Intense para Hombre,111.00,41%,111.00,0,0
+90,Perfumes de Hombre,Dior,SAUVAGE EDT,Eau de Toilette,52.94,No tiene,Sin descuento,0,0
+91,Perfumes de Hombre,YVES SAINT LAURENT,Y MEN EDP INTENSE,Eau de Parfum Intense para Hombre,105.00,48%,105.00,0,0
+92,Perfumes de Hombre,ARMANI,EMPORIO ARMANI Hombre,Eau de Toilette para Hombre,110.00,55%,110.00,4,12
+93,Perfumes de Hombre,MONTBLANC,EXPLORER,Eau de Parfum para Hombre,80.00,50%,80.00,4,8
+94,Perfumes de Hombre,VERSACE,Eros,Eau de Toilette para Hombre,83.00,43%,83.00,5,1
+95,Perfumes de Hombre,YVES SAINT LAURENT,KOUROS,Eau de Toilette para Hombre,82.00,42%,82.00,4,7
+96,Perfumes de Hombre,PACO RABANNE,1 MILLION PARFUM,Eau de Parfum para Hombre,87.00,38%,87.00,4,6
+97,Perfumes de Hombre,VALENTINO,BORN IN ROMA UOMO INTENSE,Eau de Parfum Intense para Hombre,87.00,37%,87.00,0,0
+98,Perfumes de Hombre,DOLCE & GABBANA,LIGHT BLUE Pour Homme,Eau de Toilette para Hombre,65.00,43%,65.00,0,0
+99,Perfumes de Hombre,AZZARO,Azzaro Sport,Eau de Toilette para Hombre,78.00,72%,78.00,5,1
+100,Perfumes de Hombre,Dior,SAUVAGE PARFUM,Parfum,75.75,No tiene,Sin descuento,0,0
+101,Perfumes de Hombre,VERSACE,Pour Homme,Eau de Toilette para Hombre,83.00,40%,83.00,0,0
+102,Perfumes de Hombre,CACHAREL,POUR HOMME,Eau de Toilette para Hombre,100.00,60%,100.00,4,18
+103,Perfumes de Hombre,LOEWE,7 COBALT,Eau de Parfum para Hombre,95.00,35%,95.00,4,3
+104,Perfumes de Hombre,DIESEL,FUEL FOR LIFE Homme,Eau de Toilette para Hombre,48.00,54%,48.00,5,2
+105,Perfumes de Hombre,BVLGARI,Pour Homme Extrême,Eau de Toilette para Hombre,99.00,35%,99.00,4,28
+106,Perfumes de Hombre,CAROLINA HERRERA,212 SEXY MEN,Eau de Toilette para Hombre,79.50,12%,79.50,5,3
+107,Perfumes de Hombre,RALPH LAUREN,POLO BLUE EDP,Eau de Parfum para Hombre,92.00,53%,92.00,3,5
+108,Perfumes de Hombre,CALVIN KLEIN,IN2U Him,Eau de Toilette para Hombre,76.00,76%,76.00,4,42
+109,Perfumes de Hombre,BVLGARI,Man in Black,Eau de Parfum para Hombre,100.00,35%,100.00,0,0
+110,Perfumes de Hombre,CALVIN KLEIN,CK ONE SHOCK For Him,Eau de Toilette para Hombre,76.00,70%,76.00,5,2
+111,Perfumes de Hombre,CALVIN KLEIN,CK EVERYONE,Eau de Toilette Unisex,58.00,59%,58.00,4,2
+112,Perfumes de Hombre,DOLCE & GABBANA,THE ONE For Men,Eau de Toilette para Hombre,82.00,39%,82.00,0,0
+113,Perfumes de Hombre,TOM FORD,Costa Azzurra Parfum,Parfum para Hombre,99.00,No tiene,Sin descuento,5,1
+114,Perfumes de Hombre,DOLCE & GABBANA,K BY DOLCE & GABBANA EDP,Eau de Parfum para Hombre,90.00,45%,90.00,4,4
+115,Perfumes de Hombre,VERSACE,Eros EDP,Eau de Parfum para Hombre,92.00,40%,92.00,4,6
+116,Perfumes de Hombre,AZZARO,Pour Homme,Eau de Toilette para Hombre,85.00,58%,85.00,5,1
+117,Perfumes de Hombre,TOM FORD,Noir Extreme,Eau de Parfum para Hombre,84.50,No tiene,Sin descuento,5,2
+118,Perfumes de Hombre,DOLCE & GABBANA,POUR HOMME,Eau de Toilette para Hombre,86.00,36%,86.00,0,0
+119,Perfumes de Hombre,DOLCE & GABBANA,LIGHT BLUE EAU INTENSE Pour Homme,Eau de Parfum para Hombre,76.00,44%,76.00,0,0
+120,Perfumes de Hombre,PRADA,Luna Rossa Ocean EDP,Eau de Parfum para Hombre,95.00,46%,95.00,0,0
+121,Perfumes de Hombre,DOLCE & GABBANA,LIGHT BLUE SUMMER VIBES Pour Homme,Eau de Toilette para Hombre,90.00,41%,90.00,0,0
+122,Perfumes de Hombre,YVES SAINT LAURENT,LA NUIT DE L'HOMME Le Parfum,Eau de Parfum para Hombre,125.00,48%,125.00,5,19
+123,Perfumes de Hombre,Cerruti,1881 POUR HOMME,Eau de Toilette para Hombre,68.60,67%,68.60,5,2
+124,Perfumes de Hombre,ANGEL SCHLESSER,LES EAUX D'UN INSTANT Profound Orange Wood,Eau de Toilette para Hombre,53.00,54%,53.00,5,2
+125,Perfumes de Hombre,TOM FORD,Ombré Leather Parfum,Parfum para Hombre,99.00,No tiene,Sin descuento,4,2
+126,Perfumes de Hombre,ADOLFO DOMÍNGUEZ,Agua de Bambú Man,Eau de Toilette para Hombre,31.50,50%,31.50,4,7
+127,Perfumes de Hombre,Dior,FAHRENHEIT,Eau de Toilette,67.25,No tiene,Sin descuento,5,4
+128,Perfumes de Hombre,LOEWE,7 LOEWE Icono,Eau de Toilette para Hombre,151.00,35%,151.00,5,3
+129,Perfumes de Hombre,PACO RABANNE,INVICTUS VICTORY ELIXIR,Parfum Intense para Hombre,95.00,37%,95.00,0,0
+130,Perfumes de Hombre,VIKTOR & ROLF,Spicebomb Night Vision,Eau de Parfum para Hombre,92.00,46%,92.00,5,2
+131,Perfumes de Hombre,HERMÈS,Le Jardin de Monsieur Li,Eau de Toilette Unisex,96.00,30%,96.00,4,2
+132,Perfumes de Hombre,ISSEY MIYAKE,L'EAU SUPER MAJEURE D'ISSEY,Eau de Toilette para Hombre,95.00,35%,95.00,4,1
+133,Perfumes de Hombre,LOEWE,AGUA DE LOEWE MIAMI,Eau de Toilette Unisex,102.00,35%,102.00,5,2
+134,Perfumes de Hombre,HERMÈS,Concentré d'Orange Verte,Eau de Toilette Unisex,118.00,38%,118.00,5,9
+135,Perfumes de Hombre,BVLGARI,Eau Parfumée Au thé Blanc,Eau de Cologne Unisex,98.00,35%,98.00,4,26
+136,Perfumes de Hombre,VALENTINO,UOMO,Eau de Toilette para Hombre,90.00,48%,90.00,5,2
+137,Perfumes de Hombre,HERMÈS,Terre d'Hermès EDT,Eau de Toilette para Hombre,87.00,30%,87.00,5,3
+138,Perfumes de Hombre,LOEWE,SOLO LOEWE CEDRO,Eau de Toilette para Hombre,96.00,35%,96.00,5,1
+139,Perfumes de Hombre,Dior,DIOR HOMME INTENSE,Eau de Parfum Intense,68.94,No tiene,Sin descuento,4,3
+140,Perfumes de Hombre,HUGO BOSS,BOSS BOTTLED PARFUM,Parfum para Hombre,96.00,50%,96.00,4,1
+141,Perfumes de Hombre,AZZARO,Wanted by Night,Eau de Parfum para Hombre,79.00,49%,79.00,4,4
+142,Perfumes de Hombre,GIVENCHY,Pi,Eau de Toilette para Hombre,107.00,48%,107.00,4,8
+143,Perfumes de Hombre,DOLCE & GABBANA,INTENSO POUR HOMME,Eau de Parfum para Hombre,88.00,43%,88.00,4,3
+144,Perfumes de Hombre,VERSACE,Blue Jeans Man,Eau de Toilette para Hombre,44.00,62%,44.00,4,39
+145,Perfumes de Hombre,CLINIQUE,Happy For Men,Eau de Toilette para Hombre,39.94,No tiene,Sin descuento,4,23
+146,Perfumes de Hombre,CALVIN KLEIN,CK EVERYONE EDP,Eau de  Parfum Unisex,64.00,53%,64.00,4,1
+147,Perfumes de Hombre,LOEWE,EARTH,Eau de Parfum Unisex,92.00,35%,92.00,5,1
+148,Perfumes de Hombre,KENZO,HOMME,Eau de Toilette para Hombre,53.00,40%,53.00,3,1
+149,Perfumes de Hombre,Mandarina Duck,Man Blue EDT,Eau de Toilette para Hombre,61.86,68%,61.86,4,17
+150,Perfumes de Hombre,HUGO BOSS,HUGO JEANS,Eau de Toilette para Hombre,80.00,58%,80.00,0,0
+151,Perfumes de Hombre,KENZO,HOMME EDP,Eau de Parfum para Hombre,80.50,44%,80.50,5,1
+152,Perfumes de Hombre,VERSACE,Eros Flame,Eau de Parfum para Hombre,92.00,40%,92.00,0,0
+153,Perfumes de Hombre,TOM FORD,Eau de Soleil Blanc,Eau de Toilette Unisex,84.50,No tiene,Sin descuento,0,0
+154,Perfumes de Hombre,YVES SAINT LAURENT,L'HOMME EDP,Eau de Parfum para Hombre,100.00,45%,100.00,0,0
+155,Perfumes de Hombre,LOEWE,PAULA'S IBIZA,Eau deToilette Unisex,82.00,35%,82.00,4,21
+156,Perfumes de Hombre,PRADA,L'Homme,Eau de Toilette para Hombre,90.00,47%,90.00,5,4
+157,Perfumes de Hombre,PACO RABANNE,PHANTOM,Eau de Toilette para Hombre,80.00,35%,80.00,4,5
+158,Perfumes de Hombre,PACO RABANNE,INVICTUS VICTORY,Eau de Parfum Extreme para Hombre,89.00,37%,89.00,5,2
+159,Perfumes de Hombre,GIVENCHY,Gentleman Eau de Parfum,Eau de Parfum para Hombre,91.50,40%,91.50,0,0
+160,Perfumes de Hombre,LOEWE,AGUA DE LOEWE Icono,Eau de Toilette Unisex,125.00,35%,125.00,5,4
+161,Perfumes de Hombre,Guy Laroche,Drakkar Noir EDT,Eau de Toilette para Hombre,39.00,49%,39.00,0,0
+162,Perfumes de Hombre,LOEWE,ESENCIA LOEWE Icono,Eau de Toilette para Hombre,174.00,35%,174.00,5,4
+163,Perfumes de Hombre,MONTBLANC,LEGEND EDP,Eau de Parfum para Hombre,76.00,47%,76.00,0,0
+164,Perfumes de Hombre,LOEWE,PAULA'S IBIZA ECLECTIC,Eau de Toilette Unisex,82.00,35%,82.00,4,2
+165,Perfumes de Hombre,MOSCHINO,TOY BOY,Eau de Parfum para Hombre,85.00,40%,85.00,5,3
+166,Perfumes de Hombre,VERSACE,Dylan Blue,Eau de Toilette para Hombre,83.00,43%,83.00,0,0
+167,Perfumes de Hombre,RALPH LAUREN,POLO SPORT,Eau de Toilette para Hombre,69.00,64%,69.00,4,8
+168,Perfumes de Hombre,CALVIN KLEIN,ESCAPE For Men,Eau de Toilette para Hombre,83.00,64%,83.00,4,16
+169,Perfumes de Hombre,LOEWE,SOLO LOEWE Icono,Eau de Toilette para Hombre,169.00,35%,169.00,0,0
+170,Perfumes de Hombre,JEAN PAUL GAULTIER,SCANDAL POUR HOMME Le Parfum,Eau de Parfum Intense para Hombre,85.50,36%,85.50,5,2
+171,Perfumes de Hombre,PACO RABANNE,1 MILLION ROYAL,Eau de Parfum para Hombre,92.50,37%,92.50,0,0
+172,Perfumes de Hombre,CALVIN KLEIN,EUPHORIA MEN,Eau de Toilette para Hombre,90.06,57%,90.06,5,2
+173,Perfumes de Hombre,GIVENCHY,Gentleman Boisée,Eau de Parfum para Hombre,91.50,40%,91.50,0,0
+174,Perfumes de Hombre,PACO RABANNE,1 MILLION ELIXIR,Parfum Intense para Hombre,98.50,38%,98.50,0,0
+175,Perfumes de Hombre,LOEWE,AGUA ÉL,Eau de Toilette para Hombre,102.00,35%,102.00,4,15
+176,Perfumes de Hombre,TOM FORD,Noir Extreme Parfum,Parfum para Hombre,99.00,No tiene,Sin descuento,0,0
+177,Perfumes de Hombre,HERMÈS,Un Jardin en Méditerranée,Eau de Toilette Unisex,133.00,47%,133.00,5,4
+178,Perfumes de Hombre,CAROLINA HERRERA,CH MEN PASIÓN,Eau de Parfum para Hombre,111.50,53%,111.50,0,0
+179,Perfumes de Hombre,CAROLINA HERRERA,"212 VIP BLACK I LOVE NY ""Edición Limitada""",Eau de Parfum para Hombre,106.50,53%,106.50,5,1
+180,Perfumes de Hombre,DIESEL,D BY DIESEL,Eau de Toilette Unisex,45.00,45%,45.00,5,1
+181,Perfumes de Hombre,JEAN PAUL GAULTIER,LE MALE Le Parfum,Eau de Parfum para Hombre,87.50,33%,87.50,4,5
+182,Perfumes de Hombre,MONTBLANC,LEGEND SPIRIT,Eau de Toilette para Hombre,105.00,60%,105.00,4,4
+183,Perfumes de Hombre,LOEWE,7 LOEWE ANÓNIMO,Eau de Parfum para Hombre,95.00,35%,95.00,0,0
+184,Perfumes de Hombre,VERSACE,Man Eau Fraîche,Eau de Toilette para Hombre,76.00,40%,76.00,0,0
+185,Perfumes de Hombre,BVLGARI,Pour Homme,Eau de Toilette para Hombre,117.00,35%,117.00,0,0
+186,Perfumes de Hombre,HERMÈS,Eau de Citron Noir,Eau de Cologne Unisex,118.00,38%,118.00,4,6
+187,Perfumes de Hombre,CALVIN KLEIN,ETERNITY REFLECTIONS For Men,Eau de Toilette para Hombre,89.00,61%,89.00,5,1
+188,Perfumes de Hombre,Courrèges,EAU DE COURRÈGES,Eau de Toilette Unisex,80.00,66%,80.00,4,36
+189,Perfumes de Hombre,Dior,SAUVAGE ELIXIR,Parfum,130.94,No tiene,Sin descuento,5,3
+190,Perfumes de Hombre,PRADA,Infusion d'Iris Cèdre,Eau de Parfum Unisex,150.00,43%,150.00,4,6
+191,Perfumes de Hombre,TOM FORD,Costa Azzurra,Eau de Parfum para Hombre,84.50,No tiene,Sin descuento,0,0
+192,Perfumes de Hombre,GUCCI,GUILTY POUR HOMME PARFUM,Parfum para Hombre,113.00,52%,113.00,0,0
+193,Perfumes de Hombre,GIVENCHY,Gentlemen Only,Eau de Toilette para Hombre,107.00,50%,107.00,5,7
+194,Perfumes de Hombre,YVES SAINT LAURENT,M7,Eau de Toilette para Hombre,120.00,50%,120.00,4,14
+195,Perfumes de Hombre,RALPH LAUREN,RALPH'S CLUB,Eau de Parfum para Hombre,95.00,58%,95.00,4,1
+196,Perfumes de Hombre,Dior,DIOR HOMME SPORT,Eau de Toilette,71.94,No tiene,Sin descuento,0,0
+197,Perfumes de Hombre,ISSEY MIYAKE,L'EAU D'ISSEY POUR HOMME EAU & CEDRE,Eau de Toilette Intense para Hombre,80.00,35%,80.00,0,0
+198,Perfumes de Hombre,Joop!,HOMME,Eau de Toilette para Hombre,100.30,80%,100.30,4,34
+199,Perfumes de Hombre,ROCHAS,ROCHAS MAN INTENSE,Eau de Parfum para Hombre,100.00,60%,100.00,0,0
+200,Perfumes de Hombre,CAROLINA HERRERA,BAD BOY LE PARFUM,Eau de Parfum para Hombre,87.50,37%,87.50,5,4
+201,Perfumes de Hombre,TOUS,MAN LES COLOGNES CONCENTRÉES,Eau de Toilette para Hombre,73.00,55%,73.00,0,0
+202,Perfumes de Hombre,ADOLFO DOMÍNGUEZ,Vetiver Terra,Eau de Parfum para Hombre,59.50,41%,59.50,5,1
+203,Perfumes de Hombre,LOEWE,SOLO MERCURIO,Eau de Parfum para Hombre,105.00,35%,105.00,5,2
+204,Perfumes de Hombre,ARMANI,EAU DE NUIT,Eau de Toilette para Hombre,150.00,58%,150.00,4,12
+205,Perfumes de Hombre,THIERRY MUGLER,A*MEN,Eau de Toilette para Hombre,92.00,40%,92.00,5,1
+206,Perfumes de Hombre,Dior,DIOR HOMME,Eau de Toilette,62.94,No tiene,Sin descuento,0,0
+207,Perfumes de Hombre,ADOLFO DOMÍNGUEZ,Ébano Salvia,Eau de Parfum para Hombre,59.50,41%,59.50,5,5
+208,Perfumes de Hombre,TOM FORD,Grey Vetiver,Eau de Parfum para Hombre,84.50,No tiene,Sin descuento,0,0
+209,Perfumes de Hombre,GIVENCHY,Gentleman Intense,Eau de Toilette para Hombre,84.50,43%,84.50,4,3
+210,Perfumes de Hombre,JEAN PAUL GAULTIER,LE MALE Pride 2023,Eau de Toilette Unisex,114.50,43%,114.50,0,0
+211,Perfumes de Hombre,HUGO BOSS,HUGO JUST DIFFERENT,Eau de Toilette para Hombre,81.00,46%,81.00,5,2
+212,Perfumes de Hombre,Armand Basi,Homme EDT,Eau de Toilette para hombre,76.00,54%,76.00,4,25
+213,Perfumes de Hombre,NARCISO RODRÍGUEZ,BLEU NOIR FOR HIM EDP,Eau de Parfum para Hombre,81.00,35%,81.00,4,2
+214,Perfumes de Hombre,RALPH LAUREN,RALPH'S CLUB PARFUM,Eau de Parfum Intense para Hombre,100.00,54%,100.00,0,0
+215,Perfumes de Hombre,HUGO BOSS,BOSS THE SCENT MAGNETIC,Eau de Parfum para Hombre,98.00,44%,98.00,0,0
+216,Perfumes de Hombre,HERMÈS,Un Jardin Sur Le Toit,Eau de Toilette Unisex,96.00,33%,96.00,5,1
+217,Perfumes de Hombre,VERSACE,Eros Parfum,Parfum para Hombre,155.00,43%,155.00,5,1
+218,Perfumes de Hombre,ANGEL SCHLESSER,LES EAUX D'UN INSTANT Vibrant Sandalwood,Eau de Toilette para Hombre,53.00,54%,53.00,5,1
+219,Perfumes de Hombre,VALENTINO,BORN IN ROMA UOMO CORAL FANTASY,Eau de Toilette para Hombre,87.00,54%,87.00,0,0
+220,Perfumes de Hombre,HERMÈS,Eau de Rhubarbe Écarlate,Eau de Cologne Unisex,118.00,38%,118.00,5,1
+221,Perfumes de Hombre,CALVIN KLEIN,DEFY For Him,Eau de Toilette para Hombre,96.00,58%,96.00,0,0
+222,Perfumes de Hombre,BVLGARI,Aqua Pour Homme,Eau de Toilette para Hombre,82.00,35%,82.00,0,0
+223,Perfumes de Hombre,PRADA,Infusion Fleur d'Oranger,Eau de Parfum Unisex,150.00,47%,150.00,4,3
+224,Perfumes de Hombre,PACO RABANNE,PHANTOM PARFUM,Parfum para Hombre,90.00,35%,90.00,0,0
+225,Perfumes de Hombre,HERMÈS,Eau de Basilic Pourpre,Eau de Cologne Unisex,87.00,54%,87.00,0,0
+226,Perfumes de Hombre,LOEWE,SOLO LOEWE CEDRO Icono,Eau de Toilette para Hombre,126.00,35%,126.00,0,0
+227,Perfumes de Hombre,CAROLINA HERRERA,BAD BOY COBALT,Eau de Parfum para Hombre,84.00,37%,84.00,0,0
+228,Perfumes de Hombre,ZADIG & VOLTAIRE,This is Him!,Eau de Toilette para Hombre,58.00,35%,58.00,0,0
+229,Perfumes de Hombre,CALVIN KLEIN,MAN,Eau de Toilette para Hombre,90.00,72%,90.00,4,9
+230,Perfumes de Hombre,MONTBLANC,EXPLORER PLATINUM,Eau de Parfum para Hombre,80.00,46%,80.00,5,1
+231,Perfumes de Hombre,HERMÈS,Eau d'Orange Verte,Eau de Cologne Unisex,87.00,31%,87.00,0,0
+232,Perfumes de Hombre,HERMÈS,Terre d'Hermès Eau Intense Vetiver,Eau de Parfum para Hombre,98.00,31%,98.00,0,0
+233,Perfumes de Hombre,COMME des GARÇONS,WONDERWOOD,Eau de Parfum para Hombre,85.00,10%,85.00,4,8
+234,Perfumes de Hombre,LOEWE,ESENCIA LOEWE ELIXIR,Eau de Parfum para Hombre,140.00,35%,140.00,0,0
+235,Perfumes de Hombre,ADOLFO DOMÍNGUEZ,Ámbar Negro,Eau de Parfum para Hombre,59.50,41%,59.50,5,1
+236,Perfumes de Hombre,TOUS,MAN,Eau de Toilette para Hombre,76.00,47%,76.00,5,3
+237,Perfumes de Hombre,ISSEY MIYAKE,FUSION D'ISSEY,Eau de Toilette para Hombre,73.00,35%,73.00,4,6
+238,Perfumes de Hombre,HERMÈS,Un Jardin Sur La Lagune,Eau de Toilette Unisex,70.00,33%,70.00,0,0
+239,Perfumes de Hombre,HUGO BOSS,BOSS ORANGE MAN,Eau de Toilette para Hombre,87.00,58%,87.00,0,0
+240,Perfumes de Hombre,ZADIG & VOLTAIRE,This is Us!,Eau de Toilette Unisex,60.00,35%,60.00,0,0
+241,Perfumes de Hombre,ADOLFO DOMÍNGUEZ,Verbena Jengibre,Eau de Parfum para Hombre,54.50,45%,54.50,0,0
+242,Perfumes de Hombre,CLARINS,Eau Dynamisante,Eau de Toilette Unisex,58.00,45%,58.00,0,0
+243,Perfumes de Hombre,MOSCHINO,UOMO? EDT,Eau de Toilette para Hombre,63.20,40%,63.20,4,23
+244,Perfumes de Hombre,DAVIDOFF,ADVENTURE,Eau de Toilette para Hombre,108.00,68%,108.00,4,8
+245,Perfumes de Hombre,Alyssa Ashley,MUSK EDP,Eau de Parfum Unisex,56.65,38%,56.65,4,6
+246,Perfumes de Hombre,Desigual,DARK FRESH,Eau de Toilette para Hombre,12.00,34%,12.00,0,0
+247,Perfumes de Hombre,RALPH LAUREN,POLO BLUE PARFUM,Parfum para Hombre,95.00,54%,95.00,0,0
+248,Perfumes de Hombre,ANGEL SCHLESSER,ESSENTIAL FOR MEN,Eau de Toilette para Hombre,78.00,49%,78.00,4,10
+249,Perfumes de Hombre,ANGEL SCHLESSER,LES EAUX D'UN INSTANT Instictive Marine,Eau de Toilette para Hombre,53.00,54%,53.00,5,1
+250,Perfumes de Hombre,Hollister,Wave for Him,Eau de Toilette para Hombre,72.00,65%,72.00,5,2
+251,Perfumes de Hombre,JEAN PAUL GAULTIER,SCANDAL POUR HOMME,Eau de Toilette para Hombre,83.00,34%,83.00,4,5
+252,Perfumes de Hombre,BOUCHERON,JAÏPUR HOMME EDP,Eau de Parfum para Hombre,109.00,63%,109.00,4,5
+253,Perfumes de Hombre,El Ganso,Sunday Mood,Eau de Toilette para Hombre,50.00,36%,50.00,0,0
+254,Perfumes de Hombre,SISLEY,L'Eau Rêvée d'Hubert,Eau de Toilette unisex,96.00,30%,96.00,5,1
+255,Perfumes de Hombre,RALPH LAUREN,POLO DEEP BLUE PARFUM,Eau de Parfum para Hombre,130.00,51%,130.00,4,7
+256,Perfumes de Hombre,Dior,DUNE POUR HOMME,Eau de Toilette,91.95,No tiene,Sin descuento,5,13
+257,Perfumes de Hombre,GIVENCHY,Gentleman Eau de Toilette,Eau de Toilette para Hombre,107.00,48%,107.00,5,1
+258,Perfumes de Hombre,GIVENCHY,Eau de Givenchy,Eau de Toilette Unisex,98.00,40%,98.00,0,0
+259,Perfumes de Hombre,LACOSTE,L.12.12 Blanc EDP,Eau de Parfum para Hombre,92.70,41%,92.70,0,0
+260,Perfumes de Hombre,GUCCI,GUILTY POUR HOMME EDP,Eau de Parfum para Hombre,94.00,54%,94.00,0,0
+261,Perfumes de Hombre,BVLGARI,Eau Parfumée Au Thé Vert,Eau de Cologne Unisex,98.00,35%,98.00,4,29
+262,Perfumes de Hombre,HERMÈS,Voyage d'Hermès EDT,Eau de Toilette Unisex,134.00,30%,134.00,5,1
+263,Perfumes de Hombre,PRADA,L'Homme L'Eau,Eau de Toilette para Hombre,90.00,49%,90.00,4,1
+264,Perfumes de Hombre,DOLCE & GABBANA,THE ONE For Men EDP,Eau de Parfum para Hombre,116.00,35%,116.00,0,0
+265,Perfumes de Hombre,PRADA,Luna Rossa,Eau de Toilette para Hombre,85.00,44%,85.00,5,1
+266,Perfumes de Hombre,KENZO,HOMME MARINE,Eau de Toilette para Hombre,74.00,40%,74.00,0,0
+267,Perfumes de Hombre,LOEWE,SOLO ATLAS,Eau de Parfum para Hombre,105.00,35%,105.00,0,0
+268,Perfumes de Hombre,RALPH LAUREN,POLO RED PARFUM,Parfum para Hombre,105.00,39%,105.00,0,0
+269,Perfumes de Hombre,TOM FORD,Noir,Eau de Parfum para Hombre,84.50,No tiene,Sin descuento,5,1
+270,Perfumes de Hombre,TOUS,MAN SPORT,Eau de Toilette para Hombre,76.00,47%,76.00,5,6
+271,Perfumes de Hombre,Dunhill,Desire Blue ,Eau de Toilette para Hombre,85.00,53%,85.00,0,0
+272,Perfumes de Hombre,Pepe Jeans,Celebrate For Him,Eau de Parfum para Hombre,91.00,67%,91.00,5,1
+273,Perfumes de Hombre,ZADIG & VOLTAIRE,This is Him! Vibes of Freedom,Eau de Toilette para Hombre,71.00,35%,71.00,0,0
+274,Perfumes de Hombre,BVLGARI,Man Rain Essence,Eau de Parfum para Hombre,100.00,35%,100.00,0,0
+275,Perfumes de Hombre,El Ganso,Bravo Monsieur,Eau de Toilette para Hombre,50.00,80%,50.00,5,2
+276,Perfumes de Hombre,AZZARO,Wanted,Eau de Toilette para Hombre,64.20,41%,64.20,5,1
+277,Perfumes de Hombre,RALPH LAUREN,POLO RED EDP,Eau de Parfum para Hombre,85.00,51%,85.00,5,1
+278,Perfumes de Hombre,BVLGARI,BLV Pour Homme,Eau de Toilette para Hombre,111.00,35%,111.00,4,9
+279,Perfumes de Hombre,GUERLAIN,Vetiver,Eau de Toilette para Hombre,121.40,42%,121.40,5,2
+280,Perfumes de Hombre,Alyssa Ashley,OUD Pour Lui EDP,Eau de Parfum para hombre,61.55,53%,61.55,5,3
+281,Perfumes de Hombre,PACO RABANNE,INVICTUS PLATINUM,Eau de Parfum para Hombre,87.00,37%,87.00,0,0
+282,Perfumes de Hombre,BURBERRY,MR. BURBERRY EDT,Eau de Toilette para Hombre,132.00,62%,132.00,0,0
+283,Perfumes de Hombre,CAROLINA HERRERA,"BAD BOY DAZZLING GARDEN ""Edición Limitada""",Eau de Toilette para Hombre,116.00,36%,116.00,0,0
+284,Perfumes de Hombre,SISLEY,L'Eau Rêvée d'Eliya,Eau de Toilette Unisex,96.00,30%,96.00,0,0
+285,Perfumes de Hombre,MOSCHINO,TOY 2,Eau de Parfum Unisex,57.00,40%,57.00,4,4
+286,Perfumes de Hombre,SISLEY,L'Eau Rêvée d'Alma,Eau de Toilette Unisex,96.00,30%,96.00,0,0
+287,Perfumes de Hombre,VALENTINO,BORN IN ROMA YELLOW DREAM UOMO,Eau de Toilette para Hombre,87.00,54%,87.00,5,2
+288,Perfumes de Hombre,COMME des GARÇONS,2 MAN,Eau de Toilette para Hombre,80.00,16%,80.00,5,3
+289,Perfumes de Hombre,HERMÈS,H24,Eau de Toilette para Hombre,87.00,30%,87.00,0,0
+290,Perfumes de Hombre,MONTBLANC,EXPLORER ULTRA BLUE,Eau de Parfum para Hombre,80.00,46%,80.00,4,3
+291,Perfumes de Hombre,TOM FORD,Beau de Jour,Eau de Parfum para Hombre,84.50,No tiene,Sin descuento,5,2
+292,Perfumes de Hombre,JEAN PAUL GAULTIER,CLASSIQUE Pride 2023,Eau de Toilette Unisex,102.00,41%,102.00,0,0
+293,Perfumes de Hombre,ANGEL SCHLESSER,LES EAUX D'UN INSTANT Mediterranean Cypress,Eau de Toilette para Hombre,53.00,54%,53.00,0,0
+294,Perfumes de Hombre,BVLGARI,Man Wood Essence,Eau de Parfum para Hombre,100.00,35%,100.00,5,3
+295,Perfumes de Hombre,Nike,Gold Edition Man EDT,Eau de Toilette para Hombre,2.90,No tiene,Sin descuento,0,0
+296,Perfumes de Hombre,TOMMY HILFIGER,TOMMY,Eau de Toilette para Hombre,72.00,40%,72.00,4,12
+297,Perfumes de Hombre,Dior,EAU SAUVAGE EXTRÊME,Eau de Toilette Intense,101.95,No tiene,Sin descuento,5,4
+298,Perfumes de Hombre,SISLEY,Eau de Campagne,Eau de Toilette Unisex,95.00,30%,95.00,0,0
+299,Perfumes de Hombre,PRADA,Infusion Rose,Eau de Parfum Unisex,150.00,47%,150.00,5,3
+300,Perfumes de Hombre,DOLCE & GABBANA,THE ONE FOR MEN EDP Intense,Eau de Parfum para Hombre,92.00,51%,92.00,0,0
+301,Perfumes de Hombre,GUERLAIN,L'Homme Ideal,Eau de Toilette para Hombre,121.40,46%,121.40,5,4
+302,Perfumes de Hombre,HERMÈS,Voyage d'Hermès,Eau de Parfum Unisex,149.00,34%,149.00,4,6
+303,Perfumes de Hombre,RALPH LAUREN,POLO BLACK,Eau de Toilette para Hombre,155.00,48%,155.00,4,4
+304,Perfumes de Hombre,ARMANI,STRONGER WITH YOU INTENSELY,Eau de Parfum para Hombre,75.00,47%,75.00,4,2
+305,Perfumes de Hombre,GUCCI,GUILTY POUR HOMME,Eau de Toilette para Hombre,83.00,54%,83.00,5,1
+306,Perfumes de Hombre,TOM FORD,Neroli Portofino Acqua,Eau de Toilette Unisex,118.80,No tiene,Sin descuento,0,0
+307,Perfumes de Hombre,LOEWE,001 MAN EDT,Eau de Toilette para Hombre,126.00,35%,126.00,5,1
+308,Perfumes de Hombre,KENZO,L'EAU KENZO pour Homme,Eau de Toilette para Hombre,85.00,41%,85.00,5,4
+309,Perfumes de Hombre,TOUS,1920 THE ORIGIN EDT,Eau de Toilette para Hombre,76.50,59%,76.50,5,1
+310,Perfumes de Hombre,ISSEY MIYAKE,L'EAU D'ISSEY POUR HOMME FRAÎCHE,Eau de Toilette para Hombre,85.50,35%,85.50,4,7
+311,Perfumes de Hombre,CALVIN KLEIN,CK ONE GOLD,Eau de Toilette Unisex,56.50,56%,56.50,4,10
+312,Perfumes de Hombre,ZADIG & VOLTAIRE,This is Him! Undressed,Eau de Toilette para Hombre,71.00,35%,71.00,0,0
+313,Perfumes de Hombre,ROCHAS,L'HOMME ROCHAS,Eau de Toilette para Hombre,52.00,62%,52.00,5,1
+314,Perfumes de Hombre,ANGEL SCHLESSER,LES EAUX D'UN INSTANT Vibrant Woody Mandarin,Eau de Toilette para Hombre,53.00,54%,53.00,0,0
+315,Perfumes de Hombre,BOUCHERON,POUR HOMME EDT,Eau de Toilette para Hombre,121.00,74%,121.00,0,0
+316,Perfumes de Hombre,TOMMY HILFIGER,IMPACT,Eau de Toilette para Hombre,63.00,45%,63.00,5,1
+317,Perfumes de Hombre,Dior,DIOR HOMME COLOGNE,Eau de Cologne,70.98,No tiene,Sin descuento,4,7
+318,Perfumes de Hombre,HERMÈS,Eau de Pamplemousse Rose,Eau de Cologne Unisex,118.00,31%,118.00,0,0
+319,Perfumes de Hombre,SISLEY,L'Eau Rêvée d'Aria,Eau de Toilette Unisex,96.00,30%,96.00,0,0
+320,Perfumes de Hombre,SISLEY,L'Eau Rêvée d'Isa,Eau de Toilette Unisex,96.00,30%,96.00,0,0
+321,Perfumes de Hombre,Dior,EAU SAUVAGE PARFUM,Parfum,101.95,No tiene,Sin descuento,5,2
+322,Perfumes de Hombre,Pepe Jeans,For Him,Eau de Toilette para Hombre,91.65,67%,91.65,5,1
+323,Perfumes de Hombre,COMME des GARÇONS,BACKPEPPER,Eau de Parfum Unisex,85.00,10%,85.00,5,5
+324,Perfumes de Hombre,PRADA,Infusion d'Amande,Eau de Parfum Unisex,150.00,49%,150.00,0,0
+325,Perfumes de Hombre,Dior,HIGHER,Eau de Toilette,92.25,No tiene,Sin descuento,5,3
+326,Perfumes de Hombre,CALVIN KLEIN,ETERNITY INTENSE For Men,Eau de Parfum para Hombre,84.00,54%,84.00,0,0
+327,Perfumes de Hombre,GUERLAIN,L'Homme Ideal L'Intense,Eau de Parfum para Hombre,136.45,49%,136.45,4,5
+328,Perfumes de Hombre,BOUCHERON,BOUCHERON SINGULIER,Eau de Parfum para Hombre,98.00,54%,98.00,0,0
+329,Perfumes de Hombre,PRADA,L'Homme Intense,Eau de Parfum para Hombre,130.00,46%,130.00,4,12
+330,Perfumes de Hombre,KENZO,MEMORI COLLECTION RÊVE LOTUS,Eau de Parfum Unisex,96.00,No tiene,Sin descuento,0,0
+331,Perfumes de Hombre,COMME des GARÇONS,2,Eau de Parfum Unisex,85.00,10%,85.00,4,8
+332,Perfumes de Hombre,VIKTOR & ROLF,Spicebomb Infrared,Eau de Toilette para Hombre,80.00,43%,80.00,5,1
+333,Perfumes de Hombre,GUERLAIN,Habit Rouge,Eau de Toilette para Hombre,121.40,43%,121.40,4,1
+334,Perfumes de Hombre,Lolita Lempicka,LEMPICKA HOMME,Eau de Toilette para Hombre,62.00,52%,62.00,5,1
+335,Perfumes de Hombre,El Ganso,After Game,Eau de Toilette para Hombre,50.00,48%,50.00,4,3
+336,Perfumes de Hombre,Van Cleef & Arpels,Ambre Impérial Collection Extraordinaire,Eau de Parfum Unisex,164.00,No tiene,Sin descuento,5,1
+337,Perfumes de Hombre,GUERLAIN,L'Instant pour Homme EDP,Eau de Parfum para Hombre,136.45,35%,136.45,0,0
+338,Perfumes de Hombre,HUGO BOSS,HUGO REFLECTIVE EDITION,Eau de Toilette para Hombre,80.00,50%,80.00,5,1
+339,Perfumes de Hombre,GUERLAIN,L'Instant pour Homme,Eau de Toilette para Hombre,121.40,42%,121.40,4,2
+340,Perfumes de Hombre,Alyssa Ashley,Green Tea EDT,Eau de Toilette Unisex,21.95,59%,21.95,5,1
+341,Perfumes de Hombre,GUERLAIN,Guerlain Homme EDP,Eau de Parfum para Hombre,136.45,35%,136.45,0,0
+342,Perfumes de Hombre,El Ganso,Limoncello Season,Eau de Toilette para Hombre,50.00,40%,50.00,4,2
+343,Perfumes de Hombre,HUGO BOSS,BOSS THE SCENT PURE ACCORD,Eau de Toilette para Hombre,113.00,50%,113.00,5,1
+344,Perfumes de Hombre,Karl Lagerfeld,"New York, Mercer Street",Eau de Toilette para Hombre,100.00,70%,100.00,0,0
+345,Perfumes de Hombre,LOEWE,POUR HOMME Icono,Eau de Toilette para Hombre,155.00,35%,155.00,5,3
+346,Perfumes de Hombre,HERMÈS,Terre d'Hermès,Eau de Parfum para Hombre,124.50,17%,124.50,0,0
+347,Perfumes de Hombre,CAROLINA HERRERA,212 HEROES,Eau de Toilette para Hombre,78.00,32%,78.00,0,0
+348,Perfumes de Hombre,CAROLINA HERRERA,BAD BOY EXTREME,Eau de Parfum para Hombre,87.50,37%,87.50,0,0
+349,Perfumes de Hombre,MONTBLANC,LEGEND RED,Eau de Parfum para Hombre,76.00,47%,76.00,0,0
+350,Perfumes de Hombre,HALLOWEEN,HALLOWEEN MAN MYSTERY,Eau de Parfum para Hombre,79.50,53%,79.50,0,0
+351,Perfumes de Hombre,Jimmy Boyd,Wild Roses Eau de Toilette,Eau de Toilette Unisex,62.00,15%,62.00,0,0
+352,Perfumes de Hombre,GUERLAIN,Aqua Allegoria Forte Rosa Palissandro,Eau de Parfum Unisex,121.40,42%,121.40,0,0
+353,Perfumes de Hombre,GUERLAIN,Aqua Allegoria Forte Bosca Vanilla,Eau de Parfum Unisex,121.40,42%,121.40,0,0
+354,Perfumes de Hombre,GUERLAIN,Aqua Allegoria Forte Oud Yuzu,Eau de Parfum Unisex,121.40,42%,121.40,0,0
+355,Perfumes de Hombre,LOEWE,001 MAN,Eau de Parfum para Hombre,89.00,35%,89.00,5,3
+356,Perfumes de Hombre,HERMÈS,Terre d'Hermès Eau Givrée,Eau de Parfum para Hombre,98.00,31%,98.00,5,1
+357,Perfumes de Hombre,BOUCHERON,QUATRE INTENSE POUR HOMME,Eau de Toilette para Hombre,75.00,45%,75.00,0,0
+358,Perfumes de Hombre,DOLCE & GABBANA,THE ONE GREY,Eau de Toilette para Hombre,103.00,42%,103.00,5,2
+359,Perfumes de Hombre,SISLEY,L'Eau Rêvée d'Ikar,Eau de Toilette Unisex,96.00,30%,96.00,0,0
+360,Perfumes de Hombre,Aramis,ARAMIS EDT,Eau de Toilette para Hombre,97.00,49%,97.00,4,5
+361,Perfumes de Hombre,GUERLAIN,Aqua Allegoria Granada Salvia,Eau de Toilette Unisex,105.35,43%,105.35,5,1
+362,Perfumes de Hombre,ISSEY MIYAKE,L'EAU D'ISSEY POUR HOMME INTENSE,Eau de Toilette para Hombre,88.00,35%,88.00,5,2
+363,Perfumes de Hombre,COMME des GARÇONS,WONDEROUD,Eau de Parfum Unisex,115.00,10%,115.00,4,2
+364,Perfumes de Hombre,Dior,EAU SAUVAGE Cologne,Cologne,84.94,No tiene,Sin descuento,4,5
+365,Perfumes de Hombre,HERMÈS,L'Ombre des Merveilles,Eau de Parfum Unisex,67.00,30%,67.00,0,0
+366,Perfumes de Hombre,PRADA,Infusion de Figue,Eau de Parfum Unisex,150.00,43%,150.00,0,0
+367,Perfumes de Hombre,COMME des GARÇONS,FLORIENTAL,Eau de Parfum Unisex,85.00,10%,85.00,1,1
+368,Perfumes de Hombre,Hollister,Canyon Escape Him,Eau de Toilette para Hombre,55.00,58%,55.00,0,0
+369,Perfumes de Hombre,COMME des GARÇONS,CONCRETE,Eau de Parfum Unisex,144.00,3%,144.00,4,3
+370,Perfumes de Hombre,KENZO,MEMORI COLLECTION CIEL MAGNOLIA,Eau de Parfum Unisex,96.00,No tiene,Sin descuento,0,0
+371,Perfumes de Hombre,Jimmy Boyd,Ibiza ,Eau de Toilette Unisex,62.00,15%,62.00,0,0
+372,Perfumes de Hombre,COMME des GARÇONS,ZERO,Eau de Parfum Unisex,144.00,13%,144.00,5,1
+373,Perfumes de Hombre,DAVIDOFF,COOL WATER REBORN,Eau de Toilette para Hombre,114.00,65%,114.00,0,0
+374,Perfumes de Hombre,Dior,HIGHER ENERGY,Eau de Toilette,92.25,No tiene,Sin descuento,4,6
+375,Perfumes de Hombre,SCALPERS,Scalpers The Club,Eau de Parfum para Hombre,59.00,51%,59.00,5,1
+376,Perfumes de Hombre,HALLOWEEN,HALLOWEEN MAN,Eau de Toilette para Hombre,73.00,59%,73.00,5,5
+377,Perfumes de Hombre,HUGO BOSS,BOSS BOTTLED UNITED,Eau de Toilette para Hombre,85.00,53%,85.00,5,1
+378,Perfumes de Hombre,GUERLAIN,Les Absolus d'Orient Santal Royal,Eau de Parfum Unisex,190.65,35%,190.65,4,2
+379,Perfumes de Hombre,GUERLAIN,L'Homme Ideal EDP,Eau de Parfum para Hombre,136.45,49%,136.45,4,4
+380,Perfumes de Hombre,Roberto Verino,RV Pure Man Intense,Eau de Parfum para Hombre,56.00,55%,56.00,4,6
+381,Perfumes de Hombre,Aramis,TUSCANY PER UOMO,Eau de Toilette para Hombre,79.50,37%,79.50,4,10
+382,Perfumes de Hombre,PRADA,Luna Rossa Ocean Estuche,Eau de Toilette para Hombre,99.50,30%,99.50,5,1
+383,Perfumes de Hombre,GUERLAIN,Héritage,Eau de Toilette para Hombre,120.40,35%,120.40,0,0
+384,Perfumes de Hombre,GUERLAIN,Habit Rouge EDP,Eau de Parfum para Hombre,136.45,35%,136.45,0,0
+385,Perfumes de Hombre,GUERLAIN,Les Absolus d'Orient Oud Essentiel,Eau de Parfum Unisex,190.65,35%,190.65,5,1
+386,Perfumes de Hombre,TOUS,MAN CHILL,Eau de Toilette para Hombre,76.00,47%,76.00,0,0
+387,Perfumes de Hombre,GUERLAIN,Les Absolus d'Orient Epices Exquises,Eau de Parfum Unisex,190.65,35%,190.65,0,0
+388,Perfumes de Hombre,COACH,COACH For Men,Eau de Toilette para Hombre,96.00,58%,96.00,4,1
+389,Perfumes de Hombre,Montale Paris,Sensual Instinct,Eau de Parfum Unisex,129.95,No tiene,Sin descuento,0,0
+390,Perfumes de Hombre,ISSEY MIYAKE,IGO L'EAU D'ISSEY POUR HOMME,Eau de Toilette para Hombre,107.00,35%,107.00,3,1
+391,Perfumes de Hombre,ISSEY MIYAKE,L'EAU D'ISSEY POUR HOMME VETIVER,Eau de Toilette Intense para Hombre,80.00,35%,80.00,0,0
+392,Perfumes de Hombre,Jimmy Boyd,Whisky Fragrance,Eau de Toilette Unisex,62.00,15%,62.00,0,0
+393,Perfumes de Hombre,HERMÈS,Un Jardin à Cythère,Eau de Toilette Unisex,70.00,33%,70.00,0,0
+394,Perfumes de Hombre,BURBERRY,WEEKEND For Men,Eau de Toilette para Hombre,77.50,48%,77.50,5,1
+395,Perfumes de Hombre,HERMÈS,H24 EDP,Eau de Parfum para Hombre,98.00,30%,98.00,0,0
+396,Perfumes de Hombre,LACOSTE,L'Homme Lacoste,Eau de Toilette para Hombre,92.90,46%,92.90,5,1
+397,Perfumes de Hombre,GUERLAIN,Aqua Allegoria Orange Soleia,Eau de Toilette Unisex,105.35,43%,105.35,0,0
+398,Perfumes de Hombre,GUERLAIN,L'Homme Ideal Extrême,Eau de Parfum para Hombre,136.45,45%,136.45,4,2
+399,Perfumes de Hombre,VERSACE,L'Homme,Eau de Toilette para Hombre,70.40,40%,70.40,5,6
+400,Perfumes de Hombre,RALPH LAUREN,POLO,Eau de Toilette para Hombre,174.90,46%,174.90,4,3
+401,Perfumes de Hombre,TOM FORD,Black Orchid EDT,Eau de Toilette para Mujer,44.10,No tiene,Sin descuento,0,0
+402,Perfumes de Hombre,LACOSTE,L'Homme Lacoste Intense,Eau de Toilette para Hombre,66.00,47%,66.00,5,1
+403,Perfumes de Hombre,COMME des GARÇONS,AMAZINGREEN,Eau de Parfum para Hombre,85.00,10%,85.00,2,2
+404,Perfumes de Hombre,NARCISO RODRÍGUEZ,BLEU NOIR FOR HIM EDT,Eau de Toilette para Hombre,72.00,35%,72.00,3,3
+405,Perfumes de Hombre,NARCISO RODRÍGUEZ,FOR HIM BLEU NOIR PARFUM,Parfum para Hombre,93.00,35%,93.00,5,1
+406,Perfumes de Hombre,Alyssa Ashley,Marijane EDP,Eau de Parfum Unisex,35.00,43%,35.00,0,0
+407,Perfumes de Hombre,TOM FORD,Grey Vetiver Parfum,Parfum para Hombre,105.00,No tiene,Sin descuento,0,0
+408,Perfumes de Hombre,COMME des GARÇONS,ROUGE,Eau de Parfum Unisex,144.00,13%,144.00,4,1
+409,Perfumes de Hombre,GUERLAIN,Mitsouko EDP,Eau de Parfum Unisex,146.50,35%,146.50,4,1
+410,Perfumes de Hombre,KENZO,MEMORI COLLECTION POUDRE MATCHA,Eau de Parfum Unisex,96.00,No tiene,Sin descuento,0,0
+411,Perfumes de Hombre,TOMMY HILFIGER,IMPACT SPARK,Eau de Toilette para Hombre,83.00,52%,83.00,0,0
+412,Perfumes de Hombre,Montale Paris,White Musk,Eau de Parfum Unisex,99.95,No tiene,Sin descuento,0,0
+413,Perfumes de Hombre,Montale Paris,Arabians,Eau de Parfum Unisex,134.95,No tiene,Sin descuento,0,0
+414,Perfumes de Hombre,Montale Paris,Oud Tobacco,Eau de Parfum Unisex,119.95,No tiene,Sin descuento,0,0
+415,Perfumes de Hombre,Montale Paris,Red Vetiver,Eau de Parfum para Hombre,119.95,No tiene,Sin descuento,0,0
+416,Perfumes de Hombre,Montale Paris,Wood on Fire,Eau de Parfum Unisex,119.95,No tiene,Sin descuento,0,0
+417,Perfumes de Hombre,Montale Paris,Oudmazing,Eau de Parfum Unisex,134.95,No tiene,Sin descuento,0,0
+418,Perfumes de Hombre,Montale Paris,Soleil de Capri,Eau de Parfum Unisex,99.95,No tiene,Sin descuento,0,0
+419,Perfumes de Hombre,Montale Paris,Aqua Palma,Eau de Parfum Unisex,134.95,No tiene,Sin descuento,0,0
+420,Perfumes de Hombre,Montale Paris,Fantastic Oud,Eau de Parfum Unisex,134.95,No tiene,Sin descuento,0,0
+421,Perfumes de Hombre,Montale Paris,Pretty Fruity,Eau de Parfum Unisex,119.95,No tiene,Sin descuento,0,0
+422,Perfumes de Hombre,Montale Paris,Sweet Vanilla,Eau de Parfum Unisex,134.95,No tiene,Sin descuento,0,0
+423,Perfumes de Hombre,Montale Paris,Aoud Night,Eau de Parfum Unisex,129.95,No tiene,Sin descuento,0,0
+424,Perfumes de Hombre,Montale Paris,Dark Aoud,Eau de Parfum Unisex,119.95,No tiene,Sin descuento,0,0
+425,Perfumes de Hombre,Montale Paris,Oud Dream,Eau de Parfum Unisex,134.95,No tiene,Sin descuento,0,0
+426,Perfumes de Hombre,Montale Paris,Intense Black Aoud,Eau de Parfum Unisex,154.95,No tiene,Sin descuento,0,0
+427,Perfumes de Hombre,Montale Paris,Mukhallat,Eau de Parfum Unisex,129.95,No tiene,Sin descuento,0,0
+428,Perfumes de Hombre,Montale Paris,Fantastic Basilic,Eau de Parfum Unisex,99.95,No tiene,Sin descuento,0,0
+429,Perfumes de Hombre,Montale Paris,Blue Matcha,Eau de Parfum Unisex,129.95,No tiene,Sin descuento,0,0
+430,Perfumes de Hombre,Montale Paris,Oud Pashmina,Eau de Parfum Unisex,129.95,No tiene,Sin descuento,0,0
+431,Perfumes de Hombre,Montale Paris,So Amber,Eau de Parfum Unisex,129.95,No tiene,Sin descuento,0,0
+432,Perfumes de Hombre,Montale Paris,White Aoud,Eau de Parfum Unisex,119.95,No tiene,Sin descuento,0,0
+433,Perfumes de Hombre,Montale Paris,Amber Musk,Eau de Parfum Unisex,129.95,No tiene,Sin descuento,0,0
+434,Perfumes de Hombre,Montale Paris,Wild Aoud,Eau de Parfum Unisex,119.95,No tiene,Sin descuento,0,0
+435,Perfumes de Hombre,Montale Paris,Intense Café,Eau de Parfum Unisex,119.95,No tiene,Sin descuento,0,0
+436,Perfumes de Hombre,El Ganso,Part Time Hero,Eau de Toilette para Hombre,50.00,48%,50.00,0,0
+437,Perfumes de Hombre,GUERLAIN,Mitsouko,Eau de Toilette Unisex,126.45,38%,126.45,0,0
+438,Perfumes de Hombre,Philippe Starck,Peau de Nuit Infinite,Eau de Parfum para Hombre,99.00,19%,99.00,0,0
+439,Perfumes de Hombre,Montale Paris,Pure Love,Eau de Parfum Unisex,114.95,No tiene,Sin descuento,0,0
+440,Perfumes de Hombre,COMME des GARÇONS,COPPER,Eau de Parfum Unisex,144.00,13%,144.00,5,1
+441,Perfumes de Hombre,Montale Paris,Chocolate Greedy,Eau de Parfum Unisex,99.95,No tiene,Sin descuento,0,0
+442,Perfumes de Hombre,Montale Paris,Black Aoud,Eau de Parfum para Hombre,119.95,No tiene,Sin descuento,0,0
+443,Perfumes de Hombre,KENZO,MEMORI COLLECTION COEUR AZUKI,Eau de Parfum Unisex,96.00,No tiene,Sin descuento,0,0
+444,Perfumes de Hombre,Jimmy Choo,Man Aqua,Eau de Toilette para Hombre,55.00,46%,55.00,0,0
+445,Perfumes de Hombre,Police,To Be Bad Guy EDT,Eau de Toilette para Hombre,35.00,54%,35.00,0,0
+446,Perfumes de Hombre,KENZO,MEMORI COLLECTION SOLEIL THÉ,Eau de Parfum Unisex,96.00,No tiene,Sin descuento,0,0
+447,Perfumes de Hombre,Montale Paris,Ristretto Intense Café,Eau de Parfum unisex,154.95,No tiene,Sin descuento,0,0
+448,Perfumes de Hombre,Bultaco,Lobito Rebel Code,Eau de Toilette para Hombre,65.00,39%,65.00,0,0
+449,Perfumes de Hombre,Montale Paris,Vetiver Patchouli,Eau de Parfum Unisex,129.95,No tiene,Sin descuento,0,0
+450,Perfumes de Hombre,KENZO,MEMORI COLLECTION NUIT TATAMI,Eau de Parfum Unisex,96.00,No tiene,Sin descuento,0,0
+451,Perfumes de Hombre,Montale Paris,Starry Nights,Eau de Parfum Unisex,129.95,No tiene,Sin descuento,0,0
+452,Perfumes de Hombre,KENZO,MEMORI COLLECTION CÈDRE SECRET,Eau de Parfum Unisex,96.00,No tiene,Sin descuento,0,0
+453,Perfumes de Hombre,Montale Paris,Black Musk,Eau de Parfum Unisex,99.95,No tiene,Sin descuento,0,0
+454,Perfumes de Hombre,Montale Paris,Oud Edition,Eau de Parfum Unisex,119.95,No tiene,Sin descuento,0,0
+455,Perfumes de Hombre,Montale Paris,Aoud Forest,Eau de Parfum Unisex,119.95,No tiene,Sin descuento,0,0
+456,Perfumes de Hombre,Philippe Starck,Peau d'Ailleurs,Eau de Toilette Unisex,56.00,No tiene,Sin descuento,0,0
+457,Perfumes de Hombre,BVLGARI,Man Terrae Essence,Eau de Parfum para Hombre,135.00,35%,135.00,4,1
+458,Perfumes de Hombre,Montale Paris,Dark Vanilla,Eau de Parfum Unisex,129.95,No tiene,Sin descuento,0,0
+459,Perfumes de Hombre,Montale Paris,Intense Tiaré,Eau de Parfum Unisex,99.95,No tiene,Sin descuento,0,0
+460,Perfumes de Hombre,Police,To Be Good Vibes Man,Eau de Toilette,48.00,58%,48.00,0,0
+461,Perfumes de Hombre,Montale Paris,Herbal Aquatica,Eau de Parfum Unisex,129.95,No tiene,Sin descuento,0,0
+462,Perfumes de Hombre,THIERRY MUGLER,MUGLER COLOGNE,Eau de Toilette Unisex,96.00,48%,96.00,4,82
+463,Perfumes de Hombre,ROCHAS,MOUSTACHE EDP,Eau de Parfum para Hombre,64.00,69%,64.00,4,7
+464,Perfumes de Hombre,PACO RABANNE,PURE XS NIGHT,Eau de Parfum para Hombre,74.50,40%,74.50,4,2
+465,Perfumes de Hombre,PACO RABANNE,1 MILLION LUCKY,Eau de Toilette para Hombre,69.50,43%,69.50,4,6
+466,Perfumes de Hombre,HUGO BOSS,BOSS BOTTLED INTENSE EDP,Eau de Parfum para Hombre,98.00,49%,98.00,4,26
+467,Perfumes de Hombre,YVES SAINT LAURENT,OPIUM pour Homme EDT,Eau de Toilette para Hombre,115.00,51%,115.00,4,7
+468,Perfumes de Hombre,Dior,DIOR HOMME PARFUM,Eau de Parfum,115.95,No tiene,Sin descuento,4,12
+469,Perfumes de Hombre,CAROLINA HERRERA,CH MEN PRIVÉ,Eau de Toilette para Hombre,70.50,43%,70.50,4,4
+470,Perfumes de Hombre,HUGO BOSS,BOSS BOTTLED NIGHT,Eau de Toilette para Hombre,69.00,48%,69.00,4,2
+471,Perfumes de Hombre,ARMANI,CODE EDP,Eau de Parfum para Hombre,120.00,53%,120.00,0,0
+472,Perfumes de Hombre,Gianfranco Ferré,Gieffeffe,Eau de Toilette Unisex,43.00,54%,43.00,4,15
+473,Perfumes de Hombre,HUGO BOSS,BOSS BOTTLED TONIC,Eau de Toilette para Hombre,85.00,57%,85.00,5,1
+474,Perfumes de Hombre,LACOSTE,Eau de Lacoste L.12.12 Blanc,Eau de Toilette para Hombre,93.40,57%,93.40,5,7
+475,Perfumes de Hombre,DAVIDOFF,COOL WATER INTENSE,Eau de Parfum para Hombre,120.00,75%,120.00,4,17
+476,Perfumes de Hombre,JEAN PAUL GAULTIER,LE MALE Pride,Eau de Toilette para Hombre,93.50,27%,93.50,5,1
+477,Perfumes de Hombre,HUGO BOSS,BOSS BOTTLED INFINITE,Eau de Parfum para Hombre,89.00,55%,89.00,4,1
+478,Perfumes de Hombre,HUGO BOSS,DARK BLUE,Eau de Toilette para Hombre,76.00,67%,76.00,4,54
+479,Perfumes de Hombre,PACO RABANNE,1 MILLION ELIXIR Estuche,Parfum Intense para Hombre,126.50,30%,126.50,5,1
+480,Perfumes de Hombre,YVES SAINT LAURENT,BODY KOUROS,Eau de Toilette para Hombre,115.00,48%,115.00,5,6
+481,Perfumes de Hombre,PACO RABANNE,INVICTUS INTENSE,Eau de Toilette para Hombre,73.50,46%,73.50,4,4
+482,Perfumes de Hombre,JEAN PAUL GAULTIER,LE MALE Pride 2022,Eau de Toilette Unisex,102.50,34%,102.50,0,0
+483,Perfumes de Hombre,HALLOWEEN,HALLOWEEN MAN X,Eau de Toilette para Hombre,73.00,51%,73.00,5,1
+484,Perfumes de Hombre,BURBERRY,FOR MEN,Eau de Toilette para Hombre,93.00,68%,93.00,5,2
+485,Perfumes de Hombre,DKNY,DKNY MEN,Eau de Toilette para Hombre,69.00,42%,69.00,4,8
+486,Perfumes de Hombre,Van Cleef & Arpels,Midnight in Paris,Eau de Toilette para Hombre,72.00,45%,72.00,4,13
+487,Perfumes de Hombre,LOEWE,SOLO LOEWE ESENCIAL,Eau de Toilette para Hombre,89.00,35%,89.00,0,0
+488,Perfumes de Hombre,LACOSTE,Pour Homme,Eau de Toilette para Hombre,75.00,60%,75.00,4,31
+489,Perfumes de Hombre,PACO RABANNE,XS,Eau de Toilette para Hombre,67.50,41%,67.50,4,2
+490,Perfumes de Hombre,HUGO BOSS,BOSS THE SCENT LE PARFUM,Parfum para Hombre,102.00,56%,102.00,0,0
+491,Perfumes de Hombre,ROCHAS,MOUSTACHE EDT,Eau de Toilette para Hombre,64.00,69%,64.00,5,1
+492,Perfumes de Hombre,SCALPERS,Scalpers Boxing Club,Eau de Parfum para Hombre,79.00,49%,79.00,5,1
+493,Perfumes de Hombre,PACO RABANNE,INVICTUS AQUA,Eau de Toilette para Hombre,87.00,37%,87.00,4,4
+494,Perfumes de Hombre,HUGO BOSS,BOSS THE SCENT ABSOLUTE,Eau de Parfum para Hombre,98.00,49%,98.00,5,1
+495,Perfumes de Hombre,DAVIDOFF,"COOL WATER CARIBBEAN ""SUMMER EDITION""",Eau de Toilette para Hombre,49.00,63%,49.00,4,17
+496,Perfumes de Hombre,GUCCI,MÉMOIRE D'UNE ODEUR,Eau de Parfum Unisex,113.00,56%,113.00,5,3
+497,Perfumes de Hombre,ISSEY MIYAKE,L'EAU D'ISSEY POUR HOMME WOOD & WOOD,Eau de Parfum para Hombre,104.00,35%,104.00,4,9
+498,Perfumes de Hombre,DAVIDOFF,COOL WATER PARFUM,Parfum para Hombre,125.00,64%,125.00,5,3
+499,Perfumes de Hombre,BIOTHERM HOMME,Aquafitness,Eau de Toilette para Hombre,52.00,No tiene,Sin descuento,4,14
+500,Perfumes de Hombre,GIVENCHY,Xeryus Rouge,Eau de Toilette para Hombre,90.60,40%,90.60,4,6
+501,Perfumes de Hombre,Abercrombie & Fitch,First Instinct,Eau de Toilette para Hombre,100.00,60%,100.00,4,5
+502,Perfumes de Hombre,HUGO BOSS,HUGO RED,Eau de Toilette para Hombre,66.50,32%,66.50,4,22
+503,Perfumes de Hombre,Dunhill,Desire Silver,Eau de Toilette para Hombre,42.00,64%,42.00,0,0
+504,Perfumes de Hombre,BVLGARI,Aqua Marine Pour Homme,Eau de Toilette para Hombre,99.00,35%,99.00,0,0
+505,Perfumes de Hombre,TOM FORD,Neroli Portofino,Eau de Parfum Unisex,158.40,No tiene,Sin descuento,0,0
+506,Perfumes de Hombre,ZADIG & VOLTAIRE,Just Rock! For Him,Eau de Toilette para Hombre,71.00,35%,71.00,5,1
+507,Perfumes de Hombre,HUGO BOSS,BOSS THE SCENT INTENSE,Eau de Parfum para Hombre,83.00,40%,83.00,5,1
+508,Perfumes de Hombre,HERMÈS,Un Jardin Après la Mousson,Eau de Toilette Unisex,133.00,35%,133.00,4,6
+509,Perfumes de Hombre,YVES SAINT LAURENT,JAZZ,Eau de Toilette para Hombre,120.00,42%,120.00,5,6
+510,Perfumes de Hombre,HERMÈS,Terre d'Hermès Eau Tres Fraîche,Eau Fraîche para Hombre,80.00,30%,80.00,5,5
+511,Perfumes de Hombre,LACOSTE,Lacoste Challenge,Eau de Toilette para Hombre,73.00,48%,73.00,4,15
+512,Perfumes de Hombre,Montale Paris,Arabians Tonka,Eau de Parfum Unisex,134.95,No tiene,Sin descuento,0,0
+513,Perfumes de Hombre,GUERLAIN,Héritage EDP,Eau de Parfum para Hombre,136.45,35%,136.45,0,0
+514,Perfumes de Hombre,TOUS,1920 THE ORIGIN,Eau de Parfum para Hombre,79.50,57%,79.50,4,7
+515,Perfumes de Hombre,THIERRY MUGLER,ALIEN MAN,Eau de Toilette para Hombre,65.50,33%,65.50,0,0
+516,Perfumes de Hombre,El Ganso,Friday Edition,Eau de Toilette para Hombre,50.00,44%,50.00,0,0
+517,Perfumes de Hombre,JEAN PAUL GAULTIER,LE MALE On Board,Eau de Toilette para Hombre,93.50,38%,93.50,0,0
+518,Perfumes de Hombre,BURBERRY,MR. BURBERRY,Eau de Parfum para Hombre,105.00,38%,105.00,0,0
+519,Perfumes de Hombre,CAROLINA HERRERA,"CH MEN UNDER THE SEA ""Edición Limitada""",Eau de Parfum para Hombre,111.00,46%,111.00,5,1
+520,Perfumes de Hombre,CALVIN KLEIN,OBSESSED For Men,Eau de Toilette para Hombre,81.90,60%,81.90,4,10
+521,Perfumes de Hombre,MONTBLANC,LEGEND NIGHT,Eau de Parfum para Hombre,90.00,44%,90.00,5,1
+522,Perfumes de Hombre,HUGO BOSS,BOSS BOTTLED UNLIMITED,Eau de Toilette para Hombre,111.00,60%,111.00,4,4
+523,Perfumes de Hombre,HUGO BOSS,HUGO ICED,Eau de Toilette para Hombre,81.00,43%,81.00,4,6
+524,Perfumes de Hombre,HUGO BOSS,BOSS BOTTLED ABSOLUTE,Eau de Parfum para Hombre,72.45,43%,72.45,0,0
+525,Perfumes de Hombre,DAVIDOFF,COOL WATER GRAPEFRUIT & SAGE,Eau de Toilette para Hombre,81.45,63%,81.45,5,1
+526,Perfumes de Hombre,HUGO BOSS,HUGO XY,Eau de Toilette para Hombre,79.00,49%,79.00,5,4
+527,Perfumes de Hombre,Alyssa Ashley,MUSK EDT,Eau de Toilette Unisex,45.95,48%,45.95,5,3
+528,Perfumes de Hombre,BVLGARI,Man Glacial Essence,Eau de Parfum para Hombre,135.00,35%,135.00,5,1
+529,Perfumes de Hombre,VERSACE,Dreamer,Eau de Toilette para Hombre,82.04,45%,82.04,4,17
+530,Perfumes de Hombre,DAVIDOFF,"COOL WATER STREET FIGHTER ""CHAMPION EDITION""",Eau de Toilette para Hombre,81.45,57%,81.45,5,2
+531,Perfumes de Hombre,HUGO BOSS,BOSS BOTTLED UNITED EDP,Eau de Parfum para Hombre,93.00,57%,93.00,0,0
+532,Perfumes de Hombre,Carven,Vétiver,Eau de Toilette para Hombre,79.50,62%,79.50,0,0
+533,Perfumes de Hombre,HUGO BOSS,BOSS THE SCENT PRIVATE ACCORD,Eau de Toilette para Hombre,75.00,40%,75.00,5,2
+534,Perfumes de Hombre,LOEWE,001 EAU DE COLOGNE,Eau de Cologne Unisex,97.90,35%,97.90,5,3
+535,Perfumes de Hombre,Van Cleef & Arpels,In New York,Eau de Toilette para Hombre,67.00,25%,67.00,0,0
+536,Perfumes de Hombre,ANGEL SCHLESSER,HOMME,Eau de Toilette para Hombre,76.00,67%,76.00,4,7
+537,Perfumes de Hombre,PRADA,Luna Rossa Sport,Eau de Toilette para Hombre,115.00,40%,115.00,5,2
+538,Perfumes de Hombre,BURBERRY,BRIT RHYTHM For Him,Eau de Toilette para Hombre,79.50,37%,79.50,5,1
+539,Perfumes de Hombre,GUCCI,MADE TO MEASURE,Eau de Toilette para Hombre,100.00,40%,100.00,4,7
+540,Perfumes de Hombre,LACOSTE,Booster EDT,Eau de Toilette para Hombre,73.00,32%,73.00,4,5
+541,Perfumes de Hombre,ISSEY MIYAKE,NUIT D'ISSEY EDP,Eau de Parfum para Hombre,121.00,35%,121.00,4,11
+542,Perfumes de Hombre,MONTBLANC,EMBLEM,Eau de Toilette para Hombre,90.00,50%,90.00,4,4
+543,Perfumes de Hombre,CALVIN KLEIN,ETERNITY SUMMER DAZE For Men,Eau de Toilette para Hombre,70.95,58%,70.95,4,3
+544,Perfumes de Hombre,DOLCE & GABBANA,THE ONE GOLD For Men,Eau de Parfum Intense para Hombre,124.00,44%,124.00,5,1
+545,Perfumes de Hombre,Jimmy Choo,Man,Eau de Toilette para Hombre,101.00,60%,101.00,5,1
+546,Perfumes de Hombre,BVLGARI,Man Wood Neroli,Eau de Parfum para Hombre,111.00,35%,111.00,0,0
+547,Perfumes de Hombre,CALVIN KLEIN,ETERNITY NOW For Men,Eau de Toilette para Hombre,82.68,60%,82.68,4,11
+548,Perfumes de Hombre,CALVIN KLEIN,ETERNITY COLOGNE For Men,Eau de Toilette para Hombre,73.00,66%,73.00,0,0
+549,Perfumes de Hombre,CALVIN KLEIN,ETERNITY FLAME For Men,Eau de Toilette para Hombre,83.10,59%,83.10,4,8
+550,Perfumes de Hombre,ZADIG & VOLTAIRE,This is Love! For Him,Eau de Toilette para Hombre,71.00,35%,71.00,0,0
+551,Perfumes de Hombre,ISSEY MIYAKE,FUSION D'ISSEY EXTRÊME,Eau de Toilette Intense para Hombre,106.00,35%,106.00,4,3
+552,Perfumes de Hombre,CAROLINA HERRERA,"212 VIP BLACK SMILEY ""Edición Limitada""",Eau de Parfum para Hombre,96.00,30%,96.00,0,0
+553,Perfumes de Hombre,HUGO BOSS,HUGO URBAN JOURNEY,Eau de Toilette para Hombre,59.00,36%,59.00,5,3
+554,Perfumes de Hombre,LACOSTE,Eau de Lacoste L.12.12 Pour Lui Magnetic,Eau de Toilette para Hombre,86.40,58%,86.40,5,2
+555,Perfumes de Hombre,Bultaco,Lobito Original,Eau de Toilette para Hombre,65.00,39%,65.00,0,0
+556,Perfumes de Hombre,CALVIN KLEIN,CK FREE,Eau de Toilette para Hombre,81.00,63%,81.00,4,12
+557,Perfumes de Hombre,CAROLINA HERRERA,"BAD BOY GOLD FANTASY ""Edición Limitada""",Eau de Toilette para Hombre,109.00,40%,109.00,0,0
+558,Perfumes de Hombre,GUERLAIN,Les Absolus d'Orient Bois Mystérieux,Eau de Parfum Unisex,171.70,35%,171.70,0,0
+559,Perfumes de Hombre,HUGO BOSS,BOSS BOTTLED MARINE,Eau de Toilette para Hombre,85.00,53%,85.00,0,0
+560,Perfumes de Hombre,HUGO BOSS,HUGO REVERSED,Eau de Toilette para Hombre,68.00,49%,68.00,4,1
+561,Perfumes de Hombre,LACOSTE,Eau de Lacoste L.12.12 Rouge,Eau de Toilette para Hombre,80.00,48%,80.00,3,2
+562,Perfumes de Hombre,CAROLINA HERRERA,CHIC FOR MEN,Eau de Toilette para Hombre,79.50,27%,79.50,4,22
+563,Perfumes de Hombre,LACOSTE,Eau de Lacoste L.12.12 Noir,Eau de Toilette para Hombre,80.00,50%,80.00,4,3
+564,Perfumes de Hombre,HERMÈS,Equipage,Eau de Toilette para Hombre,114.50,30%,114.50,5,6
+565,Perfumes de Hombre,DKNY,DKNY MEN II,Eau de Toilette para Hombre,77.00,35%,77.00,5,5
+566,Perfumes de Hombre,Police,To Be Exotic Jungle for Man EDT,Eau de Toilette para Hombre,35.00,57%,35.00,0,0
+567,Perfumes de Hombre,COACH,COACH PLATINUM,Eau de Parfum para Hombre,95.00,68%,95.00,0,0
+568,Perfumes de Hombre,HERMÈS,Bel Ami,Eau de Toilette para Hombre,114.50,30%,114.50,5,1
+569,Perfumes de Hombre,HUGO BOSS,HUGO NOW,Eau de Toilette para Hombre,62.00,36%,62.00,4,3
+570,Perfumes de Hombre,HALLOWEEN,HALLOWEEN MAN HERO,Eau de Toilette para Hombre,73.00,52%,73.00,5,1
+571,Perfumes de Hombre,ZADIG & VOLTAIRE,"This is Him! ""Capsule No Rules""",Eau de Toilette para Hombre,78.00,35%,78.00,4,2
+572,Perfumes de Hombre,Geoffrey Beene,Grey Flannel EDT,Eau de Toilette,45.00,56%,45.00,5,1
+573,Perfumes de Hombre,MOSCHINO,FOREVER,Eau de Toilette para Hombre,74.40,40%,74.40,0,0
+574,Perfumes de Hombre,NARCISO RODRÍGUEZ,FOR HIM BLEU NOIR EXTREME,Eau de Toilette para Hombre,67.00,35%,67.00,4,1
+575,Perfumes de Hombre,Philippe Starck,Peau de Pierre,Eau de Toilette para Hombre,95.00,No tiene,Sin descuento,0,0
+576,Perfumes de Hombre,ISSEY MIYAKE,NUIT D'ISSEY,Eau de Toilette para Hombre,107.00,35%,107.00,4,4
+577,Perfumes de Hombre,ISSEY MIYAKE,L'EAU MAJEURE D'ISSEY,Eau de Toilette para Hombre,86.00,35%,86.00,5,3
+578,Perfumes de Hombre,MONTBLANC,EMBLEM INTENSE,Eau de Toilette para Hombre,96.00,50%,96.00,3,1
+579,Perfumes de Hombre,SISLEY,Eau d'Ikar,Eau de Toilette para Hombre,83.00,30%,83.00,0,0
+580,Perfumes de Hombre,HERMÈS,Bel Ami Vetiver,Eau de Toilette para Hombre,114.50,30%,114.50,5,2
+581,Perfumes de Hombre,BOUCHERON,QUATRE POUR HOMME,Eau de Toilette para Hombre,99.00,58%,99.00,4,3
+582,Perfumes de Hombre,LACOSTE,Eau de Lacoste L. 12.12 Eau Fraiche Pour Lui,Eau de Toilette para Hombre,82.10,51%,82.10,0,0
+583,Perfumes de Hombre,LACOSTE,L.12.12 French Panache Pour Lui,Eau de Toilette para Hombre,86.40,54%,86.40,5,1
+584,Perfumes de Hombre,BURBERRY,BRIT FOR HIM EDT,Eau de Toilette para Hombre,81.50,51%,81.50,5,1
+585,Perfumes de Hombre,DAVIDOFF,HORIZON,Eau de Toilette para Hombre,83.00,36%,83.00,0,0
+586,Perfumes de Hombre,HERMÈS,Eau de Narcisse Bleu,Eau de Cologne Unisex,137.00,31%,137.00,5,2
+587,Perfumes de Hombre,HERMÈS,Eau de Mandarine Ambrée,Eau de Cologne Unisex,111.00,30%,111.00,0,0
+588,Perfumes de Hombre,LACOSTE,Match Point,Eau de Toilette para Hombre,69.20,52%,69.20,0,0
+589,Perfumes de Hombre,Mandarina Duck,For Him,Eau de Toilette para Hombre,28.00,29%,28.00,0,0
+590,Perfumes de Hombre,JEAN PAUL GAULTIER,CLASSIQUE Pride 2022,Eau de Toilette Unisex,92.50,35%,92.50,5,1
+591,Perfumes de Hombre,HERMÈS,Eau d'Hermès,Eau de Toilette Unisex,108.00,31%,108.00,0,0
+592,Perfumes de Hombre,BURBERRY,MR. BURBERRY EDT INDIGO,Eau de Toilette para Hombre,95.00,47%,95.00,5,1
+593,Perfumes de Hombre,Trussardi,UOMO,Eau de Toilette para Hombre,77.00,42%,77.00,0,0
+594,Perfumes de Hombre,HERMÈS,Rocabar,Eau de Toilette para Hombre,114.50,30%,114.50,0,0
+595,Perfumes de Hombre,CAROLINA HERRERA,"BAD BOY SUPERSTARS ""Edición Limitada""",Eau de Toilette para Hombre,102.00,24%,102.00,0,0
+596,Perfumes de Hombre,Carven,L'Eau Intense,Eau de Toilette para Hombre,72.50,59%,72.50,0,0
+597,Perfumes de Hombre,Karl Lagerfeld,Bois de Vétiver,Eau de Toilette para Hombre,100.00,70%,100.00,1,1
+598,Perfumes de Hombre,Perris Monte Carlo,Patchouli Nosy Be Extrait,Extrait de Parfum Unisex,275.00,No tiene,Sin descuento,0,0
+599,Perfumes de Hombre,BURBERRY,TOUCH FOR MEN,Eau de Toilette para Hombre,77.50,48%,77.50,5,3
+600,Perfumes de Hombre,DAVIDOFF,CHAMPION,Eau de Toilette para Hombre,108.00,72%,108.00,4,10
+601,Perfumes de Hombre,LACOSTE,Eau de Lacoste L.12.12 Jaune,Eau de Toilette para Hombre,80.00,50%,80.00,0,0
+602,Perfumes de Hombre,Perris Monte Carlo,Bois D'Oud,Eau de Parfum Unisex,145.00,No tiene,Sin descuento,5,2
+603,Perfumes de Hombre,Montale Paris,Wild Pears,Eau de Parfum Unisex,99.95,No tiene,Sin descuento,0,0
+604,Perfumes de Hombre,Trussardi,UOMO THE RED,Eau de Toilette para Hombre,95.80,48%,95.80,0,0
+605,Perfumes de Hombre,Perris Monte Carlo,Essence de Patchouli,Eau de Parfum Unisex,145.00,No tiene,Sin descuento,5,1
+606,Perfumes de Hombre,ISSEY MIYAKE,FUSION D'ISSEY IGO,Eau de Toilette para Hombre,101.50,35%,101.50,0,0
+607,Perfumes de Hombre,Jacques Bogart,Silver Scent,Eau de Toilette para Hombre,35.50,44%,35.50,0,0
+608,Perfumes de Hombre,HERMÈS,Equipage Geranium,Eau de Toilette para Hombre,114.50,30%,114.50,5,1
+609,Perfumes de Hombre,Jimmy Choo,Man Blue,Eau de Toilette para Hombre,101.00,51%,101.00,0,0
+610,Perfumes de Hombre,HERMÈS,Eau de Néroli Doré,Eau de Cologne Unisex,111.00,30%,111.00,0,0
+611,Perfumes de Hombre,Pierre Balmain,Balmain Homme,Eau de Toilette para Hombre,80.00,25%,80.00,0,0
+612,Perfumes de Hombre,TOUS,MAN INTENSE,Eau de Toilette para Hombre,76.00,57%,76.00,3,1
+613,Perfumes de Hombre,DAVIDOFF,HOT WATER,Eau de Toilette para Hombre,76.00,49%,76.00,0,0
+614,Perfumes de Hombre,Jimmy Boyd,Spring Rain Water,Eau de Toilette Unisex,62.00,15%,62.00,0,0
+615,Perfumes de Hombre,BURBERRY,LONDON MAN,Eau de Toilette para Hombre,81.90,51%,81.90,5,1
+616,Perfumes de Hombre,Montale Paris,Oudrising,Eau de Parfum Unisex,134.95,No tiene,Sin descuento,0,0
+617,Perfumes de Hombre,Perris Monte Carlo,Absolue D'Osmanthe Extrait,Extrait de Parfum Unisex,275.00,No tiene,Sin descuento,0,0
+618,Perfumes de Hombre,Montale Paris,Wood & Spices,Eau de Parfum para Hombre,99.95,No tiene,Sin descuento,0,0
+619,Perfumes de Hombre,Perris Monte Carlo,Musk Extreme,Eau de Parfum Unisex,145.00,No tiene,Sin descuento,0,0
+620,Perfumes de Hombre,Jimmy Boyd,Wonderful India,Eau de Toilette Unisex,62.00,15%,62.00,0,0
+621,Perfumes de Mujer,LANCÔME,LA VIE EST BELLE,Eau de Parfum para Mujer,37.00,33%,37.00,5,6
+622,Perfumes de Mujer,CAROLINA HERRERA,GOOD GIRL,Eau de Parfum para Mujer,70.00,30%,70.00,5,4
+623,Perfumes de Mujer,YVES SAINT LAURENT,BLACK OPIUM,Eau de Parfum para Mujer,80.00,48%,80.00,4,31
+624,Perfumes de Mujer,DOLCE & GABBANA,LIGHT BLUE,Eau de Toilette para Mujer,62.00,44%,62.00,4,14
+625,Perfumes de Mujer,Dior,J'ADORE,Eau de Parfum,64.95,No tiene,Sin descuento,4,6
+626,Perfumes de Mujer,LOEWE,AIRE DE LOEWE,Eau de Toilette para Mujer,57.00,35%,57.00,5,7
+627,Perfumes de Mujer,ARMANI,MY WAY,Eau de Parfum para Mujer,82.00,51%,82.00,4,7
+628,Perfumes de Mujer,CHLOÉ,CHLOÉ,Eau de Parfum para Mujer,73.00,55%,73.00,4,15
+629,Perfumes de Mujer,GUCCI,BLOOM,Eau de Parfum para Mujer,79.00,54%,79.00,4,5
+630,Perfumes de Mujer,LANCÔME,IDÔLE,Eau de Parfum para Mujer,70.00,52%,70.00,4,20
+631,Perfumes de Mujer,YVES SAINT LAURENT,LIBRE,Eau de Parfum para Mujer,82.00,49%,82.00,4,10
+632,Perfumes de Mujer,NARCISO RODRÍGUEZ,FOR HER,Eau de Parfum para Mujer,105.00,35%,105.00,4,13
+633,Perfumes de Mujer,BVLGARI,Omnia Crystalline,Eau de Toilette para Mujer,73.00,35%,73.00,5,1
+634,Perfumes de Mujer,JEAN PAUL GAULTIER,SCANDAL,Eau de Parfum para Mujer,66.00,42%,66.00,4,8
+635,Perfumes de Mujer,CACHAREL,YES I AM,Eau de Parfum para Mujer,55.00,49%,55.00,4,14
+636,Perfumes de Mujer,GUERLAIN,Insolence,Eau de Parfum para Mujer,146.50,49%,146.50,5,8
+637,Perfumes de Mujer,ELIZABETH ARDEN,Provocative,Eau de Parfum para Mujer,77.93,68%,77.93,4,15
+638,Perfumes de Mujer,CALVIN KLEIN,CK ONE,Eau de Toilette Unisex,76.00,72%,76.00,4,12
+639,Perfumes de Mujer,YVES SAINT LAURENT,MON PARIS,Eau de Parfum para Mujer,77.00,44%,77.00,4,4
+640,Perfumes de Mujer,CAROLINA HERRERA,212,Eau de Toilette para Mujer,58.00,48%,58.00,4,14
+641,Perfumes de Mujer,PRADA,Paradoxe,Eau de Parfum para Mujer,85.00,47%,85.00,4,4
+642,Perfumes de Mujer,CALVIN KLEIN,CK BE,Eau de Toilette Unisex,76.00,74%,76.00,4,7
+643,Perfumes de Mujer,LANCÔME,TRÉSOR MIDNIGHT ROSE,Eau de Parfum para Mujer,115.00,48%,115.00,4,13
+644,Perfumes de Mujer,CALVIN KLEIN,ETERNITY,Eau de Parfum para Mujer,65.00,65%,65.00,4,10
+645,Perfumes de Mujer,CALVIN KLEIN,EUPHORIA,Eau de Parfum para Mujer,69.00,64%,69.00,5,3
+646,Perfumes de Mujer,DKNY,DKNY WOMEN,Eau de Parfum para Mujer,57.00,39%,57.00,0,0
+647,Perfumes de Mujer,PACO RABANNE,PURE XS For Her,Eau de Parfum para Mujer,65.50,54%,65.50,5,1
+648,Perfumes de Mujer,ARMANI,SÌ PASSIONE,Eau de Parfum para Mujer,82.00,45%,82.00,5,2
+649,Perfumes de Mujer,CAROLINA HERRERA,CH,Eau de Toilette para Mujer,63.50,53%,63.50,4,21
+650,Perfumes de Mujer,ARMANI,SÌ,Eau de Parfum para Mujer,82.00,54%,82.00,4,20
+651,Perfumes de Mujer,ARMANI,ACQUA DI GIOIA,Eau de Parfum para Mujer,69.00,51%,69.00,4,11
+652,Perfumes de Mujer,ROCHAS,EAU DE ROCHAS,Eau de Toilette para Mujer,62.00,55%,62.00,4,37
+653,Perfumes de Mujer,BURBERRY,FOR WOMEN,Eau de Parfum para Mujer,47.90,48%,47.90,5,2
+654,Perfumes de Mujer,PACO RABANNE,OLYMPEA,Eau de Parfum para Mujer,67.00,52%,67.00,0,0
+655,Perfumes de Mujer,LANCÔME,POÊME,Eau de Parfum para Mujer,85.00,46%,85.00,4,12
+656,Perfumes de Mujer,PRADA,Infusion d'Iris,Eau de Parfum Unisex,110.00,46%,110.00,4,15
+657,Perfumes de Mujer,LOEWE,AIRE SUTILEZA,Eau de Toilette para Mujer,84.00,35%,84.00,5,1
+658,Perfumes de Mujer,CAROLINA HERRERA,212 VIP ROSÉ,Eau de Parfum para Mujer,59.00,50%,59.00,4,20
+659,Perfumes de Mujer,THIERRY MUGLER,ALIEN,Eau de Parfum para Mujer,38.00,40%,38.00,0,0
+660,Perfumes de Mujer,ESCADA,MAGNETISM,Eau de Parfum para Mujer,102.00,61%,102.00,4,14
+661,Perfumes de Mujer,LANCÔME,TRÉSOR,Eau de Parfum para Mujer,85.00,50%,85.00,5,7
+662,Perfumes de Mujer,GIVENCHY,Amarige,Eau de Toilette para Mujer,62.50,41%,62.50,4,11
+663,Perfumes de Mujer,CLINIQUE,Aromatics Elixir,Eau de Parfum para Mujer,32.48,No tiene,Sin descuento,5,3
+664,Perfumes de Mujer,ARMANI,EMPORIO ARMANI Mujer,Eau de Parfum para Mujer,69.00,49%,69.00,5,1
+665,Perfumes de Mujer,CALVIN KLEIN,CK ONE REFLECTIONS,Eau de Toilette Unisex,70.00,65%,70.00,5,4
+666,Perfumes de Mujer,DAVIDOFF,COOL WATER WOMAN,Eau de Toilette para Mujer,61.00,75%,61.00,5,3
+667,Perfumes de Mujer,RALPH LAUREN,RALPH,Eau de Toilette para Mujer,77.00,68%,77.00,4,28
+668,Perfumes de Mujer,ANGEL SCHLESSER,FEMME,Eau de Toilette para Mujer,87.00,54%,87.00,4,61
+669,Perfumes de Mujer,HALLOWEEN,HALLOWEEN,Eau de Toilette para Mujer,76.00,67%,76.00,4,89
+670,Perfumes de Mujer,THIERRY MUGLER,ANGEL NOVA,Eau de Parfum para Mujer,82.00,51%,82.00,5,4
+671,Perfumes de Mujer,JEAN PAUL GAULTIER,LA BELLE Le Parfum,Eau de Parfum para Mujer,72.50,53%,72.50,5,2
+672,Perfumes de Mujer,CACHAREL,NOA,Eau de Toilette para Mujer,49.00,51%,49.00,4,7
+673,Perfumes de Mujer,ARMANI,SÌ EAU DE PARFUM INTENSE,Eau de Parfum Intense para Mujer,89.00,37%,89.00,0,0
+674,Perfumes de Mujer,GUCCI,FLORA GORGEOUS GARDENIA,Eau de Parfum para Mujer,79.00,48%,79.00,0,0
+675,Perfumes de Mujer,ESTÉE LAUDER,Pleasures,Eau de Parfum para Mujer,33.95,No tiene,Sin descuento,5,3
+676,Perfumes de Mujer,CACHAREL,AMOR AMOR,Eau de Toilette para Mujer,50.00,50%,50.00,4,6
+677,Perfumes de Mujer,Cerruti,1881 POUR FEMME,Eau de Toilette para mujer,83.00,64%,83.00,5,9
+678,Perfumes de Mujer,LANCÔME,MIRACLE,Eau de Parfum para Mujer,79.00,52%,79.00,4,5
+679,Perfumes de Mujer,LANCASTER,EAU DE LANCASTER,Eau de Toilette Unisex,64.90,74%,64.90,4,2
+680,Perfumes de Mujer,CACHAREL,LOU LOU,Eau de Parfum para Mujer,49.00,48%,49.00,4,21
+681,Perfumes de Mujer,TOUS,LOVEME THE EMERALD ELIXIR,Parfum para Mujer,58.00,48%,58.00,4,3
+682,Perfumes de Mujer,CAROLINA HERRERA,CAROLINA HERRERA,Eau de Parfum para Mujer,81.00,41%,81.00,5,4
+683,Perfumes de Mujer,HUGO BOSS,BOSS ORANGE,Eau de Toilette para Mujer,97.00,69%,97.00,5,13
+684,Perfumes de Mujer,CALVIN KLEIN,CONTRADICTION,Eau de Parfum para Mujer,81.70,63%,81.70,4,26
+685,Perfumes de Mujer,ELIZABETH ARDEN,Green Tea,Eau de Parfum para Mujer,18.76,47%,18.76,4,8
+686,Perfumes de Mujer,CALVIN KLEIN,IN2U Her,Eau de Toilette para Mujer,76.00,76%,76.00,4,36
+687,Perfumes de Mujer,YVES SAINT LAURENT,RIVE GAUCHE,Eau de Toilette para Mujer,87.00,46%,87.00,5,4
+688,Perfumes de Mujer,LANCÔME,MAGIE NOIRE,Eau de Toilette para Mujer,92.00,57%,92.00,4,41
+689,Perfumes de Mujer,LANCÔME,Ô de Lancôme,Eau de Toilette para Mujer,82.00,52%,82.00,4,59
+690,Perfumes de Mujer,ELIZABETH ARDEN,Green Tea Estuche,Eau de Parfum para Mujer,27.75,28%,27.75,0,0
+691,Perfumes de Mujer,THIERRY MUGLER,ANGEL,Eau de Parfum para Mujer,38.00,37%,38.00,4,7
+692,Perfumes de Mujer,DOLCE & GABBANA,THE ONE,Eau de Parfum para Mujer,76.00,34%,76.00,0,0
+693,Perfumes de Mujer,CHLOÉ,CHLOÉ NOMADE,Eau de Parfum para Mujer,73.00,56%,73.00,4,4
+694,Perfumes de Mujer,LOEWE,AGUA DE LOEWE,Eau de Toilette Unisex,71.00,35%,71.00,0,0
+695,Perfumes de Mujer,VALENTINO,BORN IN ROMA DONNA,Eau de Parfum para Mujer,82.00,43%,82.00,4,3
+696,Perfumes de Mujer,ADOLFO DOMÍNGUEZ,Agua de Bambú Woman,Eau de Toilette para Mujer,31.50,37%,31.50,5,7
+697,Perfumes de Mujer,Britney Spears,RADIANCE,Eau de Parfum para Mujer,63.55,75%,63.55,4,62
+698,Perfumes de Mujer,LANCÔME,LA NUIT TRÉSOR,Eau de Parfum para Mujer,79.00,48%,79.00,4,8
+699,Perfumes de Mujer,HUGO BOSS,HUGO DEEP RED,Eau de Parfum para Mujer,88.00,66%,88.00,4,99
+700,Perfumes de Mujer,DOLCE & GABBANA,DEVOTION,Eau de Parfum para Mujer,80.00,34%,80.00,0,0
+701,Perfumes de Mujer,JEAN PAUL GAULTIER,LA BELLE,Eau de Parfum para Mujer,93.50,52%,93.50,5,4
+702,Perfumes de Mujer,CACHAREL,ANAÏS ANAÏS,Eau de Toilette para Mujer,45.00,52%,45.00,4,10
+703,Perfumes de Mujer,JEAN PAUL GAULTIER,CLASSIQUE EDT,Eau de Toilette para Mujer,63.00,50%,63.00,4,8
+704,Perfumes de Mujer,ADOLFO DOMÍNGUEZ,Agua Fresca de Rosas,Eau de Toilette para Mujer,41.00,42%,41.00,4,16
+705,Perfumes de Mujer,ELIZABETH ARDEN,5th Avenue,Eau de Parfum para Mujer,39.07,44%,39.07,4,9
+706,Perfumes de Mujer,CALVIN KLEIN,ETERNITY MOMENT,Eau de Parfum para Mujer,93.25,68%,93.25,4,48
+707,Perfumes de Mujer,ELIZABETH ARDEN,Mediterranean,Eau de Parfum para Mujer,81.68,76%,81.68,4,19
+708,Perfumes de Mujer,ADOLFO DOMÍNGUEZ,Agua Fresca de Azahar,Eau de Toilette para Mujer,41.00,55%,41.00,5,3
+709,Perfumes de Mujer,DKNY,BE DELICIOUS,Eau de Parfum para Mujer,57.00,47%,57.00,4,16
+710,Perfumes de Mujer,GIVENCHY,L'Interdit,Eau de Parfum para Mujer,78.50,43%,78.50,4,12
+711,Perfumes de Mujer,KENZO,FLOWER BY KENZO,Eau de Parfum para Mujer,69.00,41%,69.00,5,1
+712,Perfumes de Mujer,TOUS,EAU DE TOILETTE,Eau de Toilette para Mujer,63.00,52%,63.00,4,8
+713,Perfumes de Mujer,CACHAREL,EDEN,Eau de Parfum para Mujer,50.00,48%,50.00,5,4
+714,Perfumes de Mujer,ARMANI,CODE Mujer,Eau de Parfum para Mujer,82.00,50%,82.00,0,0
+715,Perfumes de Mujer,YVES SAINT LAURENT,OPIUM EDT,Eau de Toilette para Mujer,65.00,48%,65.00,4,5
+716,Perfumes de Mujer,PACO RABANNE,ULTRAVIOLET,Eau de Parfum para Mujer,79.50,50%,79.50,4,15
+717,Perfumes de Mujer,HERMÈS,Un Jardin Sur Le Nil,Eau de Toilette Unisex,96.00,33%,96.00,4,7
+718,Perfumes de Mujer,LOEWE,SOLO ELLA,Eau de Parfum para Mujer,66.00,35%,66.00,5,2
+719,Perfumes de Mujer,YVES SAINT LAURENT,LIBRE INTENSE,Eau de Parfum para Mujer,92.00,48%,92.00,4,4
+720,Perfumes de Mujer,ZADIG & VOLTAIRE,This is Her!,Eau de Parfum para Mujer,62.00,35%,62.00,4,13
+721,Perfumes de Mujer,CAROLINA HERRERA,212 VIP,Eau de Parfum para Mujer,59.00,51%,59.00,4,13
+722,Perfumes de Mujer,TOUS,TOUCH THE ORIGINAL GOLD,Eau de Toilette para Mujer,68.00,56%,68.00,4,6
+723,Perfumes de Mujer,ARMANI,ACQUA DI GIÒ Mujer,Eau de Toilette para Mujer,150.00,53%,150.00,4,29
+724,Perfumes de Mujer,DOLCE & GABBANA,LIGHT BLUE SUMMER VIBES,Eau de Toilette para Mujer,92.00,40%,92.00,0,0
+725,Perfumes de Mujer,Britney Spears,FANTASY,Eau de Parfum para Mujer,44.07,44%,44.07,4,54
+726,Perfumes de Mujer,LOEWE,SOLO ELLA EDT,Eau de Toilette para Mujer,84.00,35%,84.00,5,2
+727,Perfumes de Mujer,PACO RABANNE,BLACK XS For Her EDP,Eau de Parfum para Mujer,65.50,54%,65.50,5,10
+728,Perfumes de Mujer,LOEWE,AGUA DE LOEWE MAR DE CORAL,Eau de Toilette Unisex,71.00,35%,71.00,4,3
+729,Perfumes de Mujer,GIVENCHY,L'Interdit Rouge,Eau de Parfum para Mujer,81.00,41%,81.00,5,3
+730,Perfumes de Mujer,VALENTINO,VALENTINA,Eau de Parfum para Mujer,112.00,49%,112.00,5,2
+731,Perfumes de Mujer,TOUS,GEMS PARTY,Eau de Toilette para Mujer,58.00,48%,58.00,5,2
+732,Perfumes de Mujer,BURBERRY,HER,Eau de Parfum para Mujer,77.00,52%,77.00,5,2
+733,Perfumes de Mujer,DOLCE & GABBANA,L'IMPERATRICE,Eau de Toilette para Mujer,100.00,60%,100.00,4,19
+734,Perfumes de Mujer,ROCHAS,MADAME ROCHAS,Eau de Toilette para Mujer,115.00,65%,115.00,4,22
+735,Perfumes de Mujer,Aristocrazy,Wonder,Eau de Toilette para Mujer,72.00,46%,72.00,5,3
+736,Perfumes de Mujer,ISSEY MIYAKE,L'EAU D'ISSEY,Eau de Toilette para Mujer,59.00,35%,59.00,4,11
+737,Perfumes de Mujer,PRADA,Paradoxe Intense,Eau de Parfum para Mujer,88.00,39%,88.00,0,0
+738,Perfumes de Mujer,Parfums Grès,Cabotine de Grès EDT,Eau de Toilette para Mujer,62.50,84%,62.50,4,31
+739,Perfumes de Mujer,Britney Spears,ISLAND FANTASY,Eau de Toilette para Mujer,63.55,75%,63.55,4,13
+740,Perfumes de Mujer,LANCÔME,LA VIE EST BELLE L'EXTRAIT,Eau de Parfum para Mujer,100.00,40%,100.00,0,0
+741,Perfumes de Mujer,TOUS,LOVEME,Eau de Parfum para Mujer,49.50,48%,49.50,4,8
+742,Perfumes de Mujer,GIVENCHY,Irresistible,Eau de Parfum para Mujer,78.50,40%,78.50,0,0
+743,Perfumes de Mujer,PACO RABANNE,OLYMPEA SOLAR,Eau de Parfum Intense para Mujer,73.00,52%,73.00,0,0
+744,Perfumes de Mujer,NARCISO RODRÍGUEZ,ALL OF ME,Eau de Parfum para Mujer,77.00,35%,77.00,0,0
+745,Perfumes de Mujer,LOEWE,AGUA DE LOEWE MAR DE CORAL Icono,Eau de Toilette Unisex,125.00,35%,125.00,5,1
+746,Perfumes de Mujer,ARMANI,MY WAY FLORAL,Eau de Parfum para Mujer,82.00,49%,82.00,0,0
+747,Perfumes de Mujer,CALVIN KLEIN,BEAUTY,Eau de Parfum para Mujer,126.00,68%,126.00,4,14
+748,Perfumes de Mujer,VALENTINO,VOCE VIVA,Eau de Parfum para Mujer,85.00,53%,85.00,4,1
+749,Perfumes de Mujer,LOEWE,A MI AIRE,Eau de Toilette para Mujer,126.00,35%,126.00,4,9
+750,Perfumes de Mujer,ANGEL SCHLESSER,LES EAUX D'UN INSTANT Tempting Bergamot,Eau de Toilette para Mujer,53.00,54%,53.00,4,9
+751,Perfumes de Mujer,GUCCI,FLORA GORGEOUS JASMINE,Eau de Parfum para Mujer,79.00,48%,79.00,0,0
+752,Perfumes de Mujer,VALENTINO,BORN IN ROMA DONNA INTENSE,Eau de Parfum Intense para Mujer,85.00,38%,85.00,0,0
+753,Perfumes de Mujer,NARCISO RODRÍGUEZ,FOR HER MUSC NOIR ROSE,Eau de Parfum para Mujer,73.00,35%,73.00,4,2
+754,Perfumes de Mujer,NARCISO RODRÍGUEZ,NARCISO POUDRÉE,Eau de Parfum para Mujer,73.00,35%,73.00,5,11
+755,Perfumes de Mujer,ADOLFO DOMÍNGUEZ,Agua Fresca de Rosas Blancas,Eau de Toilette para Mujer,41.00,46%,41.00,4,6
+756,Perfumes de Mujer,ELIZABETH ARDEN,Red Door,Eau de Toilette para Mujer,81.00,67%,81.00,4,25
+757,Perfumes de Mujer,TOUS,L'EAU,Eau de Parfum para Mujer,86.00,56%,86.00,4,9
+758,Perfumes de Mujer,CLINIQUE,Happy,Eau de Parfum para Mujer,35.95,No tiene,Sin descuento,4,6
+759,Perfumes de Mujer,ELIZABETH ARDEN,Sunflowers,Eau de Toilette para Mujer,15.30,43%,15.30,4,3
+760,Perfumes de Mujer,PACO RABANNE,LADY MILLION FABULOUS,Eau de Parfum Intense para Mujer,70.50,50%,70.50,5,1
+761,Perfumes de Mujer,ARMANI,MY WAY INTENSE,Eau de Parfum para Mujer,87.00,48%,87.00,5,3
+762,Perfumes de Mujer,Mandarina Duck,Woman EDT,Eau de Toilette para Mujer,69.00,67%,69.00,4,70
+763,Perfumes de Mujer,HUGO BOSS,BOSS THE SCENT For Her,Eau de Parfum para Mujer,99.00,54%,99.00,5,1
+764,Perfumes de Mujer,NARCISO RODRÍGUEZ,FOR HER EDT,Eau de Toilette para Mujer,94.00,35%,94.00,4,18
+765,Perfumes de Mujer,Aristocrazy,Intuitive,Eau de Toilette para Mujer,72.00,46%,72.00,4,4
+766,Perfumes de Mujer,JEAN PAUL GAULTIER,SO SCANDAL!,Eau de Parfum para Mujer,66.00,35%,66.00,5,1
+767,Perfumes de Mujer,NINA RICCI,Nina,Eau de Toilette para Mujer,50.50,37%,50.50,4,10
+768,Perfumes de Mujer,TOUS,LOVEME ONYX PARFUM,Parfum para Mujer,52.50,47%,52.50,0,0
+769,Perfumes de Mujer,ROCHAS,MADEMOISELLE,Eau de Parfum para Mujer,58.00,55%,58.00,5,4
+770,Perfumes de Mujer,YVES SAINT LAURENT,BLACK OPIUM LE PARFUM,Eau de Parfum para Mujer,85.00,41%,85.00,0,0
+771,Perfumes de Mujer,ARMANI,BECAUSE IT'S YOU,Eau de Parfum para Mujer,95.00,45%,95.00,4,6
+772,Perfumes de Mujer,YVES SAINT LAURENT,LIBRE LE PARFUM,Eau de Parfum para Mujer,95.00,48%,95.00,0,0
+773,Perfumes de Mujer,ELIZABETH ARDEN,White Tea EDP,Eau de Parfum para Mujer,30.00,42%,30.00,4,1
+774,Perfumes de Mujer,Dior,MISS DIOR,Eau de Parfum,64.94,No tiene,Sin descuento,0,0
+775,Perfumes de Mujer,YVES SAINT LAURENT,BLACK OPIUM EXTREME,Eau de Parfum para Mujer,85.00,47%,85.00,5,1
+776,Perfumes de Mujer,NINA RICCI,L'Air du Temps,Eau de Toilette para Mujer,49.50,56%,49.50,5,1
+777,Perfumes de Mujer,JEAN PAUL GAULTIER,GAULTIER DIVINE,Eau de Parfum para Mujer,76.00,34%,76.00,5,1
+778,Perfumes de Mujer,CAROLINA HERRERA,"GOOD GIRL DAZZLING GARDEN ""Edición Limitada""",Eau de Parfum para Mujer,137.50,31%,137.50,0,0
+779,Perfumes de Mujer,NARCISO RODRÍGUEZ,FLEUR MUSC FOR HER,Eau de Parfum para Mujer,73.00,35%,73.00,4,10
+780,Perfumes de Mujer,CALVIN KLEIN,CK EVERYONE,Eau de Toilette Unisex,58.00,59%,58.00,4,2
+781,Perfumes de Mujer,VIKTOR & ROLF,Flowerbomb,Eau de Parfum para Mujer,115.00,48%,115.00,4,9
+782,Perfumes de Mujer,VERSACE,Bright Crystal,Eau de Toilette para Mujer,69.00,40%,69.00,5,1
+783,Perfumes de Mujer,LANCÔME,LA VIE EST BELLE INTENSÉMENT,Eau de Parfum para Mujer,37.50,41%,37.50,0,0
+784,Perfumes de Mujer,GUCCI,GUILTY POUR FEMME EDP,Eau de Parfum para Mujer,79.00,56%,79.00,0,0
+785,Perfumes de Mujer,TOM FORD,Black Orchid,Eau de Parfum para Mujer,84.50,No tiene,Sin descuento,5,1
+786,Perfumes de Mujer,Britney Spears,CURIOUS,Eau de Parfum para Mujer,58.95,66%,58.95,4,34
+787,Perfumes de Mujer,ROCHAS,BYZANCE EDP,Eau de Parfum para Mujer,59.00,56%,59.00,4,12
+788,Perfumes de Mujer,ESCADA,"PARTY LOVE ""Edición Limitada""",Eau de Parfum para Mujer,54.00,54%,54.00,4,1
+789,Perfumes de Mujer,TOUS,L'EAU EDT,Eau de Toilette para Mujer,76.00,61%,76.00,4,19
+790,Perfumes de Mujer,SHISEIDO,GINZA,Eau de Parfum para Mujer,77.50,35%,77.50,5,2
+791,Perfumes de Mujer,VERSACE,Versense,Eau de Toilette para Mujer,69.00,40%,69.00,0,0
+792,Perfumes de Mujer,KENZO,PARFUM D'ETÉ,Eau de Parfum para Mujer,115.00,40%,115.00,4,8
+793,Perfumes de Mujer,ANGEL SCHLESSER,LES EAUX D'UN INSTANT Inmense Peony,Eau de Toilette para Mujer,53.00,54%,53.00,3,1
+794,Perfumes de Mujer,LOEWE,AIRE FANTASÍA,Eau de Toilette para Mujer,84.00,35%,84.00,4,2
+795,Perfumes de Mujer,PACO RABANNE,FAME,Eau de Parfum para Mujer,65.50,34%,65.50,5,1
+796,Perfumes de Mujer,ESCADA,"SANTORINI SUNRISE ""Edición Limitada""",Eau de Toilette para Mujer,43.50,43%,43.50,5,2
+797,Perfumes de Mujer,LOEWE,AURA WHITE MAGNOLIA,Eau de Parfum para Mujer,66.00,35%,66.00,4,5
+798,Perfumes de Mujer,LANCÔME,IDÔLE NOW,Eau de Parfum para Mujer,70.00,49%,70.00,0,0
+799,Perfumes de Mujer,VALENTINO,VOCE VIVA INTENSA,Eau de Parfum para Mujer,95.00,58%,95.00,0,0
+800,Perfumes de Mujer,CALVIN KLEIN,CK ONE SHOCK For Her,Eau de Toilette para Mujer,76.00,54%,76.00,4,18
+801,Perfumes de Mujer,Dior,ESCALE À PORTOFINO,Eau de Toilette,75.47,No tiene,Sin descuento,4,23
+802,Perfumes de Mujer,HERMÈS,Le Jardin de Monsieur Li,Eau de Toilette Unisex,96.00,30%,96.00,4,2
+803,Perfumes de Mujer,HUGO BOSS,MA VIE Pour Femme,Eau de Parfum para Mujer,89.00,55%,89.00,4,9
+804,Perfumes de Mujer,GUCCI,BLOOM Estuche,Eau de Parfum para Mujer,172.50,54%,172.50,5,1
+805,Perfumes de Mujer,Lolita Lempicka,MON PREMIER,Eau de Parfum para Mujer,63.50,57%,63.50,5,1
+806,Perfumes de Mujer,LOEWE,SOLO ELLA Icono,Eau de Parfum para Mujer,140.00,35%,140.00,5,6
+807,Perfumes de Mujer,PACO RABANNE,CALANDRE,Eau de Toilette para Mujer,117.50,53%,117.50,4,34
+808,Perfumes de Mujer,PRADA,Amber,Eau de Parfum para Mujer,145.00,52%,145.00,5,3
+809,Perfumes de Mujer,LOEWE,AGUA DE LOEWE MIAMI,Eau de Toilette Unisex,102.00,35%,102.00,5,2
+810,Perfumes de Mujer,VERSACE,Yellow Diamond,Eau de Toilette para Mujer,69.00,40%,69.00,0,0
+811,Perfumes de Mujer,VALENTINO,DONNA,Eau de Parfum para Mujer,82.00,45%,82.00,5,1
+812,Perfumes de Mujer,HERMÈS,Concentré d'Orange Verte,Eau de Toilette Unisex,118.00,38%,118.00,5,9
+813,Perfumes de Mujer,BVLGARI,Eau Parfumée Au thé Blanc,Eau de Cologne Unisex,98.00,35%,98.00,4,26
+814,Perfumes de Mujer,VALENTINO,BORN IN ROMA DONNA CORAL FANTASY,Eau de Parfum para Mujer,82.00,51%,82.00,0,0
+815,Perfumes de Mujer,ANGEL SCHLESSER,LES EAUX D'UN INSTANT Intimate White Flowers,Eau de Toilette para Mujer,53.00,54%,53.00,4,7
+816,Perfumes de Mujer,ARMANI,SÌ PASSIONE ÉCLAT,Eau de Parfum para Mujer,115.00,50%,115.00,5,1
+817,Perfumes de Mujer,ROCHAS,EAU DE ROCHAS Fraîche,Eau de Toilette para Mujer,100.00,64%,100.00,4,11
+818,Perfumes de Mujer,TIFFANY & CO.,TIFFANY,Eau de Parfum para Mujer,81.00,51%,81.00,5,5
+819,Perfumes de Mujer,ANGEL SCHLESSER,LES EAUX D'UN INSTANT Splendid Orange Blossom,Eau de Toilette para Mujer,53.00,54%,53.00,5,1
+820,Perfumes de Mujer,GUERLAIN,Aqua Allegoria Mandarine Basilic,Eau de Toilette para Mujer,105.35,43%,105.35,4,3
+821,Perfumes de Mujer,TOUS,EAU DE PARFUM,Eau de Parfum para Mujer,91.00,50%,91.00,4,41
+822,Perfumes de Mujer,CALVIN KLEIN,TRUTH,Eau de Parfum para Mujer,87.90,60%,87.90,4,14
+823,Perfumes de Mujer,Aristocrazy,Brilliant,Eau de Toilette para Mujer,72.50,49%,72.50,5,1
+824,Perfumes de Mujer,CALVIN KLEIN,CK EVERYONE EDP,Eau de  Parfum Unisex,64.00,53%,64.00,4,1
+825,Perfumes de Mujer,LOEWE,EARTH,Eau de Parfum Unisex,92.00,35%,92.00,5,1
+826,Perfumes de Mujer,Dior,DUNE,Eau de Toilette,105.95,No tiene,Sin descuento,4,17
+827,Perfumes de Mujer,TOM FORD,Eau de Soleil Blanc,Eau de Toilette Unisex,84.50,No tiene,Sin descuento,0,0
+828,Perfumes de Mujer,YVES SAINT LAURENT,YVRESSE,Eau de Toilette para Mujer,155.00,44%,155.00,4,14
+829,Perfumes de Mujer,PACO RABANNE,LADY MILLION,Eau de Parfum para Mujer,67.50,33%,67.50,4,24
+830,Perfumes de Mujer,VERSACE,Red Jeans Woman,Eau de Toilette para Mujer,44.00,62%,44.00,5,9
+831,Perfumes de Mujer,LOEWE,AIRE DE LOEWE Icono,Eau de Toilette para Mujer,151.00,35%,151.00,4,3
+832,Perfumes de Mujer,LOEWE,PAULA'S IBIZA,Eau deToilette Unisex,82.00,35%,82.00,4,21
+833,Perfumes de Mujer,CHLOÉ,CHLOÉ LOVE STORY,Eau de Parfum para Mujer,125.00,52%,125.00,4,13
+834,Perfumes de Mujer,HALLOWEEN,HALLOWEEN BLUE DROP,Eau de Toilette para Mujer,59.00,53%,59.00,4,6
+835,Perfumes de Mujer,DOLCE & GABBANA,Q BY DOLCE & GABBANA,Eau de Parfum para Mujer,76.00,34%,76.00,5,1
+836,Perfumes de Mujer,Dior,DIOR ADDICT,Eau de Parfum,64.94,No tiene,Sin descuento,5,2
+837,Perfumes de Mujer,LOEWE,AGUA DE LOEWE Icono,Eau de Toilette Unisex,125.00,35%,125.00,5,4
+838,Perfumes de Mujer,BOUCHERON,BOUCHERON,Eau de Parfum para Mujer,122.00,71%,122.00,5,3
+839,Perfumes de Mujer,LOEWE,PAULA'S IBIZA ECLECTIC,Eau de Toilette Unisex,82.00,35%,82.00,4,2
+840,Perfumes de Mujer,GIVENCHY,Very Irrésistible,Eau de Parfum para Mujer,129.50,50%,129.50,4,15
+841,Perfumes de Mujer,VERSACE,Dylan Purple Pour Femme,Eau de Parfum para Mujer,74.00,41%,74.00,4,1
+842,Perfumes de Mujer,GUERLAIN,Mon Guerlain EDP,Eau de Parfum para Mujer,86.30,45%,86.30,4,6
+843,Perfumes de Mujer,KENZO,FLOWER BY KENZO EDT,Eau de Toilette para Mujer,59.50,51%,59.50,0,0
+844,Perfumes de Mujer,SISLEY,Eau du Soir,Eau de Parfum para Mujer,122.50,30%,122.50,5,4
+845,Perfumes de Mujer,YVES SAINT LAURENT,LIBRE EDT,Eau de Toilette para Mujer,110.00,50%,110.00,0,0
+846,Perfumes de Mujer,THIERRY MUGLER,ALIEN EDT,Eau de Toilette para Mujer,59.00,49%,59.00,5,1
+847,Perfumes de Mujer,NARCISO RODRÍGUEZ,FOR HER FOREVER,Eau de Parfum para Mujer,73.00,35%,73.00,0,0
+848,Perfumes de Mujer,NARCISO RODRÍGUEZ,FOR HER PURE MUSC,Eau de Parfum para Mujer,73.00,35%,73.00,4,12
+849,Perfumes de Mujer,THIERRY MUGLER,ALIEN GODDESS,Eau de Parfum para Mujer,85.00,41%,85.00,5,4
+850,Perfumes de Mujer,HERMÈS,Eau des Merveilles,Eau de Toilette para Mujer,110.00,30%,110.00,0,0
+851,Perfumes de Mujer,Dior,HYPNOTIC POISON,Eau de Toilette,55.24,No tiene,Sin descuento,4,8
+852,Perfumes de Mujer,SISLEY,Izia,Eau de Parfum para Mujer,99.50,30%,99.50,3,4
+853,Perfumes de Mujer,ISSEY MIYAKE,A DROP D'ISSEY FRAÎCHE,Eau de Parfum para Mujer,66.00,35%,66.00,4,2
+854,Perfumes de Mujer,THIERRY MUGLER,ANGEL ELIXIR,Eau de Parfum para Mujer,82.00,43%,82.00,0,0
+855,Perfumes de Mujer,GIVENCHY,Very Irrésistible EDT,Eau de Toilette para Mujer,66.50,40%,66.50,5,3
+856,Perfumes de Mujer,Alyssa Ashley,White Musk,Eau Parfumee para Mujer,12.05,34%,12.05,4,5
+857,Perfumes de Mujer,DOLCE & GABBANA,LIGHT BLUE EAU INTENSE,Eau de Parfum para Mujer,99.00,45%,99.00,4,7
+858,Perfumes de Mujer,GIVENCHY,Hot Couture,Eau de Parfum para Mujer,126.10,40%,126.10,5,1
+859,Perfumes de Mujer,ARMANI,MY WAY LE PARFUM,Eau de Parfum para Mujer,92.00,43%,92.00,0,0
+860,Perfumes de Mujer,NARCISO RODRÍGUEZ,NARCISO ROUGE,Eau de Parfum para Mujer,67.00,35%,67.00,4,7
+861,Perfumes de Mujer,LANCÔME,TRÉSOR Estuche,Eau de Parfum para Mujer,156.00,44%,156.00,0,0
+862,Perfumes de Mujer,HERMÈS,Un Jardin en Méditerranée,Eau de Toilette Unisex,133.00,47%,133.00,5,4
+863,Perfumes de Mujer,GIVENCHY,L'Interdit EDT,Eau de Toilette para Mujer,67.00,42%,67.00,0,0
+864,Perfumes de Mujer,ARMANI,IN LOVE WITH YOU,Eau de Parfum para Mujer,105.00,52%,105.00,3,1
+865,Perfumes de Mujer,DIESEL,D BY DIESEL,Eau de Toilette Unisex,45.00,45%,45.00,5,1
+866,Perfumes de Mujer,CACHAREL,ANAÏS ANAÏS PREMIER DÉLICE,Eau de Toilette para Mujer,50.00,56%,50.00,4,2
+867,Perfumes de Mujer,ESTÉE LAUDER,White Linen,Eau de Parfum para Mujer,49.94,No tiene,Sin descuento,4,11
+868,Perfumes de Mujer,MARC JACOBS,PERFECT,Eau de Parfum para Mujer,105.00,53%,105.00,0,0
+869,Perfumes de Mujer,NARCISO RODRÍGUEZ,FOR HER MUSC NOIR,Eau de Parfum para Mujer,73.00,35%,73.00,5,1
+870,Perfumes de Mujer,ESTÉE LAUDER,Knowing,Eau de Parfum para Mujer,69.95,No tiene,Sin descuento,4,4
+871,Perfumes de Mujer,Giorgio Beverly Hills,Giorgio Beverly Hills EDT,Eau de Toilette para Mujer,39.78,35%,39.78,4,49
+872,Perfumes de Mujer,ZADIG & VOLTAIRE,This is Her! Undressed,Eau de Parfum para Mujer,90.00,35%,90.00,0,0
+873,Perfumes de Mujer,VERSACE,Dylan Blue Pour Femme,Eau de Parfum para Mujer,74.00,43%,74.00,5,4
+874,Perfumes de Mujer,HERMÈS,Eau de Citron Noir,Eau de Cologne Unisex,118.00,38%,118.00,4,6
+875,Perfumes de Mujer,Juicy Couture,VIVA LA JUICY NOIR,Eau de Parfum para Mujer,108.00,56%,108.00,5,1
+876,Perfumes de Mujer,JEAN PAUL GAULTIER,CLASSIQUE,Eau de Parfum para Mujer,93.50,50%,93.50,3,1
+877,Perfumes de Mujer,TOUS,YOUR MOMENTS,Eau de Toilette para Mujer,74.00,42%,74.00,4,16
+878,Perfumes de Mujer,CACHAREL,YES I AM GLORIOUS,Eau de Parfum para Mujer,57.00,47%,57.00,5,5
+879,Perfumes de Mujer,GIVENCHY,Irresistible Fraiche,Eau de Toilette para Mujer,67.00,52%,67.00,5,1
+880,Perfumes de Mujer,BVLGARI,Omnia Coral,Eau de Toilette para Mujer,80.00,35%,80.00,4,2
+881,Perfumes de Mujer,CLINIQUE,Aromatics Elixir EDT,Eau de Toilette para Mujer,34.95,No tiene,Sin descuento,5,6
+882,Perfumes de Mujer,Alyssa Ashley,VANILLA,Eau de Cologne para Mujer,12.05,47%,12.05,4,2
+883,Perfumes de Mujer,HERMÈS,Twilly d'Hermès,Eau de Parfum para Mujer,77.00,40%,77.00,0,0
+884,Perfumes de Mujer,GIVENCHY,L'Interdit Intense,Eau de Parfum para Mujer,85.00,51%,85.00,5,1
+885,Perfumes de Mujer,VIKTOR & ROLF,Flowerbomb Nectar,Eau de Parfum para Mujer,98.00,43%,98.00,4,6
+886,Perfumes de Mujer,CALVIN KLEIN,MY EUPHORIA,Eau de Parfum para Mujer,67.00,45%,67.00,0,0
+887,Perfumes de Mujer,Courrèges,EAU DE COURRÈGES,Eau de Toilette Unisex,80.00,66%,80.00,4,36
+888,Perfumes de Mujer,GIVENCHY,L'Interdit Rouge Ultime,Eau de Parfum para Mujer,85.00,44%,85.00,0,0
+889,Perfumes de Mujer,PACO RABANNE,OLYMPEA FLORA,Eau de Parfum Intense,74.00,48%,74.00,0,0
+890,Perfumes de Mujer,KENZO,JUNGLE EDP,Eau de Parfum para Mujer,131.00,51%,131.00,5,6
+891,Perfumes de Mujer,ELIZABETH ARDEN,White Tea,Eau de Toilette para Mujer,26.50,40%,26.50,4,1
+892,Perfumes de Mujer,PRADA,Infusion d'Iris Cèdre,Eau de Parfum Unisex,150.00,43%,150.00,4,6
+893,Perfumes de Mujer,El Ganso,Hey Sunshine,Eau de Toilette para Mujer,51.50,36%,51.50,3,1
+894,Perfumes de Mujer,Roberto Verino,GOLD DIAMOND,Eau de Parfum para Mujer,53.00,53%,53.00,5,3
+895,Perfumes de Mujer,SHISEIDO,EVER BLOOM EDT,Eau de Toilette para Mujer,56.00,35%,56.00,5,4
+896,Perfumes de Mujer,LANCÔME,LA VIE EST BELLE EN ROSE,Eau de Toilette para Mujer,95.00,48%,95.00,5,1
+897,Perfumes de Mujer,BURBERRY,WEEKEND,Eau de Parfum para Mujer,96.90,59%,96.90,5,2
+898,Perfumes de Mujer,GUERLAIN,Aqua Allegoria Bergamota Calabria,Eau de Toilette para Mujer,105.35,43%,105.35,4,2
+899,Perfumes de Mujer,GUCCI,GUILTY POUR FEMME EDP INTENSE,Eau de Parfum para Mujer,86.00,42%,86.00,0,0
+900,Perfumes de Mujer,ESTÉE LAUDER,Pleasures Intense,Eau de Parfum para Mujer,74.95,No tiene,Sin descuento,5,4
+901,Perfumes de Mujer,NARCISO RODRÍGUEZ,NARCISO AMBRÉE,Eau de Parfum para Mujer,73.00,35%,73.00,5,2
+902,Perfumes de Mujer,TOUS,HAPPY MOMENTS,Eau de Toilette para Mujer,74.00,51%,74.00,3,8
+903,Perfumes de Mujer,CALVIN KLEIN,ETERNITY REFLECTIONS,Eau de Parfum para Mujer,116.00,68%,116.00,0,0
+904,Perfumes de Mujer,SHISEIDO,GINZA MURASAKI,Eau de Parfum para Mujer,77.50,35%,77.50,0,0
+905,Perfumes de Mujer,TOM FORD,Café Rose,Eau de Parfum para Mujer,59.95,No tiene,Sin descuento,5,1
+906,Perfumes de Mujer,HUGO BOSS,BOSS ALIVE,Eau de Parfum para Mujer,71.00,51%,71.00,5,2
+907,Perfumes de Mujer,Juicy Couture,VIVA LA JUICY ROSÉ,Eau de Parfum para Mujer,108.00,56%,108.00,5,1
+908,Perfumes de Mujer,CLINIQUE,Aromatics In White,Eau de Parfum para Mujer,69.95,No tiene,Sin descuento,4,5
+909,Perfumes de Mujer,Guy Laroche,Fidji EDT,Eau de Toilette para Mujer,103.00,61%,103.00,5,5
+910,Perfumes de Mujer,LANCÔME,IDÔLE AURA,Eau de Parfum para Mujer,72.00,51%,72.00,0,0
+911,Perfumes de Mujer,JEAN PAUL GAULTIER,LE MALE Pride 2023,Eau de Toilette Unisex,114.50,43%,114.50,0,0
+912,Perfumes de Mujer,VALENTINO,BORN IN ROMA YELLOW DREAM DONNA,Eau de Parfum para Mujer,82.00,51%,82.00,0,0
+913,Perfumes de Mujer,MARC JACOBS,DAISY LOVE,Eau de Toilette para Mujer,96.00,54%,96.00,0,0
+914,Perfumes de Mujer,PACO RABANNE,LADY MILLION EMPIRE,Eau de Parfum para Mujer,63.50,45%,63.50,5,2
+915,Perfumes de Mujer,CLARINS,Eau des Jardins,Eau de Toilette para Mujer,58.00,48%,58.00,0,0
+916,Perfumes de Mujer,Emanuel Ungaro,Diva,Eau de Parfum para Mujer,110.00,64%,110.00,0,0
+917,Perfumes de Mujer,DKNY,DKNY WOMEN EDT,Eau de Toilette para Mujer,46.00,46%,46.00,0,0
+918,Perfumes de Mujer,VERSACE,Eros Pour Femme,Eau de Parfum para Mujer,81.00,43%,81.00,0,0
+919,Perfumes de Mujer,GUERLAIN,Aqua Allegoria Forte Nerolia Vetiver,Eau de Parfum para Mujer,121.40,47%,121.40,0,0
+920,Perfumes de Mujer,MARC JACOBS,DAISY EVER SO FRESH,Eau de Parfum para Mujer,122.00,53%,122.00,0,0
+921,Perfumes de Mujer,HERMÈS,Un Jardin Sur Le Toit,Eau de Toilette Unisex,96.00,33%,96.00,5,1
+922,Perfumes de Mujer,Dior,DOLCE VITA,Eau de Toilette,105.93,No tiene,Sin descuento,4,28
+923,Perfumes de Mujer,CALVIN KLEIN,ETERNITY INTENSE,Eau de Parfum para Mujer,64.00,53%,64.00,0,0
+924,Perfumes de Mujer,BVLGARI,Splendida Jasmin Noir,Eau de Parfum para Mujer,96.00,35%,96.00,5,1
+925,Perfumes de Mujer,TOUS,LES COLOGNES CONCENTRÉES,Eau de Toilette para Mujer,86.00,57%,86.00,3,5
+926,Perfumes de Mujer,LANCÔME,LA NUIT TRÉSOR INTENSE,Eau de Parfum para Mujer,120.00,48%,120.00,0,0
+927,Perfumes de Mujer,MONTBLANC,PRESENCE D'UNE FEMME,Eau de Toilette para Mujer,83.00,66%,83.00,5,3
+928,Perfumes de Mujer,Juicy Couture,VIVA LA JUICY NEON,Eau de Parfum para Mujer,110.00,56%,110.00,5,1
+929,Perfumes de Mujer,GIVENCHY,Ange ou Démon Le Secret,Eau de Parfum para Mujer,148.00,43%,148.00,4,18
+930,Perfumes de Mujer,HERMÈS,Eau de Rhubarbe Écarlate,Eau de Cologne Unisex,118.00,38%,118.00,5,1
+931,Perfumes de Mujer,MOSCHINO,FRESH COUTURE,Eau de Toilette para Mujer,98.00,59%,98.00,5,8
+932,Perfumes de Mujer,PRADA,Infusion Fleur d'Oranger,Eau de Parfum Unisex,150.00,47%,150.00,4,3
+933,Perfumes de Mujer,ELIZABETH ARDEN,Splendor,Eau de Parfum para Mujer,58.50,66%,58.50,4,9
+934,Perfumes de Mujer,CAROLINA HERRERA,GOOD GIRL BLUSH,Eau de Parfum para Mujer,77.50,32%,77.50,5,1
+935,Perfumes de Mujer,GIVENCHY,Irresistible Rose Velvet,Eau de Parfum para Mujer,81.00,45%,81.00,0,0
+936,Perfumes de Mujer,PRADA,Candy,Eau de Parfum para Mujer,92.00,51%,92.00,5,1
+937,Perfumes de Mujer,HERMÈS,Eau de Basilic Pourpre,Eau de Cologne Unisex,87.00,54%,87.00,0,0
+938,Perfumes de Mujer,Jimmy Choo,I Want Choo Forever,Eau de Parfum para Mujer,106.00,48%,106.00,0,0
+939,Perfumes de Mujer,MONTBLANC,FEMME INDIVIDUELLE,Eau de Toilette para mujer,83.00,65%,83.00,4,14
+940,Perfumes de Mujer,THIERRY MUGLER,ALIEN GODDESS INTENSE,Eau de Parfum Intense para Mujer,92.00,46%,92.00,0,0
+941,Perfumes de Mujer,BOUCHERON,JAÏPUR BRACELET,Eau de Parfum para Mujer,94.00,63%,94.00,5,2
+942,Perfumes de Mujer,VERSACE,Dylan Turquoise Pour Femme,Eau de Toilette para Mujer,69.00,42%,69.00,0,0
+943,Perfumes de Mujer,HERMÈS,Eau d'Orange Verte,Eau de Cologne Unisex,87.00,31%,87.00,0,0
+944,Perfumes de Mujer,TOUS,LOVEME THE SILVER PARFUM,Parfum para Mujer,52.50,43%,52.50,0,0
+945,Perfumes de Mujer,ESTÉE LAUDER,Youth Dew,Eau de Parfum para Mujer,39.95,No tiene,Sin descuento,4,4
+946,Perfumes de Mujer,GUERLAIN,Aqua Allegoria Herba Fresca,Eau de Toilette para Mujer,105.35,43%,105.35,4,2
+947,Perfumes de Mujer,VERSACE,Crystal Noir,Eau de Toilette para Mujer,69.00,40%,69.00,0,0
+948,Perfumes de Mujer,ELIZABETH ARDEN,"Sunflowers ""Summer Air Limit Edit""",Eau de Toilette para Mujer,24.00,46%,24.00,4,9
+949,Perfumes de Mujer,BIOTHERM,Eau Vitaminée,Eau de Toilette para Mujer,60.00,50%,60.00,4,26
+950,Perfumes de Mujer,Dior,DIORISSIMO,Eau de Toilette,72.57,No tiene,Sin descuento,5,1
+951,Perfumes de Mujer,NINA RICCI,Nina Fleur,Eau de Toilette para Mujer,55.50,48%,55.50,0,0
+952,Perfumes de Mujer,HERMÈS,Un Jardin Sur La Lagune,Eau de Toilette Unisex,70.00,33%,70.00,0,0
+953,Perfumes de Mujer,KENZO,FLOWER BY KENZO Ikebana,Eau de Parfum para Mujer,97.00,45%,97.00,5,1
+954,Perfumes de Mujer,ZADIG & VOLTAIRE,This is Us!,Eau de Toilette Unisex,60.00,35%,60.00,0,0
+955,Perfumes de Mujer,TOM FORD,Velvet Orchid,Eau de Parfum para Mujer,52.80,No tiene,Sin descuento,0,0
+956,Perfumes de Mujer,ELIZABETH ARDEN,Ardenbeauty,Eau de Parfum para Mujer,72.50,77%,72.50,4,3
+957,Perfumes de Mujer,CLARINS,Eau Dynamisante,Eau de Toilette Unisex,58.00,45%,58.00,0,0
+958,Perfumes de Mujer,ESCADA,"SHOW ME LOVE ""Edición Limitada""",Eau de Parfum para Mujer,54.00,54%,54.00,0,0
+959,Perfumes de Mujer,TOM FORD,Black Orchid Parfum Gold,Eau de Parfum para Mujer,99.00,No tiene,Sin descuento,0,0
+960,Perfumes de Mujer,NINA RICCI,Nina Extra Rouge,Eau de Parfum para Mujer,80.50,40%,80.50,0,0
+961,Perfumes de Mujer,ELIZABETH ARDEN,"Sunflowers ""Sunlight Kiss Limit Edit""",Eau de Toilette para Mujer,24.00,61%,24.00,4,6
+962,Perfumes de Mujer,GIVENCHY,Irresistible Eau de Toilette,Eau de Toilette para Mujer,67.00,48%,67.00,5,3
+963,Perfumes de Mujer,Alyssa Ashley,MUSK EDP,Eau de Parfum Unisex,56.65,38%,56.65,4,6
+964,Perfumes de Mujer,TOM FORD,White Patchouli,Eau de Parfum para Mujer,118.80,No tiene,Sin descuento,5,3
+965,Perfumes de Mujer,HERMÈS,Twilly d'Hermès Estuche,Eau de Parfum para Mujer,102.00,30%,102.00,0,0
+966,Perfumes de Mujer,ANGEL SCHLESSER,FEMME ADORABLE,Eau de Toilette para Mujer,60.00,56%,60.00,5,3
+967,Perfumes de Mujer,GUERLAIN,Insolence EDT,Eau de Toilette para Mujer,126.45,49%,126.45,3,3
+968,Perfumes de Mujer,GUCCI,BLOOM NETTARE DI FIORI,Eau de Parfum para Mujer,80.00,50%,80.00,4,1
+969,Perfumes de Mujer,GUERLAIN,Aqua Allegoria Mandarine Basilic Forte,Eau de Parfum para Mujer,121.40,42%,121.40,5,1
+970,Perfumes de Mujer,GUCCI,FLORA GORGEOUS MAGNOLIA,Eau de Parfum para Mujer,79.00,37%,79.00,0,0
+971,Perfumes de Mujer,DIESEL,LOVERDOSE,Eau de Parfum para Mujer,92.00,42%,92.00,4,27
+972,Perfumes de Mujer,KENZO,L'EAU KENZO pour Femme,Eau de Toilette para Mujer,85.00,38%,85.00,5,3
+973,Perfumes de Mujer,Pepe Jeans,Bright For Her,Eau de Parfum para Mujer,19.95,No tiene,Sin descuento,0,0
+974,Perfumes de Mujer,ESTÉE LAUDER,Estée,Eau de Parfum para Mujer,48.95,No tiene,Sin descuento,5,3
+975,Perfumes de Mujer,BVLGARI,Omnia Amethyste,Eau de Toilette para Mujer,73.00,35%,73.00,0,0
+976,Perfumes de Mujer,KENZO,AMOUR,Eau de Parfum para Mujer,93.50,40%,93.50,0,0
+977,Perfumes de Mujer,ESCADA,"FAIRY LOVE ""Edición Limitada""",Eau de Toilette para Mujer,46.50,51%,46.50,5,1
+978,Perfumes de Mujer,BIOTHERM,Eau D'Énergie,Eau de Toilette para Mujer,60.00,50%,60.00,4,15
+979,Perfumes de Mujer,DKNY,BE GOLDEN DELICIOUS,Eau de Parfum para Mujer,57.00,39%,57.00,0,0
+980,Perfumes de Mujer,ADOLFO DOMÍNGUEZ,Iris Vainilla,Eau de Parfum para Mujer,46.00,41%,46.00,3,1
+981,Perfumes de Mujer,SISLEY,L'Eau Rêvée d'Hubert,Eau de Toilette unisex,96.00,30%,96.00,5,1
+982,Perfumes de Mujer,TOUS,FLORAL TOUCH SO FRESH,Eau de Toilette para Mujer,84.00,52%,84.00,5,1
+983,Perfumes de Mujer,Dior,MISS DIOR ABSOLUTELY BLOOMING,Eau de Parfum,88.13,No tiene,Sin descuento,4,2
+984,Perfumes de Mujer,ADOLFO DOMÍNGUEZ,Jazmín Tonka,Eau de Parfum para Mujer,46.00,41%,46.00,0,0
+985,Perfumes de Mujer,HERMÈS,Eau des Merveilles Bleue ,Eau de Toilette para Mujer,94.00,18%,94.00,0,0
+986,Perfumes de Mujer,TIFFANY & CO.,TIFFANY SHEER,Eau de Toilette para Mujer,72.00,51%,72.00,0,0
+987,Perfumes de Mujer,ESTÉE LAUDER,Spellbound,Eau de Parfum para Mujer,62.95,No tiene,Sin descuento,4,3
+988,Perfumes de Mujer,GIVENCHY,Eau de Givenchy,Eau de Toilette Unisex,98.00,40%,98.00,0,0
+989,Perfumes de Mujer,YVES SAINT LAURENT,PARIS,Eau de Parfum para Mujer,110.00,49%,110.00,4,9
+990,Perfumes de Mujer,BVLGARI,Eau Parfumée Au Thé Vert,Eau de Cologne Unisex,98.00,35%,98.00,4,29
+991,Perfumes de Mujer,GUCCI,BLOOM EDT,Eau de Toilette para Mujer,99.00,51%,99.00,0,0
+992,Perfumes de Mujer,MOSCHINO,CHEAP AND CHIC STARS,Eau de Parfum para Mujer,68.10,40%,68.10,0,0
+993,Perfumes de Mujer,LACOSTE,Eau de Lacoste L.12.12 Pour Elle Sparkling,Eau de Toilette para Mujer,62.00,44%,62.00,0,0
+994,Perfumes de Mujer,HERMÈS,Voyage d'Hermès EDT,Eau de Toilette Unisex,134.00,30%,134.00,5,1
+995,Perfumes de Mujer,ROCHAS,EAU DE ROCHAS Escapade Exotique,Eau de Toilette para Mujer,95.00,63%,95.00,5,9
+996,Perfumes de Mujer,CAROLINA HERRERA,VERY GOOD GIRL,Eau de Parfum para Mujer,77.50,32%,77.50,0,0
+997,Perfumes de Mujer,PACO RABANNE,FAME PARFUM,Parfum para Mujer,73.50,35%,73.50,0,0
+998,Perfumes de Mujer,ESTÉE LAUDER,Beautiful,Eau de Parfum para Mujer,63.97,No tiene,Sin descuento,4,8
+999,Perfumes de Mujer,ELIZABETH ARDEN,Sunflowers Estuche,Eau de Toilette para Mujer,24.50,31%,24.50,0,0
+1000,Perfumes de Mujer,ISSEY MIYAKE,L'EAU D'ISSEY PIVOINE,Eau de Toilette Intense para Mujer,92.00,35%,92.00,0,0
+1001,Perfumes de Mujer,Paloma Picasso,Paloma Picasso EDP,Eau de Parfum para Mujer,119.50,64%,119.50,5,1
+1002,Perfumes de Mujer,LOEWE,SOLO ELLA ELIXIR,Eau de Parfum para Mujer,140.00,35%,140.00,0,0
+1003,Perfumes de Mujer,Dior,POISON,Eau de Toilette,55.50,No tiene,Sin descuento,5,2
+1004,Perfumes de Mujer,THIERRY MUGLER,ANGEL EDT,Eau de Toilette para Mujer,65.00,51%,65.00,5,2
+1005,Perfumes de Mujer,LANCÔME,LA VIE EST BELLE SOLEIL CRISTAL,Eau de Parfum para Mujer,37.00,41%,37.00,4,3
+1006,Perfumes de Mujer,Dior,MISS DIOR ROSE N'ROSES,Eau de Toilette,55.50,No tiene,Sin descuento,0,0
+1007,Perfumes de Mujer,Dior,MISS DIOR EAU DE TOILETTE ORIGINALE,Eau de Toilette,105.95,No tiene,Sin descuento,4,7
+1008,Perfumes de Mujer,CACHAREL,YES I AM BLOOM UP,Eau de Parfum para Mujer,57.00,30%,57.00,0,0
+1009,Perfumes de Mujer,Desigual,FRESH WORLD,Eau de Toilette para Mujer,44.00,32%,44.00,5,2
+1010,Perfumes de Mujer,HERMÈS,Calèche Soie de Parfum,Eau de Parfum para Mujer,185.00,41%,185.00,2,1
+1011,Perfumes de Mujer,BURBERRY,BRIT FOR HER EDP,Eau de Parfum para Mujer,109.50,54%,109.50,5,3
+1012,Perfumes de Mujer,TOUS,OH! THE ORIGIN,Eau de Parfum para Mujer,96.00,57%,96.00,5,4
+1013,Perfumes de Mujer,ARMANI,SÌ Estuche,Eau de Parfum para Mujer,151.00,47%,151.00,0,0
+1014,Perfumes de Mujer,DKNY,DKNY STORIES,Eau de Parfum para Mujer,52.00,42%,52.00,0,0
+1015,Perfumes de Mujer,LANCÔME,HYPNÔSE,Eau de Parfum para Mujer,145.00,45%,145.00,5,9
+1016,Perfumes de Mujer,GUERLAIN,Idylle EDP,Eau de Parfum para Mujer,146.50,43%,146.50,0,0
+1017,Perfumes de Mujer,HUGO BOSS,BOSS THE SCENT LE PARFUM For Her,Parfum para Mujer,82.00,51%,82.00,0,0
+1018,Perfumes de Mujer,NINA RICCI,Bella,Eau de Toilette para Mujer,48.50,44%,48.50,4,2
+1019,Perfumes de Mujer,HALLOWEEN,HALLOWEEN BLOSSOM,Eau de Toilette para Mujer,59.00,49%,59.00,0,0
+1020,Perfumes de Mujer,LOEWE,AGUA ELLA,Eau de Toilette para Mujer,102.00,35%,102.00,4,9
+1021,Perfumes de Mujer,ADOLFO DOMÍNGUEZ,Verbena Mandarina,Eau de Toilette para Mujer,59.50,45%,59.50,0,0
+1022,Perfumes de Mujer,VERSACE,Bright Crystal Absolu,Eau de Parfum para Mujer,74.00,41%,74.00,0,0
+1023,Perfumes de Mujer,NINA RICCI,Nina Le Parfum,Eau de Parfum para Mujer,65.00,39%,65.00,0,0
+1024,Perfumes de Mujer,Dior,J'ADORE L'OR,Essence de Parfum,131.95,No tiene,Sin descuento,0,0
+1025,Perfumes de Mujer,GUERLAIN,Aqua Allegoria Nerolia Vetiver,Eau de Toilette para Mujer,105.35,43%,105.35,5,2
+1026,Perfumes de Mujer,SHISEIDO,GINZA INTENSE,Eau de Parfum para Mujer,77.00,35%,77.00,0,0
+1027,Perfumes de Mujer,NARCISO RODRÍGUEZ,NARCISO CRISTAL,Eau de Parfum para Mujer,73.00,35%,73.00,0,0
+1028,Perfumes de Mujer,CAROLINA HERRERA,CH PASIÓN,Eau de Parfum para Mujer,127.50,41%,127.50,0,0
+1029,Perfumes de Mujer,SISLEY,L'Eau Rêvée d'Eliya,Eau de Toilette Unisex,96.00,30%,96.00,0,0
+1030,Perfumes de Mujer,Gianfranco Ferré,Camicia 113 EDP,Eau de Parfum para Mujer,73.00,59%,73.00,5,4
+1031,Perfumes de Mujer,MOSCHINO,TOY 2,Eau de Parfum Unisex,57.00,40%,57.00,4,4
+1032,Perfumes de Mujer,GUERLAIN,Aqua Allegoria Pamplelune,Eau de Toilette para Mujer,105.35,43%,105.35,0,0
+1033,Perfumes de Mujer,SISLEY,L'Eau Rêvée d'Alma,Eau de Toilette Unisex,96.00,30%,96.00,0,0
+1034,Perfumes de Mujer,Aristocrazy,Brave,Eau de Toilette para Mujer,72.00,46%,72.00,4,6
+1035,Perfumes de Mujer,CHLOÉ,CHLOÉ ROSE NATURELLE INTENSE,Eau de Parfum Intense,162.00,58%,162.00,0,0
+1036,Perfumes de Mujer,RALPH LAUREN,ROMANCE,Eau de Parfum para Mujer,155.00,61%,155.00,5,5
+1037,Perfumes de Mujer,ADOLFO DOMÍNGUEZ,Agua Fresca de Gardenia Musk,Eau de Toilette para Mujer,56.50,43%,56.50,4,8
+1038,Perfumes de Mujer,JEAN PAUL GAULTIER,CLASSIQUE Pride 2023,Eau de Toilette Unisex,102.00,41%,102.00,0,0
+1039,Perfumes de Mujer,SISLEY,Soir de Lune,Eau de Parfum para Mujer,122.50,30%,122.50,5,1
+1040,Perfumes de Mujer,ADOLFO DOMÍNGUEZ,Agua Fresca de Mimosa Coriandro,Eau de Toilette para Mujer,56.50,52%,56.50,4,7
+1041,Perfumes de Mujer,YVES SAINT LAURENT,Y,Eau de Toilette para Mujer,150.00,45%,150.00,5,17
+1042,Perfumes de Mujer,Jimmy Choo,Jimmy Choo,Eau de Parfum para Mujer,135.00,61%,135.00,4,4
+1043,Perfumes de Mujer,GIVENCHY,Ange ou Démon,Eau de Parfum para Mujer,107.00,40%,107.00,0,0
+1044,Perfumes de Mujer,Dior,J'ADORE PARFUM D'EAU,Eau de Parfum,65.25,No tiene,Sin descuento,0,0
+1045,Perfumes de Mujer,Jimmy Choo,I Want Choo,Eau de Parfum para Mujer,72.00,51%,72.00,0,0
+1046,Perfumes de Mujer,ANGEL SCHLESSER,LES EAUX D'UN INSTANT Blooming Grapefruit,Eau de Toilette para Mujer,53.00,54%,53.00,5,1
+1047,Perfumes de Mujer,DOLCE & GABBANA,POUR FEMME,Eau de Parfum para Mujer,145.00,46%,145.00,4,5
+1048,Perfumes de Mujer,GUERLAIN,Mon Guerlain Intense,Eau de Parfum para Mujer,89.30,44%,89.30,5,1
+1049,Perfumes de Mujer,SISLEY,Eau de Campagne,Eau de Toilette Unisex,95.00,30%,95.00,0,0
+1050,Perfumes de Mujer,NINA RICCI,"Nina Nature ""Edición Limitada""",Eau de Toilette para Mujer,80.50,53%,80.50,5,2
+1051,Perfumes de Mujer,PRADA,Infusion Rose,Eau de Parfum Unisex,150.00,47%,150.00,5,3
+1052,Perfumes de Mujer,PRADA,La Femme,Eau de Parfum para Mujer,165.00,45%,165.00,5,3
+1053,Perfumes de Mujer,GUERLAIN,Mon Guerlain Sparkling Bouquet,Eau de Parfum para Mujer,86.30,40%,86.30,0,0
+1054,Perfumes de Mujer,HERMÈS,Voyage d'Hermès,Eau de Parfum Unisex,149.00,34%,149.00,4,6
+1055,Perfumes de Mujer,CHLOÉ,CHLOÉ NATURELLE EDP,Eau de Parfum para Mujer,76.00,41%,76.00,0,0
+1056,Perfumes de Mujer,Pepe Jeans,Celebrate For Her,Eau de Parfum para Mujer,91.00,67%,91.00,0,0
+1057,Perfumes de Mujer,YVES SAINT LAURENT,ELLE,Eau de Parfum para Mujer,120.00,46%,120.00,5,1
+1058,Perfumes de Mujer,GUERLAIN,Shalimar,Eau de Toilette para Mujer,136.45,35%,136.45,5,2
+1059,Perfumes de Mujer,GUERLAIN,Champs-Elysées EDT,Eau de Toilette para Mujer,126.45,35%,126.45,5,1
+1060,Perfumes de Mujer,JEAN PAUL GAULTIER,SCANDAL A PARIS,Eau de Toilette para Mujer,52.50,32%,52.50,5,3
+1061,Perfumes de Mujer,TOM FORD,Neroli Portofino Acqua,Eau de Toilette Unisex,118.80,No tiene,Sin descuento,0,0
+1062,Perfumes de Mujer,LACOSTE,L.12.12 Rose EDP,Eau de Parfum para Mujer,99.80,40%,99.80,5,1
+1063,Perfumes de Mujer,HUGO BOSS,BOSS THE SCENT PRIVATE ACCORD For Her,Eau de Parfum para Mujer,84.00,41%,84.00,5,2
+1064,Perfumes de Mujer,CACHAREL,YES I AM DELICIOUS,Eau de Parfum para Mujer,60.00,53%,60.00,0,0
+1065,Perfumes de Mujer,CLARINS,Eau Ressourcante,Eau de Toilette para Mujer,58.00,48%,58.00,0,0
+1066,Perfumes de Mujer,YVES SAINT LAURENT,BLACK OPIUM ILLICIT GREEN,Eau de Parfum para Mujer,79.00,46%,79.00,4,1
+1067,Perfumes de Mujer,GUERLAIN,L'Instant EDP,Eau de Parfum para Mujer,146.50,39%,146.50,4,1
+1068,Perfumes de Mujer,Desigual,FRESH BLOOM,Eau de Toilette para Mujer,44.00,32%,44.00,5,3
+1069,Perfumes de Mujer,Alyssa Ashley,Essence de Patchouli EDP,Eau de Parfum para mujer,56.65,47%,56.65,1,1
+1070,Perfumes de Mujer,HALLOWEEN,HALLOWEEN Estuche,Eau de Toilette para Mujer,68.00,49%,68.00,5,2
+1071,Perfumes de Mujer,ROCHAS,TOCADE,Eau de Toilette para Mujer,108.00,70%,108.00,5,27
+1072,Perfumes de Mujer,TOUS,MORE MORE PINK,Eau de Toilette para Mujer,63.00,48%,63.00,0,0
+1073,Perfumes de Mujer,CHLOÉ,CHLOÉ LUMINEUSE,Eau de Parfum para Mujer,107.00,35%,107.00,0,0
+1074,Perfumes de Mujer,CAROLINA HERRERA,212 HEROES FOR HER,Eau de Parfum para Mujer,66.50,32%,66.50,0,0
+1075,Perfumes de Mujer,ROCHAS,GIRL BLOOMING,Eau de Toilette para Mujer,59.00,54%,59.00,3,1
+1076,Perfumes de Mujer,CALVIN KLEIN,CK ONE GOLD,Eau de Toilette Unisex,56.50,56%,56.50,4,10
+1077,Perfumes de Mujer,LOEWE,AIRE ANTHESIS,Eau de Parfum para Mujer,125.00,35%,125.00,4,1
+1078,Perfumes de Mujer,THIERRY MUGLER,ALIEN GODDESS SUPRA FLORALE,Eau de Parfum para Mujer,85.00,38%,85.00,0,0
+1079,Perfumes de Mujer,CAROLINA HERRERA,VERY GOOD GIRL GLAM,Eau de Parfum para Mujer,81.00,32%,81.00,3,1
+1080,Perfumes de Mujer,ANGEL SCHLESSER,LES EAUX D'UN INSTANT Luminous Violet,Eau de Toilette para Mujer,53.00,43%,53.00,0,0
+1081,Perfumes de Mujer,ROCHAS,GIRL,Eau de Toilette para Mujer,63.00,59%,63.00,0,0
+1082,Perfumes de Mujer,HERMÈS,Eau de Pamplemousse Rose,Eau de Cologne Unisex,118.00,31%,118.00,0,0
+1083,Perfumes de Mujer,DKNY,BE EXTRA DELICIOUS,Eau de Parfum para Mujer,57.00,47%,57.00,0,0
+1084,Perfumes de Mujer,Dior,MISS DIOR BLOOMING BOUQUET,Eau de Toilette,57.50,No tiene,Sin descuento,0,0
+1085,Perfumes de Mujer,Dior,J'ADORE INFINISSIME,Eau de Parfum,64.76,No tiene,Sin descuento,0,0
+1086,Perfumes de Mujer,SISLEY,L'Eau Rêvée d'Aria,Eau de Toilette Unisex,96.00,30%,96.00,0,0
+1087,Perfumes de Mujer,SISLEY,L'Eau Rêvée d'Isa,Eau de Toilette Unisex,96.00,30%,96.00,0,0
+1088,Perfumes de Mujer,LANCÔME,LA VIE EST BELLE IRIS ABSOLU,Eau de Parfum para Mujer,79.00,24%,79.00,0,0
+1089,Perfumes de Mujer,MOSCHINO,TOY 2 BUBBLE GUM,Eau de Toilette para Mujer,55.00,40%,55.00,5,2
+1090,Perfumes de Mujer,TOUS,YOUR POWERS,Eau de Toilette para Mujer,74.00,42%,74.00,4,2
+1091,Perfumes de Mujer,Dior,PURE POISON,Eau de Parfum,64.94,No tiene,Sin descuento,4,7
+1092,Perfumes de Mujer,ANGEL SCHLESSER,FEMME MAGIQUE,Eau de Parfum para Mujer,92.00,57%,92.00,5,2
+1093,Perfumes de Mujer,KENZO,FLOWER BY KENZO L'Absolue,Eau de Parfum para Mujer,74.50,46%,74.50,0,0
+1094,Perfumes de Mujer,AZZARO,Wanted Girl,Eau de Parfum para Mujer,60.00,33%,60.00,0,0
+1095,Perfumes de Mujer,CAROLINA HERRERA,"212 VIP ROSÉ I LOVE NY ""Edición Limitada""",Eau de Parfum para Mujer,118.50,47%,118.50,4,1
+1096,Perfumes de Mujer,Juicy Couture,COUTURE LA LA,Eau de Parfum para Mujer,102.50,61%,102.50,5,1
+1097,Perfumes de Mujer,Juicy Couture,I AM JUICY COUTURE,Eau de Parfum para Mujer,110.00,56%,110.00,5,2
+1098,Perfumes de Mujer,GIVENCHY,Ysatis,Eau de Toilette para Mujer,126.50,40%,126.50,0,0
+1099,Perfumes de Mujer,Dior,MISS DIOR EDT,Eau de Toilette,76.24,No tiene,Sin descuento,0,0
+1100,Perfumes de Mujer,ORLANE,Be 21,Eau de Parfum para Mujer,100.00,No tiene,Sin descuento,4,13
+1101,Perfumes de Mujer,ANGEL SCHLESSER,LES EAUX D'UN INSTANT Joyful Nashi Bloom,Eau de Toilette para Mujer,53.00,54%,53.00,0,0
+1102,Perfumes de Mujer,BIOTHERM,Eau Pure,Eau de Toilette para Mujer,60.00,52%,60.00,4,8
+1103,Perfumes de Mujer,VIKTOR & ROLF,Good Fortune,Eau de Parfum para Mujer,115.00,45%,115.00,0,0
+1104,Perfumes de Mujer,COMME des GARÇONS,BACKPEPPER,Eau de Parfum Unisex,85.00,10%,85.00,5,5
+1105,Perfumes de Mujer,NINA RICCI,Nina Rose,Eau de Toilette para Mujer,55.50,39%,55.50,5,1
+1106,Perfumes de Mujer,LOEWE,001 WOMAN,Eau de Parfum para Mujer,92.00,35%,92.00,0,0
+1107,Perfumes de Mujer,PRADA,Infusion d'Amande,Eau de Parfum Unisex,150.00,49%,150.00,0,0
+1108,Perfumes de Mujer,LANCÔME,IDÔLE NECTAR,Eau de Parfum para Mujer,115.00,44%,115.00,0,0
+1109,Perfumes de Mujer,TOM FORD,Metallique,Eau de Parfum para Mujer,95.70,No tiene,Sin descuento,0,0
+1110,Perfumes de Mujer,GUERLAIN,La Petite Robe Noire EDP,Eau de Parfum para Mujer,86.30,40%,86.30,5,4
+1111,Perfumes de Mujer,MARC JACOBS,PERFECT INTENSE,Eau de Parfum para  Mujer,118.00,53%,118.00,5,1
+1112,Perfumes de Mujer,Pepe Jeans,For Her,Eau de Parfum para Mujer,91.65,67%,91.65,5,4
+1113,Perfumes de Mujer,PRADA,Candy Sugar Pop,Eau de Parfum para Mujer,67.00,28%,67.00,0,0
+1114,Perfumes de Mujer,TIFFANY & CO.,TIFFANY EAU DE PARFUM INTENSE,Eau de Parfum para Mujer,84.00,52%,84.00,4,4
+1115,Perfumes de Mujer,Alyssa Ashley,Ambre Gris Eau Parfumeé Cologne,Eau Parfumeé Cologne Spray para Mujer,13.15,47%,13.15,3,4
+1116,Perfumes de Mujer,CLARINS,Eau Extraordinaire,Agua de Tratamiento Perfumada,58.00,48%,58.00,0,0
+1117,Perfumes de Mujer,BVLGARI,Rose Goldea,Eau de Parfum para Mujer,109.00,35%,109.00,5,1
+1118,Perfumes de Mujer,Furla,Auténtica,Eau de Parfum para Mujer,50.50,45%,50.50,0,0
+1119,Perfumes de Mujer,KENZO,MEMORI COLLECTION RÊVE LOTUS,Eau de Parfum Unisex,96.00,No tiene,Sin descuento,0,0
+1120,Perfumes de Mujer,COMME des GARÇONS,2,Eau de Parfum Unisex,85.00,10%,85.00,4,8
+1121,Perfumes de Mujer,MOSCHINO,CHEAP AND CHIC I LOVE LOVE,Eau de Toilette para Mujer,98.00,62%,98.00,4,20
+1122,Perfumes de Mujer,GIVENCHY,Organza,Eau de Parfum para Mujer,148.00,43%,148.00,4,9
+1123,Perfumes de Mujer,YVES SAINT LAURENT,PARIS EDT,Eau de Toilette para Mujer,87.00,43%,87.00,4,5
+1124,Perfumes de Mujer,ARMANI,SÌ PASSIONE INTENSE,Eau de Parfum para Mujer,125.00,48%,125.00,0,0
+1125,Perfumes de Mujer,SHISEIDO,EVER BLOOM,Eau de Parfum para Mujer,71.00,35%,71.00,0,0
+1126,Perfumes de Mujer,Van Cleef & Arpels,Ambre Impérial Collection Extraordinaire,Eau de Parfum Unisex,164.00,No tiene,Sin descuento,5,1
+1127,Perfumes de Mujer,Alyssa Ashley,Green Tea EDT,Eau de Toilette Unisex,21.95,59%,21.95,5,1
+1128,Perfumes de Mujer,LOEWE,001 WOMAN EDT,Eau de Toilette para Mujer,126.00,35%,126.00,0,0
+1129,Perfumes de Mujer,THIERRY MUGLER,ALIEN FLORA FUTURA,Eau de Toilette para Mujer,79.00,39%,79.00,4,7
+1130,Perfumes de Mujer,Hollister,Canyon Escape Her,Eau de Parfum para Mujer,55.00,58%,55.00,0,0
+1131,Perfumes de Mujer,DKNY,BE DELICIOUS ORCHARD STREET,Eau de Parfum para Mujer,57.00,39%,57.00,0,0
+1132,Perfumes de Mujer,JEAN PAUL GAULTIER,SCANDAL Le Parfum,Eau de Parfum Intense para Mujer,72.00,33%,72.00,0,0
+1133,Perfumes de Mujer,Juicy Couture,JUICY COUTURE,Eau de Parfum para Mujer,108.00,44%,108.00,4,8
+1134,Perfumes de Mujer,ZADIG & VOLTAIRE,This is Her! Zadig Dream,Eau de Parfum para Mujer,120.00,35%,120.00,0,0
+1135,Perfumes de Mujer,GUCCI,BLOOM INTENSE,Eau de Parfum Intense para Mujer,120.00,42%,120.00,0,0
+1136,Perfumes de Mujer,ISSEY MIYAKE,A SCENT,Eau de Toilette para Mujer,99.50,35%,99.50,0,0
+1137,Perfumes de Mujer,CHLOÉ,CHLOÉ NOMADE NATURELLE,Eau de Parfum para Mujer,76.00,47%,76.00,0,0
+1138,Perfumes de Mujer,ROCHAS,FEMME,Eau de Toilette para Mujer,115.00,66%,115.00,4,10
+1139,Perfumes de Mujer,Jimmy Boyd,Wild Roses Eau de Toilette,Eau de Toilette Unisex,62.00,15%,62.00,0,0
+1140,Perfumes de Mujer,GUERLAIN,Aqua Allegoria Forte Rosa Palissandro,Eau de Parfum Unisex,121.40,42%,121.40,0,0
+1141,Perfumes de Mujer,GUERLAIN,Aqua Allegoria Forte Bosca Vanilla,Eau de Parfum Unisex,121.40,42%,121.40,0,0
+1142,Perfumes de Mujer,GUERLAIN,Aqua Allegoria Forte Oud Yuzu,Eau de Parfum Unisex,121.40,42%,121.40,0,0
+1143,Perfumes de Mujer,ADOLFO DOMÍNGUEZ,Nude Musk,Eau de Parfum para Mujer,46.00,41%,46.00,5,1
+1144,Perfumes de Mujer,HERMÈS,Calèche,Eau de Toilette para Mujer,160.00,35%,160.00,0,0
+1145,Perfumes de Mujer,SISLEY,L'Eau Rêvée d'Ikar,Eau de Toilette Unisex,96.00,30%,96.00,0,0
+1146,Perfumes de Mujer,DKNY,BE 100% DELICIOUS,Eau de Parfum para Mujer,78.00,44%,78.00,0,0
+1147,Perfumes de Mujer,SCALPERS,Her & Here Estuche,Eau de Parfum para Mujer,82.00,42%,82.00,0,0
+1148,Perfumes de Mujer,Juicy Couture,I LOVE JUICY COUTURE,Eau de Parfum para Mujer,110.00,64%,110.00,0,0
+1149,Perfumes de Mujer,ROCHAS,BYZANCE GOLD,Eau de Parfum para Mujer,84.50,59%,84.50,0,0
+1150,Perfumes de Mujer,PRADA,La Femme Intense,Eau de Parfum para Mujer,85.00,41%,85.00,0,0
+1151,Perfumes de Mujer,GUERLAIN,Aqua Allegoria Granada Salvia,Eau de Toilette Unisex,105.35,43%,105.35,5,1
+1152,Perfumes de Mujer,ADOLFO DOMÍNGUEZ,Terracota Musk,Eau de Parfum para Mujer,46.00,41%,46.00,0,0
+1153,Perfumes de Mujer,ESTÉE LAUDER,Beautiful Magnolia,Eau de Parfum para Mujer,54.94,No tiene,Sin descuento,0,0
+1154,Perfumes de Mujer,COMME des GARÇONS,WONDEROUD,Eau de Parfum Unisex,115.00,10%,115.00,4,2
+1155,Perfumes de Mujer,PRADA,Candy Kiss,Eau de Parfum para Mujer,145.00,48%,145.00,5,1
+1156,Perfumes de Mujer,GUERLAIN,Aqua Allegoria Nettare Di Sole,Eau de Toilette para Mujer,105.35,43%,105.35,0,0
+1157,Perfumes de Mujer,ANGEL SCHLESSER,FEMME ADORABLE INTENSE,Eau de Parfum para Mujer,90.00,56%,90.00,5,1
+1158,Perfumes de Mujer,DOLCE & GABBANA,THE ONLY ONE,Eau de Parfum para Mujer,150.00,38%,150.00,0,0
+1159,Perfumes de Mujer,Dior,J'ADORE EDT,Eau de Toilette,76.24,No tiene,Sin descuento,5,1
+1160,Perfumes de Mujer,BVLGARI,Splendida Magnolia Sensuel,Eau de Parfum para Mujer,96.00,35%,96.00,0,0
+1161,Perfumes de Mujer,BURBERRY,TOUCH FOR WOMEN,Eau de Parfum para Mujer,96.90,59%,96.90,5,3
+1162,Perfumes de Mujer,Dior,JOY BY DIOR EDP INTENSE,Eau de Parfum Intense,93.24,No tiene,Sin descuento,4,3
+1163,Perfumes de Mujer,SISLEY,Soir d'Orient,Eau de Parfum para Mujer,122.50,30%,122.50,5,3
+1164,Perfumes de Mujer,HERMÈS,L'Ombre des Merveilles,Eau de Parfum Unisex,67.00,30%,67.00,0,0
+1165,Perfumes de Mujer,PRADA,Infusion de Figue,Eau de Parfum Unisex,150.00,43%,150.00,0,0
+1166,Perfumes de Mujer,Sarah Jessica Parker,LOVELY,Eau de Parfum para Mujer,66.60,40%,66.60,4,5
+1167,Perfumes de Mujer,COMME des GARÇONS,FLORIENTAL,Eau de Parfum Unisex,85.00,10%,85.00,1,1
+1168,Perfumes de Mujer,ELIZABETH ARDEN,Sunflowers Dream Petals,Eau de Toilette para Mujer,24.00,34%,24.00,3,2
+1169,Perfumes de Mujer,MIU MIU,MIU MIU,Eau de Parfum para Mujer,116.00,48%,116.00,5,4
+1170,Perfumes de Mujer,ORLANE,Eau D'Orlane,Eau de Toilette para Mujer,73.00,No tiene,Sin descuento,4,30
+1171,Perfumes de Mujer,El Ganso,Ciao Bella!,Eau de Toilette para Mujer,72.00,45%,72.00,5,3
+1172,Perfumes de Mujer,HALLOWEEN,HALLOWEEN MAGIC,Eau de Toilette para Mujer,76.00,54%,76.00,0,0
+1173,Perfumes de Mujer,Montale Paris,Pure Gold,Eau de Parfum para Mujer,119.95,No tiene,Sin descuento,0,0
+1174,Perfumes de Mujer,COMME des GARÇONS,CONCRETE,Eau de Parfum Unisex,144.00,3%,144.00,4,3
+1175,Perfumes de Mujer,KENZO,MEMORI COLLECTION CIEL MAGNOLIA,Eau de Parfum Unisex,96.00,No tiene,Sin descuento,0,0
+1176,Perfumes de Mujer,Karl Lagerfeld,"Paris, 21 Rue Saint Guillaume",Eau de Parfum para Mujer,100.00,70%,100.00,0,0
+1177,Perfumes de Mujer,Jimmy Boyd,Ibiza ,Eau de Toilette Unisex,62.00,15%,62.00,0,0
+1178,Perfumes de Mujer,COMME des GARÇONS,ZERO,Eau de Parfum Unisex,144.00,13%,144.00,5,1
+1179,Perfumes de Mujer,BOUCHERON,PLACE VENDÔME ELIXIR,Eau de Parfum para Mujer,92.50,35%,92.50,0,0
+1180,Perfumes de Mujer,CAROLINA HERRERA,GOOD GIRL Estuche,Eau de Parfum para Mujer,130.00,26%,130.00,5,3
+1181,Perfumes de Mujer,GUERLAIN,Samsara EDP,Eau de Parfum para Mujer,146.50,39%,146.50,0,0
+1182,Perfumes de Mujer,GUERLAIN,Les Absolus d'Orient Santal Royal,Eau de Parfum Unisex,190.65,35%,190.65,4,2
+1183,Perfumes de Mujer,ISSEY MIYAKE,A DROP D'ISSEY,Eau de Parfum para Mujer,98.00,35%,98.00,5,1
+1184,Perfumes de Mujer,DOLCE & GABBANA,THE ONLY ONE 2,Eau de Parfum para Mujer,104.00,38%,104.00,5,3
+1185,Perfumes de Mujer,HERMÈS,Twilly d'Hermès Eau Poivrée,Eau de Parfum para Mujer,65.00,33%,65.00,0,0
+1186,Perfumes de Mujer,Lolita Lempicka,LOLITALAND,Eau de Parfum para Mujer,72.00,52%,72.00,4,1
+1187,Perfumes de Mujer,PRADA,La Femme L'Eau,Eau de Toilette para Mujer,91.90,35%,91.90,0,0
+1188,Perfumes de Mujer,ELIZABETH ARDEN,Blue Grass,Eau de Parfum para Mujer,27.25,38%,27.25,0,0
+1189,Perfumes de Mujer,GUERLAIN,La Petite Robe Noire EDT,Eau de Toilette para Mujer,140.45,39%,140.45,5,3
+1190,Perfumes de Mujer,MARC JACOBS,DAISY EAU SO FRESH,Eau de Toilette para Mujer,140.00,58%,140.00,5,12
+1191,Perfumes de Mujer,GUERLAIN,Samsara,Eau de Toilette para Mujer,126.45,35%,126.45,5,1
+1192,Perfumes de Mujer,GUERLAIN,Les Absolus d'Orient Oud Essentiel,Eau de Parfum Unisex,190.65,35%,190.65,5,1
+1193,Perfumes de Mujer,DAVIDOFF,COOL WATER WOMAN PARFUM,Parfum para Mujer,123.00,63%,123.00,0,0
+1194,Perfumes de Mujer,COACH,COACH,Eau de Parfum para Mujer,118.00,58%,118.00,0,0
+1195,Perfumes de Mujer,TOUS,OH! THE ORIGIN EDT,Eau de Toilette para Mujer,91.00,57%,91.00,4,2
+1196,Perfumes de Mujer,GUERLAIN,Les Absolus d'Orient Epices Exquises,Eau de Parfum Unisex,190.65,35%,190.65,0,0
+1197,Perfumes de Mujer,GUERLAIN,L'Heure Bleue,Eau de Toilette para Mujer,126.45,35%,126.45,0,0
+1198,Perfumes de Mujer,Montale Paris,Sensual Instinct,Eau de Parfum Unisex,129.95,No tiene,Sin descuento,0,0
+1199,Perfumes de Mujer,Jimmy Choo,Floral,Eau de Toilette para Mujer,111.00,57%,111.00,0,0
+1200,Perfumes de Mujer,HUGO BOSS,BOSS THE SCENT PURE ACCORD For Her,Eau de Toilette para Mujer,129.00,48%,129.00,0,0
+1201,Perfumes de Mujer,GUERLAIN,Chamade,Eau de Toilette para Mujer,126.45,35%,126.45,5,3
+1202,Perfumes de Mujer,Police,To Be Sweet Girl EDT,Eau de Toilette para Mujer,35.00,54%,35.00,0,0
+1203,Perfumes de Mujer,ROCHAS,EAU SENSUELLE,Eau de Toilette para Mujer,100.00,55%,100.00,4,13
+1204,Perfumes de Mujer,PACO RABANNE,LADY MILLION ROYAL,Eau de Parfum para Mujer,67.50,33%,67.50,0,0
+1205,Perfumes de Mujer,DKNY,BE DELICIOUS FRESH BLOSSOM,Eau de Parfum para Mujer,97.00,52%,97.00,4,4
+1206,Perfumes de Mujer,MARC JACOBS,PERFECT EDT,Eau de Toilette para Mujer,114.00,46%,114.00,0,0
+1207,Perfumes de Mujer,Joop!,FEMME,Eau de Toilette para Mujer,95.00,71%,95.00,4,2
+1208,Perfumes de Mujer,Dior,ESCALE À PORTOFINO - EDICIÓN LIMITADA,Eau de Toilette,135.00,No tiene,Sin descuento,0,0
+1209,Perfumes de Mujer,HERMÈS,Tutti Twilly d'Hermès,Eau de Parfum para Mujer,110.00,29%,110.00,0,0
+1210,Perfumes de Mujer,Lanvin,ÉCLAT D'ARPÈGE,Eau de Parfum para Mujer,107.00,67%,107.00,4,6
+1211,Perfumes de Mujer,Jimmy Boyd,Whisky Fragrance,Eau de Toilette Unisex,62.00,15%,62.00,0,0
+1212,Perfumes de Mujer,CAROLINA HERRERA,GOOD GIRL SUPRÊME,Eau de Parfum para Mujer,77.50,32%,77.50,0,0
+1213,Perfumes de Mujer,HERMÈS,Un Jardin à Cythère,Eau de Toilette Unisex,70.00,33%,70.00,0,0
+1214,Perfumes de Mujer,NINA RICCI,Nina Rouge,Eau de Toilette para Mujer,55.50,39%,55.50,0,0
+1215,Perfumes de Mujer,VIKTOR & ROLF,Flowerbomb Ruby Orchid,Eau de Parfum para Mujer,115.00,39%,115.00,0,0
+1216,Perfumes de Mujer,BOUCHERON,PLACE VENDÔME,Eau de Parfum para Mujer,96.00,59%,96.00,3,3
+1217,Perfumes de Mujer,GUERLAIN,Aqua Allegoria Orange Soleia,Eau de Toilette Unisex,105.35,43%,105.35,0,0
+1218,Perfumes de Mujer,Dior,MISS DIOR Cofre,El ritual perfumado - Eau de parfum y vaporizador de viaje,149.60,No tiene,Sin descuento,0,0
+1219,Perfumes de Mujer,GUERLAIN,Aqua Allegoria Flora Salvaggia,Eau de Toilette para Mujer,105.35,43%,105.35,0,0
+1220,Perfumes de Mujer,CHLOÉ,CHLOÉ NOMADE JASMIN NATUREL INTENSE,Eau de Parfum Intense para Mujer,137.00,46%,137.00,0,0
+1221,Perfumes de Mujer,Juicy Couture,VIVA LA JUICY LA FLEUR,Eau de Toilette para Mujer,102.50,32%,102.50,0,0
+1222,Perfumes de Mujer,Paloma Picasso,Paloma Picasso EDT,Eau de Toilette para mujer,126.00,44%,126.00,4,3
+1223,Perfumes de Mujer,SISLEY,Izia la Nuit,Eau de Parfum para Mujer,122.50,30%,122.50,0,0
+1224,Perfumes de Mujer,CAROLINA HERRERA,212 HEROES FOR HER Estuche,Eau de Parfum para Mujer,123.50,29%,123.50,0,0
+1225,Perfumes de Mujer,Lanvin,ARPÈGE,Eau de Parfum para Mujer,122.00,75%,122.00,5,1
+1226,Perfumes de Mujer,YVES SAINT LAURENT,LIBRE L'ABSOLU PLATINE,Parfum para Mujer,140.00,30%,140.00,0,0
+1227,Perfumes de Mujer,Dior,JOY BY DIOR,Eau de Parfum,90.95,No tiene,Sin descuento,5,3
+1228,Perfumes de Mujer,Juicy Couture,COUTURE COUTURE,Eau de Parfum para Mujer,110.00,56%,110.00,2,2
+1229,Perfumes de Mujer,TOM FORD,Black Orchid EDT,Eau de Toilette para Mujer,44.10,No tiene,Sin descuento,0,0
+1230,Perfumes de Mujer,Dior,FOREVER AND EVER,Eau de Toilette,106.50,No tiene,Sin descuento,5,5
+1231,Perfumes de Mujer,MICHAEL KORS,SPARKLING BLUSH,Eau de Parfum para Mujer,62.50,54%,62.50,0,0
+1232,Perfumes de Mujer,Alyssa Ashley,Marijane EDP,Eau de Parfum Unisex,35.00,43%,35.00,0,0
+1233,Perfumes de Mujer,ESTÉE LAUDER,Cinnabar,Eau de Parfum para Mujer,69.95,No tiene,Sin descuento,4,2
+1234,Perfumes de Mujer,Dior,POISON GIRL EDT,Eau de Toilette,55.50,No tiene,Sin descuento,4,1
+1235,Perfumes de Mujer,COMME des GARÇONS,ROUGE,Eau de Parfum Unisex,144.00,13%,144.00,4,1
+1236,Perfumes de Mujer,Dior,J'ADORE INFINISSIME ROLLER-PEARL,Eau de Parfum ,45.46,No tiene,Sin descuento,5,2
+1237,Perfumes de Mujer,GUERLAIN,Mitsouko EDP,Eau de Parfum Unisex,146.50,35%,146.50,4,1
+1238,Perfumes de Mujer,KENZO,MEMORI COLLECTION POUDRE MATCHA,Eau de Parfum Unisex,96.00,No tiene,Sin descuento,0,0
+1239,Perfumes de Mujer,Dior,POISON GIRL,Eau de Parfum,125.25,No tiene,Sin descuento,5,4
+1240,Perfumes de Mujer,ESTÉE LAUDER,Bronze Goddess,Eau de Cologne para Mujer,59.91,No tiene,Sin descuento,0,0
+1241,Perfumes de Mujer,Dior,HYPNOTIC POISON ROLLER-PEARL,Eau de Toilette,38.25,No tiene,Sin descuento,4,3
+1242,Perfumes de Mujer,ZADIG & VOLTAIRE,This is Her! Vibes of Freedom,Eau de Parfum para Mujer,90.00,35%,90.00,0,0
+1243,Perfumes de Mujer,Montale Paris,Roses Musk,Eau de Parfum para Mujer,119.95,No tiene,Sin descuento,0,0
+1244,Perfumes de Mujer,Montale Paris,White Musk,Eau de Parfum Unisex,99.95,No tiene,Sin descuento,0,0
+1245,Perfumes de Mujer,Dior,POISON GIRL UNEXPECTED,Eau de Toilette,106.50,No tiene,Sin descuento,0,0
+1246,Perfumes de Mujer,Montale Paris,Arabians,Eau de Parfum Unisex,134.95,No tiene,Sin descuento,0,0
+1247,Perfumes de Mujer,NINA RICCI,"Nina Soleil ""Edición Limitada""",Eau de Toilette para Mujer,73.00,41%,73.00,0,0
+1248,Perfumes de Mujer,Dior,MISS DIOR ROSE N'ROSES ROLLER-PEARL,Eau de Toilette,38.25,No tiene,Sin descuento,5,2
+1249,Perfumes de Mujer,Montale Paris,Oud Tobacco,Eau de Parfum Unisex,119.95,No tiene,Sin descuento,0,0
+1250,Perfumes de Mujer,Montale Paris,Intense Roses Musk,Eau de Parfum para Mujer,154.95,No tiene,Sin descuento,0,0
+1251,Perfumes de Mujer,Montale Paris,Wood on Fire,Eau de Parfum Unisex,119.95,No tiene,Sin descuento,0,0
+1252,Perfumes de Mujer,Montale Paris,Oudmazing,Eau de Parfum Unisex,134.95,No tiene,Sin descuento,0,0
+1253,Perfumes de Mujer,Montale Paris,Soleil de Capri,Eau de Parfum Unisex,99.95,No tiene,Sin descuento,0,0
+1254,Perfumes de Mujer,Montale Paris,Aqua Palma,Eau de Parfum Unisex,134.95,No tiene,Sin descuento,0,0
+1255,Perfumes de Mujer,Montale Paris,Fantastic Oud,Eau de Parfum Unisex,134.95,No tiene,Sin descuento,0,0
+1256,Perfumes de Mujer,Montale Paris,Pretty Fruity,Eau de Parfum Unisex,119.95,No tiene,Sin descuento,0,0
+1257,Perfumes de Mujer,Montale Paris,Sweet Vanilla,Eau de Parfum Unisex,134.95,No tiene,Sin descuento,0,0
+1258,Perfumes de Mujer,Montale Paris,Rose Elixir,Eau de Parfum para Mujer,119.95,No tiene,Sin descuento,0,0
+1259,Perfumes de Mujer,Montale Paris,Sweet Flowers,Eau de Parfum para Mujer,129.95,No tiene,Sin descuento,0,0
+1260,Perfumes de Mujer,Montale Paris,Dark Purple,Eau de Parfum para Mujer,119.95,No tiene,Sin descuento,0,0
+1261,Perfumes de Mujer,Montale Paris,Aoud Night,Eau de Parfum Unisex,129.95,No tiene,Sin descuento,0,0
+1262,Perfumes de Mujer,Montale Paris,Dark Aoud,Eau de Parfum Unisex,119.95,No tiene,Sin descuento,0,0
+1263,Perfumes de Mujer,Montale Paris,Sweet Peony,Eau de Parfum para Mujer,129.95,No tiene,Sin descuento,0,0
+1264,Perfumes de Mujer,Montale Paris,Oud Dream,Eau de Parfum Unisex,134.95,No tiene,Sin descuento,0,0
+1265,Perfumes de Mujer,Montale Paris,Intense Black Aoud,Eau de Parfum Unisex,154.95,No tiene,Sin descuento,0,0
+1266,Perfumes de Mujer,Montale Paris,Mukhallat,Eau de Parfum Unisex,129.95,No tiene,Sin descuento,0,0
+1267,Perfumes de Mujer,Montale Paris,Fantastic Basilic,Eau de Parfum Unisex,99.95,No tiene,Sin descuento,0,0
+1268,Perfumes de Mujer,Montale Paris,Blue Matcha,Eau de Parfum Unisex,129.95,No tiene,Sin descuento,0,0
+1269,Perfumes de Mujer,Montale Paris,Oud Pashmina,Eau de Parfum Unisex,129.95,No tiene,Sin descuento,0,0
+1270,Perfumes de Mujer,Montale Paris,So Amber,Eau de Parfum Unisex,129.95,No tiene,Sin descuento,0,0
+1271,Perfumes de Mujer,Montale Paris,White Aoud,Eau de Parfum Unisex,119.95,No tiene,Sin descuento,0,0
+1272,Perfumes de Mujer,Montale Paris,Amber Musk,Eau de Parfum Unisex,129.95,No tiene,Sin descuento,0,0
+1273,Perfumes de Mujer,Montale Paris,Wild Aoud,Eau de Parfum Unisex,119.95,No tiene,Sin descuento,0,0
+1274,Perfumes de Mujer,Montale Paris,Intense Café,Eau de Parfum Unisex,119.95,No tiene,Sin descuento,0,0
+1275,Perfumes de Mujer,HERMÈS,Jour d'Hermès Absolu,Eau de Parfum para Mujer,172.00,35%,172.00,5,1
+1276,Perfumes de Mujer,GUERLAIN,Mitsouko,Eau de Toilette Unisex,126.45,38%,126.45,0,0
+1277,Perfumes de Mujer,Dior,MISS DIOR ROLLER-PEARL,Eau de Parfum,38.25,No tiene,Sin descuento,0,0
+1278,Perfumes de Mujer,VIKTOR & ROLF,Flowerbomb Dew,Eau de Parfum para Mujer,115.00,48%,115.00,0,0
+1279,Perfumes de Mujer,Philippe Starck,Peau D'Amour,Eau de Parfum para Mujer,99.00,29%,99.00,5,1
+1280,Perfumes de Mujer,Montale Paris,Pure Love,Eau de Parfum Unisex,114.95,No tiene,Sin descuento,0,0
+1281,Perfumes de Mujer,COMME des GARÇONS,COPPER,Eau de Parfum Unisex,144.00,13%,144.00,5,1
+1282,Perfumes de Mujer,Montale Paris,Chocolate Greedy,Eau de Parfum Unisex,99.95,No tiene,Sin descuento,0,0
+1283,Perfumes de Mujer,KENZO,MEMORI COLLECTION COEUR AZUKI,Eau de Parfum Unisex,96.00,No tiene,Sin descuento,0,0
+1284,Perfumes de Mujer,KENZO,MEMORI COLLECTION SOLEIL THÉ,Eau de Parfum Unisex,96.00,No tiene,Sin descuento,0,0
+1285,Perfumes de Mujer,Montale Paris,Ristretto Intense Café,Eau de Parfum unisex,154.95,No tiene,Sin descuento,0,0
+1286,Perfumes de Mujer,Hollister,Wave for Her,Eau de Parfum para Mujer,72.00,45%,72.00,0,0
+1287,Perfumes de Mujer,Montale Paris,Crazy in Love,Eau de Parfum para Mujer,114.95,No tiene,Sin descuento,0,0
+1288,Perfumes de Mujer,Montale Paris,Vanilla Extasy,Eau de Parfum para Mujer,99.95,No tiene,Sin descuento,0,0
+1289,Perfumes de Mujer,Montale Paris,Vetiver Patchouli,Eau de Parfum Unisex,129.95,No tiene,Sin descuento,0,0
+1290,Perfumes de Mujer,KENZO,MEMORI COLLECTION NUIT TATAMI,Eau de Parfum Unisex,96.00,No tiene,Sin descuento,0,0
+1291,Perfumes de Mujer,Montale Paris,Starry Nights,Eau de Parfum Unisex,129.95,No tiene,Sin descuento,0,0
+1292,Perfumes de Mujer,KENZO,MEMORI COLLECTION CÈDRE SECRET,Eau de Parfum Unisex,96.00,No tiene,Sin descuento,0,0
+1293,Perfumes de Mujer,Montale Paris,Black Musk,Eau de Parfum Unisex,99.95,No tiene,Sin descuento,0,0
+1294,Perfumes de Mujer,Montale Paris,Oud Edition,Eau de Parfum Unisex,119.95,No tiene,Sin descuento,0,0
+1295,Perfumes de Mujer,Montale Paris,Aoud Forest,Eau de Parfum Unisex,119.95,No tiene,Sin descuento,0,0
+1296,Perfumes de Mujer,LANCÔME,LA VIE EST BELLE BLANCHE,Eau de Parfum para Mujer,97.00,38%,97.00,5,1
+1297,Perfumes de Mujer,GUERLAIN,Vol de Nuit,Eau de Toilette para Mujer,126.45,35%,126.45,0,0
+1298,Perfumes de Mujer,Philippe Starck,Peau d'Ailleurs,Eau de Toilette Unisex,56.00,No tiene,Sin descuento,0,0
+1299,Perfumes de Mujer,KENZO,FLOWER BY KENZO Poppy Bouquet,Eau de Parfum para Mujer,134.00,46%,134.00,0,0
+1300,Perfumes de Mujer,Jil Sander,Simply,Eau de Parfum para Mujer,75.50,No tiene,Sin descuento,0,0
+1301,Perfumes de Mujer,HUGO BOSS,BOSS ALIVE EDT,Eau de Toilette para Mujer,89.00,52%,89.00,5,1
+1302,Perfumes de Mujer,DOLCE & GABBANA,DOLCE SHINE,Eau de Parfum para Mujer,129.00,46%,129.00,0,0
+1303,Perfumes de Mujer,GUERLAIN,Nahema,Eau de Parfum para Mujer,146.50,35%,146.50,0,0
+1304,Perfumes de Mujer,Police,To Be Good Vibes Woman,Eau de Parfum para Mujer,48.00,58%,48.00,0,0
+1305,Perfumes de Mujer,Montale Paris,Dark Vanilla,Eau de Parfum Unisex,129.95,No tiene,Sin descuento,0,0
+1306,Perfumes de Mujer,Jimmy Choo,L'Eau,Eau de Toilette para Mujer,111.00,37%,111.00,0,0
+1307,Perfumes de Mujer,Montale Paris,Intense Tiaré,Eau de Parfum Unisex,99.95,No tiene,Sin descuento,0,0
+1308,Perfumes de Mujer,Montale Paris,Herbal Aquatica,Eau de Parfum Unisex,129.95,No tiene,Sin descuento,0,0
+1309,Perfumes de Mujer,THIERRY MUGLER,MUGLER COLOGNE,Eau de Toilette Unisex,96.00,48%,96.00,4,82
+1310,Perfumes de Mujer,GUCCI,RUSH,Eau de Toilette para Mujer,71.00,51%,71.00,4,7
+1311,Perfumes de Mujer,Balenciaga,Florabotanica,Eau de Parfum para Mujer,106.00,43%,106.00,4,15
+1312,Perfumes de Mujer,ROCHAS,Eau de Rochas Citron Soleil,Eau de Toilette para Mujer,95.00,47%,95.00,4,4
+1313,Perfumes de Mujer,LACOSTE,Touch of Pink,Eau de Toilette para Mujer,99.20,65%,99.20,4,112
+1314,Perfumes de Mujer,DOLCE & GABBANA,THE ONE Estuche,Eau de Parfum para Mujer,132.00,47%,132.00,5,1
+1315,Perfumes de Mujer,LACOSTE,Pour Femme,Eau de Parfum para Mujer,70.20,57%,70.20,4,3
+1316,Perfumes de Mujer,VALENTINO,BORN IN ROMA DONNA Estuche,Eau de Parfum para Mujer,136.00,44%,136.00,3,2
+1317,Perfumes de Mujer,CALVIN KLEIN,OBSESSION,Eau de Parfum para Mujer,82.20,76%,82.20,4,56
+1318,Perfumes de Mujer,LANCÔME,IDÔLE L'INTENSE,Eau de Parfum para Mujer,79.00,56%,79.00,5,4
+1319,Perfumes de Mujer,CALVIN KLEIN,ESCAPE,Eau de Parfum para Mujer,93.50,68%,93.50,4,20
+1320,Perfumes de Mujer,CAROLINA HERRERA,"GOOD GIRL FANTASTIC PINK ""Edición Limitada""",Eau de Parfum para Mujer,120.00,32%,120.00,4,5
+1321,Perfumes de Mujer,ELIE SAAB,LE PARFUM,Eau de Parfum para Mujer,57.00,21%,57.00,4,5
+1322,Perfumes de Mujer,MOSCHINO,CHEAP AND CHIC,Eau de Toilette para Mujer,98.00,62%,98.00,4,29
+1323,Perfumes de Mujer,TOMMY HILFIGER,TOMMY GIRL,Eau de Toilette para Mujer,72.00,52%,72.00,4,39
+1324,Perfumes de Mujer,ESCADA,"CANDY LOVE ""Edición Limitada""",Eau de Toilette para Mujer,61.00,43%,61.00,5,3
+1325,Perfumes de Mujer,Gianfranco Ferré,Gieffeffe,Eau de Toilette Unisex,43.00,54%,43.00,4,15
+1326,Perfumes de Mujer,CALVIN KLEIN,WOMEN,Eau de Parfum para Mujer,67.00,63%,67.00,4,6
+1327,Perfumes de Mujer,SHISEIDO,ZEN,Eau de Parfum para Mujer,95.00,35%,95.00,5,3
+1328,Perfumes de Mujer,Roberto Cavalli,ROBERTO CAVALLI,Eau de Parfum para Mujer,103.80,71%,103.80,5,1
+1329,Perfumes de Mujer,NARCISO RODRÍGUEZ,NARCISO,Eau de Parfum para Mujer,130.00,35%,130.00,4,22
+1330,Perfumes de Mujer,Lolita Lempicka,LOLITA LEMPICKA LE PARFUM,Eau de Parfum para Mujer,82.00,52%,82.00,0,0
+1331,Perfumes de Mujer,BOUCHERON,QUATRE FEMME,Eau de Parfum para Mujer,110.00,67%,110.00,5,7
+1332,Perfumes de Mujer,PACO RABANNE,OLYMPEA LEGEND,Eau de Parfum para Mujer,58.00,43%,58.00,5,1
+1333,Perfumes de Mujer,YVES SAINT LAURENT,OPIUM,Eau de Parfum para Mujer,120.00,43%,120.00,5,7
+1334,Perfumes de Mujer,CAROLINA HERRERA,CH PRIVÉE,Eau de Parfum para Mujer,80.50,63%,80.50,5,2
+1335,Perfumes de Mujer,CAROLINA HERRERA,212 SEXY,Eau de Parfum para Mujer,92.00,24%,92.00,4,24
+1336,Perfumes de Mujer,JEAN PAUL GAULTIER,SCANDAL BY NIGHT,Eau de Parfum para Mujer,64.50,38%,64.50,4,3
+1337,Perfumes de Mujer,DAVIDOFF,"COOL WATER WOMAN CARIBBEAN ""SUMMER EDITION""",Eau de Toilette para Mujer,49.00,51%,49.00,4,4
+1338,Perfumes de Mujer,Van Cleef & Arpels,First,Eau de Parfum para Mujer,86.00,59%,86.00,4,6
+1339,Perfumes de Mujer,JEAN PAUL GAULTIER,LA BELLE Fleur Terrible,Eau de Parfum Légère,121.00,36%,121.00,0,0
+1340,Perfumes de Mujer,JEAN PAUL GAULTIER,LE MALE Pride 2022,Eau de Toilette Unisex,102.50,34%,102.50,0,0
+1341,Perfumes de Mujer,CHLOÉ,CHLOÉ ABSOLU DE PARFUM,Eau de Parfum para Mujer,80.00,50%,80.00,4,2
+1342,Perfumes de Mujer,DAVIDOFF,"COOL WATER WOMAN ""SUMMER EDITION""",Eau de Toilette para Mujer,49.00,55%,49.00,4,4
+1343,Perfumes de Mujer,JEAN PAUL GAULTIER,CLASSIQUE Essence de Parfum,Eau de Parfum para Mujer,83.50,31%,83.50,5,3
+1344,Perfumes de Mujer,DKNY,DKNY WOMEN DUO,Eau de Parfum para Mujer,60.00,23%,60.00,5,4
+1345,Perfumes de Mujer,ELIZABETH ARDEN,5th Avenue After Five,Eau de Parfum para Mujer,69.30,80%,69.30,4,28
+1346,Perfumes de Mujer,HUGO BOSS,BOSS FEMME,Eau de Parfum para Mujer,103.00,52%,103.00,4,44
+1347,Perfumes de Mujer,CAROLINA HERRERA,"CH UNDER THE SEA ""Edición Limitada""",Eau de Parfum para Mujer,111.00,46%,111.00,5,1
+1348,Perfumes de Mujer,CAROLINA HERRERA,"GOOD GIRL GOLD FANTASY ""Edición Limitada""",Eau de Parfum para Mujer,129.00,30%,129.00,0,0
+1349,Perfumes de Mujer,ESCADA,"SUMMER FESTIVAL ""Edición Limitada""",Eau de Toilette para Mujer,61.00,43%,61.00,5,5
+1350,Perfumes de Mujer,Mandarina Duck,Cute Blue EDT,Eau de Toilette para Mujer,26.05,69%,26.05,4,10
+1351,Perfumes de Mujer,ESCADA,ESPECIALLY,Eau de Parfum para Mujer,119.00,54%,119.00,4,13
+1352,Perfumes de Mujer,CALVIN KLEIN,OBSESSED For Women,Eau de Parfum para Mujer,102.00,63%,102.00,4,17
+1353,Perfumes de Mujer,ZADIG & VOLTAIRE,Girls Can Do Anything,Eau de Parfum para Mujer,59.00,35%,59.00,5,1
+1354,Perfumes de Mujer,ROCHAS,MADEMOISELLE EDT,Eau de Toilette para Mujer,46.00,57%,46.00,4,8
+1355,Perfumes de Mujer,ANGEL SCHLESSER,PIROUETTE,Eau de Toilette para Mujer,52.60,79%,52.60,5,4
+1356,Perfumes de Mujer,Van Cleef & Arpels,First EDT,Eau de Toilette para Mujer,115.00,65%,115.00,5,11
+1357,Perfumes de Mujer,CAROLINA HERRERA,CH L'EAU,Eau de Toilette para Mujer,68.50,56%,68.50,5,2
+1358,Perfumes de Mujer,BVLGARI,Splendida Iris D'Or,Eau de Parfum para Mujer,135.00,35%,135.00,4,2
+1359,Perfumes de Mujer,GUCCI,BLOOM ACQUA DI FIORI,Eau de Toilette para Mujer,136.00,56%,136.00,5,3
+1360,Perfumes de Mujer,CHLOÉ,CHLOÉ L'EAU,Eau de Toilette para Mujer,62.00,52%,62.00,4,2
+1361,Perfumes de Mujer,PACO RABANNE,OLYMPEA INTENSE,Eau de Parfum para Mujer,62.50,49%,62.50,5,3
+1362,Perfumes de Mujer,ISSEY MIYAKE,L'EAU D'ISSEY EDP,Eau de Parfum para Mujer,64.00,35%,64.00,0,0
+1363,Perfumes de Mujer,CACHAREL,YES I AM FABULOUS,Eau de Parfum para Mujer,59.00,53%,59.00,4,2
+1364,Perfumes de Mujer,YVES SAINT LAURENT,BLACK OPIUM INTENSE,Eau de Parfum para Mujer,75.00,47%,75.00,5,3
+1365,Perfumes de Mujer,HUGO BOSS,BOSS NUIT Pour Femme,Eau de Parfum para Mujer,101.00,51%,101.00,4,22
+1366,Perfumes de Mujer,YVES SAINT LAURENT,MANIFESTO,Eau de Parfum para Mujer,140.00,43%,140.00,4,11
+1367,Perfumes de Mujer,ESCADA,FLOR DEL SOL,Eau de Toilette para Mujer,43.00,47%,43.00,5,5
+1368,Perfumes de Mujer,Leonard,Eau Fraîche EDT,Eau de Toilette para mujer,66.00,55%,66.00,4,20
+1369,Perfumes de Mujer,HUGO BOSS,HUGO XX,Eau de Toilette para Mujer,78.00,49%,78.00,4,6
+1370,Perfumes de Mujer,HERMÈS,24 Faubourg,Eau de Parfum para Mujer,139.00,35%,139.00,0,0
+1371,Perfumes de Mujer,GUCCI,GUILTY INTENSE,Eau de Parfum para Mujer,116.00,48%,116.00,5,10
+1372,Perfumes de Mujer,Jimmy Choo,Blossom,Eau de Parfum para Mujer,56.00,64%,56.00,0,0
+1373,Perfumes de Mujer,GUCCI,MÉMOIRE D'UNE ODEUR,Eau de Parfum Unisex,113.00,56%,113.00,5,3
+1374,Perfumes de Mujer,BURBERRY,BODY,Eau de Parfum para Mujer,109.50,59%,109.50,5,1
+1375,Perfumes de Mujer,ESCADA,"CHERRY IN JAPAN ""Edición Limitada""",Eau de Toilette para Mujer,49.00,49%,49.00,0,0
+1376,Perfumes de Mujer,ELIE SAAB,GIRL OF NOW,Eau de Parfum para Mujer,53.00,22%,53.00,4,4
+1377,Perfumes de Mujer,ZADIG & VOLTAIRE,This Is Her! Capsule Collection,Eau de Parfum para Mujer,74.00,35%,74.00,5,2
+1378,Perfumes de Mujer,CAROLINA HERRERA,GOOD GIRL LÉGÈRE,Eau de Parfum para Mujer,60.00,37%,60.00,5,5
+1379,Perfumes de Mujer,BURBERRY,MY BURBERRY BLACK,Eau de Parfum para Mujer,149.00,56%,149.00,0,0
+1380,Perfumes de Mujer,TOUS,LOVE MOMENTS,Eau de Toilette para Mujer,74.00,60%,74.00,5,6
+1381,Perfumes de Mujer,DOLCE & GABBANA,THE ONLY ONE EDP Intense,Eau de Parfum para Mujer,158.00,40%,158.00,0,0
+1382,Perfumes de Mujer,ZADIG & VOLTAIRE,This is Love! For Her,Eau de Parfum para Mujer,120.00,35%,120.00,0,0
+1383,Perfumes de Mujer,THIERRY MUGLER,ANGEL NOVA EDT,Eau de Toilette para Mujer,88.00,43%,88.00,5,1
+1384,Perfumes de Mujer,ANGEL SCHLESSER,FEMME INTENSE,Eau de Parfum para Mujer,90.00,56%,90.00,4,1
+1385,Perfumes de Mujer,NINA RICCI,Premier Jour,Eau de Parfum para Mujer,91.50,45%,91.50,4,7
+1386,Perfumes de Mujer,TOUS,GEMS POWER,Eau de Toilette para Mujer,60.00,50%,60.00,5,2
+1387,Perfumes de Mujer,DOLCE & GABBANA,POUR FEMME EDT,Eau de Toilette para Mujer,112.00,38%,112.00,4,3
+1388,Perfumes de Mujer,MICHAEL KORS,SEXY AMBER,Eau de Parfum para Mujer,109.50,45%,109.50,5,10
+1389,Perfumes de Mujer,DOLCE & GABBANA,THE ONE EDT,Eau de Toilette para Mujer,104.00,42%,104.00,5,4
+1390,Perfumes de Mujer,LANCÔME,Ô d'Azur,Eau de Toilette para Mujer,71.50,51%,71.50,5,4
+1391,Perfumes de Mujer,TOM FORD,Neroli Portofino,Eau de Parfum Unisex,158.40,No tiene,Sin descuento,0,0
+1392,Perfumes de Mujer,Alaïa,Alaïa,Eau de Parfum Para Mujer,90.00,No tiene,Sin descuento,5,1
+1393,Perfumes de Mujer,BURBERRY,LONDON WOMEN,Eau de Parfum para Mujer,96.90,48%,96.90,5,2
+1394,Perfumes de Mujer,HERMÈS,24 Faubourg EDT,Eau de Toilette para Mujer,160.00,35%,160.00,5,1
+1395,Perfumes de Mujer,VALENTINO,DONNA Acqua,Eau de Toilette para Mujer,56.00,36%,56.00,0,0
+1396,Perfumes de Mujer,ISSEY MIYAKE,L'EAU D'ISSEY PURE,Eau de Parfum para Mujer,107.00,35%,107.00,4,6
+1397,Perfumes de Mujer,ROCHAS,MADEMOISELLE COUTURE,Eau de Parfum para Mujer,55.00,56%,55.00,5,2
+1398,Perfumes de Mujer,PACO RABANNE,OLYMPEA AQUA,Eau de Toilette para Mujer,103.00,37%,103.00,5,2
+1399,Perfumes de Mujer,DOLCE & GABBANA,"LIGHT BLUE ITALIAN LOVE ""Limited Edition""",Eau de Toilette para Mujer,111.00,31%,111.00,4,3
+1400,Perfumes de Mujer,CALVIN KLEIN,DOWNTOWN,Eau de Parfum para Mujer,87.85,66%,87.85,4,13
+1401,Perfumes de Mujer,HERMÈS,Un Jardin Après la Mousson,Eau de Toilette Unisex,133.00,35%,133.00,4,6
+1402,Perfumes de Mujer,Mariah Carey,M Mariah Carey EDP,Eau de Parfum para Mujer,64.10,53%,64.10,4,3
+1403,Perfumes de Mujer,CALVIN KLEIN,ETERNITY EAU FRESH,Eau de Parfum para Mujer,93.00,68%,93.00,0,0
+1404,Perfumes de Mujer,COACH,COACH FLORAL,Eau de Parfum para Mujer,49.00,67%,49.00,4,2
+1405,Perfumes de Mujer,Courrèges,BLANC DE COURREGES,Eau de Parfum para Mujer,89.00,70%,89.00,4,1
+1406,Perfumes de Mujer,HERMÈS,Eau des Merveilles Elixir,Eau de Parfum para Mujer,72.50,30%,72.50,0,0
+1407,Perfumes de Mujer,CAROLINA HERRERA,"GOOD GIRL SUPERSTARS ""Edición Limitada""",Eau de Parfum para Mujer,121.00,32%,121.00,5,2
+1408,Perfumes de Mujer,Montale Paris,Arabians Tonka,Eau de Parfum Unisex,134.95,No tiene,Sin descuento,0,0
+1409,Perfumes de Mujer,DAVIDOFF,COOL WATER INTENSE FOR HER,Eau de Parfum para Mujer,118.00,75%,118.00,4,1
+1410,Perfumes de Mujer,HUGO BOSS,HUGO WOMAN,Eau de Parfum para Mujer,87.00,46%,87.00,4,16
+1411,Perfumes de Mujer,GIVENCHY,Dahlia Divin,Eau de Parfum para Mujer,113.50,40%,113.50,5,7
+1412,Perfumes de Mujer,YVES SAINT LAURENT,MON PARIS FLORAL,Eau de Parfum para Mujer,140.00,46%,140.00,4,5
+1413,Perfumes de Mujer,MOSCHINO,CHEAP AND CHIC SO REAL,Eau de Toilette para Mujer,98.00,64%,98.00,5,3
+1414,Perfumes de Mujer,CHLOÉ,CHLOÉ EDT ROSE TANGERINE,Eau de Toilette para Mujer,93.00,57%,93.00,0,0
+1415,Perfumes de Mujer,TOUS,ROSA,Eau de Parfum para Mujer,84.00,52%,84.00,5,2
+1416,Perfumes de Mujer,CHLOÉ,CHLOÉ NOMADE EDT,Eau de Toilette para Mujer,64.00,61%,64.00,5,1
+1417,Perfumes de Mujer,GIVENCHY,Live Irrésistible,Eau de Parfum para Mujer,129.50,40%,129.50,5,3
+1418,Perfumes de Mujer,DKNY,BE TEMPTED,Eau de Parfum para Mujer,97.00,38%,97.00,4,2
+1419,Perfumes de Mujer,ELIE SAAB,GIRL OF NOW FOREVER,Eau de Parfum para Mujer,53.00,43%,53.00,5,1
+1420,Perfumes de Mujer,DOLCE & GABBANA,POUR FEMME INTENSE,Eau de Parfum para Mujer,151.00,45%,151.00,4,8
+1421,Perfumes de Mujer,VIKTOR & ROLF,Flowerbomb Midnight,Eau de Parfum para Mujer,155.00,49%,155.00,5,2
+1422,Perfumes de Mujer,ROCHAS,LUMIÈRE,Eau de Toilette para Mujer,115.00,78%,115.00,3,4
+1423,Perfumes de Mujer,CALVIN KLEIN,WOMEN EDT,Eau de Toilette para Mujer,77.60,61%,77.60,4,3
+1424,Perfumes de Mujer,ELIE SAAB,LE PARFUM ROYAL,Eau de Parfum para Mujer,57.00,30%,57.00,5,1
+1425,Perfumes de Mujer,BVLGARI,Splendida Rose Rose,Eau de Parfum para Mujer,135.00,35%,135.00,4,1
+1426,Perfumes de Mujer,BVLGARI,Goldea,Eau de Parfum para Mujer,95.00,35%,95.00,5,2
+1427,Perfumes de Mujer,ELIZABETH ARDEN,5th Avenue Style,Eau de Parfum para Mujer,45.50,56%,45.50,4,12
+1428,Perfumes de Mujer,NARCISO RODRÍGUEZ,"FOR HER EDT ""Edición Limitada""",Eau de Toilette para Mujer,121.00,35%,121.00,0,0
+1429,Perfumes de Mujer,CHLOÉ,CHLOÉ EDT,Eau de Toilette para Mujer,115.00,61%,115.00,0,0
+1430,Perfumes de Mujer,ELIE SAAB,LE PARFUM IN WHITE,Eau de Parfum para Mujer,57.00,21%,57.00,5,1
+1431,Perfumes de Mujer,COACH,COACH DREAMS,Eau de Parfum para Mujer,106.00,62%,106.00,5,1
+1432,Perfumes de Mujer,CHLOÉ,CHLOÉ NOMADE ABSOLU DE PARFUM,Eau de Parfum para Mujer,112.00,60%,112.00,0,0
+1433,Perfumes de Mujer,Alyssa Ashley,MUSK EDT,Eau de Toilette Unisex,45.95,48%,45.95,5,3
+1434,Perfumes de Mujer,TOUS,TOUCH THE SENSUAL GOLD,Eau de Toilette para Mujer,96.00,58%,96.00,0,0
+1435,Perfumes de Mujer,NINA RICCI,Nina L'Eau,Eau de Toilette para Mujer,37.50,49%,37.50,4,6
+1436,Perfumes de Mujer,KENZO,KENZO WORLD EDT,Eau de Toilette para Mujer,101.50,40%,101.50,4,4
+1437,Perfumes de Mujer,BURBERRY,MY BURBERRY,Eau de Parfum para Mujer,113.00,49%,113.00,5,1
+1438,Perfumes de Mujer,NINA RICCI,Les Belles de Nina Luna,Eau de Toilette para Mujer,48.50,38%,48.50,5,1
+1439,Perfumes de Mujer,MIU MIU,FLEUR D'ARGENT,Eau de Parfum para Mujer,167.00,61%,167.00,5,3
+1440,Perfumes de Mujer,LOEWE,001 EAU DE COLOGNE,Eau de Cologne Unisex,97.90,35%,97.90,5,3
+1441,Perfumes de Mujer,ESCADA,JOYFUL,Eau de Parfum para Mujer,54.00,35%,54.00,5,2
+1442,Perfumes de Mujer,BURBERRY,HER INTENSE,Eau de Parfum para Mujer,79.00,49%,79.00,5,3
+1443,Perfumes de Mujer,LACOSTE,Eau de Lacoste L.12.12 Pour Elle Elegant,Eau de Toilette para Mujer,85.00,47%,85.00,5,6
+1444,Perfumes de Mujer,Carven,Carven Le Parfum,Eau de Parfum para Mujer,82.50,64%,82.50,0,0
+1445,Perfumes de Mujer,MARC JACOBS,DAISY,Eau de Toilette para Mujer,127.00,45%,127.00,5,2
+1446,Perfumes de Mujer,Mandarina Duck,For Her,Eau de Toilette para Mujer,28.00,29%,28.00,0,0
+1447,Perfumes de Mujer,Carven,Carven L'Eau de Toilette,Eau de Toilette para Mujer,77.90,62%,77.90,0,0
+1448,Perfumes de Mujer,BURBERRY,MY BURBERRY BLUSH,Eau de Parfum para Mujer,123.00,47%,123.00,5,4
+1449,Perfumes de Mujer,GUCCI,BLOOM AMBROSIA DI FIORI,Eau de Parfum para Mujer,120.00,50%,120.00,4,2
+1450,Perfumes de Mujer,ROCHAS,EAU DE ROCHAS Escapade Au Soleil,Eau de Toilette para Mujer,100.00,63%,100.00,4,11
+1451,Perfumes de Mujer,BURBERRY,BODY EDT,Eau de Toilette para Mujer,96.90,59%,96.90,5,8
+1452,Perfumes de Mujer,THIERRY MUGLER,ALIEN FUSION,Eau de Parfum para Mujer,77.00,42%,77.00,4,2
+1453,Perfumes de Mujer,Trussardi,TRUSSARDI,Eau de Parfum para Mujer,61.00,56%,61.00,0,0
+1454,Perfumes de Mujer,HUGO BOSS,BOSS THE SCENT ABSOLUTE For Her,Eau de Parfum para Mujer,109.00,59%,109.00,5,1
+1455,Perfumes de Mujer,DOLCE & GABBANA,THE ONE GOLD,Eau de Parfum Intense para Mujer,139.00,42%,139.00,5,1
+1456,Perfumes de Mujer,GUERLAIN,Aqua Allegoria Pera Granita,Eau de Toilette para Mujer,98.10,39%,98.10,5,1
+1457,Perfumes de Mujer,PARFUMS DE MARLY,Darcy EDP,Eau de Parfum para Mujer,179.00,No tiene,Sin descuento,5,1
+1458,Perfumes de Mujer,HERMÈS,Kelly Calèche,Eau de Toilette para Mujer,150.00,30%,150.00,0,0
+1459,Perfumes de Mujer,Lanvin,MARRY ME!,Eau de Parfum para Mujer,87.00,77%,87.00,5,1
+1460,Perfumes de Mujer,HUGO BOSS,BOSS THE SCENT MAGNETIC For Her,Eau de Parfum para Mujer,78.00,49%,78.00,0,0
+1461,Perfumes de Mujer,NARCISO RODRÍGUEZ,FOR HER FLEUR MUSC FLORALE,Eau de Toilette para Mujer,106.00,35%,106.00,0,0
+1462,Perfumes de Mujer,Carven,Ma Griffe,Eau de Parfum para Mujer,88.00,25%,88.00,0,0
+1463,Perfumes de Mujer,Trussardi,SOUND OF DONNA,Eau de Parfum para Mujer,85.80,53%,85.80,5,1
+1464,Perfumes de Mujer,MONTBLANC,LADY EMBLEM,Eau de Parfum para Mujer,99.00,50%,99.00,0,0
+1465,Perfumes de Mujer,DOLCE & GABBANA,DOLCE,Eau de Parfum para Mujer,115.00,39%,115.00,4,4
+1466,Perfumes de Mujer,MICHAEL KORS,WONDERLUST SUBLIME,Eau de Parfum para Mujer,107.00,44%,107.00,4,5
+1467,Perfumes de Mujer,ROCHAS,BYZANCE,Eau de Toilette para Mujer,90.00,56%,90.00,4,11
+1468,Perfumes de Mujer,ELIE SAAB,GIRL OF NOW SHINE,Eau de Parfum para Mujer,53.00,42%,53.00,4,3
+1469,Perfumes de Mujer,BURBERRY,BRIT FOR HER EDT,Eau de Toilette para Mujer,96.90,59%,96.90,5,2
+1470,Perfumes de Mujer,PACO RABANNE,LADY MILLION LUCKY,Eau de Parfum para Mujer,57.50,44%,57.50,5,1
+1471,Perfumes de Mujer,ZADIG & VOLTAIRE,Girls Can Say Anything,Eau de Parfum para Mujer,59.00,35%,59.00,0,0
+1472,Perfumes de Mujer,CAROLINA HERRERA,"212 VIP ROSÉ RED ""Edición Limitada""",Eau de Parfum para Mujer,99.00,26%,99.00,5,2
+1473,Perfumes de Mujer,GUERLAIN,Les Absolus d'Orient Bois Mystérieux,Eau de Parfum Unisex,171.70,35%,171.70,0,0
+1474,Perfumes de Mujer,BURBERRY,BRIT RHYTHM For Her,Eau de Toilette para Mujer,97.90,69%,97.90,4,2
+1475,Perfumes de Mujer,NARCISO RODRÍGUEZ,FLEUR MUSC FOR HER Generous Spray,Eau de Parfum para Mujer,98.00,35%,98.00,5,1
+1476,Perfumes de Mujer,GUERLAIN,Jardins de Bagatelle,Eau de Parfum para Mujer,146.50,35%,146.50,0,0
+1477,Perfumes de Mujer,Philippe Starck,Peau de Soie,Eau de Toilette para Mujer,95.00,No tiene,Sin descuento,0,0
+1478,Perfumes de Mujer,HALLOWEEN,HALLOWEEN I'M UNIQUE,Eau de Toilette para Mujer,59.00,49%,59.00,5,1
+1479,Perfumes de Mujer,DKNY,DKNY NECTAR LOVE,Eau de Parfum para Mujer,97.00,46%,97.00,4,2
+1480,Perfumes de Mujer,Alyssa Ashley,Ambre Gris,Eau de Parfum para Mujer,27.80,28%,27.80,5,2
+1481,Perfumes de Mujer,NINA RICCI,"Les Sorbets de Nina ""Edición Limitada 2019""",Eau de Toilette para Mujer,67.00,40%,67.00,5,1
+1482,Perfumes de Mujer,MOSCHINO,PINK FRESH COUTURE,Eau de Toilette para Mujer,98.00,59%,98.00,0,0
+1483,Perfumes de Mujer,ELIE SAAB,LE PARFUM ESSENTIEL,Eau de Parfum para Mujer,57.00,43%,57.00,5,1
+1484,Perfumes de Mujer,ISSEY MIYAKE,L'EAU D'ISSEY PURE NECTAR,Eau de Parfum para Mujer,125.00,35%,125.00,5,7
+1485,Perfumes de Mujer,TOUS,FLORAL TOUCH,Eau de Toilette para Mujer,96.00,58%,96.00,5,6
+1486,Perfumes de Mujer,ISSEY MIYAKE,L'EAU D'ISSEY EAU & MAGNOLIA,Eau de Toilette Intense para Mujer,92.00,35%,92.00,0,0
+1487,Perfumes de Mujer,Alyssa Ashley,OUD Pour Elle,Eau de Parfum para Mujer,61.55,59%,61.55,0,0
+1488,Perfumes de Mujer,LACOSTE,Eau de Lacoste L.12.12 Pour Elle Magnetic,Eau de Parfum para Mujer,96.20,53%,96.20,5,4
+1489,Perfumes de Mujer,MICHAEL KORS,GORGEOUS!,Eau de Parfum para Mujer,62.50,41%,62.50,0,0
+1490,Perfumes de Mujer,MIU MIU,L'EAU BLEUE,Eau de Parfum para Mujer,160.00,56%,160.00,5,2
+1491,Perfumes de Mujer,GUERLAIN,Mon Guerlain Bloom of Rose EDP,Eau de Parfum para Mujer,105.35,36%,105.35,0,0
+1492,Perfumes de Mujer,GUERLAIN,Mon Guerlain Bloom of Rose,Eau de Toilette para Mujer,125.40,35%,125.40,5,1
+1493,Perfumes de Mujer,Karl Lagerfeld,Fleur de Pêcher,Eau de Parfum para Hombre,100.00,70%,100.00,5,2
+1494,Perfumes de Mujer,BURBERRY,HER BLOSSOM,Eau de Toilette para Mujer,65.00,46%,65.00,5,1
+1495,Perfumes de Mujer,LACOSTE,Eau de Lacoste Sensuelle,Eau de Parfum para Mujer,85.00,35%,85.00,4,3
+1496,Perfumes de Mujer,ELIZABETH ARDEN,My Fifth Avenue,Eau de Parfum para Mujer,60.00,40%,60.00,3,1
+1497,Perfumes de Mujer,BVLGARI,Goldea The Roman Night,Eau de Parfum para Mujer,90.00,35%,90.00,0,0
+1498,Perfumes de Mujer,Pierre Balmain,Extatic,Eau de Parfum para Mujer,90.00,22%,90.00,0,0
+1499,Perfumes de Mujer,DAVIDOFF,COOL WATER REBORN FOR HER,Eau de Toilette para Mujer,112.00,64%,112.00,0,0
+1500,Perfumes de Mujer,HERMÈS,Galop D'Hermès,Eau de Parfum para Mujer,265.00,30%,265.00,0,0
+1501,Perfumes de Mujer,DAVIDOFF,COOL WATER WOMAN JASMINE & TANGERINE,Eau de Toilette para Mujer,82.05,63%,82.05,0,0
+1502,Perfumes de Mujer,HERMÈS,Jour d'Hermès EDP,Eau de Parfum para Mujer,145.00,30%,145.00,0,0
+1503,Perfumes de Mujer,COACH,COACH FLORAL BLUSH,Eau de Parfum para Mujer,118.00,58%,118.00,0,0
+1504,Perfumes de Mujer,LACOSTE,Eau de Lacoste L.12.12 Pour Elle Natural,Eau de Toilette para Mujer,84.00,46%,84.00,4,3
+1505,Perfumes de Mujer,Dior,MISS DIOR EDT ROLLER-PEARL,Eau de Toilette,38.25,No tiene,Sin descuento,5,2
+1506,Perfumes de Mujer,HUGO BOSS,BOSS THE SCENT INTENSE For Her,Eau de Parfum para Mujer,92.00,46%,92.00,5,1
+1507,Perfumes de Mujer,HERMÈS,Hiris,Eau de Toilette para Mujer,145.50,30%,145.50,5,1
+1508,Perfumes de Mujer,MARC JACOBS,"DAISY EAU SO FRESH TWINKLE ""Edición Limitada""",Eau de Toilette para Mujer,72.45,45%,72.45,5,2
+1509,Perfumes de Mujer,HUGO BOSS,MA VIE INTENSE Pour Femme,Eau de Parfum para Mujer,104.00,52%,104.00,4,5
+1510,Perfumes de Mujer,DKNY,DKNY MY NY,Eau de Parfum para Mujer,91.00,40%,91.00,0,0
+1511,Perfumes de Mujer,HUGO BOSS,BOSS THE SCENT For Her Eau de Toilette,Eau de Toilette para Mujer,75.00,40%,75.00,5,1
+1512,Perfumes de Mujer,Chopard,Casmir,Eau de Parfum para Mujer,74.00,No tiene,Sin descuento,0,0
+1513,Perfumes de Mujer,NINA RICCI,"Les Sorbets de Bella ""Edición Limitada 2019""",Eau de Toilette para Mujer,67.00,39%,67.00,5,3
+1514,Perfumes de Mujer,TOUS,TOUCH THE LUMINOUS GOLD,Eau de Toilette para Mujer,96.00,52%,96.00,0,0
+1515,Perfumes de Mujer,ANGEL SCHLESSER,POUR ELLE,Eau de Parfum para Mujer,77.60,41%,77.60,5,7
+1516,Perfumes de Mujer,El Ganso,Señorita Mon Amour,Eau de Toilette para Mujer,72.00,45%,72.00,0,0
+1517,Perfumes de Mujer,Police,To Be Exotic Jungle for Woman EDP,Eau de Parfum para Mujer,35.00,57%,35.00,0,0
+1518,Perfumes de Mujer,GUERLAIN,Après l'Ondée,Eau de Toilette para Mujer,106.10,35%,106.10,0,0
+1519,Perfumes de Mujer,GUERLAIN,Chant d'Arômes,Eau de Toilette para Mujer,120.10,35%,120.10,5,1
+1520,Perfumes de Mujer,MARC JACOBS,"DAISY TWINKLE ""Edición Limitada""",Eau de Toilette para Mujer,70.35,30%,70.35,0,0
+1521,Perfumes de Mujer,HERMÈS,Eau de Narcisse Bleu,Eau de Cologne Unisex,137.00,31%,137.00,5,2
+1522,Perfumes de Mujer,HERMÈS,Eau de Mandarine Ambrée,Eau de Cologne Unisex,111.00,30%,111.00,0,0
+1523,Perfumes de Mujer,JEAN PAUL GAULTIER,CLASSIQUE Pride 2022,Eau de Toilette Unisex,92.50,35%,92.50,5,1
+1524,Perfumes de Mujer,Salvatore Ferragamo,Signorina Misteriosa,Eau de Parfum para Mujer,122.00,34%,122.00,5,1
+1525,Perfumes de Mujer,HERMÈS,Eau d'Hermès,Eau de Toilette Unisex,108.00,31%,108.00,0,0
+1526,Perfumes de Mujer,SISLEY,Eau Tropicale,Eau de Parfum para Mujer,64.50,30%,64.50,0,0
+1527,Perfumes de Mujer,MARC JACOBS,DAISY EAU SO INTENSE,Eau de Parfum para Mujer,136.00,52%,136.00,0,0
+1528,Perfumes de Mujer,HERMÈS,Rose Amazone,Eau de Toilette para Mujer,145.50,30%,145.50,0,0
+1529,Perfumes de Mujer,GUERLAIN,Jardins de Bagatelle EDT,Eau de Toilette para Mujer,126.45,35%,126.45,0,0
+1530,Perfumes de Mujer,MARC JACOBS,DAISY LOVE EAU SO SWEET,Eau de Toilette para Mujer,123.00,55%,123.00,5,3
+1531,Perfumes de Mujer,Carven,Dans Ma Bulle,Eau de Parfum para Mujer,85.90,65%,85.90,0,0
+1532,Perfumes de Mujer,ISSEY MIYAKE,L'EAU D'ISSEY ROSE & ROSE,Eau de Parfum para Mujer,110.00,35%,110.00,0,0
+1533,Perfumes de Mujer,CAROLINA HERRERA,"212 VIP ROSÉ SMILEY ""Edición Limitada""",Eau de Parfum para Mujer,106.50,32%,106.50,4,1
+1534,Perfumes de Mujer,MIU MIU,TWIST,Eau de Parfum para Mujer,80.00,50%,80.00,0,0
+1535,Perfumes de Mujer,Perris Monte Carlo,Patchouli Nosy Be Extrait,Extrait de Parfum Unisex,275.00,No tiene,Sin descuento,0,0
+1536,Perfumes de Mujer,MONTBLANC,LADY EMBLEM L'EAU,Eau de Toilette para Mujer,90.00,44%,90.00,5,2
+1537,Perfumes de Mujer,NINA RICCI,Les Belles de Nina Luna Blossom,Eau de Toilette para Mujer,65.00,39%,65.00,0,0
+1538,Perfumes de Mujer,Pierre Balmain,Extatic Tiger Orchid,Eau de Parfum para Mujer,90.00,22%,90.00,0,0
+1539,Perfumes de Mujer,MIU MIU,L'EAU ROSÉE,Eau de Toilette para Mujer,140.00,57%,140.00,5,1
+1540,Perfumes de Mujer,Montale Paris,Vanille Absolu,Eau de Parfum para Mujer,99.95,No tiene,Sin descuento,0,0
+1541,Perfumes de Mujer,Perris Monte Carlo,Bois D'Oud,Eau de Parfum Unisex,145.00,No tiene,Sin descuento,5,2
+1542,Perfumes de Mujer,HERMÈS,L'Ambre des Merveilles,Eau de Parfum para Mujer,165.00,30%,165.00,0,0
+1543,Perfumes de Mujer,HERMÈS,Amazone,Eau de Toilette para Mujer,145.50,30%,145.50,5,1
+1544,Perfumes de Mujer,HERMÈS,Rouge,Eau de Toilette para Mujer,145.50,30%,145.50,5,1
+1545,Perfumes de Mujer,MARC JACOBS,DAISY DREAM,Eau de Toilette para Mujer,127.00,49%,127.00,4,9
+1546,Perfumes de Mujer,LACOSTE,Eau de Lacoste L. 12. 12 Eau Fraîche Pour Elle,Eau de Toilette para Mujer,87.50,49%,87.50,4,3
+1547,Perfumes de Mujer,Montale Paris,Wild Pears,Eau de Parfum Unisex,99.95,No tiene,Sin descuento,0,0
+1548,Perfumes de Mujer,Perris Monte Carlo,Essence de Patchouli,Eau de Parfum Unisex,145.00,No tiene,Sin descuento,5,1
+1549,Perfumes de Mujer,DAVIDOFF,"COOL WATER WOMAN STREET FIGHTER ""CHAMPION EDITION""",Eau de Toilette para Mujer,82.05,57%,82.05,0,0
+1550,Perfumes de Mujer,Liz Claiborne,Lucky You,Eau de Toilette para Mujer,28.00,29%,28.00,5,1
+1551,Perfumes de Mujer,MARC JACOBS,"DAISY SPRING ""Edición Limitada""",Eau de Toilette para Mujer,71.90,31%,71.90,0,0
+1552,Perfumes de Mujer,LACOSTE,L.12.12 French Panache Pour Elle,Eau de Toilette para Mujer,91.80,54%,91.80,5,1
+1553,Perfumes de Mujer,ISSEY MIYAKE,IGO L'EAU D'ISSEY,Eau de Toilette para Mujer,124.00,35%,124.00,0,0
+1554,Perfumes de Mujer,HERMÈS,Eau de Néroli Doré,Eau de Cologne Unisex,111.00,30%,111.00,0,0
+1555,Perfumes de Mujer,MIU MIU,TWIST EDT,Eau de Toilette para Mujer,104.00,47%,104.00,0,0
+1556,Perfumes de Mujer,Iceberg,Eau de Iceberg,Eau de Toilette para Mujer,50.00,40%,50.00,0,0
+1557,Perfumes de Mujer,Jimmy Boyd,Spring Rain Water,Eau de Toilette Unisex,62.00,15%,62.00,0,0
+1558,Perfumes de Mujer,Carven,Dans Ma Bulle de Fleurs,Eau de Toilette para Mujer,104.50,20%,104.50,0,0
+1559,Perfumes de Mujer,Jil Sander,Evergreen,Eau de Toilette para Mujer,62.90,No tiene,Sin descuento,0,0
+1560,Perfumes de Mujer,Montale Paris,Oudrising,Eau de Parfum Unisex,134.95,No tiene,Sin descuento,0,0
+1561,Perfumes de Mujer,Carven,Dans Ma Bulle EDT,Eau de Toilette para Mujer,82.50,26%,82.50,0,0
+1562,Perfumes de Mujer,Perris Monte Carlo,Absolue D'Osmanthe Extrait,Extrait de Parfum Unisex,275.00,No tiene,Sin descuento,0,0
+1563,Perfumes de Mujer,Perris Monte Carlo,Musk Extreme,Eau de Parfum Unisex,145.00,No tiene,Sin descuento,0,0
+1564,Perfumes de Mujer,Jimmy Boyd,Wonderful India,Eau de Toilette Unisex,62.00,15%,62.00,0,0
+1565,Perfumes de Mujer,Montale Paris,Velvet Fantasy,Eau de Parfum para Mujer,129.95,No tiene,Sin descuento,0,0
+1566,Perfumes de Mujer,LOEWE,AURA FLORAL,Eau de Parfum para Mujer,130.00,35%,130.00,4,5
+1567,Perfumes de Mujer,GUERLAIN,L'Heure Bleue EDP,Eau de Parfum para Mujer,146.50,35%,146.50,0,0

@@ -1,0 +1,807 @@
+tienda,categoria,marca,nombre,tipo,precio_sin_desc,descuento,precio_con_desc,valoracion,num_valoraciones
+notino,hombre,hugo boss,boss the scent absolute,eau de parfum,134.0,66.12,45.4,5.0,3.0
+notino,hombre,versace,eros,eau de toilette,57.5,0.0,57.5,,
+notino,hombre,versace,pour homme,eau de toilette,47.0,0.0,47.0,,
+notino,hombre,narciso rodriguez,for him bleu noir,eau de parfum,110.0,47.73,57.5,5.0,1.0
+notino,hombre,novellista,unique wood,eau de parfum,39.1,0.0,39.1,,
+notino,hombre,armaf,club de nuit man intense,eau de toilette,102.7,58.71,42.4,4.2,39.0
+notino,hombre,bentley,for men intense,eau de parfum,89.0,66.85,29.5,4.5,122.0
+notino,hombre,lattafa,ameer al oudh intense oud,eau de parfum,33.7,38.28,20.8,4.3,25.0
+notino,hombre,lattafa,asad,eau de parfum,60.1,57.57,25.5,4.6,19.0
+notino,hombre,rasasi,daarej pour homme,eau de parfum,34.8,48.85,17.8,4.3,53.0
+notino,hombre,afnan,turathi blue homme,eau de parfum,37.2,6.18,34.9,4.6,44.0
+notino,hombre,lattafa,qaed al fursan,eau de parfum,28.0,35.0,18.2,4.4,18.0
+notino,hombre,lattafa,badee al oud oud for glory,eau de parfum,27.7,6.14,26.0,4.4,12.0
+notino,hombre,al haramain,détour noir,eau de parfum,59.3,46.54,31.7,4.4,16.0
+notino,hombre,lattafa,fakhar lattafa men,eau de parfum,36.7,50.14,18.3,4.2,9.0
+notino,hombre,afnan,supremacy not only intense,parfum,49.9,0.0,49.9,,
+notino,hombre,rasasi,fattan pour homme,eau de parfum,28.4,48.94,14.5,4.4,29.0
+notino,hombre,afnan,9 pm,eau de parfum,41.1,0.0,41.1,,
+notino,hombre,lalique,encre noire sport,eau de toilette,96.0,76.56,22.5,4.3,93.0
+notino,hombre,rasasi,shuhrah pour homme,eau de parfum,47.8,48.33,24.7,4.3,129.0
+notino,hombre,lattafa,sheikh al shuyukh luxe edition,eau de parfum,27.3,33.33,18.2,4.6,27.0
+notino,hombre,lalique,encre noire,eau de toilette,103.0,76.02,24.7,4.7,112.0
+notino,hombre,lattafa,badee al oud ametyst,eau de parfum,49.5,35.35,32.0,4.2,23.0
+notino,hombre,lattafa,malik al tayoor concentrated,eau de parfum,26.5,43.77,14.9,4.2,4.0
+notino,hombre,lalique,encre noire a l'extreme,eau de parfum,123.0,75.77,29.8,4.4,40.0
+notino,hombre,lattafa,opulent red,eau de parfum,32.8,44.82,18.1,4.7,29.0
+notino,hombre,al haramain,amber oud gold edition,eau de parfum,104.22,47.71,54.5,4.9,17.0
+notino,hombre,lattafa,pride ishq al shuyukh gold,eau de parfum,56.0,0.0,56.0,,
+notino,hombre,al haramain,amber oud tobacco edition,eau de parfum,96.03,43.46,54.3,4.6,28.0
+notino,hombre,al haramain,l'aventure,eau de parfum,21.2,6.13,19.9,4.3,18.0
+notino,hombre,just jack,tobacco leaf,eau de parfum,27.49,58.17,11.5,4.7,22.0
+notino,hombre,lattafa,opulent oud,eau de parfum,28.4,19.37,22.9,4.7,10.0
+notino,hombre,lattafa,pride eternal oud,eau de parfum,56.0,0.0,56.0,,
+notino,hombre,versace,eros flame,eau de parfum,53.0,6.04,49.8,4.5,6.0
+notino,hombre,carolina herrera,212 vip black,eau de parfum,48.0,0.0,48.0,,
+notino,hombre,afnan,supremacy in oud,eau de parfum,51.2,9.96,46.1,4.5,2.0
+notino,hombre,afnan,supremacy silver,eau de parfum,37.2,0.0,37.2,,
+notino,hombre,versace,pour homme oud noir,eau de parfum,110.0,0.0,110.0,,
+notino,hombre,afnan,9 am dive,eau de parfum,37.2,6.18,34.9,4.5,2.0
+notino,hombre,burberry,weekend for men,eau de toilette,93.0,70.75,27.2,4.6,5.0
+notino,hombre,afnan,dehn al oudh abiyad,eau de parfum,12.3,5.69,11.6,4.6,10.0
+notino,hombre,lattafa,ajward,eau de parfum,32.9,6.08,30.9,4.7,3.0
+notino,hombre,rasasi,egra for men,eau de parfum,29.4,43.54,16.6,3.5,8.0
+notino,hombre,hugo boss,hugo energise,eau de toilette,75.0,44.0,42.0,5.0,2.0
+notino,hombre,armaf,voyage brown,eau de parfum,22.5,0.0,22.5,,
+notino,hombre,jeanne arthes,boum metal,eau de toilette,9.9,45.45,5.4,4.4,8.0
+notino,hombre,rasasi,la yuqawam,eau de parfum,89.4,20.81,70.8,4.4,42.0
+notino,hombre,bentley,bentley for men absolute,eau de parfum,102.0,66.47,34.2,5.0,6.0
+notino,hombre,armaf,radical brown,eau de parfum,47.1,54.99,21.2,4.2,6.0
+notino,hombre,jeanne en provence,olive wood & juniper,eau de toilette,16.5,20.0,13.2,4.0,9.0
+notino,hombre,lattafa,quasaed al sultan,eau de parfum,26.3,20.15,21.0,4.5,2.0
+notino,hombre,hugo boss,boss bottled,eau de toilette,63.5,45.83,34.4,4.5,33.0
+notino,hombre,rasasi,mukhallat oudh al mubakhar,eau de parfum,21.5,40.47,12.8,4.0,17.0
+notino,hombre,rasasi,afshan,eau de parfum,23.2,40.95,13.7,4.2,20.0
+notino,hombre,armaf,club de nuit man intense,parfum,135.0,49.26,68.5,4.0,8.0
+notino,hombre,jaguar,for men,eau de toilette,45.0,75.33,11.1,4.5,16.0
+notino,hombre,playboy,generation,eau de toilette,12.9,34.11,8.5,5.0,2.0
+notino,hombre,cuba,royal,eau de toilette,4.6,6.52,4.3,4.0,4.0
+notino,hombre,bentley,for men intense,eau de parfum,89.0,66.85,29.5,4.5,123.0
+notino,hombre,jeanne arthes,j.s. magnetic power night,eau de toilette,13.0,45.38,7.1,4.0,3.0
+notino,hombre,hugo boss,boss in motion,eau de toilette,31.6,0.0,31.6,,
+notino,hombre,armaf,eternia man,eau de parfum,17.9,0.0,17.9,,
+notino,hombre,jean paul gaultier,scandal le parfum pour homme,eau de parfum,55.0,0.0,55.0,,
+notino,hombre,lattafa,sheikh al shuyukh black,eau de parfum,20.3,33.5,13.5,5.0,3.0
+notino,hombre,jeanne en provence,lin blanc,eau de toilette,16.5,20.0,13.2,1.0,1.0
+notino,hombre,calvin klein,obsession for men,eau de toilette,54.5,55.41,24.3,4.8,10.0
+notino,hombre,lacoste,essential,eau de toilette,93.5,67.06,30.8,4.2,4.0
+notino,hombre,bentley,for men azure,eau de toilette,82.0,62.2,31.0,4.0,11.0
+notino,hombre,ted lapidus,black soul imperial,eau de toilette,28.1,28.47,20.1,4.6,13.0
+notino,hombre,rasasi,sotoor taa’,eau de parfum,71.9,55.08,32.3,5.0,2.0
+notino,hombre,armaf,club de nuit man,eau de toilette,29.9,6.02,28.1,4.8,8.0
+notino,hombre,hugo boss,boss bottled infinite,eau de parfum,116.0,60.09,46.3,4.8,4.0
+notino,hombre,jeanne arthes,sexy boy irreversible,eau de toilette,9.9,47.47,5.2,3.7,3.0
+notino,hombre,al haramain,khulasat al oudh,eau de parfum,18.3,0.0,18.3,,
+notino,hombre,lattafa,khashabi,eau de parfum,19.2,9.9,17.3,5.0,1.0
+notino,hombre,rasasi,oudh al misk,eau de parfum,21.8,34.86,14.2,4.1,19.0
+notino,hombre,rasasi,la yuqawam tobacco blaze,eau de parfum,154.1,52.89,72.6,4.5,2.0
+notino,hombre,just jack,neroli,eau de parfum,28.0,53.57,13.0,4.3,15.0
+notino,hombre,paul smith,extreme man,eau de toilette,42.5,34.35,27.9,4.8,8.0
+notino,hombre,rasasi,faqat lil rijal,eau de parfum,51.2,49.61,25.8,4.4,5.0
+notino,hombre,lalique,pour homme equus,eau de parfum,88.0,70.8,25.7,4.3,3.0
+notino,hombre,al haramain,excellent,eau de toilette,26.0,58.08,10.9,3.7,3.0
+notino,hombre,cuba,blue,eau de toilette,6.1,6.56,5.7,4.8,5.0
+notino,hombre,rasasi,khaltat al khasa ma dhan al oudh,eau de parfum,40.3,46.65,21.5,4.7,6.0
+notino,hombre,john varvatos,heritage vintage,eau de toilette,85.5,55.79,37.8,3.6,8.0
+notino,hombre,cuba,orange,eau de toilette,13.2,51.52,6.4,4.7,3.0
+notino,hombre,halston,z-14,eau de cologne,49.4,47.57,25.9,3.8,5.0
+notino,hombre,liz claiborne,curve connect,eau de cologne,16.4,0.0,16.4,,
+notino,hombre,jeanne arthes,rocky man,eau de toilette,4.6,0.0,4.6,,
+notino,hombre,tous,man intense,eau de toilette,78.1,67.99,25.0,3.0,1.0
+notino,hombre,rasasi,la yuqavam ambergris showers,eau de parfum,154.1,53.6,71.5,4.5,4.0
+notino,hombre,rasasi,dhanal oudh nashwah,eau de parfum,40.2,51.24,19.6,4.4,17.0
+notino,hombre,ted lapidus,oud noir,eau de parfum,21.5,6.05,20.2,4.4,5.0
+notino,hombre,swiss arabian,dehn al oodh malaki,eau de parfum,41.3,0.0,41.3,,
+notino,hombre,armaf,derby club house,eau de toilette,20.5,0.0,20.5,,
+notino,hombre,bond no. 9,midtown new york nights,eau de parfum,160.3,0.0,160.3,,
+notino,hombre,jenny glow,velvet & oud,eau de parfum,18.7,19.79,15.0,3.8,15.0
+notino,hombre,ajmal,amber wood,eau de parfum,174.6,0.0,174.6,,
+notino,hombre,armani,emporio stronger with you absolutely,parfum,66.3,0.0,66.3,,
+notino,hombre,tommy hilfiger,impact intense,eau de parfum,43.2,0.0,43.2,,
+notino,hombre,the library of fragrance,banana flambee,eau de cologne,13.6,0.0,13.6,,
+notino,hombre,dermacol,cannabis garden,eau de parfum,30.8,26.95,22.5,5.0,3.0
+notino,hombre,novellista,rose chant,eau de parfum,89.3,0.0,89.3,,
+notino,hombre,lattafa,ekhtiari,eau de parfum,27.6,38.41,17.0,3.8,9.0
+notino,hombre,lattafa,sheikh al shuyukh kususi,eau de parfum,25.2,14.68,21.5,4.0,2.0
+notino,hombre,lattafa,oud mood elixir,eau de parfum,31.4,36.62,19.9,1.0,1.0
+notino,hombre,al haramain,amber oud tobacco edition,eau de parfum,96.03,43.46,54.3,4.6,29.0
+notino,hombre,sapil,disclosure white,eau de toilette,11.9,0.0,11.9,,
+notino,hombre,calvin klein,ck one gold,eau de toilette,23.5,15.74,19.8,5.0,1.0
+notino,hombre,joop!,wow!,eau de toilette,84.0,57.26,35.9,3.0,1.0
+notino,hombre,burberry,mr. burberry,eau de parfum,132.0,51.89,63.5,5.0,2.0
+notino,hombre,swiss arabian,shaghaf oud abyad,eau de parfum,37.2,0.0,37.2,,
+notino,hombre,prada,luna rossa black,eau de parfum,118.0,33.14,78.9,4.7,3.0
+notino,hombre,taylor of old bond street,sandalwood,eau de cologne,40.0,28.5,28.6,5.0,1.0
+notino,hombre,mercedes-benz,man private,eau de parfum,101.9,50.15,50.8,3.7,3.0
+notino,hombre,tommy hilfiger,tommy now,eau de toilette,26.0,0.0,26.0,,
+notino,hombre,captain fawcett,booze & baccy ricki hall,eau de parfum,66.7,0.0,66.7,,
+notino,hombre,avon,wild country,eau de toilette,10.3,5.83,9.7,3.7,3.0
+notino,hombre,armaf,bucephalus no. x,eau de parfum,79.0,46.96,41.9,5.0,1.0
+notino,hombre,ajmal,hayba,eau de parfum,43.01,49.08,21.9,4.7,6.0
+notino,hombre,guess,1981 los angeles,eau de toilette,61.0,50.0,30.5,5.0,1.0
+notino,hombre,the library of fragrance,laundromat,eau de cologne,15.6,0.0,15.6,,
+notino,hombre,versace,eros,eau de parfum,80.0,0.0,80.0,,
+notino,hombre,avon,elite gentleman absolute,eau de toilette,23.5,42.55,13.5,5.0,1.0
+notino,hombre,armaf,le parfait,eau de toilette,48.5,59.79,19.5,3.2,5.0
+notino,hombre,yves saint laurent,la nuit de l'homme bleu électrique,eau de toilette,110.0,36.55,69.8,4.3,3.0
+notino,hombre,ulric de varens,udv star,eau de toilette,24.9,41.77,14.5,4.2,4.0
+notino,hombre,afnan,abiyad mukhallat,eau de parfum,13.8,0.0,13.8,,
+notino,hombre,baldessarini,baldessarini concentree,eau de cologne,30.9,0.0,30.9,,
+notino,hombre,paco rabanne,1 million elixir,eau de parfum,76.4,0.0,76.4,,
+notino,hombre,givenchy,gentleman boisée,eau de parfum,122.0,37.13,76.7,5.0,2.0
+notino,hombre,missoni,wave,eau de toilette,52.5,41.33,30.8,3.8,5.0
+notino,hombre,david beckham,bold instinct,eau de toilette,11.1,0.0,11.1,,
+notino,hombre,jeanne arthes,j.s. magnetic power sport,eau de toilette,6.6,0.0,6.6,,
+notino,hombre,sapil,intense,eau de toilette,9.9,0.0,9.9,,
+notino,hombre,carolina herrera,bad boy le parfum,eau de parfum,55.0,0.0,55.0,,
+notino,hombre,yves saint laurent,y le parfum,eau de parfum,75.4,0.0,75.4,,
+notino,hombre,davidoff,cool water parfum,parfum,84.0,60.71,33.0,4.8,4.0
+notino,hombre,jaguar,for men ultimate power,eau de toilette,45.0,66.67,15.0,4.0,1.0
+notino,hombre,mauboussin,une histoire d´homme irresistible,eau de parfum,70.0,57.14,30.0,5.0,2.0
+notino,hombre,dior,sauvage elixir,parfum,147.9,0.0,147.9,,
+notino,hombre,halloween,halloween,eau de toilette,74.9,67.29,24.5,4.3,3.0
+notino,hombre,gucci,guilty pour homme,parfum,71.3,0.0,71.3,,
+notino,hombre,givenchy,gentleman réserve privée,eau de parfum,122.0,44.1,68.2,5.0,1.0
+notino,hombre,oriflame,eclat nuit,eau de parfum,22.5,0.0,22.5,,
+notino,hombre,givenchy,monsieur de givenchy,eau de toilette,106.0,28.58,75.7,5.0,2.0
+notino,hombre,jean paul gaultier,le male pride edition,eau de toilette,68.2,14.81,58.1,4.5,2.0
+notino,hombre,karl lagerfeld,lagerfeld classic grey,eau de toilette,39.9,0.0,39.9,,
+notino,hombre,ajmal,evoke midnight edition him,eau de parfum,35.9,0.0,35.9,,
+notino,hombre,instituto español,poseidon man,eau de toilette,14.9,0.0,14.9,,
+notino,hombre,lattafa,pride hala,eau de parfum,56.0,0.0,56.0,,
+notino,hombre,lattafa,pride tharwa silver,eau de parfum,56.0,0.0,56.0,,
+notino,hombre,oriflame,giordani gold man,eau de parfum,22.2,0.0,22.2,,
+notino,hombre,lattafa,pride thouq,eau de parfum,56.0,0.0,56.0,,
+notino,hombre,geoffrey beene,grey flannel,eau de toilette,75.0,73.2,20.1,5.0,2.0
+notino,hombre,laura biagiotti,romamor uomo,eau de toilette,63.0,53.65,29.2,5.0,1.0
+notino,hombre,hermès,terre d’hermès eau intense vétiver,eau de parfum,92.0,0.0,92.0,,
+notino,hombre,guess,1981 indigo,eau de toilette,61.0,50.0,30.5,5.0,1.0
+notino,hombre,proraso,wood and spice,eau de cologne,22.5,0.0,22.5,,
+notino,hombre,abercrombie & fitch,first instinct extreme,eau de parfum,30.8,0.0,30.8,,
+notino,hombre,bond no. 9,governors island,eau de parfum,196.5,0.0,196.5,,
+notino,hombre,truefitt & hill,spanish leather,eau de cologne,68.4,0.0,68.4,,
+notino,hombre,str8,rise,eau de toilette,15.35,35.5,9.9,4.0,1.0
+notino,hombre,str8,original,eau de toilette,14.2,0.0,14.2,,
+notino,hombre,str8,live true,eau de toilette,9.9,0.0,9.9,,
+notino,hombre,creed,bois du portugal,eau de parfum,208.5,0.0,208.5,,
+notino,hombre,abercrombie & fitch,authentic,eau de toilette,81.2,66.13,27.5,5.0,4.0
+notino,hombre,salvatore ferragamo,uomo urban feel,eau de toilette,94.5,63.81,34.2,4.7,3.0
+notino,hombre,chanel,allure homme sport cologne,eau de cologne,109.8,0.0,109.8,,
+notino,hombre,al haramain,oudh patchouli,eau de parfum,66.0,33.64,43.8,3.0,2.0
+notino,hombre,police,frozen,eau de toilette,9.2,0.0,9.2,,
+notino,hombre,ajmal,mosha'a,eau de parfum,26.62,46.28,14.3,4.0,1.0
+notino,hombre,armaf,radical,eau de parfum,45.0,42.67,25.8,4.0,1.0
+notino,hombre,reminiscence,patchouli,eau de toilette,118.0,63.98,42.5,4.1,10.0
+notino,hombre,reminiscence,patchouli blanc,eau de parfum,44.2,0.0,44.2,,
+notino,hombre,reminiscence,patchouli elixir,eau de parfum,102.0,56.67,44.2,5.0,2.0
+notino,hombre,dsquared2,wood pour homme,eau de toilette,35.0,0.0,35.0,,
+notino,hombre,police,gentleman,eau de toilette,14.3,0.0,14.3,,
+notino,hombre,molinard,figue,eau de parfum,70.0,0.0,70.0,,
+notino,hombre,ajmal,musk khas,parfum,23.1,34.2,15.2,5.0,2.0
+notino,hombre,dolce&gabbana,the one for men intense,eau de parfum,126.0,18.89,102.2,4.0,1.0
+notino,hombre,maison margiela,replica coffee break,eau de toilette,61.1,0.0,61.1,,
+notino,hombre,lalique,noir premier illusion captive,eau de parfum,95.6,0.0,95.6,,
+notino,hombre,the library of fragrance,destination collection cuba,eau de cologne,13.6,0.0,13.6,,
+notino,hombre,chopard,gardens of the paradise orange mauresque,eau de parfum,336.0,20.0,268.8,4.5,2.0
+notino,hombre,paco rabanne,1 million parfum,parfum,54.0,0.0,54.0,,
+notino,hombre,the library of fragrance,thunderstorm,eau de cologne,12.8,0.0,12.8,,
+notino,hombre,guerlain,les absolus d'orient oud essentiel,eau de parfum,171.4,8.75,156.4,5.0,1.0
+notino,hombre,guerlain,les absolus d'orient patchouli ardent,eau de parfum,155.0,10.0,139.5,5.0,2.0
+notino,hombre,guerlain,les absolus d'orient musc noble,eau de parfum,219.07,39.29,133.0,5.0,3.0
+notino,hombre,guerlain,les absolus d'orient encens mythique,eau de parfum,141.8,0.0,141.8,,
+notino,hombre,missoni,parfum pour homme,eau de parfum,79.0,58.35,32.9,4.3,11.0
+notino,hombre,tommy hilfiger,impact,eau de toilette,41.8,0.0,41.8,,
+notino,hombre,dsquared2,green wood,eau de toilette,35.0,0.0,35.0,,
+notino,hombre,novellista,velvet dusk,eau de parfum,34.0,0.0,34.0,,
+notino,hombre,novellista,deep moon,eau de parfum,30.6,0.0,30.6,,
+notino,hombre,cuba,original gold,eau de toilette,6.6,28.79,4.7,4.3,10.0
+notino,hombre,parfums de marly,layton exclusif,eau de parfum,235.0,0.0,235.0,,
+notino,hombre,montblanc,legend,eau de parfum,94.5,53.44,44.0,5.0,1.0
+notino,hombre,trussardi,black extreme,eau de toilette,44.4,0.0,44.4,,
+notino,hombre,avon,luck for him,eau de toilette,17.4,0.0,17.4,,
+notino,hombre,bond no. 9,downtown chez bond,eau de parfum,136.9,0.0,136.9,,
+notino,hombre,guerlain,l'homme idéal,eau de toilette,58.5,9.91,52.7,5.0,2.0
+notino,hombre,jimmy choo,man,eau de toilette,87.0,78.97,18.3,5.0,2.0
+notino,hombre,memo,irish leather,eau de parfum,173.3,0.0,173.3,,
+notino,hombre,escentric molecules,escentric 02,eau de toilette,90.0,0.0,90.0,,
+notino,hombre,oriflame,be the legend,eau de toilette,19.1,0.0,19.1,,
+notino,hombre,parfums de marly,godolphin,eau de parfum,190.0,0.0,190.0,,
+notino,hombre,parfums de marly,darley,eau de parfum,220.0,0.0,220.0,,
+notino,hombre,parfums de marly,pegasus,eau de parfum,190.0,0.0,190.0,,
+notino,hombre,parfums de marly,shagya,eau de parfum,220.0,0.0,220.0,,
+notino,hombre,parfums de marly,galloway,eau de parfum,190.0,0.0,190.0,,
+notino,hombre,parfums de marly,habdan,eau de parfum,250.0,0.0,250.0,,
+notino,hombre,houbigant,duc de vervins,eau de toilette,83.4,0.0,83.4,,
+notino,hombre,juliette has a gun,anyway,eau de parfum,95.0,0.0,95.0,,
+notino,hombre,histoires de parfums,noir patchouli,eau de parfum,65.5,0.0,65.5,,
+notino,hombre,histoires de parfums,1828,eau de parfum,69.5,0.0,69.5,,
+notino,hombre,perris monte carlo,musk extreme,eau de parfum,174.2,9.07,158.4,3.5,2.0
+notino,hombre,memo,french leather,eau de parfum,277.5,16.47,231.8,5.0,1.0
+notino,hombre,kenneth cole,mankind,eau de toilette,27.0,0.0,27.0,,
+notino,hombre,etienne aigner,no. 1 oud,eau de parfum,38.8,10.05,34.9,5.0,2.0
+notino,hombre,mexx,ice touch man (2014),eau de toilette,14.5,0.0,14.5,,
+notino,hombre,gucci,guilty pour homme,eau de toilette,49.7,0.0,49.7,,
+notino,hombre,tiziana terenzi,luna orion,parfum,275.0,0.0,275.0,,
+notino,hombre,etro,magot,eau de toilette,112.5,0.0,112.5,,
+notino,hombre,playboy,play it wild,eau de toilette,9.9,20.2,7.9,4.5,2.0
+notino,hombre,abercrombie & fitch,first instinct,eau de toilette,84.0,73.33,22.4,4.3,3.0
+notino,hombre,ajmal,sacrifice for him,eau de parfum,19.3,0.0,19.3,,
+notino,hombre,liz claiborne,lucky you,eau de cologne,20.5,0.0,20.5,,
+notino,hombre,jacques bogart,bogart story red,eau de toilette,28.9,0.0,28.9,,
+notino,hombre,ajmal,shadow for him,eau de parfum,38.8,27.58,28.1,1.0,1.0
+notino,hombre,ajmal,ii pour homme,eau de parfum,34.9,0.0,34.9,,
+notino,hombre,ajmal,ambre pimente,eau de parfum,42.7,28.57,30.5,4.5,2.0
+notino,hombre,clive christian,c for men,eau de parfum,267.0,0.0,267.0,,
+notino,hombre,clive christian,v for men,eau de parfum,235.0,0.0,235.0,,
+notino,hombre,etro,new tradition,eau de toilette,105.8,0.0,105.8,,
+notino,hombre,ajmal,hatkora wood,eau de parfum,79.1,0.0,79.1,,
+notino,hombre,ajmal,rose wood,eau de parfum,130.0,0.0,130.0,,
+notino,hombre,ajmal,cuir musc,eau de parfum,135.8,38.51,83.5,4.0,1.0
+notino,hombre,lacoste,eau de lacoste l.12.12 noir,eau de toilette,29.9,0.0,29.9,,
+notino,hombre,lalique,noir premier terres aromatiques,eau de parfum,270.0,20.0,216.0,5.0,2.0
+notino,hombre,v canto,mirabile,parfum,175.0,0.0,175.0,,
+notino,hombre,hermès,colognes collection eau de néroli doré,eau de cologne,118.0,0.0,118.0,,
+notino,hombre,hermès,colognes collection eau de rhubarbe écarlate,eau de cologne,87.0,0.0,87.0,,
+notino,hombre,v canto,amans,parfum,175.0,0.0,175.0,,
+notino,hombre,v canto,kashimire,parfum,175.0,0.0,175.0,,
+notino,hombre,roja parfums,enigma,parfum,410.3,0.0,410.3,,
+notino,hombre,lattafa,fakhar lattafa men,eau de parfum,36.7,50.14,18.3,4.3,10.0
+notino,hombre,lattafa,ameer al oudh intense oud,eau de parfum,33.7,36.5,21.4,4.3,25.0
+notino,hombre,lattafa,qaed al fursan,eau de parfum,28.0,32.86,18.8,4.4,18.0
+notino,hombre,afnan,supremacy not only intense,parfum,51.4,0.0,51.4,,
+notino,hombre,afnan,turathi blue homme,eau de parfum,37.2,3.23,36.0,4.6,44.0
+notino,hombre,al haramain,amber oud gold edition,eau de parfum,104.22,46.17,56.1,4.9,17.0
+notino,hombre,lattafa,opulent red,eau de parfum,32.8,43.29,18.6,4.7,29.0
+notino,hombre,rasasi,daarej pour homme,eau de parfum,34.8,45.4,19.0,4.3,53.0
+notino,hombre,lattafa,sheikh al shuyukh luxe edition,eau de parfum,27.3,31.14,18.8,4.6,27.0
+notino,hombre,rasasi,shuhrah pour homme,eau de parfum,47.8,46.86,25.4,4.3,129.0
+notino,hombre,rasasi,fattan pour homme,eau de parfum,28.4,45.77,15.4,4.4,30.0
+notino,hombre,lattafa,opulent oud,eau de parfum,28.4,16.9,23.6,4.7,10.0
+notino,hombre,lattafa,maahir black edition,eau de parfum,46.2,40.48,27.5,4.0,4.0
+notino,hombre,lalique,encre noire a l'extreme,eau de parfum,123.0,75.04,30.7,4.4,40.0
+notino,hombre,fragrance du bois,sahraa,parfum,367.1,0.0,367.1,,
+notino,hombre,fragrance du bois,secret tryst,parfum,309.0,0.0,309.0,,
+notino,hombre,unique'e luxury,beril,parfum,291.6,0.0,291.6,,
+notino,hombre,fragrance du bois,cannabis blue,parfum,298.7,0.0,298.7,,
+notino,hombre,fragrance du bois,milano,parfum,215.8,0.0,215.8,,
+notino,hombre,fragrance du bois,solstis,parfum,327.9,0.0,327.9,,
+notino,hombre,fragrance du bois,oud rose intense,parfum,512.5,0.0,512.5,,
+notino,hombre,iceberg,change the flow,eau de toilette,19.4,0.0,19.4,,
+notino,hombre,fragrance du bois,amber intense,parfum,618.2,0.0,618.2,,
+notino,hombre,armani,acqua di giò parfum,parfum,60.0,0.0,60.0,,
+notino,hombre,matiere premiere,cologne cédrat,eau de parfum,222.3,0.0,222.3,,
+notino,hombre,sospiro,afgano puro,eau de parfum,259.0,0.0,259.0,,
+notino,hombre,sospiro,cadenza,eau de parfum,197.7,0.0,197.7,,
+notino,hombre,sospiro,erba pura magica,eau de parfum,193.0,0.0,193.0,,
+notino,hombre,sospiro,liberto,eau de parfum,228.4,0.0,228.4,,
+notino,hombre,ormonde jayne,indus,eau de parfum,132.5,0.0,132.5,,
+notino,hombre,sospiro,accento viola,eau de parfum,272.2,0.0,272.2,,
+notino,hombre,sospiro,tenore,eau de parfum,228.4,0.0,228.4,,
+notino,hombre,sospiro,opera grande,eau de parfum,259.0,0.0,259.0,,
+notino,hombre,sospiro,prima donna,eau de parfum,197.7,0.0,197.7,,
+notino,hombre,sospiro,erba oud,eau de parfum,228.1,0.0,228.1,,
+notino,hombre,eutopie,no. 10,eau de parfum,155.0,0.0,155.0,,
+notino,hombre,eutopie,no. 8,eau de parfum,155.0,0.0,155.0,,
+notino,hombre,eutopie,no. 6,eau de parfum,155.0,0.0,155.0,,
+notino,hombre,eutopie,no. 11,eau de parfum,155.0,0.0,155.0,,
+notino,hombre,eutopie,no. 2,eau de parfum,155.0,0.0,155.0,,
+notino,hombre,eutopie,no. 4,eau de parfum,155.0,0.0,155.0,,
+notino,hombre,eutopie,no. 9,eau de parfum,155.0,0.0,155.0,,
+notino,hombre,dolce&gabbana,k by dolce & gabbana,eau de toilette,109.0,28.99,77.4,4.5,2.0
+notino,hombre,banderas,power of seduction,eau de toilette,13.9,0.0,13.9,,
+notino,hombre,banderas,the secret temptation,eau de toilette,18.6,0.0,18.6,,
+notino,hombre,benetton,colors de benetton man green,eau de toilette,19.2,0.0,19.2,,
+notino,hombre,bois 1920,classic 1920,eau de parfum,106.0,0.0,106.0,,
+notino,hombre,roja parfums,great britain,parfum,1999.8,30.92,1381.5,5.0,1.0
+notino,hombre,creed,aventus cologne,eau de parfum,243.6,0.0,243.6,,
+notino,hombre,calvin klein,eternity for men,eau de parfum,92.0,55.65,40.8,3.0,2.0
+notino,hombre,masaki matsushima,bois d'hinoki,eau de parfum,79.0,20.0,63.2,4.0,1.0
+notino,hombre,benetton,colors de benetton man blue,eau de toilette,17.1,0.0,17.1,,
+notino,hombre,van cleef & arpels,collection extraordinaire rose rouge,eau de parfum,152.5,0.0,152.5,,
+notino,hombre,police,to be tattooart,eau de toilette,13.9,0.0,13.9,,
+notino,hombre,police,to be exotic jungle,eau de toilette,11.9,0.0,11.9,,
+notino,hombre,bois 1920,itruk,eau de parfum,136.3,0.0,136.3,,
+notino,hombre,bois 1920,nagud,eau de parfum,168.3,0.0,168.3,,
+notino,hombre,bois 1920,come il sole,eau de parfum,105.0,0.0,105.0,,
+notino,hombre,just jack,simply blanc,eau de parfum,23.52,30.27,16.4,4.4,18.0
+notino,hombre,diesel,spirit of the brave intense,eau de parfum,50.9,0.0,50.9,,
+notino,hombre,mercedes-benz,the move,eau de toilette,42.9,0.0,42.9,,
+notino,hombre,maison margiela,replica springtime in a park,eau de toilette,65.0,0.0,65.0,,
+notino,hombre,maison margiela,replica sailing day,eau de toilette,30.0,0.0,30.0,,
+notino,hombre,guess,guess man gold,eau de toilette,30.5,0.0,30.5,,
+notino,hombre,salvatore ferragamo,ferragamo,eau de toilette,35.3,0.0,35.3,,
+notino,hombre,ralph lauren,the big pony 1 blue,eau de toilette,27.8,0.0,27.8,,
+notino,hombre,just jack,black tuxedo,eau de parfum,47.0,20.21,37.5,4.5,2.0
+notino,hombre,just jack,mystery,eau de parfum,44.1,29.93,30.9,4.3,3.0
+notino,hombre,str8,faith,eau de toilette,7.8,0.0,7.8,,
+notino,hombre,dermacol,fresh pine & pepper,eau de parfum,30.8,10.06,27.7,5.0,1.0
+notino,hombre,lacoste,match point,eau de toilette,90.5,54.48,41.2,5.0,1.0
+notino,hombre,l’occitane,men,eau de toilette,58.0,0.0,58.0,,
+notino,hombre,calvin klein,eternity for men cologne,eau de toilette,47.2,0.0,47.2,,
+notino,hombre,viktor & rolf,spicebomb night vision,eau de parfum,86.4,0.0,86.4,,
+notino,hombre,atkinsons,iconic 44 gerrard street,eau de cologne,126.5,0.0,126.5,,
+notino,hombre,dior,dior homme,eau de toilette,80.3,0.0,80.3,,
+notino,hombre,loewe,esencia,eau de parfum,110.4,0.0,110.4,,
+notino,hombre,loewe,agua él,eau de toilette,70.4,0.0,70.4,,
+notino,hombre,bulgari,bvlgari man glacial essence,eau de parfum,71.0,0.0,71.0,,
+notino,hombre,loewe,001 man,eau de toilette,83.5,0.0,83.5,,
+notino,hombre,ralph lauren,polo red,eau de parfum,78.9,0.0,78.9,,
+notino,hombre,guerlain,les absolus d'orient cuir intense,eau de parfum,162.9,0.0,162.9,,
+notino,hombre,police,deep blue,eau de toilette,18.9,0.0,18.9,,
+notino,hombre,pino silvestre,acqua di pino fougère,eau de toilette,32.0,41.25,18.8,5.0,1.0
+notino,hombre,pino silvestre,acqua di pino cologne,eau de cologne,32.0,59.38,13.0,1.0,1.0
+notino,hombre,al haramain,platinum oud 50 years,eau de parfum,58.3,0.0,58.3,,
+notino,hombre,mercedes-benz,man bright,eau de parfum,56.7,0.0,56.7,,
+notino,hombre,laura biagiotti,roma uomo green swing,eau de toilette,28.2,0.0,28.2,,
+notino,hombre,tous,1920,eau de parfum,29.2,0.0,29.2,,
+notino,hombre,teatro fragranze,diamante,eau de parfum,124.2,0.0,124.2,,
+notino,hombre,halloween,man rock on,eau de toilette,54.6,56.96,23.5,4.0,2.0
+notino,hombre,bruno banani,loyal man,eau de parfum,10.9,0.0,10.9,,
+notino,hombre,bruno banani,man,eau de parfum,10.9,0.0,10.9,,
+notino,hombre,dunhill,icon racing blue,eau de parfum,44.8,0.0,44.8,,
+notino,hombre,dunhill,icon racing red,eau de parfum,44.8,0.0,44.8,,
+notino,hombre,teatro fragranze,rose oud,eau de parfum,145.0,0.0,145.0,,
+notino,hombre,dsquared2,2 wood,eau de toilette,35.0,0.0,35.0,,
+notino,hombre,david beckham,aromatic greens,eau de parfum,23.6,0.0,23.6,,
+notino,hombre,david beckham,infinite aqua,eau de parfum,20.1,0.0,20.1,,
+notino,hombre,david beckham,refined woods,eau de parfum,20.1,0.0,20.1,,
+notino,hombre,novellista,desert wood,eau de parfum,99.0,0.0,99.0,,
+notino,hombre,novellista,violet charade,eau de parfum,99.0,0.0,99.0,,
+notino,hombre,novellista,saffron whisper,eau de parfum,37.4,0.0,37.4,,
+notino,hombre,culti,geranio imperiale,eau de parfum,90.0,0.0,90.0,,
+notino,hombre,beviro,bohemian spirit,eau de cologne,34.8,0.0,34.8,,
+notino,hombre,al haramain,mukhallath al sultan,eau de parfum,153.2,0.0,153.2,,
+notino,hombre,police,to be born to shine,eau de toilette,9.8,0.0,9.8,,
+notino,hombre,reminiscence,oriental dream,eau de parfum,85.0,0.0,85.0,,
+notino,hombre,captain fawcett,alessandro manfredini,eau de parfum,66.9,0.0,66.9,,
+notino,hombre,captain fawcett,original rufus hound's triumphant,eau de parfum,68.1,0.0,68.1,,
+notino,hombre,captain fawcett,barberism by sid sottung eau de parfum,eau de parfum,68.0,0.0,68.0,,
+notino,hombre,avon,segno impact,eau de parfum,20.2,0.0,20.2,,
+notino,hombre,montblanc,legend red,eau de parfum,31.0,0.0,31.0,,
+notino,hombre,lacoste,red,eau de toilette,34.1,0.0,34.1,,
+notino,hombre,truefitt & hill,apsley,eau de cologne,31.5,0.0,31.5,,
+notino,hombre,xerjoff,nio,parfum,211.5,0.0,211.5,,
+notino,hombre,trussardi,le vie di milano behind the curtain piazza alla scala,eau de parfum,92.9,0.0,92.9,,
+notino,hombre,prada,les infusions: infusion d'ylang,eau de parfum,107.6,0.0,107.6,,
+notino,hombre,calvin klein,eternity for men parfum,parfum,96.0,44.9,52.9,5.0,1.0
+notino,hombre,reebok,cool your body,eau de toilette,13.5,0.0,13.5,,
+notino,hombre,reebok,move your spirit,eau de toilette,13.5,0.0,13.5,,
+notino,hombre,reebok,inspire your mind,eau de toilette,13.5,0.0,13.5,,
+notino,hombre,jenny glow,uisce,eau de parfum,11.5,0.0,11.5,,
+notino,hombre,burberry,hero eau de parfum,eau de parfum,72.5,0.0,72.5,,
+notino,hombre,lacoste,match point cologne,eau de toilette,50.8,0.0,50.8,,
+notino,hombre,mauboussin,pour lui in red,eau de parfum,30.0,0.0,30.0,,
+notino,hombre,afnan,supremacy in oud,eau de parfum,51.2,9.96,46.1,4.3,3.0
+notino,hombre,coach,blue,eau de toilette,42.5,0.0,42.5,,
+notino,hombre,n.c.p. olfactives,101 clementine & violet flower,eau de parfum,17.0,0.0,17.0,,
+notino,hombre,n.c.p. olfactives,704 incense & musk,eau de parfum,31.5,0.0,31.5,,
+notino,hombre,paco rabanne,invictus victory elixir,parfum,60.0,0.0,60.0,,
+notino,hombre,tous,1920,eau de toilette,27.8,0.0,27.8,,
+notino,hombre,jimmy choo,man aqua,eau de toilette,30.0,0.0,30.0,,
+notino,hombre,bruno banani,magic man,eau de toilette,10.1,0.0,10.1,,
+notino,hombre,baldessarini,baldessarini,eau de cologne,41.8,0.0,41.8,,
+notino,hombre,kenzo,aqua kenzo pour homme,eau de toilette,34.3,0.0,34.3,,
+notino,hombre,karl lagerfeld,bois d´ambre,eau de toilette,20.0,0.0,20.0,,
+notino,hombre,montblanc,explorer ultra blue,eau de parfum,29.1,0.0,29.1,,
+notino,hombre,viktor & rolf,spicebomb infrared,eau de toilette,78.3,0.0,78.3,,
+notino,hombre,replay,essential for him,eau de toilette,6.6,0.0,6.6,,
+notino,hombre,xerjoff,don,eau de parfum,225.4,0.0,225.4,,
+notino,hombre,cristiano ronaldo,cr7 origins,eau de toilette,25.6,0.0,25.6,,
+notino,hombre,armani,code,eau de toilette,76.9,0.0,76.9,,
+notino,hombre,ralph lauren,polo green cologne intense,eau de parfum,54.0,0.0,54.0,,
+notino,hombre,halloween,man x,eau de toilette,23.5,7.23,21.8,4.7,3.0
+notino,hombre,salvatore ferragamo,acqua essenziale blu,eau de toilette,86.1,63.41,31.5,4.3,3.0
+notino,hombre,jenny glow,white jasmin & mint,eau de parfum,23.0,26.52,16.9,4.5,2.0
+notino,hombre,gucci,mémoire d'une odeur,eau de parfum,53.2,0.0,53.2,,
+notino,hombre,sean john,i am king,eau de toilette,31.3,0.0,31.3,,
+notino,hombre,the library of fragrance,pistachio ice cream,eau de cologne,17.0,0.0,17.0,,
+notino,hombre,robert piguet,oud delice,eau de parfum,103.9,0.0,103.9,,
+notino,hombre,versace,eros flame,eau de parfum,49.8,0.0,49.8,,
+notino,hombre,bentley,for men intense,eau de parfum,29.5,0.0,29.5,,
+notino,hombre,afnan,turathi blue homme,eau de parfum,36.0,0.0,36.0,,
+notino,hombre,rasasi,fattan pour homme,eau de parfum,15.4,0.0,15.4,,
+notino,hombre,lattafa,opulent red,eau de parfum,18.6,0.0,18.6,,
+notino,mujer,gucci,flora gorgeous gardenia,eau de parfum,49.2,0.0,49.2,,
+notino,mujer,versace,versense,eau de toilette,52.0,5.96,48.9,4.5,31.0
+notino,mujer,versace,bright crystal,eau de toilette,60.0,0.0,60.0,,
+notino,mujer,narciso rodriguez,for her,eau de toilette,113.0,59.73,45.5,4.8,8.0
+notino,mujer,lattafa,ameer al oudh intense oud,eau de parfum,33.7,36.5,21.4,4.3,25.0
+notino,mujer,lattafa,qaed al fursan,eau de parfum,28.0,32.86,18.8,4.4,18.0
+notino,mujer,lattafa,badee al oud oud for glory,eau de parfum,27.7,6.14,26.0,4.4,12.0
+notino,mujer,avon,rare pearls,eau de parfum,23.43,53.48,10.9,4.6,39.0
+notino,mujer,lattafa,sheikh al shuyukh luxe edition,eau de parfum,27.3,31.14,18.8,4.6,27.0
+notino,mujer,lattafa,badee al oud ametyst,eau de parfum,49.5,35.35,32.0,4.2,23.0
+notino,mujer,avon,far away,eau de parfum,17.85,31.65,12.2,4.4,78.0
+notino,mujer,lattafa,malik al tayoor concentrated,eau de parfum,26.5,43.77,14.9,4.2,4.0
+notino,mujer,al haramain,amber oud gold edition,eau de parfum,104.22,46.17,56.1,4.9,17.0
+notino,mujer,jeanne arthes,boum vanille sa pomme d'amour,eau de parfum,9.9,33.33,6.6,4.1,46.0
+notino,mujer,lalique,perles de lalique,eau de parfum,26.6,6.02,25.0,4.4,59.0
+notino,mujer,lattafa,opulent oud,eau de parfum,28.4,16.9,23.6,4.7,10.0
+notino,mujer,lattafa,pride ishq al shuyukh gold,eau de parfum,56.0,0.0,56.0,,
+notino,mujer,swiss arabian,casablanca,eau de parfum,53.7,0.0,53.7,,
+notino,mujer,afnan,musk abiyad,eau de parfum,12.7,0.0,12.7,,
+notino,mujer,burberry,burberry for women,eau de parfum,119.0,71.68,33.7,4.5,32.0
+notino,mujer,jeanne en provence,verveine cédrat,eau de parfum,14.5,17.24,12.0,4.5,21.0
+notino,mujer,lattafa,opulent red,eau de parfum,32.8,43.29,18.6,4.7,29.0
+notino,mujer,elie saab,girl of now shine,eau de parfum,41.0,0.0,41.0,,
+notino,mujer,burberry,london for women,eau de parfum,119.0,81.93,21.5,4.5,36.0
+notino,mujer,burberry,weekend for women,eau de parfum,119.0,81.51,22.0,4.3,15.0
+notino,mujer,carolina herrera,good girl légère,eau de parfum,115.8,63.99,41.7,4.6,7.0
+notino,mujer,burberry,brit for her,eau de parfum,128.0,74.22,33.0,4.6,17.0
+notino,mujer,carolina herrera,good girl,eau de parfum,18.3,0.0,18.3,,
+notino,mujer,afnan,supremacy in oud,eau de parfum,51.2,9.96,46.1,4.3,3.0
+notino,mujer,burberry,touch for women,eau de parfum,119.0,74.03,30.9,4.5,6.0
+notino,mujer,burberry,her elixir de parfum,eau de parfum,56.5,0.0,56.5,,
+notino,mujer,carolina herrera,very good girl glam,eau de parfum,20.8,0.0,20.8,,
+notino,mujer,burberry,my burberry black,eau de parfum,149.0,64.83,52.4,4.7,7.0
+notino,mujer,montblanc,signature,eau de parfum,95.5,67.54,31.0,4.5,11.0
+notino,mujer,mugler,alien,eau de parfum,115.0,78.7,24.5,4.8,8.0
+notino,mujer,armaf,club de nuit women,eau de parfum,60.4,48.18,31.3,4.4,7.0
+notino,mujer,avon,today tomorrow always today,eau de parfum,19.26,67.81,6.2,4.5,37.0
+notino,mujer,elie saab,girl of now forever,eau de parfum,21.5,0.0,21.5,,
+notino,mujer,just jack,tobacco leaf,eau de parfum,27.49,58.17,11.5,4.7,22.0
+notino,mujer,lattafa,maahir black edition,eau de parfum,46.2,40.48,27.5,4.0,4.0
+notino,mujer,jeanne arthes,boum do brasil,eau de parfum,9.9,37.37,6.2,4.8,5.0
+notino,mujer,afnan,supremacy incense,eau de parfum,37.2,9.95,33.5,4.0,5.0
+notino,mujer,jeanne arthes,lover in dark,eau de parfum,10.5,44.76,5.8,4.3,3.0
+notino,mujer,avon,little black dress new design,eau de parfum,11.2,25.89,8.3,5.0,1.0
+notino,mujer,lattafa,thameen candy rose,eau de parfum,29.4,32.31,19.9,5.0,1.0
+notino,mujer,elizabeth taylor,diamonds and rubies,eau de toilette,72.0,81.53,13.3,4.7,7.0
+notino,mujer,avon,rare gold,eau de parfum,13.3,6.02,12.5,4.4,22.0
+notino,mujer,prêt à porter,prêt à porter,eau de toilette,8.42,54.87,3.8,5.0,1.0
+notino,mujer,lattafa,maahir,eau de parfum,47.6,37.18,29.9,4.7,3.0
+notino,mujer,lattafa,azeezah,eau de parfum,27.2,43.75,15.3,5.0,3.0
+notino,mujer,armaf,club de nuit white imperiale,eau de parfum,60.0,0.0,60.0,,
+notino,mujer,chopard,wish,eau de parfum,14.5,0.0,14.5,,
+notino,mujer,avon,passion dance,eau de toilette,7.7,0.0,7.7,,
+notino,mujer,lalique,l'amour,eau de parfum,134.0,81.19,25.2,4.5,10.0
+notino,mujer,afnan,souvenir floral bouquet,eau de parfum,41.9,10.02,37.7,5.0,2.0
+notino,mujer,afnan,souvenir desert rose,eau de parfum,41.9,5.01,39.8,4.8,4.0
+notino,mujer,lattafa,khaltaat al arabia royal blends,eau de parfum,30.9,25.57,23.0,5.0,1.0
+notino,mujer,lattafa,ramz silver,eau de parfum,26.5,35.47,17.1,4.1,9.0
+notino,mujer,lattafa,mohra silky rose,eau de parfum,30.9,4.21,29.6,5.0,3.0
+notino,mujer,cerruti,1881 pour femme,eau de toilette,37.0,43.78,20.8,4.8,46.0
+notino,mujer,paloma picasso,paloma picasso mon,eau de parfum,41.9,29.59,29.5,5.0,10.0
+notino,mujer,jeanne arthes,sultane,eau de parfum,12.9,44.96,7.1,3.9,16.0
+notino,mujer,jeanne arthes,boum candy land,eau de parfum,9.9,28.28,7.1,3.4,10.0
+notino,mujer,al haramain,rawaa,eau de parfum,38.5,44.68,21.3,3.7,7.0
+notino,mujer,chopard,happy bigaradia,eau de parfum,70.0,59.71,28.2,5.0,1.0
+notino,mujer,jeanne arthes,amore mio gold n' roses,eau de parfum,12.9,43.41,7.3,4.6,5.0
+notino,mujer,lattafa,qaa'ed,eau de parfum,34.5,13.91,29.7,3.0,1.0
+notino,mujer,lattafa,mazaaji,eau de parfum,26.3,15.21,22.3,3.9,10.0
+notino,mujer,adidas,natural vitality,eau de toilette,8.4,8.33,7.7,5.0,3.0
+notino,mujer,al haramain,l'aventure femme,eau de parfum,65.0,67.38,21.2,3.8,4.0
+notino,mujer,cuba,la vida,eau de parfum,12.9,57.36,5.5,5.0,3.0
+notino,mujer,dkny,original women limited edition,eau de parfum,31.0,0.0,31.0,,
+notino,mujer,lattafa,oud lail maleki,eau de parfum,28.4,34.86,18.5,5.0,5.0
+notino,mujer,jeanne arthes,la ronde des fleurs rose de grasse,eau de parfum,8.9,44.94,4.9,5.0,1.0
+notino,mujer,swiss arabian,shawq,eau de parfum,19.3,0.0,19.3,,
+notino,mujer,just jack,noir endurance,eau de parfum,13.3,0.0,13.3,,
+notino,mujer,avon,today tomorrow always tomorrow,eau de parfum,20.36,27.31,14.8,5.0,5.0
+notino,mujer,afnan,pure musk,eau de parfum,22.0,0.0,22.0,,
+notino,mujer,jeanne arthes,tea time á paris macaron amande,eau de parfum,15.9,0.0,15.9,,
+notino,mujer,lattafa,safwaan l'autre musk,eau de parfum,25.7,0.0,25.7,,
+notino,mujer,paris hilton,paris hilton,eau de parfum,50.5,64.75,17.8,5.0,1.0
+notino,mujer,grès,cabotine de grès,eau de toilette,59.0,81.86,10.7,4.6,8.0
+notino,mujer,gabriela sabatini,gabriela sabatini,eau de toilette,18.9,38.1,11.7,4.8,19.0
+notino,mujer,al haramain,amira gold,eau de parfum,20.5,21.95,16.0,4.1,23.0
+notino,mujer,revlon,ciara 100% strenght,eau de cologne,9.6,6.25,9.0,4.2,11.0
+notino,mujer,rasasi,oudh al boruzz asrar indonesia,eau de parfum,169.6,0.0,169.6,,
+notino,mujer,swiss arabian,edge,eau de parfum,31.7,0.0,31.7,,
+notino,mujer,cuba,tattoo,eau de parfum,13.29,55.61,5.9,4.5,2.0
+notino,mujer,swiss arabian,shaghaf oud aswad,eau de parfum,37.2,0.0,37.2,,
+notino,mujer,tesori d'oriente,persian dream,eau de parfum,14.19,39.39,8.6,5.0,1.0
+notino,mujer,afnan,inara black,eau de parfum,18.6,10.22,16.7,5.0,1.0
+notino,mujer,al haramain,belle,eau de parfum,30.3,31.02,20.9,2.0,1.0
+notino,mujer,al haramain,qamar,parfum,26.5,35.47,17.1,4.2,12.0
+notino,mujer,al haramain,affection,eau de parfum,31.6,40.51,18.8,5.0,1.0
+notino,mujer,perfumer’s workshop,tea rose,eau de toilette,12.3,5.69,11.6,4.3,30.0
+notino,mujer,jean-louis scherrer,one love,eau de parfum,37.6,54.79,17.0,5.0,2.0
+notino,mujer,elizabeth arden,green tea nectarine blossom,eau de toilette,31.0,51.61,15.0,5.0,2.0
+notino,mujer,jeanne en provence,un matin dans la roseraie,eau de parfum,14.5,20.0,11.6,2.5,2.0
+notino,mujer,calvin klein,ck one gold,eau de toilette,23.5,11.91,20.7,5.0,1.0
+notino,mujer,cuba,night,eau de parfum,6.8,0.0,6.8,,
+notino,mujer,rochas,mademoiselle rochas,eau de parfum,98.0,70.41,29.0,5.0,9.0
+notino,mujer,swiss arabian,shaghaf oud abyad,eau de parfum,37.2,0.0,37.2,,
+notino,mujer,rasasi,fattan pour femme,eau de parfum,28.4,46.83,15.1,4.2,5.0
+notino,mujer,jeanne arthes,la ronde des fleurs musc ambré,eau de parfum,8.9,10.11,8.0,4.0,1.0
+notino,mujer,grès,cabochard (2019),eau de parfum,69.0,52.9,32.5,4.6,8.0
+notino,mujer,just jack,patchouli,eau de parfum,24.15,25.05,18.1,2.7,3.0
+notino,mujer,armaf,bucephalus no. x,eau de parfum,79.0,46.96,41.9,5.0,1.0
+notino,mujer,ajmal,hayba,eau de parfum,43.01,49.08,21.9,4.7,6.0
+notino,mujer,the library of fragrance,laundromat,eau de cologne,15.6,0.0,15.6,,
+notino,mujer,oriflame,amber elixir mystery,eau de parfum,29.3,11.6,25.9,5.0,5.0
+notino,mujer,avon,rare onyx,eau de parfum,14.7,0.0,14.7,,
+notino,mujer,asdaaf,kasoof white,eau de parfum,21.4,0.0,21.4,,
+notino,mujer,elizabeth arden,green tea,eau de parfum,31.0,62.58,11.6,3.5,11.0
+notino,mujer,elizabeth arden,red door,eau de toilette,89.0,68.65,27.9,4.9,12.0
+notino,mujer,jennifer lopez,miami glow by jlo,eau de toilette,39.93,30.63,27.7,5.0,3.0
+notino,mujer,kenzo,jungle l'éléphant,eau de parfum,90.2,32.93,60.5,4.5,43.0
+notino,mujer,guerlain,champs-élysées,eau de parfum,131.3,19.19,106.1,5.0,2.0
+notino,mujer,armand basi,in red,eau de toilette,37.8,23.54,28.9,4.3,3.0
+notino,mujer,sarah jessica parker,covet,eau de parfum,33.9,0.0,33.9,,
+notino,mujer,shiseido,zen,eau de parfum,130.0,63.0,48.1,4.4,10.0
+notino,mujer,cacharel,lou lou,eau de parfum,45.0,27.78,32.5,4.4,18.0
+notino,mujer,marc jacobs,daisy,eau de toilette,103.0,62.04,39.1,4.5,4.0
+notino,mujer,grès,cabotine de grès,eau de parfum,62.0,60.32,24.6,4.0,20.0
+notino,mujer,chloé,chloé,eau de parfum,130.0,82.0,23.4,4.9,10.0
+notino,mujer,rochas,eau de rochas fraîche,eau de toilette,79.0,60.0,31.6,4.2,4.0
+notino,mujer,elizabeth arden,green tea summer,eau de toilette,10.9,0.0,10.9,,
+notino,mujer,elizabeth arden,green tea lotus,eau de toilette,31.0,62.58,11.6,5.0,3.0
+notino,mujer,adidas,pure lightness,eau de toilette,10.4,27.88,7.5,5.0,1.0
+notino,mujer,calvin klein,sheer beauty,eau de toilette,20.1,6.47,18.8,5.0,1.0
+notino,mujer,rochas,tocade,eau de toilette,34.7,6.05,32.6,4.8,6.0
+notino,mujer,angel schlesser,essential,eau de parfum,45.5,23.96,34.6,5.0,2.0
+notino,mujer,boucheron,boucheron,eau de parfum,108.0,57.87,45.5,4.7,11.0
+notino,mujer,afnan,supremacy in oud,eau de parfum,51.2,9.96,46.1,4.5,2.0
+notino,mujer,lattafa,sondos,eau de parfum,34.7,16.71,28.9,5.0,1.0
+notino,mujer,afnan,ornament pour femme,eau de parfum,31.9,0.0,31.9,,
+notino,mujer,lattafa,khaltaat al arabia royal delight,eau de parfum,18.9,0.0,18.9,,
+notino,mujer,lattafa,oud najdia,eau de parfum,25.3,0.0,25.3,,
+notino,mujer,aurora,mon amour,eau de parfum,31.1,0.0,31.1,,
+notino,mujer,dolce&gabbana,devotion,eau de parfum,78.0,0.0,78.0,,
+notino,mujer,dkny,be delicious,eau de parfum,109.1,69.39,33.4,4.6,56.0
+notino,mujer,hugo boss,hugo deep red,eau de parfum,100.0,67.3,32.7,4.8,12.0
+notino,mujer,halloween,halloween,eau de toilette,78.1,84.38,12.2,4.9,9.0
+notino,mujer,jil sander,sport for women,eau de toilette,72.0,70.97,20.9,4.4,5.0
+notino,mujer,kenzo,le monde est beau,eau de toilette,60.1,0.0,60.1,,
+notino,mujer,laura biagiotti,roma for her,eau de toilette,55.9,47.76,29.2,4.0,2.0
+notino,mujer,lanvin,éclat d'arpège,eau de parfum,90.5,75.69,22.0,4.9,30.0
+notino,mujer,montblanc,presence d’une femme,eau de toilette,88.0,45.57,47.9,4.5,10.0
+notino,mujer,salvador dali,laguna,eau de toilette,39.0,55.38,17.4,4.8,10.0
+notino,mujer,elizabeth arden,true love,eau de toilette,45.5,72.97,12.3,4.2,4.0
+notino,mujer,paul smith,rose,eau de parfum,45.0,25.56,33.5,4.3,7.0
+notino,mujer,rochas,eau de rochas,eau de toilette,79.0,60.76,31.0,2.5,2.0
+notino,mujer,lanvin,jeanne lanvin,eau de parfum,86.0,69.07,26.6,3.7,3.0
+notino,mujer,joop!,le bain,eau de parfum,27.5,24.0,20.9,3.6,9.0
+notino,mujer,christian audigier,ed hardy for women,eau de parfum,25.9,0.0,25.9,,
+notino,mujer,mugler,alien,eau de parfum,116.0,40.95,68.5,4.9,13.0
+notino,mujer,marc jacobs,daisy love eau so sweet,eau de toilette,114.0,64.91,40.0,4.0,1.0
+notino,mujer,versace,yellow diamond,eau de toilette,50.4,0.0,50.4,,
+notino,mujer,ajmal,wisal,eau de parfum,37.9,31.66,25.9,4.5,4.0
+notino,mujer,dkny,original women energizing,eau de parfum,109.1,67.64,35.3,4.8,16.0
+notino,mujer,guerlain,les colognes eau de cologne impériale,eau de cologne,70.0,0.0,70.0,,
+notino,mujer,guess,seductive i'm yours,eau de toilette,24.4,0.0,24.4,,
+notino,mujer,ajmal,sacrifice for her,eau de parfum,32.03,18.51,26.1,5.0,3.0
+notino,mujer,guerlain,mitsouko,eau de parfum,125.0,26.8,91.5,3.7,3.0
+notino,mujer,hermès,un jardin sur le nil,eau de toilette,70.0,0.0,70.0,,
+notino,mujer,paul smith,woman,eau de parfum,33.9,0.0,33.9,,
+notino,mujer,tom ford,black orchid,eau de parfum,135.0,75.33,33.3,5.0,1.0
+notino,mujer,guerlain,la petite robe noire,eau de parfum,153.0,70.2,45.6,4.6,5.0
+notino,mujer,rasasi,maa arwaak for her,eau de parfum,24.5,41.22,14.4,3.0,2.0
+notino,mujer,rasasi,dhan al oudh al nokhba,eau de parfum,54.4,42.65,31.2,5.0,2.0
+notino,mujer,rasasi,oudh al abiyad,eau de parfum,28.6,42.66,16.4,5.0,1.0
+notino,mujer,revlon,charlie blue,eau de toilette,7.5,9.33,6.8,4.4,8.0
+notino,mujer,revlon,charlie gold eau fraiche,eau de toilette,8.72,23.17,6.7,5.0,2.0
+notino,mujer,jovan,musk,eau de cologne,19.09,28.76,13.6,5.0,4.0
+notino,mujer,angel schlesser,femme,eau de toilette,44.9,6.01,42.2,4.5,13.0
+notino,mujer,robert piguet,petit fracas,eau de parfum,146.0,10.0,131.4,5.0,1.0
+notino,mujer,roberto cavalli,nero assoluto,eau de parfum,104.0,53.65,48.2,5.0,2.0
+notino,mujer,cuba,jungle snake,eau de parfum,6.9,0.0,6.9,,
+notino,mujer,versace,bright crystal absolu,eau de parfum,52.8,0.0,52.8,,
+notino,mujer,perry ellis,360° pink,eau de parfum,34.9,11.17,31.0,5.0,2.0
+notino,mujer,yves saint laurent,yvresse,eau de toilette,120.0,13.58,103.7,4.5,11.0
+notino,mujer,elizabeth arden,green tea lavender,eau de toilette,31.0,62.58,11.6,5.0,3.0
+notino,mujer,katy perry,royal revolution,eau de parfum,33.9,33.92,22.4,4.3,9.0
+notino,mujer,hugo boss,boss ma vie,eau de parfum,121.0,73.39,32.2,4.2,4.0
+notino,mujer,yves saint laurent,in love again,eau de toilette,120.0,24.17,91.0,5.0,3.0
+notino,mujer,avon,luck for her,eau de parfum,19.4,7.22,18.0,4.4,5.0
+notino,mujer,escentric molecules,molecule 02,eau de toilette,140.0,0.0,140.0,,
+notino,mujer,al haramain,shefon,eau de parfum,27.0,43.33,15.3,5.0,4.0
+notino,mujer,montana,parfum de peau,eau de toilette,49.3,30.63,34.2,3.7,3.0
+notino,mujer,histoires de parfums,ambre 114,eau de parfum,159.65,35.23,103.4,5.0,2.0
+notino,mujer,perris monte carlo,rose de taif,eau de parfum,166.7,52.43,79.3,5.0,4.0
+notino,mujer,etat libre d’orange,la fin du monde,eau de parfum,163.3,35.46,105.4,4.0,2.0
+notino,mujer,etat libre d’orange,like this,eau de parfum,137.5,50.4,68.2,5.0,1.0
+notino,mujer,guerlain,shalimar souffle de parfum,eau de parfum,181.0,36.35,115.2,5.0,2.0
+notino,mujer,clinique,aromatics in white,eau de parfum,121.0,48.51,62.3,5.0,1.0
+notino,mujer,hugo boss,hugo woman,eau de parfum,39.9,6.02,37.5,4.5,2.0
+notino,mujer,ellen tracy,tracy,eau de parfum,11.4,6.14,10.7,4.2,10.0
+notino,mujer,al haramain,night dreams,eau de parfum,31.03,45.54,16.9,3.5,4.0
+notino,mujer,hei poa,tropical orchid,eau de toilette,20.6,0.0,20.6,,
+notino,mujer,atkinsons,iconic gold fair in mayfair,eau de parfum,152.3,0.0,152.3,,
+notino,mujer,mauboussin,une histoire de femme sensuelle,eau de parfum,70.0,57.14,30.0,4.5,2.0
+notino,mujer,pani walewska,classic,eau de parfum,10.0,14.0,8.6,3.5,2.0
+notino,mujer,avon,petit attitude bee,eau de toilette,12.4,8.06,11.4,4.0,1.0
+notino,mujer,avon,today tomorrow always this love,eau de parfum,18.5,0.0,18.5,,
+notino,mujer,armani,my way intense,eau de parfum,79.4,0.0,79.4,,
+notino,mujer,cacharel,yes i am collector,eau de parfum,49.0,0.0,49.0,,
+notino,mujer,givenchy,l’interdit rouge,eau de parfum,137.0,40.51,81.5,5.0,2.0
+notino,mujer,jimmy choo,i want choo,eau de parfum,42.8,0.0,42.8,,
+notino,mujer,karl lagerfeld,tokyo shibuya,eau de parfum,54.0,62.96,20.0,4.5,2.0
+notino,mujer,ermanno scervino,tuscan emotion,eau de parfum,29.5,0.0,29.5,,
+notino,mujer,missguided,babe vibes,eau de parfum,25.2,0.0,25.2,,
+notino,mujer,tous,floral touch,eau de toilette,43.9,0.0,43.9,,
+notino,mujer,clinique,my happy. lily of the beach,eau de parfum,20.4,0.0,20.4,,
+notino,mujer,elizabeth arden,5th avenue nyc vibe,eau de parfum,42.0,60.71,16.5,4.0,2.0
+notino,mujer,novellista,vanilla club,eau de parfum,30.6,0.0,30.6,,
+notino,mujer,pink sugar,berry blast,eau de toilette,42.0,55.24,18.8,5.0,1.0
+notino,mujer,pink sugar,creamy sunshine,eau de toilette,15.3,0.0,15.3,,
+notino,mujer,gucci,flora gorgeous jasmine,eau de parfum,25.5,0.0,25.5,,
+notino,mujer,boucheron,quatre iconic,eau de parfum,100.0,66.3,33.7,4.0,4.0
+notino,mujer,ajmal,shadow noir,eau de parfum,38.0,0.0,38.0,,
+notino,mujer,oriflame,oh! sweet dulce de leche,eau de toilette,19.8,6.06,18.6,5.0,1.0
+notino,mujer,miraculum,magic vibes star dust,eau de parfum,17.0,0.0,17.0,,
+notino,mujer,lattafa,pride blue sapphire,eau de parfum,56.0,0.0,56.0,,
+notino,mujer,bourjois,mon bourjois la formidable,eau de parfum,14.1,0.0,14.1,,
+notino,mujer,rihanna,reb´l fleur love always,eau de parfum,46.6,40.99,27.5,5.0,1.0
+notino,mujer,bruno banani,dangerous woman,eau de parfum,15.0,0.0,15.0,,
+notino,mujer,maison margiela,replica beach walk,eau de toilette,99.0,0.0,99.0,,
+notino,mujer,ormonde jayne,ormonde woman,eau de parfum,122.0,0.0,122.0,,
+notino,mujer,revolution,fragrance revolutionary noir,eau de toilette,5.2,0.0,5.2,,
+notino,mujer,angel schlesser,instinctive marine,eau de toilette,29.5,0.0,29.5,,
+notino,mujer,l’occitane,rose,eau de toilette,60.0,0.0,60.0,,
+notino,mujer,gloria vanderbilt,n°1,eau de toilette,5.4,0.0,5.4,,
+notino,mujer,lattafa,thameen so poudree,eau de parfum,30.4,9.87,27.4,5.0,1.0
+notino,mujer,al haramain,signature red,eau de parfum,19.8,0.0,19.8,,
+notino,mujer,al haramain,farasha,eau de parfum,19.8,0.0,19.8,,
+notino,mujer,zadig & voltaire,this is her! undressed,eau de parfum,43.5,0.0,43.5,,
+notino,mujer,nina ricci,nina nature,eau de toilette,48.0,0.0,48.0,,
+notino,mujer,jeanne arthes,balade á paris promenade a montmartre,eau de parfum,15.9,0.0,15.9,,
+notino,mujer,jeanne arthes,tea time á paris pavlova,eau de parfum,15.9,0.0,15.9,,
+notino,mujer,karl lagerfeld,fleur de pivoine,eau de parfum,27.5,0.0,27.5,,
+notino,mujer,oriflame,so fever ecstatic,eau de parfum,16.7,0.0,16.7,,
+notino,mujer,asdaaf,pure white,eau de parfum,16.5,0.0,16.5,,
+notino,mujer,azha perfumes,amal,eau de parfum,22.4,0.0,22.4,,
+notino,mujer,christina aguilera,cherry noir,eau de parfum,14.9,0.0,14.9,,
+notino,mujer,lancôme,idôle now,eau de parfum,63.5,0.0,63.5,,
+notino,mujer,avon,luck eau so happy,eau de parfum,15.0,0.0,15.0,,
+notino,mujer,jean paul gaultier,gaultier divine,eau de parfum,50.0,0.0,50.0,,
+notino,mujer,aurora,sailor gold,eau de parfum,64.3,0.0,64.3,,
+notino,mujer,calvin klein,my euphoria,eau de parfum,25.0,0.0,25.0,,
+notino,mujer,ajmal,vibe,eau de parfum,23.0,0.0,23.0,,
+notino,mujer,emanuel ungaro,intense,eau de parfum,18.4,0.0,18.4,,
+notino,mujer,luxury concept,secret of oud,eau de parfum,30.4,0.0,30.4,,
+notino,mujer,profumum roma,sabbia bianca,eau de parfum,278.6,0.0,278.6,,
+notino,mujer,kayali,sweet diamond pink pepper 25,eau de parfum,141.5,0.0,141.5,,
+notino,mujer,mexx,black & gold limited edition,eau de toilette,13.4,0.0,13.4,,
+notino,mujer,alfred sung,shi,eau de parfum,31.83,29.31,22.5,5.0,1.0
+notino,mujer,bulgari,eau parfumée au thé blanc,eau de cologne,116.0,37.07,73.0,5.0,7.0
+notino,mujer,bulgari,eau parfumée au thé vert,eau de cologne,116.0,37.93,72.0,5.0,1.0
+notino,mujer,cacharel,amor amor,eau de toilette,96.0,66.15,32.5,4.4,5.0
+notino,mujer,cacharel,noa,eau de toilette,32.1,0.0,32.1,,
+notino,mujer,clinique,happy™,eau de parfum,31.9,5.96,30.0,4.9,13.0
+notino,mujer,chanel,allure,eau de parfum,193.66,47.28,102.1,5.0,4.0
+notino,mujer,chanel,allure,eau de toilette,122.5,0.0,122.5,,
+notino,mujer,chanel,coco,eau de parfum,219.6,53.96,101.1,5.0,2.0
+notino,mujer,chanel,coco,eau de toilette,121.9,8.53,111.5,5.0,1.0
+notino,mujer,chanel,coco mademoiselle,eau de parfum,240.8,45.06,132.3,4.4,5.0
+notino,mujer,chanel,coco mademoiselle,eau de toilette,201.37,44.33,112.1,5.0,1.0
+notino,mujer,chanel,n°5,eau de toilette,186.5,24.77,140.3,5.0,1.0
+notino,mujer,dior,dolce vita,eau de toilette,122.5,0.0,122.5,,
+notino,mujer,dior,hypnotic poison,eau de toilette,67.0,0.0,67.0,,
+notino,mujer,dior,j'adore,eau de parfum,73.2,0.0,73.2,,
+notino,mujer,dior,poison,eau de toilette,63.7,0.0,63.7,,
+notino,mujer,dior,pure poison,eau de parfum,75.1,0.0,75.1,,
+notino,mujer,iceberg,effusion woman,eau de toilette,22.0,5.91,20.7,4.0,1.0
+notino,mujer,issey miyake,l'eau d'issey,eau de toilette,121.0,67.27,39.6,4.4,16.0
+notino,mujer,jennifer lopez,still,eau de parfum,41.5,0.0,41.5,,
+notino,mujer,jean paul gaultier,classique,eau de toilette,40.9,0.0,40.9,,
+notino,mujer,kenzo,flower by kenzo,eau de parfum,136.0,79.63,27.7,4.7,27.0
+notino,mujer,lancôme,miracle,eau de parfum,130.0,66.62,43.4,4.9,23.0
+notino,mujer,montblanc,femme individuelle,eau de toilette,88.0,45.57,47.9,4.8,6.0
+notino,mujer,moschino,i love love,eau de toilette,85.0,62.94,31.5,4.6,15.0
+notino,mujer,nina ricci,l'air du temps,eau de toilette,121.7,64.67,43.0,5.0,1.0
+notino,mujer,paco rabanne,ultraviolet,eau de parfum,110.4,28.62,78.8,4.8,6.0
+notino,mujer,salvador dali,eau de ruby lips,eau de toilette,39.0,58.46,16.2,1.0,1.0
+notino,mujer,s.t. dupont,essence pure pour femme,eau de toilette,66.0,0.0,66.0,,
+notino,mujer,givenchy,ange ou démon le secret,eau de parfum,149.0,63.09,55.0,5.0,3.0
+notino,mujer,christian audigier,ed hardy love & luck woman,eau de parfum,30.5,9.84,27.5,3.0,1.0
+notino,mujer,chanel,chance eau tendre,eau de toilette,161.0,0.0,161.0,,
+notino,mujer,estée lauder,knowing,eau de parfum,133.0,23.68,101.5,4.8,11.0
+notino,mujer,hermès,voyage d'hermès,eau de toilette,95.0,0.0,95.0,,
+notino,mujer,salvador dali,dalissime,eau de toilette,39.0,56.92,16.8,4.7,9.0
+notino,mujer,kenneth cole,reaction,eau de parfum,36.5,0.0,36.5,,
+notino,mujer,armani,acqua di gioia,eau de parfum,126.0,66.11,42.7,4.4,8.0
+notino,mujer,dior,escale à portofino,eau de toilette,90.1,0.0,90.1,,
+notino,mujer,calvin klein,obsession,eau de parfum,29.5,30.17,20.6,3.9,7.0
+notino,mujer,britney spears,circus fantasy,eau de parfum,32.0,21.56,25.1,4.0,2.0
+notino,mujer,paco rabanne,lady million,eau de parfum,45.0,0.0,45.0,,
+notino,mujer,joop!,all about eve,eau de parfum,35.0,4.29,33.5,5.0,1.0
+notino,mujer,givenchy,ange ou démon ange ou démon,eau de parfum,149.0,58.39,62.0,4.8,4.0
+notino,mujer,marc jacobs,daisy eau so fresh,eau de toilette,116.0,63.88,41.9,4.7,6.0
+notino,mujer,salvador dali,dalilight,eau de toilette,15.8,0.0,15.8,,
+notino,mujer,dior,eau fraiche,eau de toilette,128.0,0.0,128.0,,
+notino,mujer,avon,summer white,eau de toilette,10.8,44.44,6.0,5.0,1.0
+notino,mujer,diesel,loverdose,eau de parfum,36.1,0.0,36.1,,
+notino,mujer,yves saint laurent,opium,eau de parfum,115.0,13.48,99.5,4.0,4.0
+notino,mujer,clinique,aromatics elixir™ eau de toilette,eau de toilette,49.3,0.0,49.3,,
+notino,mujer,lancôme,trésor midnight rose,eau de parfum,111.4,56.82,48.1,5.0,4.0
+notino,mujer,chanel,n°5,parfum,111.6,0.0,111.6,,
+notino,mujer,prada,candy,eau de parfum,105.0,31.71,71.7,5.0,1.0
+notino,mujer,lanvin,arpége pour femme,eau de parfum,111.0,59.1,45.4,4.6,14.0
+notino,mujer,jimmy choo,for women,eau de parfum,110.0,35.45,71.0,4.5,8.0
+notino,mujer,prada,amber,eau de parfum,140.0,8.0,128.8,5.0,2.0
+notino,mujer,loewe,agua,eau de toilette,76.6,0.0,76.6,,
+notino,mujer,dkny,golden delicious,eau de parfum,116.1,55.9,51.2,5.0,1.0
+notino,mujer,tous,sensual touch,eau de toilette,98.4,50.0,49.2,4.5,2.0
+notino,mujer,trussardi,donna,eau de parfum,106.0,71.32,30.4,4.7,6.0
+notino,mujer,ajmal,aurum,eau de parfum,51.2,0.0,51.2,,
+notino,mujer,salvatore ferragamo,signorina,eau de parfum,85.1,50.76,41.9,3.5,2.0
+notino,mujer,ralph lauren,ralph,eau de toilette,35.0,5.71,33.0,5.0,1.0
+notino,mujer,elizabeth arden,sunflowers,eau de toilette,17.0,48.24,8.8,4.4,11.0
+notino,mujer,comptoir sud pacifique,vanille abricot,eau de toilette,95.6,67.89,30.7,4.7,3.0
+notino,mujer,loewe,agua ella,eau de toilette,80.7,0.0,80.7,,
+notino,mujer,yves saint laurent,paris,eau de parfum,110.0,10.64,98.3,4.5,4.0
+notino,mujer,masaki matsushima,shiro,eau de parfum,49.0,20.0,39.2,5.0,1.0
+notino,mujer,goutal,petite chérie,eau de parfum,190.0,10.0,171.0,5.0,1.0
+notino,mujer,rasasi,attar al mohabba female,eau de parfum,53.9,43.78,30.3,4.0,2.0
+notino,mujer,al haramain,attar al kaaba,parfum,81.2,61.45,31.3,3.5,2.0
+notino,mujer,christina aguilera,red sin,eau de parfum,11.9,0.0,11.9,,
+notino,mujer,chanel,coco noir,eau de parfum,112.7,0.0,112.7,,
+notino,mujer,hermès,un jardin sur le toit,eau de toilette,70.0,0.0,70.0,,
+notino,mujer,issey miyake,pleats please,eau de toilette,70.0,0.0,70.0,,
+notino,mujer,jennifer lopez,love at first glow,eau de toilette,24.9,24.5,18.8,5.0,2.0
+notino,mujer,naomi campbell,naomi campbell,eau de parfum,37.91,50.15,18.9,5.0,2.0
+notino,mujer,jean patou,chaldee,eau de parfum,123.3,0.0,123.3,,
+notino,mujer,etienne aigner,debut by night,eau de parfum,36.9,0.0,36.9,,
+notino,mujer,van cleef & arpels,collection extraordinaire moonlight patchouli,eau de parfum,152.5,0.0,152.5,,
+notino,mujer,parfums de marly,athalia,eau de parfum,245.0,0.0,245.0,,
+notino,mujer,floris,cefiro,eau de toilette,72.7,0.0,72.7,,
+notino,mujer,floris,white rose,eau de toilette,73.2,0.0,73.2,,
+notino,mujer,prada,la femme,eau de parfum,155.0,53.74,71.7,5.0,1.0
+notino,mujer,guerlain,les colognes eau de guerlain,eau de cologne,74.6,0.0,74.6,,
+notino,mujer,tom tailor,liquid woman,eau de toilette,14.7,0.0,14.7,,
+notino,mujer,jimmy choo,illicit flower,eau de toilette,25.3,0.0,25.3,,
+notino,mujer,versace,eros pour femme,eau de toilette,57.5,0.0,57.5,,
+notino,mujer,atkinsons,british heritage the big bad cedar,eau de parfum,180.0,22.72,139.1,5.0,1.0
+notino,mujer,bulgari,rose goldea eau de parfum,eau de parfum,60.0,0.0,60.0,,
+notino,mujer,dior,miss dior absolutely blooming,eau de parfum,78.0,0.0,78.0,,
+notino,mujer,dermacol,sweet jasmine & patchouli,eau de parfum,25.2,0.0,25.2,,
+notino,mujer,dermacol,magnolia & passion fruit,eau de parfum,22.1,0.0,22.1,,
+notino,mujer,banderas,queen of seduction,eau de toilette,25.4,0.0,25.4,,
+notino,mujer,yves saint laurent,mon paris,eau de parfum,150.0,74.67,38.0,5.0,8.0
+notino,mujer,juliette has a gun,white spirit,eau de parfum,220.0,0.0,220.0,,
+notino,mujer,comptoir sud pacifique,aqua motu,eau de toilette,33.9,0.0,33.9,,
+notino,mujer,bond no. 9,madison avenue,eau de parfum,239.2,0.0,239.2,,
+notino,mujer,gucci,bamboo,eau de toilette,42.7,0.0,42.7,,
+notino,mujer,the different company,osmanthus,eau de toilette,113.3,0.0,113.3,,
+notino,mujer,bond no. 9,uptown new york patchouli,eau de parfum,460.6,0.0,460.6,,
+notino,mujer,trussardi,donna pink marina,eau de toilette,27.9,0.0,27.9,,
+notino,mujer,guess,1981 indigo,eau de toilette,61.0,50.0,30.5,4.0,1.0
+notino,mujer,nina ricci,nina rose,eau de toilette,36.0,0.0,36.0,,
+notino,mujer,armani,my way,eau de parfum,147.0,53.81,67.9,5.0,1.0
+notino,mujer,carolina herrera,good girl suprême,eau de parfum,53.0,0.0,53.0,,
+notino,mujer,estée lauder,beautiful belle,eau de parfum,77.0,0.0,77.0,,
+notino,mujer,oriflame,joyce turquoise,eau de toilette,11.4,0.0,11.4,,
+notino,mujer,atkinsons,iconic 44 gerrard street,eau de cologne,126.5,0.0,126.5,,
+notino,mujer,bulgari,rose goldea blossom delight eau de parfum,eau de parfum,148.0,22.3,115.0,5.0,1.0
+notino,mujer,loewe,aura pink magnolia,eau de parfum,138.6,46.1,74.7,3.0,2.0
+notino,mujer,loewe,001 woman,eau de toilette,112.8,0.0,112.8,,
+notino,mujer,bois 1920,vento di fiori,eau de parfum,132.0,0.0,132.0,,
+notino,mujer,reminiscence,rem coco,eau de toilette,64.6,0.0,64.6,,
+notino,mujer,lancôme,idôle l'intense,eau de parfum,68.8,0.0,68.8,,
+notino,mujer,yves saint laurent,libre intense,eau de parfum,165.0,55.88,72.8,5.0,2.0
+notino,mujer,guerlain,les absolus d'orient cuir intense,eau de parfum,162.9,0.0,162.9,,
+notino,mujer,givenchy,irresistible,eau de parfum,55.6,0.0,55.6,,
+notino,mujer,givenchy,l’interdit intense,eau de parfum,85.5,0.0,85.5,,
+notino,mujer,kenzo,flower by kenzo poppy bouquet,eau de parfum,48.0,0.0,48.0,,
+notino,mujer,dior,hypnotic poison roller-pearl,eau de toilette,44.9,0.0,44.9,,
+notino,mujer,dior,j'adore roller-pearl,eau de parfum,51.3,0.0,51.3,,
+notino,mujer,dior,miss dior rose n'roses,eau de toilette,65.4,0.0,65.4,,
+notino,mujer,dior,miss dior roller-pearl,eau de toilette,46.0,0.0,46.0,,
+notino,mujer,hugo boss,boss alive,eau de toilette,50.5,0.0,50.5,,
+notino,mujer,shiseido,ginza,eau de parfum,41.5,0.0,41.5,,
+notino,mujer,lancôme,la vie est belle soleil cristal,eau de parfum,130.0,32.23,88.1,5.0,1.0
+notino,mujer,loewe,aire fantasía,eau de toilette,81.5,0.0,81.5,,
+notino,mujer,guerlain,mon guerlain sparkling bouquet,eau de parfum,73.5,0.0,73.5,,
+notino,mujer,bond no. 9,gold coast,eau de parfum,234.0,0.0,234.0,,
+notino,mujer,oriflame,lost in you,eau de parfum,26.7,0.0,26.7,,
+notino,mujer,guerlain,chamade,eau de toilette,104.1,0.0,104.1,,
+notino,mujer,bulgari,splendida bvlgari patchouli tentation,eau de parfum,126.0,17.46,104.0,1.0,1.0
+notino,mujer,korloff,korlove,eau de parfum,52.0,0.0,52.0,,
+notino,mujer,reminiscence,tonka,eau de toilette,86.0,15.0,73.1,5.0,1.0
+notino,mujer,issey miyake,a drop d'issey,eau de parfum,67.9,0.0,67.9,,
+notino,mujer,paco rabanne,lady million fabulous,eau de parfum,45.7,0.0,45.7,,
+notino,mujer,dior,j'adore infinissime roller-pearl,eau de parfum,54.4,0.0,54.4,,
+notino,mujer,estée lauder,beautiful magnolia,eau de parfum,148.0,51.01,72.5,5.0,1.0
+notino,mujer,the library of fragrance,tomato,eau de cologne,17.1,0.0,17.1,,
+notino,mujer,armani,terra di gioia,eau de parfum,82.4,0.0,82.4,,
+notino,mujer,the library of fragrance,suntan lotion,eau de cologne,17.0,0.0,17.0,,
+notino,mujer,maison margiela,replica matcha meditation,eau de toilette,129.0,0.0,129.0,,
+notino,mujer,yves saint laurent,libre,eau de toilette,62.8,0.0,62.8,,
+notino,mujer,victoria's secret,eau so party,eau de parfum,51.0,0.0,51.0,,
+notino,mujer,jeanne arthes,sweet sixteen coral,eau de parfum,6.8,0.0,6.8,,
+notino,mujer,kenzo,flower by kenzo,eau de toilette,44.0,0.0,44.0,,
+notino,mujer,parfums de marly,delina la rosée,eau de parfum,140.0,0.0,140.0,,

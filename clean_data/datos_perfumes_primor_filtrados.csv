@@ -1,0 +1,1274 @@
+tienda,categoria,marca,nombre,tipo,precio_sin_desc,descuento,precio_con_desc,valoracion,num_valoraciones
+primor,hombre,hugo boss,boss bottled ,eau de toilette,81.7,56.0,35.95,4.81,212.0
+primor,hombre,davidoff, hombre,eau de toilette,74.0,74.0,19.24,4.71,118.0
+primor,hombre,armani,giorgio armani perfume hombre acqua di gio homme ,eau de toilette,85.0,54.0,39.1,4.93,98.0
+primor,hombre,calvin klein,ck in2u for him ,eau de toilette,76.0,76.0,18.24,4.7,94.0
+primor,hombre,carolina herrera,212 men ,eau de toilette,74.5,49.0,37.99,4.89,66.0
+primor,hombre,yves saint laurent,yves saint laurent y  perfume de hombre,eau de parfum,98.0,50.0,49.0,4.93,88.0
+primor,hombre,hugo boss,hugo man ,eau de toilette,75.9,54.0,34.91,4.55,31.0
+primor,hombre,paco rabanne,invictus ,eau de toilette,79.0,38.0,48.98,4.9,115.0
+primor,hombre,carolina herrera,ch for men ,eau de toilette,78.0,53.0,36.66,4.9,41.0
+primor,hombre,hugo boss,the scent ,eau de toilette,88.7,56.0,39.03,4.91,32.0
+primor,hombre,jean paul gaultier,le male ,eau de toilette,61.5,51.0,30.14,4.79,92.0
+primor,hombre,paco rabanne,one million ,eau de toilette,80.5,38.0,49.91,4.84,83.0
+primor,hombre,nike,gold edition man ,eau de toilette,2.75,9.0,2.5,4.25,4.0
+primor,hombre,yves saint laurent,ysl myslf eau de  recargable,eau de parfum,92.0,40.0,55.2,5.0,1.0
+primor,hombre,carolina herrera,212 vip men ,eau de toilette,74.5,49.0,37.99,4.83,41.0
+primor,hombre,nike,nike man indigo ,eau de toilette,2.75,0.0,2.75,4.8,5.0
+primor,hombre,hugo boss,boss bottled eau de ,eau de parfum,89.9,56.0,39.56,4.75,16.0
+primor,hombre,carolina herrera,212 vip black ,eau de parfum,78.0,44.0,43.68,4.93,27.0
+primor,hombre,the seven cosmetics,agua de  con prebióticos,eau de cologne,1.99,0.0,1.99,4.75,4.0
+primor,hombre,nikos,sculpture ,eau de toilette,65.9,74.0,17.13,4.5,36.0
+primor,hombre,jean paul gaultier,ultra male ,eau de toilette,65.0,53.0,30.55,4.71,31.0
+primor,hombre,diesel,only the brave ,eau de toilette,52.0,46.0,28.08,4.84,57.0
+primor,hombre,armani,armani code le  ,eau de parfum,125.0,52.0,60.0,4.86,7.0
+primor,hombre,dior,sauvage ,eau de toilette,76.0,0.0,76.0,4.64,36.0
+primor,hombre,paco rabanne,one million ,parfum,87.0,38.0,53.94,4.47,15.0
+primor,hombre,adolfo dominguez,bambú ,eau de toilette,31.5,54.0,14.49,4.93,28.0
+primor,hombre,jean paul gaultier,le beau ,eau de parfum,123.0,39.0,75.03,4.92,12.0
+primor,hombre,calvin klein,eternity  for men de calvin klein,eau de toilette,72.6,63.0,26.86,4.82,77.0
+primor,hombre,ralph lauren,polo sport ,eau de toilette,70.1,64.0,25.24,4.82,17.0
+primor,hombre,armani,giorgio armani code ,eau de toilette,89.0,44.0,49.84,4.85,71.0
+primor,hombre,jean paul gaultier,le male le  ,eau de parfum,87.5,33.0,58.62,4.75,12.0
+primor,hombre,yves saint laurent,la nuit de l'homme ,eau de toilette,115.0,49.0,58.65,4.74,23.0
+primor,hombre,diesel,fuel for life ,eau de toilette,69.0,68.0,22.08,4.62,13.0
+primor,hombre,versace,blue jeans ,eau de toilette,45.1,63.0,16.69,4.88,40.0
+primor,hombre,yves saint laurent,yves saint laurent perfume hombre  l'homme ,eau de toilette,90.0,49.0,45.9,4.79,47.0
+primor,hombre,jaguar,classic black ,eau de toilette,80.0,82.0,14.4,4.4,20.0
+primor,hombre,dior,sauvage eau de ,eau de parfum,104.0,0.0,104.0,4.79,33.0
+primor,hombre,jean paul gaultier,le male elixir eau de ,eau de parfum,96.0,34.0,63.36,0.0,0.0
+primor,hombre,armani,acqua di giò ,parfum,115.0,43.0,65.55,4.67,3.0
+primor,hombre,paco rabanne,invictus victory eau de  extrême,eau de parfum,89.0,37.0,56.07,4.69,13.0
+primor,hombre,dior,sauvage ,parfum,119.0,0.0,119.0,4.89,19.0
+primor,hombre,ralph lauren,ralph lauren perfume hombre polo blue ,eau de toilette,110.0,55.0,49.5,4.92,37.0
+primor,hombre,tabac,tabac ,eau de cologne,40.0,70.0,12.0,4.53,40.0
+primor,hombre,hugo boss,boss bottled ,parfum,103.4,54.0,47.56,5.0,2.0
+primor,hombre,paco rabanne,pure xs ,eau de toilette,77.5,50.0,38.75,4.78,18.0
+primor,hombre,jean paul gaultier,le beau ,eau de toilette,81.5,39.0,49.72,4.83,24.0
+primor,hombre,paco rabanne,ultraviolet man ,eau de toilette,95.0,56.0,41.8,4.63,16.0
+primor,hombre,don algodón, para hombre,eau de cologne,14.95,0.0,14.95,4.88,34.0
+primor,hombre,aramis,aramis ,eau de toilette,97.0,72.0,27.16,5.0,1.0
+primor,hombre,antonio banderas,the golden secret ,eau de toilette,22.95,22.0,17.9,5.0,6.0
+primor,hombre,calvin klein,eternity for men ,eau de parfum,79.8,61.0,31.12,4.72,18.0
+primor,hombre,scalpers,the club ,eau de parfum,59.0,51.0,28.91,4.25,12.0
+primor,hombre,antonio banderas,blue seduction ,eau de toilette,22.95,22.0,17.9,4.33,3.0
+primor,hombre,gucci,guilty pour homme ,eau de toilette,83.5,55.0,37.57,5.0,15.0
+primor,hombre,valentino,uomo born in roma  perfume de hombre,eau de toilette,82.0,49.0,41.82,4.84,56.0
+primor,hombre,sentio,interfeer men ,eau de toilette,1.0,0.0,1.0,4.0,1.0
+primor,hombre,paco rabanne,one million elixir perfume de hombre intense ,parfum,98.5,38.0,61.07,5.0,6.0
+primor,hombre,azzaro,azzaro pour homme ,eau de toilette,80.0,55.0,36.0,4.79,14.0
+primor,hombre,adolfo dominguez,agua fresca citrus cedro ,eau de toilette,36.5,55.0,16.42,4.63,16.0
+primor,hombre,yves saint laurent,kouros ,eau de toilette,82.0,42.0,47.56,4.92,13.0
+primor,hombre,benetton,colors man black ,eau de toilette,12.95,0.0,12.95,4.6,5.0
+primor,hombre,real madrid,neceser real madrid ,eau de toilette,16.99,30.0,11.89,4.8,5.0
+primor,hombre,valentino,uomo born in roma coral fantasy ,eau de toilette,82.0,51.0,40.18,5.0,5.0
+primor,hombre,moschino,toy boy ,eau de parfum,85.0,40.0,51.0,4.7,20.0
+primor,hombre,givenchy,gentleman reserve privée eau de ,eau de parfum,91.5,41.0,53.99,5.0,5.0
+primor,hombre,nike,indigo man ,eau de toilette,9.5,0.0,9.5,4.8,5.0
+primor,hombre,nenuco, spray,eau de cologne,3.95,0.0,3.95,4.69,16.0
+primor,hombre,4711,4711  original tamaño viaje,eau de cologne,9.0,67.0,2.97,4.58,19.0
+primor,hombre,yves saint laurent,y le  perfume de hombre,parfum,110.0,50.0,55.0,4.86,7.0
+primor,hombre,mont blanc,legend ,eau de toilette,71.0,50.0,35.5,4.8,15.0
+primor,hombre,legrain,royale ambree ,eau de cologne,8.99,5.0,8.54,4.75,12.0
+primor,hombre,givenchy,gentleman ,eau de parfum,91.5,40.0,54.9,5.0,5.0
+primor,hombre,paco rabanne,black xs ,eau de toilette,67.5,41.0,39.83,4.68,31.0
+primor,hombre,dolce & gabbana,k by dolce & gabbana eau de ,eau de parfum,90.0,45.0,49.5,4.89,18.0
+primor,hombre,ralph lauren,polo blue eau de ,eau de parfum,92.0,52.0,44.16,4.83,18.0
+primor,hombre,gucci,guilty eau de  pour homme,eau de parfum,94.4,55.0,42.48,0.0,0.0
+primor,hombre,sentio,confirmation eau de ,eau de parfum,1.0,0.0,1.0,0.0,0.0
+primor,hombre,mont blanc,explorer ,eau de parfum,106.0,49.0,54.06,4.83,24.0
+primor,hombre,carolina herrera,bad boy ,eau de toilette,79.5,33.0,53.26,4.95,19.0
+primor,hombre,calvin klein,eternity intense for men ,parfum,83.7,53.0,39.34,4.67,3.0
+primor,hombre,jaguar,classic blue ,eau de toilette,80.0,82.0,14.4,3.0,1.0
+primor,hombre,kenzo,homme  intense,eau de toilette,56.0,45.0,30.8,4.42,12.0
+primor,hombre,adolfo dominguez,agua fresca ,eau de toilette,36.5,40.0,21.9,4.79,34.0
+primor,hombre,calvin klein,everyone ,eau de toilette,76.0,61.0,29.64,5.0,14.0
+primor,hombre,dolce & gabbana,light blue men ,eau de toilette,86.0,42.0,49.88,4.9,21.0
+primor,hombre,prada,l'homme ,eau de toilette,90.0,47.0,47.7,4.86,7.0
+primor,hombre,boucheron,pour homme ,eau de parfum,121.0,73.0,32.67,4.0,4.0
+primor,hombre,ralph lauren,ralph's club ,eau de parfum,95.0,58.0,39.9,5.0,2.0
+primor,hombre,azzaro,azzaro sport ,eau de toilette,51.14,57.0,21.99,5.0,1.0
+primor,hombre,puig,agua brava ,eau de cologne,26.0,38.0,16.12,4.76,21.0
+primor,hombre,clinique,happy for men ,eau de toilette,71.0,0.0,71.0,5.0,4.0
+primor,hombre,antonio banderas,the secret temptation ,eau de toilette,16.95,18.0,13.9,4.78,9.0
+primor,hombre,benetton,colors man blue ,eau de toilette,14.95,13.0,13.01,4.57,7.0
+primor,hombre,mont blanc,legend eau de ,eau de parfum,104.0,50.0,52.0,5.0,8.0
+primor,hombre,saphir,perfect man pour homme ,eau de parfum,12.9,0.0,12.9,4.88,16.0
+primor,hombre,versace,eros eau de ,eau de parfum,92.0,40.0,55.2,4.91,11.0
+primor,hombre,spagnolo,agua fresca ,eau de toilette,4.99,20.0,3.99,5.0,1.0
+primor,hombre,calvin klein,escape for men ,eau de toilette,73.65,59.0,30.2,5.0,1.0
+primor,hombre,issey miyake,l'eau d'issey pour homme ,eau de toilette,77.0,35.0,50.05,4.67,45.0
+primor,hombre,prada,l'homme intense ,eau de parfum,130.0,46.0,70.2,5.0,6.0
+primor,hombre,loewe,7 cobalt ,eau de parfum,95.0,35.0,61.75,4.57,7.0
+primor,hombre,tous,baby tous ,eau de cologne,59.5,50.0,29.75,5.0,4.0
+primor,hombre,calvin klein,everyone ,eau de parfum,83.0,60.0,33.2,4.75,4.0
+primor,hombre,paco rabanne,one million royal eau de  perfume masculino,eau de parfum,92.5,37.0,58.28,4.0,1.0
+primor,hombre,bvlgari,aqua marine ,eau de toilette,99.0,35.0,64.35,4.0,4.0
+primor,hombre,disney,spiderman ultimate  fresca,eau de cologne,5.95,17.0,4.94,4.67,6.0
+primor,hombre,paco rabanne,phantom ,eau de toilette,80.0,35.0,52.0,4.79,24.0
+primor,hombre,dior,fahrenheit ,eau de toilette,90.0,0.0,90.0,4.53,15.0
+primor,hombre,carolina herrera,bad boy le ,parfum,87.5,37.0,55.12,5.0,2.0
+primor,hombre,paco rabanne,phantom ,parfum,90.0,34.0,59.4,0.0,0.0
+primor,hombre,hugo boss,hugo jeans ,eau de toilette,80.0,58.0,33.6,,
+primor,hombre,yves saint laurent,ysl l'homme le ,parfum,100.0,50.0,50.0,5.0,3.0
+primor,hombre,carolina herrera,ch pasion eau de  para hombre,eau de parfum,111.5,53.0,52.4,5.0,1.0
+primor,hombre,halloween,halloween man x ,eau de toilette,53.0,52.0,25.44,3.6,5.0
+primor,hombre,yves saint laurent,yves saint laurent l'homme intense  perfume para hombre,eau de parfum,125.0,48.0,65.0,5.0,1.0
+primor,hombre,halloween,halloween man ,eau de toilette,53.0,61.0,20.67,5.0,6.0
+primor,hombre,ralph lauren,polo blue ,parfum,95.0,54.0,43.7,0.0,0.0
+primor,hombre,versace,eros para hombre ,eau de toilette,83.0,40.0,49.8,4.84,37.0
+primor,hombre,cerruti,1881 ,eau de toilette,85.0,73.0,22.95,5.0,1.0
+primor,hombre,prada,luna rossa ocean eau de ,eau de parfum,95.0,51.0,46.55,5.0,1.0
+primor,hombre,diesel,only the brave tatto ,eau de toilette,98.0,55.0,44.1,5.0,6.0
+primor,hombre,carolina herrera,herrera men ,eau de toilette,95.5,53.0,44.88,4.45,11.0
+primor,hombre,alejandro sanz,mi acorde men ,eau de toilette,12.95,38.0,8.03,5.0,3.0
+primor,hombre,saphir,armonia black pour homme ,eau de parfum,12.9,0.0,12.9,5.0,2.0
+primor,hombre,tom ford,noir extreme ,eau de parfum,135.0,0.0,135.0,5.0,1.0
+primor,hombre,ralph lauren,polo blue ,parfum,130.0,54.0,59.8,,
+primor,hombre,calvin klein,ck defy ,eau de toilette,75.0,54.0,34.5,4.86,7.0
+primor,hombre,tous,baby tous ,eau de cologne,56.5,47.0,29.94,4.95,20.0
+primor,hombre,dior,dior sauvage elixir ,parfum,175.0,0.0,175.0,5.0,5.0
+primor,hombre,saphir,ancora  de saphir pour homme ,eau de parfum,12.9,0.0,12.9,5.0,2.0
+primor,hombre,jean paul gaultier,scandal pour homme ,eau de toilette,83.0,34.0,54.78,4.75,8.0
+primor,hombre,mont blanc,legend spirit ,eau de toilette,71.0,51.0,34.79,5.0,6.0
+primor,hombre,versace,dylan blue pour homme ,eau de toilette,83.0,43.0,47.31,4.85,13.0
+primor,hombre,bvlgari,man in black ,eau de parfum,100.0,34.0,66.0,4.09,11.0
+primor,hombre,jean paul gaultier,scandal le  pour homme,parfum,85.5,36.0,54.72,5.0,2.0
+primor,hombre,armani,acqua di gio homme  recargable,eau de parfum,115.0,46.0,62.1,5.0,3.0
+primor,hombre,disney, mickey mouse,eau de cologne,4.95,0.0,4.95,3.0,2.0
+primor,hombre,hermes,terre d'hermes ,eau de toilette,87.0,30.0,60.9,4.81,21.0
+primor,hombre,naturel art cosmetics,inv 502 eau de  para él,eau de parfum,1.99,0.0,1.99,0.0,0.0
+primor,hombre,boucheron,pour homme ,eau de toilette,121.0,74.0,31.46,5.0,1.0
+primor,hombre,rochas,rochas man ,eau de toilette,63.0,59.0,25.83,4.91,22.0
+primor,hombre,real madrid,real madrid ,eau de toilette,7.95,0.0,7.95,3.0,2.0
+primor,hombre,bvlgari,man wood essence ,eau de parfum,100.0,34.0,66.0,5.0,1.0
+primor,hombre,naturel art cosmetics,botle 507 eau de  para él,eau de parfum,1.99,0.0,1.99,0.0,0.0
+primor,hombre,paco rabanne,invictus platinum eau de ,eau de parfum,87.0,37.0,54.81,5.0,3.0
+primor,hombre,saphir,tierra de saphir pour homme ,eau de parfum,12.9,0.0,12.9,4.75,4.0
+primor,hombre,pepe jeans,for him ,eau de toilette,42.95,30.0,30.06,4.5,2.0
+primor,hombre,quorum,quorum ,eau de toilette,59.0,80.0,11.8,4.2,10.0
+primor,hombre,saphir,spectrum  men,eau de parfum,12.9,0.0,12.9,4.0,1.0
+primor,hombre,sentio,involved ,eau de toilette,1.0,0.0,1.0,5.0,1.0
+primor,hombre,dolce & gabbana,light blue eau intense pour homme ,eau de parfum,76.0,44.0,42.56,4.83,6.0
+primor,hombre,mont blanc,legend red eau de ,eau de parfum,72.0,48.0,37.44,5.0,2.0
+primor,hombre,antonio banderas,the secret ,eau de toilette,16.95,12.0,14.92,3.0,2.0
+primor,hombre,bvlgari,aqva pour homme ,eau de toilette,80.0,34.0,52.8,5.0,3.0
+primor,hombre,benetton,colors man green ,eau de toilette,14.95,13.0,13.01,45.0,2.0
+primor,hombre,pacha,clandestine ,eau de toilette,7.95,13.0,6.92,45.0,2.0
+primor,hombre,givenchy,gentleman ,eau de toilette,80.5,40.0,48.3,5.0,1.0
+primor,hombre,regalos,paw patrol ,eau de cologne,4.95,0.0,4.95,4.33,3.0
+primor,hombre,zadig & voltaire,this is us ,eau de toilette,60.0,35.0,39.0,5.0,3.0
+primor,hombre,saphir,boxes dinamic pour homme ,eau de parfum,12.9,0.0,12.9,5.0,5.0
+primor,hombre,adolfo dominguez,bambu agua man ,eau de toilette,31.5,50.0,15.75,4.67,9.0
+primor,hombre,yves saint laurent,yves saint laurent y  perfume de hombre,eau de toilette,90.0,50.0,45.0,5.0,3.0
+primor,hombre,givenchy,pi ,eau de toilette,107.0,48.0,55.64,4.14,7.0
+primor,hombre,hermes,eau de citron noir ,eau de cologne,118.0,38.0,73.16,5.0,3.0
+primor,hombre,diesel,d by diesel ,eau de toilette,45.0,45.0,24.75,5.0,3.0
+primor,hombre,police,to be exotic jungle for man ,eau de toilette,35.0,53.0,16.45,5.0,3.0
+primor,hombre,kenzo,kenzo homme  marine,eau de toilette,74.5,46.0,40.23,5.0,1.0
+primor,hombre,adolfo dominguez,vetiver terra ,eau de parfum,59.5,41.0,35.11,4.0,1.0
+primor,hombre,saphir,oceanyc man ,eau de parfum,12.9,0.0,12.9,5.0,2.0
+primor,hombre,prada,luna rossa ocean ,eau de toilette,85.0,47.0,45.05,5.0,7.0
+primor,hombre,yves saint laurent,y eau de  intense perfume de hombre,eau de parfum,105.0,51.0,51.45,0.0,0.0
+primor,hombre,diesel,sound of the brave ,eau de toilette,79.0,56.0,34.76,5.0,3.0
+primor,hombre,saphir,california  de saphir pour homme ,eau de parfum,12.9,0.0,12.9,5.0,3.0
+primor,hombre,paco rabanne,phantom  rellenable,eau de toilette,128.5,34.0,84.81,3.0,2.0
+primor,hombre,dsquared2,green wood ,eau de toilette,78.0,49.0,39.78,5.0,1.0
+primor,hombre,mont blanc,explorer platinum ,eau de parfum,74.0,46.0,39.96,5.0,2.0
+primor,hombre,disney,minnie mouse  fresca,eau de cologne,4.95,0.0,4.95,5.0,1.0
+primor,hombre,prada,luna rossa carbon ,eau de toilette,85.0,47.0,45.05,4.62,13.0
+primor,hombre,loewe,esencia eau de ,eau de parfum,110.0,35.0,71.5,4.11,9.0
+primor,hombre,antonio banderas,king of seduction ,eau de toilette,22.95,33.0,15.38,4.75,4.0
+primor,hombre,givenchy,gentleman society eau de ,eau de parfum,95.7,48.0,49.76,0.0,0.0
+primor,hombre,hermes,terre d'hermes eau intense vetiver eau de ,eau de parfum,98.0,31.0,67.62,3.0,2.0
+primor,hombre,narciso rodriguez,bleu noir  for him,parfum,93.0,35.0,60.45,5.0,2.0
+primor,hombre,naturel art cosmetics,510 pha eau de  para él,eau de parfum,1.99,0.0,1.99,0.0,0.0
+primor,hombre,tom ford,black orchid ,eau de toilette,110.0,0.0,110.0,0.0,0.0
+primor,hombre,lolita lempicka,lempicka homme ,eau de toilette,91.0,60.0,36.4,4.75,8.0
+primor,hombre,loewe,loewe 001 man ,eau de parfum,89.0,35.0,57.85,5.0,2.0
+primor,hombre,dior,dior homme ,eau de toilette,90.0,0.0,90.0,4.83,6.0
+primor,hombre,dior,dior homme sport ,eau de toilette,96.0,0.0,96.0,5.0,1.0
+primor,hombre,antonio banderas,the icon ,eau de toilette,17.95,0.0,17.95,3.0,2.0
+primor,hombre,ungaro,emanuel ungaro intense for him ,eau de parfum,58.0,69.0,17.98,4.0,2.0
+primor,hombre,valentino,valentino uomo intense ,eau de parfum,94.0,47.0,49.82,5.0,6.0
+primor,hombre,alejandro sanz,mi acorde eres tú  hombre,eau de toilette,14.95,40.0,8.97,0.0,0.0
+primor,hombre,antonio banderas,the secret ,eau de toilette,16.95,12.0,14.92,5.0,1.0
+primor,hombre,cartier,déclaration ,eau de toilette,82.0,0.0,82.0,4.43,7.0
+primor,hombre,mont blanc,legend red ,eau de parfum,103.0,42.0,59.74,0.0,0.0
+primor,hombre,prada,l'homme l'eau ,eau de toilette,90.0,49.0,45.9,4.86,7.0
+primor,hombre,tom ford,costa azzurra ,parfum,230.0,0.0,230.0,5.0,2.0
+primor,hombre,ralph lauren,polo red eau de ,eau de parfum,85.0,51.0,41.65,4.0,1.0
+primor,hombre,herbíssimo,agua de  té verde,eau de cologne,12.95,23.0,9.97,5.0,1.0
+primor,hombre,tom ford,noir extreme ,parfum,165.0,0.0,165.0,5.0,2.0
+primor,hombre,tom ford,ombre leather ,parfum,165.0,0.0,165.0,4.71,7.0
+primor,hombre,disney, ana y elsa frozen,eau de cologne,4.95,0.0,4.95,4.67,6.0
+primor,hombre,ungaro,emanuel ungaro for his ,eau de toilette,58.0,67.0,19.14,45.0,2.0
+primor,hombre,dior,eau sauvage ,eau de toilette,90.0,0.0,90.0,5.0,2.0
+primor,hombre,joop!,homme ,eau de toilette,71.1,68.0,22.75,4.63,35.0
+primor,hombre,antonio banderas,the icon eau de ,eau de parfum,33.25,40.0,19.95,0.0,0.0
+primor,hombre,victorio & lucchino,limited edition selva enigmática ,eau de toilette,12.95,0.0,12.95,45.0,2.0
+primor,hombre,loewe,esencia elixir eau de ,eau de parfum,140.0,35.0,91.0,0.0,0.0
+primor,hombre,carolina herrera,212 heroes ,eau de toilette,78.0,32.0,53.04,5.0,7.0
+primor,hombre,hermes,terre d'hermes ,eau de parfum,149.0,30.0,104.3,5.0,6.0
+primor,hombre,angel schlesser,les eaux d'un instant vibrant sandalwood ,eau de toilette,53.0,54.0,24.38,5.0,1.0
+primor,hombre,loewe,7 anónimo ,eau de parfum,95.0,35.0,61.75,4.92,13.0
+primor,hombre,mandarina duck,vida loca for him  natural,eau de toilette,28.0,44.0,15.68,4.0,1.0
+primor,hombre,laura biagiotti,roma per uomo ,eau de toilette,69.0,56.0,30.36,5.0,4.0
+primor,hombre,valentino,valentino uomo ,eau de toilette,82.0,43.0,46.74,4.83,6.0
+primor,hombre,disney, minnie mouse,eau de cologne,7.95,0.0,7.95,5.0,4.0
+primor,hombre,zadig & voltaire,this is him ,eau de toilette,58.0,35.0,37.7,4.63,8.0
+primor,hombre,loewe,loewe earth eau de ,eau de parfum,92.0,35.0,59.8,0.0,0.0
+primor,hombre,guerlain,l'instant de guerlain pour homme ,eau de toilette,121.41,42.0,70.42,,
+primor,hombre,carolina herrera,bad boy extreme ,eau de parfum,87.5,37.0,55.12,4.0,1.0
+primor,hombre,calvin klein,eternity men summer ,eau de toilette,89.0,61.0,34.71,4.0,1.0
+primor,hombre,fc barcelona,neceser f.c.barcelona ,eau de toilette,16.99,30.0,11.89,4.6,5.0
+primor,hombre,loewe,solo loewe ,eau de toilette,96.0,35.0,62.4,4.84,31.0
+primor,hombre,police,to be bad guy ,eau de toilette,35.0,61.0,13.65,3.0,2.0
+primor,hombre,jimmy choo,man ,eau de toilette,101.0,60.0,40.4,4.0,3.0
+primor,hombre,valentino,born in roma yellow dream uomo ,eau de toilette,82.0,51.0,40.18,5.0,2.0
+primor,hombre,quorum,quorum  pack,eau de toilette,13.95,0.0,13.95,4.4,20.0
+primor,hombre,bvlgari,bulgari man glacial essence ,eau de parfum,100.0,34.0,66.0,5.0,3.0
+primor,hombre,tous,1920 the origin ,eau de parfum,79.5,57.0,34.18,5.0,1.0
+primor,hombre,armani,armani code le   recarga,eau de parfum,145.0,50.0,72.5,0.0,0.0
+primor,hombre,saphir,acqua uomo pour homme ,eau de parfum,12.9,0.0,12.9,5.0,5.0
+primor,hombre,springfield,springfield ,eau de toilette,12.95,0.0,12.95,4.71,7.0
+primor,hombre,loewe,solo loewe mercurio ,eau de parfum,105.0,35.0,68.25,5.0,2.0
+primor,hombre,loewe,agua él ,eau de toilette,71.0,35.0,46.15,4.86,7.0
+primor,hombre,hermes,h24 recarga de ,eau de toilette,160.0,29.0,113.6,5.0,1.0
+primor,hombre,dsquared2,wood pour homme ,eau de toilette,99.0,52.0,47.52,4.67,3.0
+primor,hombre,pacha,psicodelic ,eau de toilette,6.7,0.0,6.7,45.0,2.0
+primor,hombre,pacha,psicodelic ,eau de toilette,6.7,0.0,6.7,3.0,2.0
+primor,hombre,naturel art cosmetics,svg 505 eau de  para él,eau de parfum,1.99,0.0,1.99,,
+primor,hombre,tommy hilfiger,impact ,eau de toilette,63.0,45.0,34.65,4.75,4.0
+primor,hombre,givenchy,gentleman intense ,eau de toilette,84.5,43.0,48.17,5.0,3.0
+primor,hombre,viktor & rolf,spicebomb night vision ,eau de toilette,80.0,40.0,48.0,3.67,3.0
+primor,hombre,adolfo dominguez,ébano salvia ,eau de parfum,59.5,41.0,35.11,5.0,1.0
+primor,hombre,trussardi,uomo ,eau de toilette,77.0,56.0,33.88,5.0,1.0
+primor,hombre,bvlgari,pour homme ,eau de toilette,117.0,35.0,76.05,3.33,3.0
+primor,hombre,dior,fahrenheit ,parfum,136.0,0.0,136.0,4.5,4.0
+primor,hombre,halloween,man hero ,eau de toilette,73.0,52.0,35.04,4.67,3.0
+primor,hombre,police,police born to shine for man ,eau de parfum,35.0,58.0,14.7,0.0,0.0
+primor,hombre,jaguar,classic electric sky ,eau de toilette,39.9,64.0,14.36,45.0,2.0
+primor,hombre,angel schlesser,les eaux d'un instant profound orange wood ,eau de toilette,53.0,54.0,24.38,5.0,3.0
+primor,hombre,dior,dior homme eau de ,eau de cologne,96.0,0.0,96.0,5.0,8.0
+primor,hombre,4711,acqua  limón y jengibre,eau de cologne,57.0,47.0,30.21,3.78,9.0
+primor,hombre,kenzo,homme eau de ,eau de parfum,80.5,40.0,48.3,0.0,0.0
+primor,hombre,guerlain,vetiver ,eau de toilette,121.41,42.0,70.42,3.0,2.0
+primor,hombre,naturel art cosmetics,512 hro eau de  para él,eau de parfum,1.99,0.0,1.99,0.0,0.0
+primor,hombre,acqua di parma,eau de  ,eau de cologne,65.0,0.0,65.0,4.67,3.0
+primor,hombre,tous,man ,eau de toilette,76.0,55.0,34.2,4.8,5.0
+primor,hombre,victorio & lucchino,frescor mediterraneo  nº7,eau de toilette,11.95,0.0,11.95,5.0,2.0
+primor,hombre,el ganso,friday edition ,eau de toilette,50.0,44.0,28.0,5.0,1.0
+primor,hombre,hollister,wave for him ,eau de parfum,40.0,58.0,16.8,5.0,4.0
+primor,hombre,sentio,crevo ,eau de toilette,4.95,0.0,4.95,0.0,0.0
+primor,hombre,boucheron,singulier ,eau de parfum,69.0,52.0,33.12,0.0,0.0
+primor,hombre,mandarina duck,into the jungle ,eau de toilette,44.0,55.0,19.8,5.0,1.0
+primor,hombre,pacha,ibiza 24/7 hombre ,eau de toilette,10.95,0.0,10.95,5.0,3.0
+primor,hombre,versace,eros man ,parfum,155.0,40.0,93.0,5.0,2.0
+primor,hombre,guerlain,l'homme idéal extreme ,eau de parfum,96.33,47.0,51.05,5.0,2.0
+primor,hombre,tous,man chill ,eau de toilette,52.5,54.0,24.15,5.0,1.0
+primor,hombre,jaguar,era ,eau de toilette,60.0,67.0,19.8,4.0,1.0
+primor,hombre,jean paul gaultier,le male pride edition collector ,eau de toilette,114.5,43.0,65.26,5.0,1.0
+primor,hombre,hackett london,essential eau de ,eau de parfum,72.0,49.0,36.72,5.0,1.0
+primor,hombre,armani,acqua di gio homme  recarga,eau de parfum,135.0,45.0,74.25,,
+primor,hombre,saphir,the best  hombre,eau de parfum,12.9,0.0,12.9,4.0,1.0
+primor,hombre,naturel art cosmetics,blau 506 eau de  para él,eau de parfum,1.99,0.0,1.99,,
+primor,hombre,naturel art cosmetics,511 kdg eau de  para él,eau de parfum,1.99,0.0,1.99,,
+primor,hombre,victorio & lucchino,limited edition frescor exótico ,eau de toilette,12.95,0.0,12.95,5.0,1.0
+primor,hombre,carolina herrera,bad boy dazzling garden ,eau de toilette,116.0,36.0,74.24,4.0,1.0
+primor,hombre,sentio,interfeer men ,eau de toilette,4.95,0.0,4.95,4.0,1.0
+primor,hombre,tous,man sport ,eau de toilette,52.5,52.0,25.2,4.67,3.0
+primor,hombre,acqua di parma,eau de   intensa,eau de cologne,137.0,0.0,137.0,5.0,1.0
+primor,hombre,el ganso,bravo monsieur ,eau de toilette,69.0,45.0,37.95,5.0,4.0
+primor,hombre,lacoste,l.12.12 french panache pour lui ,eau de toilette,93.4,47.0,49.5,45.0,2.0
+primor,hombre,police,to be man ,eau de toilette,62.0,58.0,26.04,5.0,1.0
+primor,hombre,loewe,solo loewe cedro ,eau de toilette,96.0,35.0,62.4,4.82,11.0
+primor,hombre,halloween,man shot ,eau de toilette,73.0,54.0,33.58,5.0,1.0
+primor,hombre,naturel art cosmetics,509 cod eau de  para él,eau de parfum,1.99,0.0,1.99,5.0,1.0
+primor,hombre,harper & neyer,harper & neyer ,eau de toilette,19.95,0.0,19.95,,
+primor,hombre,springfield,rewind & play again walking on the sun ,eau de toilette,17.95,17.0,14.9,5.0,1.0
+primor,hombre,cartier,pasha ,parfum,102.0,0.0,102.0,5.0,1.0
+primor,hombre,4711,acqua  naranja sanguina y albahaca,eau de cologne,30.0,43.0,17.1,4.33,3.0
+primor,hombre,nike,urban wood man ,eau de toilette,9.5,0.0,9.5,3.0,2.0
+primor,hombre,naturel art cosmetics,one 503 eau de  para él,eau de parfum,1.99,0.0,1.99,,
+primor,hombre,mandarina duck,let's travel to paris for men ,eau de toilette,60.0,73.0,16.2,3.5,2.0
+primor,hombre,guerlain,l'homme ideal l'intense ,eau de parfum,136.46,49.0,69.59,4.0,1.0
+primor,hombre,jaguar,for men evolution ,eau de toilette,39.9,66.0,13.57,4.0,2.0
+primor,hombre,mont blanc,explorer ultra blue ,eau de parfum,74.0,46.0,39.96,4.8,5.0
+primor,hombre,paco rabanne,recarga phantom ,parfum,150.5,34.0,99.33,,
+primor,hombre,police,to be tattoo art ,eau de toilette,35.0,60.0,14.0,4.56,9.0
+primor,hombre,paco rabanne,recarga phantom ,eau de toilette,134.0,34.0,88.44,5.0,1.0
+primor,hombre,zadig & voltaire,this is him! undressed  para hombre,eau de toilette,71.0,35.0,46.15,4.5,2.0
+primor,hombre,springfield,green attitude ,eau de cologne,23.65,45.0,13.01,4.0,1.0
+primor,hombre,cartier,déclaration ,parfum,102.0,0.0,102.0,5.0,3.0
+primor,hombre,issey miyake,l'eau d'issey pour homme eau & cedre  intense,eau de toilette,80.0,35.0,52.0,4.0,2.0
+primor,hombre,angel schlesser,les eaux d'un instant blooming grapefruit ,eau de toilette,53.0,54.0,24.38,5.0,3.0
+primor,hombre,david bustamante,muy mío night ,eau de toilette,7.95,0.0,7.95,45.0,2.0
+primor,hombre,dior,dune pour homme ,eau de toilette,123.0,0.0,123.0,5.0,2.0
+primor,hombre,victorio & lucchino,esencia v&l black ,eau de toilette,18.95,21.0,14.97,5.0,2.0
+primor,hombre,issey miyake,nuit d’issey ,eau de toilette,77.0,35.0,50.05,4.75,8.0
+primor,hombre,víctor di milano,silvestre ,eau de cologne,34.68,30.0,24.28,5.0,1.0
+primor,hombre,dior,eau sauvage ,eau de cologne,123.0,0.0,123.0,5.0,1.0
+primor,hombre,monotheme,il libro degli agrumi boccioli di limone  unisex,eau de toilette,38.0,55.0,17.1,4.0,1.0
+primor,hombre,jimmy choo,urban hero ,eau de parfum,70.0,53.0,32.9,5.0,1.0
+primor,hombre,angel schlesser,les eaux d'un instant instinctive marine ,eau de toilette,53.0,54.0,24.38,5.0,1.0
+primor,hombre,armand basi,l'eau pour homme intense vetiver ,eau de toilette,65.0,54.0,29.9,,
+primor,hombre,viktor & rolf,spicebomb infrared ,eau de toilette,80.0,43.0,45.6,4.33,3.0
+primor,hombre,police,potion for him eau de ,eau de parfum,39.0,50.0,19.5,0.0,0.0
+primor,hombre,saphir,absolute pour homme ,eau de parfum,12.9,0.0,12.9,5.0,1.0
+primor,hombre,naturel art cosmetics,lgb 504 eau de  para él,eau de parfum,1.99,0.0,1.99,,
+primor,hombre,acqua di parma,eau de   pura,eau de cologne,137.0,0.0,137.0,5.0,1.0
+primor,hombre,issey miyake,l'eau d'issey pour homme igo ,eau de toilette,29.0,35.0,18.85,5.0,1.0
+primor,hombre,hackett london,bespoke ,eau de parfum,72.0,49.0,36.72,4.0,1.0
+primor,hombre,bvlgari,man rain essence eau de ,eau de parfum,100.0,35.0,65.0,0.0,0.0
+primor,hombre,ralph lauren,polo red  perfume de hombre,parfum,82.0,42.0,47.56,45.0,2.0
+primor,hombre,victorio & lucchino,aguas masculinas sport nº10 libertad extrema ,eau de toilette,11.95,0.0,11.95,5.0,1.0
+primor,hombre,guerlain,habit rouge ,eau de toilette,121.41,44.0,67.99,3.0,2.0
+primor,hombre,loewe,loewe 001 man ,eau de toilette,80.0,35.0,52.0,5.0,3.0
+primor,hombre,alvarez gomez,barbería agua ,eau de cologne,17.75,1.0,17.57,4.0,4.0
+primor,hombre,saphir,boxes pour homme ,eau de parfum,12.9,0.0,12.9,5.0,1.0
+primor,hombre,adolfo dominguez,ambar negro eau de ,eau de parfum,59.5,41.0,35.11,0.0,0.0
+primor,hombre,victorio & lucchino,aguas masculinas sport nº11 evasion polar ,eau de toilette,11.95,0.0,11.95,4.0,1.0
+primor,hombre,pepe jeans,sobold for him ,eau de parfum,29.95,0.0,29.95,0.0,0.0
+primor,hombre,dior,sauvage ,eau de toilette,246.0,0.0,246.0,4.64,36.0
+primor,hombre,acqua di parma, essenza eau de ,eau de cologne,98.0,0.0,98.0,5.0,2.0
+primor,hombre,jaguar,ultimate power  for men,eau de toilette,45.0,68.0,14.4,4.0,1.0
+primor,hombre,tous,1920 the origin ,eau de toilette,76.5,59.0,31.36,5.0,3.0
+primor,hombre,naturel art cosmetics,508 avnt eau de  para él,eau de parfum,1.99,0.0,1.99,5.0,1.0
+primor,hombre,abercrombie & fitch,away tonight men ,eau de toilette,55.0,66.0,18.7,4.0,1.0
+primor,hombre,acqua di parma,signatures of the sun oud & spice eau de ,eau de parfum,103.0,0.0,103.0,5.0,1.0
+primor,hombre,acqua di parma,siganutres of the sun osmanthus eau de ,eau de parfum,103.0,0.0,103.0,5.0,1.0
+primor,hombre,jimmy choo,aqua man ,eau de toilette,70.0,55.0,31.5,3.0,2.0
+primor,hombre,issey miyake,l'eau d'issey pour homme vetiver  intense,eau de toilette,80.0,35.0,52.0,4.0,1.0
+primor,hombre,el ganso,sunday mood ,eau de toilette,50.0,36.0,32.0,3.0,2.0
+primor,hombre,monotheme,il libro degli agrumi verde d'arancia  unisex,eau de toilette,38.0,47.0,20.14,5.0,1.0
+primor,hombre,acqua di parma,signatures of the sun quercia eau de ,eau de parfum,103.0,0.0,103.0,0.0,0.0
+primor,hombre,tom ford,grey vetiver ,parfum,165.0,0.0,165.0,,
+primor,hombre,coach,coach blue ,eau de toilette,92.0,57.0,39.56,5.0,1.0
+primor,hombre,monotheme,il libro degli agrumi  bergamotto  unisex,eau de toilette,38.0,47.0,20.14,5.0,1.0
+primor,hombre,acqua di parma,signatures of the sun oud eau de ,eau de parfum,103.0,0.0,103.0,,
+primor,hombre,cartier,pasha ,eau de toilette,115.0,0.0,115.0,5.0,1.0
+primor,hombre,víctor di milano,acqua di selva ,eau de cologne,34.68,30.0,24.28,4.5,2.0
+primor,hombre,dolce & gabbana,the one grey ,eau de toilette,74.0,32.0,50.32,5.0,2.0
+primor,hombre,tom ford,tom ford men grey vetiver  100,eau de parfum,135.0,0.0,135.0,0.0,0.0
+primor,hombre,saphir,esencias man vetiver duplo ,eau de toilette,3.99,0.0,3.99,4.0,1.0
+primor,hombre,acqua di parma,sandalo eau de ,eau de parfum,103.0,0.0,103.0,0.0,0.0
+primor,hombre,hollister,festival vibes for him ,eau de toilette,72.0,58.0,30.24,4.5,2.0
+primor,hombre,dior,sauvage eau de   recarga,eau de parfum,280.0,0.0,280.0,4.0,1.0
+primor,hombre,issey miyake,fusion d'issey extreme ,eau de toilette,75.0,35.0,48.75,5.0,1.0
+primor,hombre,issey miyake,fusion d'issey ,eau de toilette,73.0,35.0,47.45,4.67,3.0
+primor,hombre,issey miyake,l'eau d'issey pour homme wood & wood ,eau de parfum,92.0,35.0,59.8,4.83,6.0
+primor,hombre,harper & neyer,harper & neyer ,eau de toilette,19.95,0.0,19.95,0.0,0.0
+primor,hombre,cartier,pasha edition noire sport ,eau de toilette,115.0,0.0,115.0,4.0,1.0
+primor,hombre,hollister,festival nite for him ,eau de toilette,40.0,56.0,17.6,3.0,2.0
+primor,hombre,4711,acqua  melocotón y cilantro,eau de cologne,57.0,47.0,30.21,5.0,2.0
+primor,hombre,hermes,h24 eau de ,eau de parfum,98.0,30.0,68.6,5.0,1.0
+primor,hombre,spagnolo,esencia ,eau de toilette,4.99,20.0,3.99,4.0,1.0
+primor,hombre,harper & neyer, intense,eau de toilette,19.95,0.0,19.95,4.0,1.0
+primor,hombre,narciso rodriguez,bleu noir for him ,eau de parfum,81.0,35.0,52.65,5.0,3.0
+primor,hombre,ralph lauren,polo  intense,eau de cologne,125.0,44.0,70.0,5.0,1.0
+primor,hombre,monotheme,il libro degli agrumi zagara  unisex,eau de toilette,38.0,47.0,20.14,4.0,1.0
+primor,hombre,acqua di parma, futura eau de ,eau de cologne,98.0,0.0,98.0,0.0,0.0
+primor,hombre,boucheron,quatre pour homme ,eau de toilette,99.0,58.0,41.58,4.5,2.0
+primor,hombre,dsquared2,two wood ,eau de toilette,78.0,51.0,38.22,4.0,1.0
+primor,hombre,lolita lempicka,green lover ,eau de toilette,91.0,56.0,40.04,3.0,2.0
+primor,hombre,alvarez gomez, titanio homme,eau de parfum,2.99,2.0,2.93,5.0,1.0
+primor,hombre,ralph lauren,polo red ,eau de toilette,100.0,50.0,50.0,5.0,1.0
+primor,hombre,acqua di parma,signatures of the sun lily of the valley eau de ,eau de parfum,103.0,0.0,103.0,0.0,0.0
+primor,hombre,acqua di parma,eau de   c.l.u.b.,eau de cologne,98.0,0.0,98.0,3.0,2.0
+primor,hombre,cartier,pasha edition noire  edición limitada,eau de toilette,115.0,0.0,115.0,0.0,0.0
+primor,hombre,naturel art cosmetics,513 aqua eau de  para él,eau de parfum,1.99,0.0,1.99,0.0,0.0
+primor,hombre,hermes,h24 ,eau de toilette,87.0,30.0,60.9,5.0,2.0
+primor,hombre,el ganso,after game ,eau de toilette,69.0,48.0,35.88,4.0,1.0
+primor,hombre,cartier,l'envol ,eau de parfum,85.0,0.0,85.0,5.0,1.0
+primor,hombre,cartier,déclaration haute fraîcheur ,eau de toilette,82.0,0.0,82.0,4.0,2.0
+primor,hombre,4711,acqua  lychee & white mint,eau de cologne,57.0,50.0,28.5,4.0,1.0
+primor,hombre,dior,eau sauvage extrême  intense,eau de toilette,136.0,0.0,136.0,5.0,1.0
+primor,hombre,guerlain,l'homme ideal ,eau de toilette,121.41,46.0,65.56,4.88,8.0
+primor,hombre,coach,coach for men ,eau de toilette,92.0,57.0,39.56,4.0,1.0
+primor,hombre,david bustamante,muy mío gold ,eau de toilette,7.95,0.0,7.95,4.0,1.0
+primor,hombre,jaguar,classic gold ,eau de toilette,39.9,50.0,19.95,0.0,0.0
+primor,hombre,sisley,eau d'ikar ,eau de toilette,130.0,30.0,91.0,0.0,0.0
+primor,hombre,4711,acqua  azafrán e iris,eau de cologne,57.0,47.0,30.21,0.0,0.0
+primor,hombre,boucheron,jaipur homme ,eau de toilette,110.0,73.0,29.7,0.0,0.0
+primor,hombre,courreges,s imaginaires 2060 cedar pulp,eau de cologne,100.0,40.0,60.0,0.0,0.0
+primor,hombre,munich,neceser risk man ,eau de toilette,5.95,0.0,5.95,0.0,0.0
+primor,hombre,disney,eau my unicorn  + llavero lipgloss,eau de toilette,9.99,0.0,9.99,45.0,2.0
+primor,hombre,tabac,tabac craftsman ,eau de toilette,47.0,45.0,25.85,0.0,0.0
+primor,hombre,alain delon,champion ,eau de toilette,59.0,83.0,10.03,4.0,1.0
+primor,hombre,calvin klein,obsession for men  vaporisateur,eau de toilette,64.95,62.0,24.68,5.0,6.0
+primor,hombre,nike,urban wood man ,eau de toilette,9.5,0.0,9.5,45.0,2.0
+primor,hombre,azzaro,chrome limited edition ,eau de toilette,39.0,8.0,35.88,5.0,2.0
+primor,hombre,lacoste,l.12.12 blanc eau de ,eau de parfum,100.2,53.0,47.09,5.0,1.0
+primor,hombre,munich,neceser peak man ,eau de toilette,5.95,0.0,5.95,5.0,1.0
+primor,hombre,jaguar,innovation ,eau de toilette,39.9,50.0,19.95,0.0,0.0
+primor,hombre,carolina herrera,bad boy gold fantasy  edición limitada,eau de toilette,109.0,38.0,67.58,0.0,0.0
+primor,hombre,calvin klein,ck one summer daze  unisex,eau de toilette,64.26,60.0,25.7,4.8,10.0
+primor,hombre,hugo boss,the scent absolute for him ,eau de parfum,124.0,48.0,64.48,4.0,4.0
+primor,hombre,armani,eau de nuit ,eau de toilette,150.0,57.0,64.5,5.0,4.0
+primor,hombre,yves saint laurent,yves saint laurent la nuit de l´homme ,eau de toilette,101.0,40.0,60.6,5.0,1.0
+primor,hombre,jean paul gaultier,le male  collector edition,eau de toilette,103.5,37.0,65.2,0.0,0.0
+primor,hombre,diesel,diesel spirit of the brave perfume hombre ,eau de toilette,98.0,49.0,49.98,5.0,2.0
+primor,hombre,lacoste,l'homme ,eau de toilette,100.4,50.0,50.2,0.0,0.0
+primor,hombre,courreges,s imaginaires 2030 verbena crush,eau de cologne,100.0,40.0,60.0,0.0,0.0
+primor,hombre,hugo boss,bottled tonic ,eau de toilette,156.0,65.0,54.6,5.0,8.0
+primor,hombre,pascal morabito,rugby for men ,eau de toilette,16.9,41.0,9.97,0.0,0.0
+primor,hombre,passion course edt,passion course ,eau de toilette,16.9,41.0,9.97,0.0,0.0
+primor,hombre,pascal morabito,balle de match ,eau de toilette,16.9,41.0,9.97,0.0,0.0
+primor,hombre,prada,luna rossa sport ,eau de toilette,115.0,38.0,71.3,5.0,3.0
+primor,hombre,oscar de la renta,pour lui ,eau de toilette,59.0,66.0,20.06,5.0,1.0
+primor,hombre,paco rabanne,phantom  edición limitada,eau de toilette,103.5,42.0,60.03,4.67,3.0
+primor,hombre,hugo boss,the scent pure accord for him ,eau de toilette,113.0,47.0,59.89,5.0,1.0
+primor,hombre,4711,remix  lavanda,eau de cologne,32.0,53.0,15.04,4.0,1.0
+primor,hombre,carolina herrera,212 vip black men i love ny  edición limitada,eau de parfum,106.5,53.0,50.06,,
+primor,hombre,desigual,dark fresh festival ,eau de toilette,44.0,36.0,28.16,0.0,0.0
+primor,hombre,kenzo,kenzo homme  intense edición limitada,eau de toilette,106.0,41.0,62.54,0.0,0.0
+primor,hombre,axe,dark temptation mochila desodorante bodyspray +  + gel + roll-on,eau de toilette,19.95,0.0,19.95,0.0,0.0
+primor,hombre,jimmy choo,man ice ,eau de toilette,101.0,60.0,40.4,0.0,0.0
+primor,hombre,caring,esperanza men ,eau de toilette,14.95,33.0,10.02,0.0,0.0
+primor,hombre,caring,fuerza men ,eau de toilette,14.95,33.0,10.02,0.0,0.0
+primor,hombre,dolce & gabbana,the one for men gold eau de  intense,eau de parfum,124.0,44.0,69.44,0.0,0.0
+primor,hombre,springfield,springfield ,eau de toilette,12.95,0.0,12.95,0.0,0.0
+primor,hombre,golden gloves edt,golden gloves ,eau de toilette,16.9,41.0,9.97,3.0,1.0
+primor,hombre,mont blanc,legend red ,eau de parfum,104.0,42.0,60.32,5.0,1.0
+primor,hombre,fila, for man,eau de toilette,19.9,50.0,9.95,5.0,1.0
+primor,hombre,nautica,blue ,eau de toilette,9.95,15.0,8.46,3.0,3.0
+primor,hombre,ovéh,hapi ,eau de toilette,49.95,40.0,29.97,5.0,6.0
+primor,hombre,axe,duo dark temptation neceser ,eau de toilette,12.95,0.0,12.95,0.0,0.0
+primor,hombre,pascal morabito,ballon d-or ,eau de toilette,16.9,41.0,9.97,0.0,0.0
+primor,hombre,hugo boss,hugo reflective edition  perfume de hombre,eau de toilette,102.0,55.0,45.9,0.0,0.0
+primor,hombre,abercrombie & fitch,first instinct together men ,eau de toilette,85.0,65.0,29.75,0.0,0.0
+primor,hombre,tonino lamborghini,mitico ,eau de toilette,19.95,0.0,19.95,0.0,0.0
+primor,hombre,pascal morabito,black granit ,eau de toilette,16.9,41.0,9.97,0.0,0.0
+primor,hombre,carolina herrera,ch men hot! hot! hot! eau de ,eau de parfum,100.5,35.0,65.32,0.0,0.0
+primor,hombre,caring,lucha men ,eau de toilette,14.95,33.0,10.02,0.0,0.0
+primor,hombre,courreges,s imaginaires 2040 nectar tonka,eau de cologne,100.0,40.0,60.0,0.0,0.0
+primor,hombre,burberry,mr burberry indigo ,eau de toilette,106.9,44.0,59.86,0.0,0.0
+primor,hombre,hollister,wave crush for him ,eau de toilette,45.0,62.0,17.1,0.0,0.0
+primor,hombre,jaguar,stance ,eau de toilette,60.0,67.0,19.8,4.0,1.0
+primor,hombre,tous,1920 the origin ,eau de parfum,59.5,50.0,29.75,5.0,1.0
+primor,hombre,jaguar,for men ,eau de toilette,45.0,56.0,19.8,5.0,4.0
+primor,hombre,taï & jôn,lime basil & mandarin ,eau de parfum,29.95,67.0,9.88,4.08,12.0
+primor,hombre,lacoste,l.12.12 pour lui magnetic ,eau de toilette,93.4,49.0,47.63,5.0,1.0
+primor,hombre,nautica,blue sail ,eau de toilette,9.95,10.0,8.96,4.75,4.0
+primor,mujer,calvin klein,ck one ,eau de toilette,82.6,74.0,21.48,4.85,255.0
+primor,mujer,cacharel,cacharel perfume mujer amor amor ,eau de toilette,48.0,48.0,24.96,4.8,120.0
+primor,mujer,britney spears,fantasy ,eau de parfum,27.53,64.0,9.91,4.68,186.0
+primor,mujer,yves saint laurent,yves saint laurent perfume mujer black opium eau de ,eau de parfum,80.0,48.0,41.6,4.83,258.0
+primor,mujer,prada,prada paradoxe ,eau de parfum,85.0,47.0,45.05,4.5,10.0
+primor,mujer,dkny,dkny women ,eau de parfum,57.0,47.0,30.21,4.65,48.0
+primor,mujer,calvin klein,ck in2u for her ,eau de toilette,76.0,76.0,18.24,4.74,151.0
+primor,mujer,lancôme,lancôme la vie est belle eau de  perfume mujer,eau de parfum,75.0,49.0,38.25,4.77,152.0
+primor,mujer,carolina herrera,212 vip rose ,eau de parfum,118.5,48.0,61.62,4.91,90.0
+primor,mujer,aqc fragances,go love ,eau de toilette,1.99,1.0,1.97,3.92,12.0
+primor,mujer,yves saint laurent,yves saint laurent libre eau de  perfume de mujer,eau de parfum,82.0,49.0,41.82,5.0,2.0
+primor,mujer,cacharel,yes i am eau de ,eau de parfum,53.0,47.0,28.09,4.76,140.0
+primor,mujer,paco rabanne,olympea ,eau de parfum,67.0,52.0,32.16,4.94,87.0
+primor,mujer,calvin klein,euphoria ,eau de parfum,69.0,62.0,26.22,4.76,88.0
+primor,mujer,calvin klein,ck be ,eau de toilette,76.0,74.0,19.76,4.69,99.0
+primor,mujer,cacharel,noa ,eau de toilette,47.0,49.0,23.97,4.87,77.0
+primor,mujer,armani,giorgio armani sì passione eau de ,eau de parfum,115.0,50.0,57.5,4.82,76.0
+primor,mujer,carolina herrera,good girl ,eau de parfum,102.0,31.0,70.38,4.86,117.0
+primor,mujer,dolce & gabbana,light blue ,eau de toilette,62.0,45.0,34.1,4.88,160.0
+primor,mujer,ralph lauren,ralph ,eau de toilette,77.0,68.0,24.64,4.84,51.0
+primor,mujer,halloween,halloween ,eau de toilette,76.0,67.0,25.08,4.8,99.0
+primor,mujer,calvin klein,eternity women ,eau de parfum,129.6,70.0,38.88,4.62,47.0
+primor,mujer,hugo boss,deep red ,eau de parfum,96.9,69.0,30.04,4.74,46.0
+primor,mujer,elizabeth arden,green tea ,eau de toilette,22.36,56.0,9.84,4.67,33.0
+primor,mujer,chloe,eau de  signature,eau de parfum,76.7,57.0,32.98,4.19,26.0
+primor,mujer,armani,giorgio armani perfume mujer acqua di gioia eau de ,eau de parfum,69.0,57.0,29.67,4.47,32.0
+primor,mujer,tous,loveme eau de ,eau de parfum,49.5,57.0,21.29,4.54,35.0
+primor,mujer,dkny,dkny be delicious ,eau de parfum,78.0,49.0,39.78,4.88,82.0
+primor,mujer,valentino,donna born in roma eau de  perfume de mujer,eau de parfum,110.0,50.0,55.0,4.88,60.0
+primor,mujer,carolina herrera,ch for women ,eau de toilette,63.5,53.0,29.84,4.63,27.0
+primor,mujer,britney spears,midnight fantasy ,eau de parfum,44.07,55.0,19.83,4.68,37.0
+primor,mujer,lancôme,idôle eau de  lancôme,eau de parfum,130.0,48.0,67.6,4.78,147.0
+primor,mujer,hugo boss,the scent for her ,eau de parfum,71.2,54.0,32.75,4.78,27.0
+primor,mujer,the fruit company, de fresa y nata,eau de cologne,2.75,9.0,2.5,4.36,11.0
+primor,mujer,tommy hilfiger,tommy girl ,eau de toilette,72.0,49.0,36.72,4.85,66.0
+primor,mujer,armani,giorgio armani perfume mujer sì eau de ,eau de parfum,115.0,52.0,55.2,4.89,75.0
+primor,mujer,zadig & voltaire,this is her ,eau de parfum,62.0,35.0,40.3,4.97,38.0
+primor,mujer,maroussia,maroussia ,eau de toilette,29.95,69.0,9.28,4.79,63.0
+primor,mujer,moschino,cheap&chic ,eau de toilette,52.0,50.0,26.0,4.78,68.0
+primor,mujer,carolina herrera,212 women ,eau de toilette,58.0,48.0,30.16,4.91,45.0
+primor,mujer,gres,cabotine rosalie ,eau de toilette,69.0,86.0,9.66,4.0,3.0
+primor,mujer,jean paul gaultier,scandal eau de ,eau de parfum,66.0,42.0,38.28,4.93,30.0
+primor,mujer,jimmy choo,blossom ,eau de parfum,56.0,66.0,19.04,4.56,18.0
+primor,mujer,dolce & gabbana,devotion eau de ,eau de parfum,80.0,34.0,52.8,5.0,1.0
+primor,mujer,cacharel,eden ,eau de parfum,48.0,48.0,24.96,4.61,31.0
+primor,mujer,givenchy,l'interdit ,eau de parfum,78.5,43.0,44.74,4.83,30.0
+primor,mujer,paco rabanne,pure xs for her ,eau de parfum,65.5,54.0,30.13,4.84,19.0
+primor,mujer,gres,cabotine ,eau de toilette,69.0,87.0,8.97,4.69,87.0
+primor,mujer,aqc fragances,lady secret  for woman,eau de toilette,2.99,0.0,2.99,4.2,10.0
+primor,mujer,nike,the perfume woman ,eau de toilette,2.75,0.0,2.75,4.61,28.0
+primor,mujer,yves saint laurent,yves saint laurent libre intense  perfume de mujer,eau de parfum,92.0,48.0,47.84,4.69,13.0
+primor,mujer,aqc fragances,kiss  for woman,eau de toilette,1.99,0.0,1.99,5.0,2.0
+primor,mujer,gucci,bloom ,eau de parfum,83.5,57.0,35.9,4.8,20.0
+primor,mujer,paco rabanne,black xs for her ,eau de parfum,65.5,54.0,30.13,4.76,51.0
+primor,mujer,tous,loveme the onyx eau de ,eau de parfum,52.5,47.0,27.83,4.89,27.0
+primor,mujer,nike,nike ultra pink woman ,eau de toilette,2.75,0.0,2.75,4.67,3.0
+primor,mujer,naturel art cosmetics,good 304 eau de  para ella,eau de parfum,1.99,0.0,1.99,,
+primor,mujer,cacharel,anaïs anaïs ,eau de toilette,43.0,50.0,21.5,4.79,42.0
+primor,mujer,escada,magnetism ,eau de parfum,100.4,60.0,40.16,4.71,7.0
+primor,mujer,nina ricci,nina ,eau de toilette,55.5,42.0,32.19,4.73,26.0
+primor,mujer,tous,tous ,eau de toilette,45.0,57.0,19.35,3.86,7.0
+primor,mujer,jean paul gaultier,classique ,eau de toilette,63.0,50.0,31.5,4.89,19.0
+primor,mujer,chloe,nomade ,eau de parfum,76.6,58.0,32.17,4.82,17.0
+primor,mujer,prada,infusion d'iris ,eau de parfum,110.0,46.0,59.4,4.49,41.0
+primor,mujer,jean paul gaultier,la belle eau de ,eau de parfum,68.5,54.0,31.51,4.94,16.0
+primor,mujer,clinique,aromatics elixir ,eau de parfum,66.0,0.0,66.0,4.78,9.0
+primor,mujer,victorio & lucchino,agua de rocío ,eau de toilette,31.0,47.0,16.43,4.71,7.0
+primor,mujer,saphir,cool de saphir pour femme ,eau de parfum,12.9,0.0,12.9,5.0,3.0
+primor,mujer,versace,red jeans ,eau de toilette,45.1,63.0,16.69,4.53,17.0
+primor,mujer,armani,giorgio armani code femme eau de ,eau de parfum,82.0,53.0,38.54,4.37,19.0
+primor,mujer,estée lauder,pleasures ,eau de parfum,70.0,0.0,70.0,4.65,20.0
+primor,mujer,lancôme,lancôme perfume mujer  ô de lancôme ,eau de toilette,77.0,49.0,39.27,4.83,40.0
+primor,mujer,moschino,i love love ,eau de toilette,52.0,50.0,26.0,4.81,74.0
+primor,mujer,rochas,mademoiselle rochas ,eau de parfum,84.0,57.0,36.12,4.89,18.0
+primor,mujer,yves saint laurent,yves saint laurent libre le  perfume de mujer,parfum,95.0,48.0,49.4,5.0,2.0
+primor,mujer,aqc fragances,lady secret gold edition ,eau de parfum,2.99,0.0,2.99,3.0,5.0
+primor,mujer,saphir,saphir perfect woman ,eau de parfum,12.9,0.0,12.9,5.0,5.0
+primor,mujer,lanvin,eclat d'arpege ,eau de parfum,107.0,68.0,34.24,4.64,25.0
+primor,mujer,lolita lempicka,le  eau de ,eau de parfum,160.0,52.0,76.8,4.67,3.0
+primor,mujer,burberry,burberry her eau de ,eau de parfum,76.3,48.0,39.68,4.88,16.0
+primor,mujer,elizabeth arden,white tea ,eau de parfum,30.0,42.0,17.4,4.5,8.0
+primor,mujer,adolfo dominguez,agua de bambú mujer ,eau de toilette,52.5,54.0,24.15,4.61,18.0
+primor,mujer,adolfo dominguez,agua fresca de rosas ,eau de toilette,41.0,42.0,23.78,4.84,56.0
+primor,mujer,shakira,dance ,eau de toilette,10.95,28.0,7.88,4.86,7.0
+primor,mujer,dolce & gabbana,light blue eau intense ,eau de parfum,99.0,48.0,51.48,4.85,20.0
+primor,mujer,elizabeth arden,5th avenida ,eau de parfum,39.07,44.0,21.88,4.71,45.0
+primor,mujer,lancôme,tresor midnight rose ,eau de parfum,62.0,45.0,34.1,5.0,29.0
+primor,mujer,vanderbilt,vanderbilt ,eau de toilette,7.95,3.0,7.71,4.79,47.0
+primor,mujer,cerruti,1881 pour femme ,eau de toilette,100.0,70.0,30.0,4.86,7.0
+primor,mujer,lancôme,miracle ,eau de parfum,79.0,53.0,37.13,4.4,20.0
+primor,mujer,juicy couture,viva la juicy ,eau de parfum,78.0,52.0,37.44,4.71,48.0
+primor,mujer,tous,your moments ,eau de toilette,40.0,56.0,17.6,4.0,9.0
+primor,mujer,armani,emporio armani because it's you eau de ,eau de parfum,95.0,45.0,52.25,4.88,8.0
+primor,mujer,sentio,zodiac cancer ,eau de parfum,1.0,0.0,1.0,,
+primor,mujer,guerlain,insolence ,eau de parfum,146.5,49.0,74.72,4.55,20.0
+primor,mujer,viktor & rolf,viktor & rolf  perfume mujer flowerbomb eau de ,eau de parfum,79.0,43.0,45.03,4.99,201.0
+primor,mujer,lancôme,la nuit tresor ,eau de parfum,72.0,45.0,39.6,4.83,18.0
+primor,mujer,carolina herrera,good girl blush ,eau de parfum,77.5,32.0,52.7,5.0,1.0
+primor,mujer,mugler,angel nova ,eau de parfum,75.0,47.0,39.75,4.78,63.0
+primor,mujer,yves saint laurent,yves saint laurent perfume mujer  mon paris eau de ,eau de parfum,77.0,44.0,43.12,4.9,42.0
+primor,mujer,givenchy,l'interdit  rouge,eau de parfum,81.0,41.0,47.79,4.92,13.0
+primor,mujer,lancôme,poeme ,eau de parfum,82.0,44.0,45.92,5.0,9.0
+primor,mujer,jean paul gaultier,gaultier divine eau de ,eau de parfum,76.0,34.0,50.16,5.0,1.0
+primor,mujer,elizabeth arden,red door ,eau de toilette,81.0,67.0,26.73,4.62,13.0
+primor,mujer,clinique,happy ,eau de parfum,69.0,0.0,69.0,4.89,9.0
+primor,mujer,hugo boss,boss alive ,eau de parfum,75.9,52.0,36.43,4.75,4.0
+primor,mujer,cacharel,loulou ,eau de parfum,49.0,48.0,25.48,4.85,26.0
+primor,mujer,tous,touch the original gold ,eau de toilette,47.0,56.0,20.68,4.5,18.0
+primor,mujer,yves saint laurent,black opium le ,parfum,120.0,47.0,63.6,5.0,3.0
+primor,mujer,ralph lauren,romance ,eau de parfum,155.0,61.0,60.45,4.83,6.0
+primor,mujer,yves saint laurent,rive gauche ,eau de toilette,125.0,44.0,70.0,4.78,23.0
+primor,mujer,cacharel,yes i am glorious ,eau de parfum,53.0,44.0,29.68,5.0,6.0
+primor,mujer,paco rabanne,fame eau de ,eau de parfum,65.5,34.0,43.23,,
+primor,mujer,paco rabanne,lady million ,eau de parfum,67.5,33.0,45.22,4.89,35.0
+primor,mujer,givenchy,ysatis ,eau de toilette,108.0,54.0,49.68,5.0,6.0
+primor,mujer,giorgio beverly hills,giorgio beverly hills ,eau de toilette,39.78,53.0,18.7,4.88,32.0
+primor,mujer,sentio,zodiac aries ,eau de parfum,1.0,0.0,1.0,,
+primor,mujer,the fruit company, de mango,eau de cologne,2.75,0.0,2.75,5.0,2.0
+primor,mujer,lancôme,lancôme la vie est belle eau de  perfume mujer recarga,eau de parfum,115.0,46.0,62.1,5.0,1.0
+primor,mujer,sentio,da lago eau de ,eau de parfum,1.0,0.0,1.0,,
+primor,mujer,4711,4711  original tamaño viaje,eau de cologne,9.0,67.0,2.97,4.58,19.0
+primor,mujer,pacha,queen clandestine ,eau de toilette,6.95,0.0,6.95,5.0,1.0
+primor,mujer,agatha ruiz de la prada,gotas de color ,eau de toilette,14.95,13.0,13.01,4.63,8.0
+primor,mujer,aqc fragances,chic  for woman,eau de toilette,1.5,0.0,1.5,4.75,4.0
+primor,mujer,sentio,happy birthday to you eau de ,eau de parfum,1.0,0.0,1.0,,
+primor,mujer,sentio,zodiac pisces ,eau de parfum,1.0,0.0,1.0,,
+primor,mujer,naturel art cosmetics,bo 305 eau de  para ella,eau de parfum,1.99,0.0,1.99,,
+primor,mujer,dior,j'adore eau de ,eau de parfum,87.0,0.0,87.0,4.83,29.0
+primor,mujer,flor de mayo,unicorn tears eau de ,eau de parfum,3.75,0.0,3.75,4.14,7.0
+primor,mujer,sentio,zodiac gemeni ,eau de parfum,1.0,0.0,1.0,,
+primor,mujer,sentio,zodiac virgo ,eau de parfum,1.0,0.0,1.0,,
+primor,mujer,women's secret,intimate eau de ,eau de parfum,20.25,16.0,17.01,,
+primor,mujer,the fruit company, de moras,eau de cologne,2.75,0.0,2.75,4.6,5.0
+primor,mujer,police,to be sweet girl ,eau de parfum,35.0,57.0,15.05,4.0,3.0
+primor,mujer,guerlain,mon guerlain eau de ,eau de parfum,86.29,45.0,47.46,4.96,28.0
+primor,mujer,carolina herrera,good girl dazzling garden eau de ,eau de parfum,137.5,31.0,94.87,5.0,1.0
+primor,mujer,versace,dylan purple ,eau de parfum,74.0,40.0,44.4,5.0,3.0
+primor,mujer,narciso rodriguez,for her eau de ,eau de parfum,73.0,35.0,47.45,4.22,18.0
+primor,mujer,hugo boss,ma vie pour femme ,eau de parfum,69.0,57.0,29.67,4.56,18.0
+primor,mujer,adolfo dominguez,agua fresca de azahar ,eau de toilette,41.0,55.0,18.45,4.95,19.0
+primor,mujer,naturel art cosmetics,olp 302 eau de  para ella,eau de parfum,1.99,0.0,1.99,,
+primor,mujer,boucheron,boucheron ,eau de parfum,122.0,71.0,35.38,4.83,12.0
+primor,mujer,sentio,xoxo eau de ,eau de parfum,1.0,0.0,1.0,,
+primor,mujer,carolina herrera,good girl supreme ,eau de parfum,77.5,32.0,52.7,4.88,8.0
+primor,mujer,guerlain,mon guerlain intense ,eau de parfum,89.3,44.0,50.01,5.0,3.0
+primor,mujer,benetton,colors woman rose ,eau de toilette,10.95,0.0,10.95,5.0,3.0
+primor,mujer,calvin klein,everyone ,eau de toilette,76.0,61.0,29.64,5.0,14.0
+primor,mujer,narciso rodriguez,for her ,eau de toilette,94.0,35.0,61.1,4.97,33.0
+primor,mujer,sentio,zodiac capricorn ,eau de parfum,1.0,0.0,1.0,,
+primor,mujer,loewe,solo loewe ella ,eau de parfum,66.0,35.0,42.9,5.0,5.0
+primor,mujer,lolita lempicka,mon premier  ,eau de parfum,63.5,62.0,24.13,4.82,22.0
+primor,mujer,rochas,eau de rochas ,eau de toilette,59.0,55.0,26.55,4.84,19.0
+primor,mujer,dior,miss dior eau de ,eau de parfum,60.0,0.0,60.0,4.56,9.0
+primor,mujer,moschino,fresh couture ,eau de toilette,52.0,62.0,19.76,4.73,30.0
+primor,mujer,agatha ruiz de la prada,flor ,eau de toilette,14.95,13.0,13.01,4.83,6.0
+primor,mujer,sentio,single lady eau de ,eau de parfum,1.0,0.0,1.0,,
+primor,mujer,jean paul gaultier,scandal le  eau de  intense,eau de parfum,72.0,33.0,48.24,0.0,0.0
+primor,mujer,elizabeth arden,green tea sakura blossom ,eau de toilette,25.0,52.0,12.0,4.8,5.0
+primor,mujer,jean paul gaultier,so scandal! ,eau de parfum,66.0,35.0,42.9,4.38,13.0
+primor,mujer,armani,giorgio armani si intense eau de  recargable,eau de parfum,89.0,37.0,56.07,5.0,1.0
+primor,mujer,narciso rodriguez,pure musc eau de ,eau de parfum,73.0,35.0,47.45,4.95,22.0
+primor,mujer,jean paul gaultier,la belle le  eau de  intenso,eau de parfum,72.5,53.0,34.07,4.38,8.0
+primor,mujer,angel schlesser,femme ,eau de toilette,87.0,54.0,40.02,4.6,25.0
+primor,mujer,valentino,donna born in roma coral fantasy eau de ,eau de parfum,80.0,50.0,40.0,4.0,1.0
+primor,mujer,sentio,you are awesome eau de ,eau de parfum,1.0,0.0,1.0,,
+primor,mujer,nike,pink woman ,eau de toilette,2.75,0.0,2.75,,
+primor,mujer,tous,tous ,eau de parfum,66.0,58.0,27.72,4.85,13.0
+primor,mujer,gucci,guilty pour femme eau de ,eau de parfum,113.8,56.0,50.07,5.0,3.0
+primor,mujer,tous,your powers ,eau de toilette,40.0,53.0,18.8,0.0,0.0
+primor,mujer,shakira,dance midnight ,eau de toilette,10.95,18.0,8.98,3.67,3.0
+primor,mujer,loewe,aire sutileza ,eau de toilette,84.0,35.0,54.6,4.82,11.0
+primor,mujer,tous,loveme the silver ,parfum,52.5,43.0,29.93,4.83,6.0
+primor,mujer,saphir,seduction woman ,eau de parfum,12.9,0.0,12.9,5.0,10.0
+primor,mujer,tous,l'eau ,eau de parfum,86.0,57.0,36.98,4.88,8.0
+primor,mujer,saphir,chic & fun eau de ,eau de cologne,3.95,25.0,2.96,0.0,0.0
+primor,mujer,sentio,zodiac leo ,eau de parfum,1.0,0.0,1.0,0.0,0.0
+primor,mujer,yves saint laurent,libre absolu platine ,eau de parfum,140.0,50.0,70.0,0.0,0.0
+primor,mujer,paco rabanne,lady million fabulous ,eau de parfum,70.5,49.0,35.96,4.67,6.0
+primor,mujer,carolina herrera,very good girl ,eau de parfum,77.5,32.0,52.7,5.0,4.0
+primor,mujer,sentio,miss you! eau de ,eau de parfum,1.0,0.0,1.0,,
+primor,mujer,mandarina duck,mandarina duck ,eau de toilette,69.0,68.0,22.08,4.9,29.0
+primor,mujer,carolina herrera,carolina herrera ,eau de parfum,121.5,51.0,59.54,4.75,4.0
+primor,mujer,issey miyake,l'eau d'issey ,eau de toilette,77.0,35.0,50.05,4.92,24.0
+primor,mujer,elizabeth arden,sunflowers ,eau de toilette,24.48,54.0,11.26,4.81,21.0
+primor,mujer,paco rabanne,ultraviolet ,eau de parfum,116.5,56.0,51.26,4.78,9.0
+primor,mujer,angel schlesser,femme adorable ,eau de toilette,60.0,56.0,26.4,4.85,20.0
+primor,mujer,elizabeth arden,sunflowers sunlight kiss  perfume de mujer,eau de toilette,50.0,81.0,9.5,2.0,2.0
+primor,mujer,saphir,due amore pour femme ,eau de parfum,12.9,0.0,12.9,4.4,5.0
+primor,mujer,gres,cabotine rose ,eau de toilette,69.0,86.0,9.66,4.77,44.0
+primor,mujer,calvin klein,everyone ,eau de parfum,83.0,60.0,33.2,4.75,4.0
+primor,mujer,gres,cabotine gold ,eau de toilette,69.0,86.0,9.66,4.65,46.0
+primor,mujer,elizabeth arden,white tea ,eau de toilette,26.5,40.0,15.9,4.59,17.0
+primor,mujer,armani,giorgio armani my way floral eau de  de mujer recargable,eau de parfum,82.0,49.0,41.82,4.8,5.0
+primor,mujer,david bustamante,muy mia ,eau de toilette,7.95,18.0,6.52,4.33,21.0
+primor,mujer,prada,infusion d'amande ,eau de parfum,150.0,49.0,76.5,3.0,1.0
+primor,mujer,yves saint laurent,libre  perfume de mujer,eau de toilette,110.0,50.0,55.0,5.0,2.0
+primor,mujer,sentio,blossoms of joy ,eau de parfum,1.0,0.0,1.0,0.0,0.0
+primor,mujer,elie saab,elie saab le  ,eau de parfum,66.0,39.0,40.26,4.94,17.0
+primor,mujer,hermes,un jardín sur le nil ,eau de toilette,133.0,48.0,69.16,5.0,10.0
+primor,mujer,narciso rodriguez,narciso poudree ,eau de parfum,73.0,35.0,47.45,4.96,23.0
+primor,mujer,versace,bright crystal ,eau de toilette,69.0,40.0,41.4,4.86,36.0
+primor,mujer,sentio,zodiac taurus ,eau de parfum,1.0,0.0,1.0,0.0,0.0
+primor,mujer,dior,hypnotic poison ,eau de toilette,74.0,0.0,74.0,4.8,10.0
+primor,mujer,givenchy,irresistible eau de ,eau de parfum,171.5,45.0,94.32,4.73,11.0
+primor,mujer,estée lauder,knowing ,eau de parfum,120.0,0.0,120.0,5.0,5.0
+primor,mujer,halloween,kiss sexy ,eau de toilette,29.9,33.0,20.03,5.0,1.0
+primor,mujer,aqc fragances,star  for woman,eau de toilette,1.5,0.0,1.5,3.0,1.0
+primor,mujer,saphir,vida de saphir pour femme ,eau de parfum,12.9,0.0,12.9,5.0,1.0
+primor,mujer,valentino,born in roma donna intense eau de ,eau de parfum,84.0,41.0,49.56,,
+primor,mujer,halloween,halloween blossom ,eau de toilette,41.0,42.0,23.78,4.0,2.0
+primor,mujer,givenchy,l'interdit  for her,eau de toilette,67.0,42.0,38.86,2.5,2.0
+primor,mujer,agatha ruiz de la prada,beso bubble ,eau de toilette,4.25,7.0,3.95,0.0,0.0
+primor,mujer,saphir,oui de saphir pour femme ,eau de parfum,12.9,0.0,12.9,5.0,2.0
+primor,mujer,armani,giorgio armani sì passione éclat eau de ,eau de parfum,115.0,50.0,57.5,,
+primor,mujer,mugler,alien ,eau de toilette,55.0,35.0,35.75,4.67,21.0
+primor,mujer,rochas,tocade ,eau de toilette,108.0,70.0,32.4,4.56,9.0
+primor,mujer,jimmy choo,jimmy choo ,eau de parfum,62.0,52.0,29.76,5.0,3.0
+primor,mujer,viktor & rolf,flowerbomb ruby orchid eau de ,eau de parfum,115.0,40.0,69.0,,
+primor,mujer,carolina herrera,very good girl glam ,eau de parfum,81.0,32.0,55.08,5.0,1.0
+primor,mujer,jimmy choo,fever ,eau de parfum,61.0,58.0,25.62,4.0,6.0
+primor,mujer,burberry,my burberry black ,eau de parfum,107.7,47.0,57.08,5.0,4.0
+primor,mujer,paco rabanne,fame ,parfum,73.5,35.0,47.78,,
+primor,mujer,guerlain,insolence ,eau de toilette,126.44,52.0,60.69,5.0,17.0
+primor,mujer,gucci,flora gorgeous magnolia eau de  para mujer,eau de parfum,157.0,46.0,84.78,,
+primor,mujer,givenchy,very irresistible ,eau de parfum,108.0,50.0,54.0,5.0,3.0
+primor,mujer,jimmy choo,i want choo eau de ,eau de parfum,66.0,47.0,34.98,4.75,4.0
+primor,mujer,cacharel,anais anais premier delice ,eau de toilette,50.0,56.0,22.0,4.39,33.0
+primor,mujer,moschino,fresh couture pink ,eau de toilette,52.0,62.0,19.76,4.83,6.0
+primor,mujer,angel schlesser,les eaux d'un instant tempting bergamot ,eau de toilette,53.0,54.0,24.38,4.67,6.0
+primor,mujer,saphir,select blue pour femme ,eau de parfum,12.9,0.0,12.9,5.0,3.0
+primor,mujer,sentio,thank you eau de ,eau de parfum,1.0,0.0,1.0,,
+primor,mujer,saphir,siloe ,eau de parfum,12.9,0.0,12.9,,
+primor,mujer,saphir,black femme ,eau de parfum,12.9,0.0,12.9,4.33,3.0
+primor,mujer,courreges,eau de courreges ,eau de toilette,96.0,58.0,40.32,5.0,3.0
+primor,mujer,prada,candy ,eau de parfum,92.0,52.0,44.16,5.0,15.0
+primor,mujer,loewe,aire de loewe ,eau de toilette,57.0,35.0,37.05,4.76,17.0
+primor,mujer,loewe,agua de loewe ,eau de toilette,71.0,35.0,46.15,4.87,15.0
+primor,mujer,tom ford,café rose eau de ,eau de parfum,85.0,0.0,85.0,5.0,1.0
+primor,mujer,loewe,solo loewe ella ,eau de toilette,57.0,35.0,37.05,4.5,4.0
+primor,mujer,narciso rodriguez,all of me eau de ,eau de parfum,77.0,35.0,50.05,,
+primor,mujer,mugler,alien goddess  intense,eau de parfum,88.0,43.0,50.16,0.0,0.0
+primor,mujer,jean paul gaultier,classique ,eau de parfum,68.5,48.0,35.62,5.0,7.0
+primor,mujer,juicy couture,viva la juicy sucre ,eau de parfum,78.0,40.0,46.8,0.0,0.0
+primor,mujer,calvin klein,eternity intense for women ,eau de parfum,102.0,63.0,37.74,5.0,1.0
+primor,mujer,zinnia,zinnia ,eau de toilette,12.5,0.0,12.5,4.65,26.0
+primor,mujer,gucci,flora gorgeous jasmine ,eau de parfum,79.0,48.0,41.08,5.0,1.0
+primor,mujer,sentio,suffix eau de ,eau de parfum,1.0,0.0,1.0,,
+primor,mujer,elizabeth arden,5th avenida nyc pulse eau de ,eau de parfum,16.0,13.0,13.92,,
+primor,mujer,lancôme,idôle now eau de ,eau de parfum,70.0,49.0,35.7,5.0,1.0
+primor,mujer,kenzo,flower by kenzo ,eau de parfum,69.0,40.0,41.4,4.83,48.0
+primor,mujer,yves saint laurent,paris ,eau de parfum,110.0,49.0,56.1,4.82,11.0
+primor,mujer,bvlgari,omnia crystalline ,eau de toilette,73.0,35.0,47.45,0.0,0.0
+primor,mujer,issey miyake,a drop d'issey ,eau de parfum,86.0,35.0,55.9,4.73,11.0
+primor,mujer,halloween,freesia ,eau de toilette,59.0,66.0,20.06,,
+primor,mujer,sentio,dazzling lady eau de ,eau de parfum,1.0,0.0,1.0,,
+primor,mujer,lancôme,idôle aura eau de  lancôme,eau de parfum,72.0,51.0,35.28,5.0,8.0
+primor,mujer,loewe,white magnolia ,eau de parfum,66.0,35.0,42.9,3.75,4.0
+primor,mujer,viktor & rolf,flowerbomb nectar eau de ,eau de parfum,93.0,40.0,55.8,5.0,2.0
+primor,mujer,sentio,dlm eau de ,eau de parfum,1.0,0.0,1.0,5.0,1.0
+primor,mujer,lancôme,tresor ,eau de parfum,77.0,49.0,39.27,4.78,18.0
+primor,mujer,guerlain,la petite robe noire ,eau de parfum,119.42,55.0,53.74,4.67,3.0
+primor,mujer,valentino,voce viva intensa eau de ,eau de parfum,80.0,50.0,40.0,5.0,4.0
+primor,mujer,sentio,i love you eau de ,eau de parfum,1.0,0.0,1.0,,
+primor,mujer,saphir,agua  de saphir pour femme ,eau de parfum,12.9,0.0,12.9,5.0,3.0
+primor,mujer,escada,show me love ,eau de parfum,101.6,56.0,44.7,,
+primor,mujer,saphir,sph green pour femme ,eau de parfum,12.9,0.0,12.9,5.0,2.0
+primor,mujer,saphir,kisses ,eau de parfum,12.9,0.0,12.9,,
+primor,mujer,scalpers,her & here eau de ,eau de parfum,42.0,49.0,21.42,,
+primor,mujer,agatha ruiz de la prada,beso ,eau de toilette,14.95,13.0,13.01,4.9,10.0
+primor,mujer,paco rabanne,olympéa solar eau de  intense femenino,eau de parfum,73.0,52.0,35.04,5.0,3.0
+primor,mujer,angel schlesser,les eaux d'un instant immense peony ,eau de toilette,53.0,54.0,24.38,4.33,6.0
+primor,mujer,custo barcelona,i am the power eau de ,eau de parfum,70.0,71.0,20.3,,
+primor,mujer,kenzo,flower ikebana eau de ,eau de parfum,97.35,46.0,52.57,,
+primor,mujer,agua de luna,agua de luna  fraiche,eau de toilette,8.5,0.0,8.5,4.8,5.0
+primor,mujer,moschino,toy 2 bubble gum ,eau de toilette,55.0,40.0,33.0,4.22,9.0
+primor,mujer,gucci,gucci bloom ,eau de toilette,104.1,52.0,49.97,5.0,2.0
+primor,mujer,burberry,my burberry ,eau de parfum,107.7,46.0,58.16,5.0,5.0
+primor,mujer,nike,pink woman ,eau de toilette,9.5,0.0,9.5,4.42,50.0
+primor,mujer,estée lauder,white linen ,eau de parfum,95.0,0.0,95.0,5.0,1.0
+primor,mujer,chloe,love story ,eau de parfum,76.6,54.0,35.24,5.0,6.0
+primor,mujer,kenzo,flower by kenzo ,eau de toilette,59.5,51.0,29.16,4.8,5.0
+primor,mujer,narciso rodriguez,for her musc noir ,eau de parfum,105.0,35.0,68.25,4.92,12.0
+primor,mujer,dior,dior addict eau de ,eau de parfum,87.0,0.0,87.0,5.0,13.0
+primor,mujer,naturel art cosmetics,belle 307 eau de  para ella,eau de parfum,1.99,0.0,1.99,,
+primor,mujer,guerlain,aqua allegoria bergamota de calabria ,eau de toilette,103.09,42.0,59.79,5.0,5.0
+primor,mujer,chloe,nomade eau de  naturelle,eau de parfum,123.7,54.0,56.9,5.0,2.0
+primor,mujer,moschino,gold couture ,eau de parfum,103.0,52.0,49.44,5.0,1.0
+primor,mujer,givenchy,very irresistible ,eau de toilette,93.0,50.0,46.5,4.36,11.0
+primor,mujer,nina ricci,nina le   ,eau de parfum,65.0,52.0,31.2,,
+primor,mujer,kenzo,flower by kenzo  recargable,eau de parfum,134.0,44.0,75.04,5.0,1.0
+primor,mujer,chloe,l'eau de  lumineuse para mujer,eau de parfum,105.0,38.0,65.1,0.0,0.0
+primor,mujer,zadig & voltaire,this is us ,eau de toilette,60.0,35.0,39.0,5.0,3.0
+primor,mujer,tous,oh! the origin ,eau de parfum,47.0,57.0,20.21,5.0,5.0
+primor,mujer,1916,1916 agua de ,eau de cologne,2.99,8.0,2.75,4.67,9.0
+primor,mujer,hermes,eau de citron noir ,eau de cologne,118.0,38.0,73.16,5.0,3.0
+primor,mujer,hugo boss,the scent le  for her,parfum,113.2,56.0,49.81,,
+primor,mujer,shakira,rojo shakira eau de ,eau de parfum,9.95,0.0,9.95,,
+primor,mujer,kenzo,l'eau par kenzo ,eau de toilette,66.0,41.0,38.94,4.75,4.0
+primor,mujer,pacha,queen sexy ,eau de toilette,11.95,18.0,9.8,4.78,9.0
+primor,mujer,moschino,toy 2 ,eau de parfum,57.0,40.0,34.2,4.57,14.0
+primor,mujer,guerlain,mon guerlain sparkling bouquet ,eau de parfum,86.29,40.0,51.77,5.0,1.0
+primor,mujer,kenzo,amour ,eau de parfum,67.0,40.0,40.2,4.21,14.0
+primor,mujer,paco rabanne,calandre ,eau de toilette,117.5,53.0,55.22,5.0,11.0
+primor,mujer,police,to be exotic jungle for woman ,eau de parfum,35.0,54.0,16.1,5.0,11.0
+primor,mujer,rochas,eau de rochas escapade au soleil ,eau de toilette,95.0,61.0,37.05,4.75,4.0
+primor,mujer,nina ricci,l'air du temps ,eau de toilette,128.5,56.0,56.54,5.0,8.0
+primor,mujer,sentio,patron ,eau de toilette,1.0,0.0,1.0,,
+primor,mujer,saphir,ancora pour femme ,eau de parfum,12.9,0.0,12.9,3.0,1.0
+primor,mujer,adolfo dominguez,nude musk ,eau de parfum,46.0,41.0,27.14,4.2,5.0
+primor,mujer,dolce & gabbana,the only one ,eau de parfum,110.0,36.0,70.4,1.0,1.0
+primor,mujer,elie saab,girl of now ,eau de parfum,63.0,44.0,35.28,5.0,9.0
+primor,mujer,adolfo dominguez,agua fresca de rosas blancas ,eau de toilette,41.0,46.0,22.14,4.38,8.0
+primor,mujer,versace,eros pour femme ,eau de parfum,81.0,43.0,46.17,5.0,10.0
+primor,mujer,gucci,gucci bloom intense eau de ,eau de parfum,120.0,42.0,69.6,,
+primor,mujer,naturel art cosmetics,313 yes eau de  para ella,eau de parfum,1.99,0.0,1.99,,
+primor,mujer,dior,miss dior blooming bouquet ,eau de toilette,77.0,0.0,77.0,5.0,8.0
+primor,mujer,tous,the luminous gold ,eau de toilette,47.0,57.0,20.21,4.33,3.0
+primor,mujer,flor de mayo,paris with love eau de ,eau de parfum,3.75,0.0,3.75,4.0,8.0
+primor,mujer,adolfo dominguez,agua fresca de mimosa coriandro ,eau de toilette,56.5,52.0,27.12,5.0,3.0
+primor,mujer,loewe,agua de loewe mar de coral ,eau de toilette,71.0,35.0,46.15,4.91,22.0
+primor,mujer,zadig & voltaire,this is her! undressed eau de  para mujer,eau de parfum,62.0,35.0,40.3,,
+primor,mujer,estée lauder,beautiful ,eau de parfum,88.0,0.0,88.0,4.67,3.0
+primor,mujer,givenchy,l'interdit eau de  intense,eau de parfum,85.0,51.0,41.65,4.5,4.0
+primor,mujer,hollister,feelin good eau de ,eau de parfum,40.0,56.0,17.6,,
+primor,mujer,prada,infusion de cèdre ,eau de parfum,150.0,44.0,84.0,5.0,1.0
+primor,mujer,michael kors,wonderlust ,eau de parfum,62.0,36.0,39.68,4.25,8.0
+primor,mujer,dkny,dkny be extra delicious ,eau de parfum,57.0,47.0,30.21,4.67,3.0
+primor,mujer,versace,versense ,eau de toilette,69.0,40.0,41.4,4.92,24.0
+primor,mujer,yves saint laurent,yves saint laurent black opium illicit green eau de ,eau de parfum,79.0,46.0,42.66,4.5,2.0
+primor,mujer,pacha,be insane  for him,eau de toilette,12.95,12.0,11.4,,
+primor,mujer,tiffany,tiffany eau de ,eau de parfum,81.0,51.0,39.69,5.0,5.0
+primor,mujer,dior,escale à portofino ,eau de toilette,105.0,0.0,105.0,5.0,20.0
+primor,mujer,paula echevarría,paula intense ,eau de toilette,19.3,43.0,11.0,0.0,0.0
+primor,mujer,guerlain,aqua allegoria granada salvia ,eau de toilette,103.09,42.0,59.79,5.0,1.0
+primor,mujer,loewe,agua de loewe miami ,eau de toilette,102.0,35.0,66.3,4.8,5.0
+primor,mujer,kenzo,kenzo world ,eau de parfum,67.0,42.0,38.86,4.4,5.0
+primor,mujer,elizabeth arden,true love ,eau de toilette,50.0,79.0,10.5,4.24,25.0
+primor,mujer,dkny,be delicious orchard eau de ,eau de parfum,57.0,47.0,30.21,,
+primor,mujer,dior,poison girl eau de ,eau de parfum,87.0,0.0,87.0,4.92,12.0
+primor,mujer,tous,l'eau ,eau de toilette,76.0,61.0,29.64,4.78,9.0
+primor,mujer,versace,dylan turquoise ,eau de toilette,69.0,40.0,41.4,4.38,8.0
+primor,mujer,trussardi,donna ,eau de parfum,113.0,56.0,49.72,5.0,4.0
+primor,mujer,marc jacobs,daisy love ,eau de toilette,67.0,53.0,31.49,4.29,7.0
+primor,mujer,issey miyake,a drop d´issey  fraiche,eau de parfum,59.0,35.0,38.35,4.86,7.0
+primor,mujer,carolina herrera,212 heroes eau de  for her,eau de parfum,66.5,32.0,45.22,5.0,1.0
+primor,mujer,adolfo dominguez,iris vainilla ,eau de parfum,46.0,41.0,27.14,4.8,5.0
+primor,mujer,agatha ruiz de la prada,look bubble ,eau de toilette,4.25,7.0,3.95,0.0,0.0
+primor,mujer,mugler,angel elixir  recargable,eau de parfum,82.0,43.0,46.74,4.5,2.0
+primor,mujer,4711,eau de  floral collection jasmine,eau de cologne,36.0,58.0,15.12,4.0,2.0
+primor,mujer,givenchy,amarige ,eau de toilette,92.0,40.0,55.2,4.93,15.0
+primor,mujer,valentino,valentino donna ,eau de parfum,80.0,44.0,44.8,5.0,4.0
+primor,mujer,hermes,un jardin sur la lagune ,eau de toilette,96.0,48.0,49.92,4.75,4.0
+primor,mujer,lancôme,la vie est belle l'extrait eau de ,eau de parfum,100.0,42.0,58.0,,
+primor,mujer,narciso rodriguez,narciso ambrée ,eau de parfum,73.0,35.0,47.45,5.0,7.0
+primor,mujer,marc jacobs,perfect ,eau de parfum,105.0,52.0,50.4,4.89,9.0
+primor,mujer,givenchy,irresistible ,eau de toilette,67.0,48.0,34.84,5.0,1.0
+primor,mujer,adolfo dominguez,jazmín tonka eau de ,eau de parfum,46.0,41.0,27.14,0.0,0.0
+primor,mujer,victorio & lucchino,aguas femeninas nº03  + nº18,eau de toilette,14.95,0.0,14.95,0.0,0.0
+primor,mujer,bvlgari,omnia améthyste ,eau de toilette,73.0,35.0,47.45,0.0,0.0
+primor,mujer,narciso rodriguez,for her musc noir rose eau de ,eau de parfum,73.0,35.0,47.45,5.0,2.0
+primor,mujer,nina ricci,nina rouge ,eau de toilette,55.5,39.0,33.85,4.56,9.0
+primor,mujer,naturel art cosmetics,coc 306 eau de  para ella,eau de parfum,1.99,0.0,1.99,,
+primor,mujer,narciso rodriguez,narciso cristal ,eau de parfum,73.0,35.0,47.45,4.5,2.0
+primor,mujer,dior,miss dior absolutely blooming eau de ,eau de parfum,87.0,0.0,87.0,5.0,3.0
+primor,mujer,laura biagiotti,roma ,eau de toilette,91.0,56.0,40.04,5.0,6.0
+primor,mujer,marc jacobs,perfect intense ,eau de parfum,118.0,53.0,55.46,5.0,1.0
+primor,mujer,bvlgari,eau ée au thé vert ,eau de cologne,98.0,35.0,63.7,5.0,8.0
+primor,mujer,versace,yellow diamond ,eau de toilette,69.0,40.0,41.4,4.5,10.0
+primor,mujer,cartier,la panthere ,eau de parfum,67.0,0.0,67.0,4.9,10.0
+primor,mujer,trussardi,my name ,eau de parfum,86.0,57.0,36.98,5.0,5.0
+primor,mujer,ungaro,diva women ,eau de parfum,110.0,69.0,34.1,,
+primor,mujer,guerlain,aqua allegoria rosa rossa forte eau de ,eau de parfum,120.11,42.0,69.66,5.0,1.0
+primor,mujer,agatha ruiz de la prada,gotas de color entre líneas ,eau de toilette,12.95,0.0,12.95,,
+primor,mujer,coach,coach ,eau de toilette,44.0,55.0,19.8,5.0,1.0
+primor,mujer,estée lauder,youth-dew ,eau de parfum,75.0,0.0,75.0,5.0,1.0
+primor,mujer,lancôme,la vie est belle soleil cristal ,eau de parfum,110.0,48.0,57.2,4.67,3.0
+primor,mujer,givenchy,irresistible eau de  rose velvet,eau de parfum,81.0,45.0,44.55,5.0,1.0
+primor,mujer,chloe,rose naturelle intense eau de ,eau de parfum,162.2,58.0,68.12,,
+primor,mujer,shiseido,ever bloom ,eau de parfum,71.0,35.0,46.15,5.0,5.0
+primor,mujer,nina ricci,nina nature ,eau de toilette,80.5,53.0,37.84,,
+primor,mujer,angel schlesser,les eaux d'un instant luminous violet ,eau de toilette,53.0,54.0,24.38,5.0,1.0
+primor,mujer,dior,escale à portofino  edición limitada,eau de toilette,148.0,0.0,148.0,,
+primor,mujer,bvlgari,eau ee au the blanc,parfum,98.0,35.0,63.7,5.0,9.0
+primor,mujer,angel schlesser,femme intense ,eau de parfum,90.0,56.0,39.6,3.25,4.0
+primor,mujer,burberry,her blossom ,eau de toilette,66.6,48.0,34.63,5.0,3.0
+primor,mujer,trussardi,sound of donna ,eau de parfum,45.6,47.0,24.17,4.4,5.0
+primor,mujer,loewe,loewe 001 woman ,eau de toilette,57.0,35.0,37.05,5.0,1.0
+primor,mujer,kenzo,flower by kenzo poppy bouquet ,eau de parfum,69.0,52.0,33.12,5.0,3.0
+primor,mujer,dolce & gabbana,q by dolce & gabanna ,eau de parfum,145.0,35.0,94.25,0.0,0.0
+primor,mujer,pacha,pacha ibiza 24/7 for her ,eau de toilette,4.5,0.0,4.5,0.0,0.0
+primor,mujer,mugler,alien goddess ,eau de parfum,82.0,39.0,50.02,5.0,5.0
+primor,mujer,loewe,loewe earth eau de ,eau de parfum,92.0,35.0,59.8,,
+primor,mujer,dior,j´adore eau de  infinissime,eau de parfum,91.0,0.0,91.0,5.0,1.0
+primor,mujer,armani,giorgio armani my way le  perfume de mujer recargable,parfum,92.0,47.0,48.76,,
+primor,mujer,nina ricci,nina  recarga  150 ml,eau de toilette,134.0,50.0,67.0,,
+primor,mujer,loewe,agua ella ,eau de toilette,71.0,35.0,46.15,5.0,1.0
+primor,mujer,givenchy,irresistible fraiche ,eau de toilette,67.0,52.0,32.16,5.0,4.0
+primor,mujer,sisley,eau du soir ,eau de parfum,122.5,30.0,85.75,4.4,5.0
+primor,mujer,elie saab,le  in white ,eau de parfum,66.0,32.0,44.88,5.0,2.0
+primor,mujer,loewe,a mi aire ,eau de toilette,126.0,35.0,81.9,4.67,18.0
+primor,mujer,rochas,l'essentiel eau de ,eau de parfum,105.0,52.0,50.4,5.0,1.0
+primor,mujer,women's secret,intimate day dream eau de ,eau de parfum,20.25,16.0,17.01,,
+primor,mujer,narciso rodriguez,for her fleur musc ,eau de parfum,73.0,35.0,47.45,4.67,12.0
+primor,mujer,alain delon,rendez vous sur la seine ,eau de toilette,59.0,83.0,10.03,4.5,4.0
+primor,mujer,saphir,pink de saphir pour femme ,eau de parfum,12.9,0.0,12.9,4.29,7.0
+primor,mujer,naturel art cosmetics,jdo 303 eau de  para ella,eau de parfum,1.99,0.0,1.99,,
+primor,mujer,loewe,paula's ibiza ,eau de toilette,82.0,35.0,53.3,4.6,10.0
+primor,mujer,cacharel,cacharel yes i am blum up eau de ,eau de parfum,89.0,48.0,46.28,,
+primor,mujer,victorio & lucchino,aguas esenciales evasión azul ,eau de cologne,14.95,0.0,14.95,0.0,0.0
+primor,mujer,jimmy choo,jimmy choo rose passion ,eau de parfum,62.0,55.0,27.9,,
+primor,mujer,police,to be tattoo art woman ,eau de parfum,35.0,61.0,13.65,4.73,11.0
+primor,mujer,rochas,rochas girl ,eau de toilette,63.0,58.0,26.46,5.0,23.0
+primor,mujer,custo barcelona,this is me ,eau de parfum,49.0,69.0,15.19,4.33,6.0
+primor,mujer,guerlain,aqua allegoria mandarine basilic ,eau de toilette,103.09,42.0,59.79,5.0,1.0
+primor,mujer,women's secret,rouge seduction ,eau de parfum,19.95,22.0,15.56,,
+primor,mujer,alyssa ashley,white musk eau ée,parfum,9.9,20.0,7.92,1.5,2.0
+primor,mujer,puig,azur ,eau de toilette,11.95,25.0,8.96,1.0,1.0
+primor,mujer,ungaro,emanuel ungaro intense for her ,eau de parfum,58.0,72.0,16.24,5.0,1.0
+primor,mujer,issey miyake,l'eau d'issey rose & rose ,eau de parfum,107.0,35.0,69.55,5.0,2.0
+primor,mujer,versace,dylan blue pour femme ,eau de parfum,74.0,43.0,42.18,4.83,12.0
+primor,mujer,halloween,i'm unique ,eau de toilette,39.0,51.0,19.11,5.0,2.0
+primor,mujer,elie saab,le  lumière eau de ,eau de parfum,66.0,39.0,40.26,,
+primor,mujer,angel schlesser,les eaux d'un instant intimate white flowers ,eau de toilette,53.0,54.0,24.38,5.0,5.0
+primor,mujer,dior,dune ,eau de toilette,142.0,0.0,142.0,5.0,2.0
+primor,mujer,4711,remix  lemon,eau de cologne,36.0,61.0,14.04,4.0,1.0
+primor,mujer,hermes,le jardin de monsieur li ,eau de toilette,96.0,30.0,67.2,4.83,6.0
+primor,mujer,mugler,angel  rellenable,eau de toilette,59.0,46.0,31.86,5.0,6.0
+primor,mujer,loewe,loewe 001 woman ,eau de parfum,66.0,35.0,42.9,5.0,3.0
+primor,mujer,loewe,aire anthesis eau de ,eau de parfum,125.0,35.0,81.25,,
+primor,mujer,mugler,alien goddess supra florale ,eau de parfum,85.0,40.0,51.0,0.0,0.0
+primor,mujer,guerlain,aqua allegoria mandarine basilic forte eau de ,eau de parfum,120.11,42.0,69.66,5.0,2.0
+primor,mujer,agatha ruiz de la prada,look ,eau de toilette,12.95,8.0,11.91,0.0,0.0
+primor,mujer,vicky martín berrocal,alba ,eau de toilette,9.95,0.0,9.95,4.75,8.0
+primor,mujer,paula echevarría,rouge ,eau de toilette,15.95,37.0,10.05,5.0,2.0
+primor,mujer,pepe jeans,for her ,eau de parfum,42.95,30.0,30.06,4.89,9.0
+primor,mujer,hollister,festival nite for her ,eau de toilette,40.0,58.0,16.8,5.0,2.0
+primor,mujer,marc jacobs,daisy ,eau de toilette,96.0,48.0,49.92,5.0,1.0
+primor,mujer,mandarina duck,miami para mujer ,eau de toilette,55.0,72.0,15.4,5.0,1.0
+primor,mujer,alyssa ashley,musk ,eau de toilette,38.95,41.0,22.98,5.0,7.0
+primor,mujer,hollister,wave for her ,eau de parfum,40.0,59.0,16.4,5.0,2.0
+primor,mujer,elie saab,girl of now shine ,eau de parfum,63.0,43.0,35.91,4.67,3.0
+primor,mujer,narciso rodriguez,for her forever eau de  collector,eau de parfum,73.0,35.0,47.45,,
+primor,mujer,armani,giorgio armani my way le  recarga perfume de mujer,parfum,145.0,48.0,75.4,5.0,1.0
+primor,mujer,paco rabanne,lady million royal eau de  perfume femenino,eau de parfum,67.5,33.0,45.22,,
+primor,mujer,halloween,blue drop ,eau de toilette,59.0,53.0,27.73,0.0,0.0
+primor,mujer,anouk,anouk ,eau de toilette,7.95,0.0,7.95,4.93,30.0
+primor,mujer,dior,joy by dior eau de  intense,eau de parfum,125.0,0.0,125.0,3.0,3.0
+primor,mujer,calvin klein,eternity woman summer ,eau de toilette,116.0,68.0,37.12,5.0,2.0
+primor,mujer,lancôme,la vie est belle iris infini ,eau de parfum,79.0,48.0,41.08,,
+primor,mujer,angel schlesser,femme magique eau de ,eau de parfum,92.0,57.0,39.56,5.0,1.0
+primor,mujer,angel schlesser,les eaux d'un instant profound orange wood ,eau de toilette,53.0,54.0,24.38,5.0,3.0
+primor,mujer,dior,poison ,eau de toilette,74.0,0.0,74.0,5.0,7.0
+primor,mujer,guerlain,shalimar ,eau de parfum,86.29,43.0,49.19,5.0,6.0
+primor,mujer,michael kors,sexy amber ,eau de parfum,84.0,41.0,49.56,5.0,2.0
+primor,mujer,loewe,aire fantasía ,eau de toilette,84.0,35.0,54.6,5.0,8.0
+primor,mujer,cacharel,anais anais  ed limitada,eau de toilette,96.0,60.0,38.4,0.0,0.0
+primor,mujer,guerlain,idylle ,eau de parfum,146.5,43.0,83.51,5.0,1.0
+primor,mujer,vicky martín berrocal,eterna ,eau de toilette,9.95,0.0,9.95,4.29,7.0
+primor,mujer,pacha,ibiza 24/7 mujer ,eau de toilette,11.95,8.0,10.99,5.0,6.0
+primor,mujer,benetton,sisterland red rose ,eau de toilette,15.95,0.0,15.95,,
+primor,mujer,loewe,paula's ibiza eclectic ,eau de toilette,82.0,35.0,53.3,5.0,2.0
+primor,mujer,prada,la femme ,eau de parfum,95.0,50.0,47.5,4.5,2.0
+primor,mujer,bvlgari,splendida jasmin noir ,eau de parfum,96.0,35.0,62.4,4.0,3.0
+primor,mujer,dior,joy by dior eau de ,eau de parfum,122.0,0.0,122.0,5.0,9.0
+primor,mujer,juicy couture,oui juicy couture ,eau de parfum,54.0,53.0,25.38,5.0,4.0
+primor,mujer,marc jacobs,daisy eau so intense ,eau de parfum,109.0,52.0,52.32,5.0,3.0
+primor,mujer,rochas,rochas girl blooming edition ,eau de toilette,118.0,55.0,53.1,0.0,0.0
+primor,mujer,estée lauder,bronze goddess eau de ,eau de cologne,95.0,0.0,95.0,0.0,0.0
+primor,mujer,shiseido,zen ,eau de parfum,95.0,35.0,61.75,5.0,5.0
+primor,mujer,4711,acqua  limón y jengibre,eau de cologne,57.0,47.0,30.21,3.78,9.0
+primor,mujer,prada,la femme l'eau ,eau de toilette,155.0,47.0,82.15,4.5,2.0
+primor,mujer,benetton,sisterland pink raspberry ,eau de toilette,14.95,0.0,14.95,5.0,1.0
+primor,mujer,vicky martín berrocal,aire ,eau de toilette,9.95,0.0,9.95,,
+primor,mujer,el ganso,ciao bella! ,eau de toilette,51.5,52.0,24.72,,
+primor,mujer,tom ford,black orchid  gold,parfum,165.0,0.0,165.0,5.0,1.0
+primor,mujer,mugler,angel nova ,eau de toilette,130.0,51.0,63.7,4.5,2.0
+primor,mujer,lancôme,hypnose ,eau de parfum,77.0,46.0,41.58,5.0,13.0
+primor,mujer,guerlain,aqua allegoria orange soleia ,eau de toilette,103.09,42.0,59.79,5.0,2.0
+primor,mujer,versace,crystal noir ,eau de toilette,121.0,40.0,72.6,1.0,1.0
+primor,mujer,adolfo dominguez,verbena limited edition  mujer,eau de toilette,59.5,45.0,32.72,0.0,0.0
+primor,mujer,benetton,sisterland blue neroli ,eau de toilette,27.5,46.0,14.85,0.0,0.0
+primor,mujer,benetton,sisterland jasmine  mujer,eau de toilette,14.95,3.0,14.5,5.0,1.0
+primor,mujer,guerlain,terracotta le  ,eau de toilette,108.59,42.0,62.98,4.5,4.0
+primor,mujer,mandarina duck,into the jungle ,eau de toilette,44.0,55.0,19.8,5.0,1.0
+primor,mujer,saphir,oceanyc woman ,eau de parfum,12.9,0.0,12.9,5.0,2.0
+primor,mujer,prada,candy kiss ,eau de parfum,115.0,47.0,60.95,,
+primor,mujer,valentino,donna born in roma yellow dream ,eau de parfum,80.0,50.0,40.0,5.0,5.0
+primor,mujer,pepe jeans,london calling for her ,eau de parfum,42.0,29.0,29.82,1.0,1.0
+primor,mujer,zadig & voltaire,this is her! vibes of freedom ,eau de parfum,90.0,35.0,58.5,,
+primor,mujer,dior,dolce vita ,eau de toilette,142.0,0.0,142.0,4.75,4.0
+primor,mujer,sentio,chalize ,eau de parfum,4.95,0.0,4.95,0.0,0.0
+primor,mujer,aristea,kiss me in paris eau de ,eau de parfum,2.99,0.0,2.99,,
+primor,mujer,sisley,soir de lune ,eau de parfum,122.5,30.0,85.75,5.0,1.0
+primor,mujer,dior,miss dior blooming bouquet  roller pearl,eau de toilette,53.0,0.0,53.0,4.0,1.0
+primor,mujer,michael kors,gorgeous! ,eau de parfum,62.0,40.0,37.2,5.0,1.0
+primor,mujer,jimmy choo,jimmy choo ,eau de toilette,46.0,57.0,19.78,5.0,1.0
+primor,mujer,dior,diorissimo ,eau de toilette,102.0,0.0,102.0,5.0,5.0
+primor,mujer,sisley,izia ,eau de parfum,99.5,30.0,69.65,5.0,5.0
+primor,mujer,guerlain,aqua allegoria forte oud yuzu eau de ,eau de parfum,121.1,42.0,70.24,0.0,0.0
+primor,mujer,juicy couture,i am juicy couture ,eau de parfum,73.0,46.0,39.42,5.0,1.0
+primor,mujer,guerlain,aqua allegoria pamplelune ,eau de toilette,103.09,42.0,59.79,,
+primor,mujer,alyssa ashley,essence de patchouli eau ée,parfum,9.9,20.0,7.92,5.0,2.0
+primor,mujer,adolfo dominguez,agua fresca de gardenia musk ,eau de toilette,56.5,43.0,32.21,3.67,3.0
+primor,mujer,hermes,voyage ,eau de toilette,134.0,30.0,93.8,5.0,1.0
+primor,mujer,dior,j'adore ,eau de toilette,102.0,0.0,102.0,5.0,2.0
+primor,mujer,naturel art cosmetics,310 fwl eau de  para ella,eau de parfum,1.99,0.0,1.99,,
+primor,mujer,naturel art cosmetics,312 hfy eau de  para ella,eau de parfum,1.99,0.0,1.99,,
+primor,mujer,benetton,united dreams green cactus  for her,eau de toilette,13.95,0.0,13.95,,
+primor,mujer,paco rabanne,olympéa flora eau de ,eau de parfum,74.0,48.0,38.48,,
+primor,mujer,victorio & lucchino,aguas esenciales energía positiva ,eau de cologne,14.95,0.0,14.95,0.0,0.0
+primor,mujer,lancôme,lancôme perfume mujer la vie est belle en rose ,eau de toilette,95.0,51.0,46.55,5.0,3.0
+primor,mujer,juicy couture,viva la juicy rose ,eau de parfum,56.0,40.0,33.6,4.8,5.0
+primor,mujer,saphir,in love pour femme ,eau de parfum,12.9,0.0,12.9,1.0,1.0
+primor,mujer,guerlain,aqua allegoria nerolia vetiver ,eau de toilette,103.09,42.0,59.79,4.67,3.0
+primor,mujer,givenchy,organza ,eau de parfum,107.0,40.0,64.2,5.0,3.0
+primor,mujer,4711,acqua  naranja sanguina y albahaca,eau de cologne,30.0,43.0,17.1,4.33,3.0
+primor,mujer,hermes,twilly d'hermès eau poivrée ,eau de parfum,77.0,43.0,43.89,5.0,1.0
+primor,mujer,yves saint laurent,la collection yvresse ,eau de toilette,155.0,44.0,86.8,4.5,8.0
+primor,mujer,dior,j'adore  d'eau,parfum,87.0,0.0,87.0,0.0,0.0
+primor,mujer,naturel art cosmetics,309 idl eau de  para ella,eau de parfum,1.99,0.0,1.99,,
+primor,mujer,shiseido,ginza eau de  intense,eau de parfum,80.0,35.0,52.0,0.0,0.0
+primor,mujer,tous,more more pink ,eau de toilette,63.0,48.0,32.76,,
+primor,mujer,loewe,solo ella elixir eau de ,eau de parfum,140.0,35.0,91.0,,
+primor,mujer,dior,miss dior ,eau de toilette,102.0,0.0,102.0,5.0,1.0
+primor,mujer,kate spade,kate spade new york  mujer,eau de parfum,80.0,50.0,40.0,5.0,1.0
+primor,mujer,shiseido,ginza eau de ,eau de parfum,77.5,35.0,50.38,4.92,12.0
+primor,mujer,dior,pure poison eau de ,eau de parfum,87.0,0.0,87.0,5.0,9.0
+primor,mujer,vicky martín berrocal,tierra ,eau de toilette,9.95,0.0,9.95,5.0,4.0
+primor,mujer,nina ricci,nina fleur perfume de mujer ,eau de toilette,55.5,48.0,28.86,0.0,0.0
+primor,mujer,devota & lomba,elixir desnudo ,eau de toilette,36.0,58.0,15.12,0.0,0.0
+primor,mujer,rochas,byzance gold ,eau de parfum,84.5,58.0,35.49,5.0,2.0
+primor,mujer,ungaro,emanuel ungaro for her ,eau de toilette,58.0,66.0,19.72,5.0,1.0
+primor,mujer,alejandro sanz,mi acorde women ,eau de toilette,12.95,38.0,8.03,5.0,3.0
+primor,mujer,tous,floral touch ,eau de toilette,96.0,58.0,40.32,4.0,1.0
+primor,mujer,hermes,twilly d'hermès ,eau de parfum,77.0,40.0,46.2,4.75,4.0
+primor,mujer,bvlgari,splendida magnolia sensuel ,eau de parfum,155.0,35.0,100.75,5.0,2.0
+primor,mujer,trussardi,pure jasmin ,eau de parfum,61.0,51.0,29.89,,
+primor,mujer,issey miyake,l'eau d'issey pivoine ,eau de toilette,92.0,35.0,59.8,0.0,0.0
+primor,mujer,jean paul gaultier,classique pride edition collector ,eau de toilette,102.0,41.0,60.18,,
+primor,mujer,trussardi,ruby red eau de  para mujer,eau de parfum,61.0,41.0,35.99,4.0,1.0
+primor,mujer,abercrombie & fitch,away tonight women ,eau de parfum,55.0,63.0,20.35,,
+primor,mujer,angel schlesser,les eaux d'un instant blooming grapefruit ,eau de toilette,53.0,54.0,24.38,5.0,3.0
+primor,mujer,tous,oh! the origin ,eau de toilette,66.0,57.0,28.38,5.0,1.0
+primor,mujer,nina ricci,nina rose ,eau de toilette,55.5,39.0,33.85,5.0,1.0
+primor,mujer,hermes,eau d'orange verte ,eau de cologne,87.0,31.0,60.03,5.0,2.0
+primor,mujer,saphir,sph woman ,eau de parfum,12.9,0.0,12.9,2.5,2.0
+primor,mujer,jimmy choo,floral ,eau de toilette,111.0,58.0,46.62,5.0,1.0
+primor,mujer,police,potion for her eau de ,eau de parfum,39.0,59.0,15.99,0.0,0.0
+primor,mujer,prada,infusion fleur d'oranger ,eau de parfum,150.0,42.0,87.0,,
+primor,mujer,coach,coach the fragrance ,eau de parfum,47.0,49.0,23.97,3.33,3.0
+primor,mujer,police,to be free to dare woman ,eau de toilette,48.0,58.0,20.16,,
+primor,mujer,bvlgari,omnia coral ,eau de toilette,135.0,35.0,87.75,0.0,0.0
+primor,mujer,elie saab,elie saab le  essentiel ,eau de parfum,66.0,51.0,32.34,,
+primor,mujer,cartier,baiser volé ,parfum,83.0,0.0,83.0,5.0,1.0
+primor,mujer,monotheme,il libro degli agrumi boccioli di limone  unisex,eau de toilette,38.0,55.0,17.1,4.0,1.0
+primor,mujer,joop!,femme ,eau de toilette,88.0,73.0,23.76,,
+primor,mujer,cartier,la panthère ,eau de toilette,97.0,0.0,97.0,5.0,2.0
+primor,mujer,amichi,mandarine musk ,eau de toilette,2.99,0.0,2.99,,
+primor,mujer,dsquared2,red wood ,eau de toilette,58.0,56.0,25.52,,
+primor,mujer,chloe,eau de  naturelle,eau de parfum,123.7,56.0,54.43,5.0,2.0
+primor,mujer,saphir,apple pour femme ,eau de parfum,12.9,0.0,12.9,,
+primor,mujer,sisley,soir d'orient ,eau de parfum,172.0,30.0,120.4,5.0,1.0
+primor,mujer,guerlain,aqua allegoria flora salvaggia ,eau de toilette,103.09,42.0,59.79,4.5,2.0
+primor,mujer,angel schlesser,les eaux d'un instant mediterranean cypress ,eau de toilette,53.0,54.0,24.38,3.5,2.0
+primor,mujer,el ganso,señorita mon amour ,eau de toilette,51.5,52.0,24.72,,
+primor,mujer,naturel art cosmetics,311 lgbw eau de  para ella,eau de parfum,1.99,0.0,1.99,,
+primor,mujer,chloe,nomade jasmin naturelle intense for her eau de  intense,eau de parfum,112.0,47.0,59.36,,
+primor,mujer,aristea,glamour queen eau de ,eau de parfum,2.99,0.0,2.99,,
+primor,mujer,acqua di parma,signatures of the sun yuzu eau de ,eau de parfum,103.0,0.0,103.0,5.0,1.0
+primor,mujer,guerlain,samsara ,eau de toilette,126.44,38.0,78.39,,
+primor,mujer,tiffany,tiffany & love for her ,eau de parfum,119.0,52.0,57.12,3.0,2.0
+primor,mujer,viktor & rolf,flowerbomb dew eau de ,eau de parfum,155.0,51.0,75.95,5.0,1.0
+primor,mujer,naf naf,crazy drop eau de  para mujer,eau de parfum,39.9,35.0,25.94,,
+primor,mujer,lacoste,l.12.12 magnetic pour elle ,eau de parfum,103.9,57.0,44.68,5.0,1.0
+primor,mujer,amichi,intense bouquet ,eau de toilette,2.99,0.0,2.99,,
+primor,mujer,paco rabanne,recarga fame ,parfum,180.0,34.0,118.8,,
+primor,mujer,abercrombie & fitch,away weekend women ,eau de parfum,55.0,55.0,24.75,,
+primor,mujer,police,born to shine perfume de mujer ,eau de parfum,35.0,58.0,14.7,,
+primor,mujer,alejandro sanz,mi acorde eres tú  mujer,eau de toilette,14.95,39.0,9.12,0.0,0.0
+primor,mujer,lolita lempicka,lolitaland ,eau de parfum,70.0,50.0,35.0,4.86,7.0
+primor,mujer,saphir,donna pour femme ,eau de parfum,12.9,0.0,12.9,5.0,1.0
+primor,mujer,elie saab,girl of now lovely eau de ,eau de parfum,63.0,44.0,35.28,,
+primor,mujer,marc jacobs,daisy ever so fresh eau de ,eau de parfum,122.0,53.0,57.34,,
+primor,mujer,mandarina duck,vida loca for her  natural,eau de toilette,28.0,36.0,17.92,,
+primor,mujer,4711,remix eau de ,eau de cologne,36.0,64.0,12.96,0.0,0.0
+primor,mujer,laura biagiotti,laura ,eau de toilette,60.0,56.0,26.4,5.0,3.0
+primor,mujer,rochas,eau de rochas l´escapade ,eau de toilette,95.0,62.0,36.1,0.0,0.0
+primor,mujer,vicky martín berrocal,agua ,eau de toilette,9.95,0.0,9.95,,
+primor,mujer,devota & lomba,mar de rosas eau de ,eau de parfum,36.0,58.0,15.12,2.0,1.0
+primor,mujer,shiseido,ginza eau de  murasaki,eau de parfum,77.5,35.0,50.38,4.75,4.0
+primor,mujer,dsquared2,wood pour femme ,eau de toilette,78.0,49.0,39.78,,
+primor,mujer,clinique,aromatics elixir ,eau de toilette,69.0,0.0,69.0,3.6,5.0
+primor,mujer,cartier,la panthère eau de  edición limitada,eau de parfum,150.0,0.0,150.0,,
+primor,mujer,juicy couture,juicy couture ,eau de parfum,56.0,40.0,33.6,5.0,2.0
+primor,mujer,guerlain,la petite robe noire ,eau de toilette,140.47,43.0,80.07,,
+primor,mujer,adolfo dominguez,terracota musk ,eau de parfum,46.0,41.0,27.14,4.67,3.0
+primor,mujer,cartier,baiser vole ,eau de parfum,83.0,0.0,83.0,4.89,9.0
+primor,mujer,4711,acqua  pimienta rosa y pomelo,eau de cologne,57.0,47.0,30.21,0.0,0.0
+primor,mujer,tiffany,tiffany eau de  intense,eau de parfum,84.0,52.0,40.32,4.0,4.0
+primor,mujer,hugo boss,boss alive ,eau de toilette,93.4,54.0,42.96,5.0,1.0
+primor,mujer,salad code,commitment  mujer,eau de parfum,49.99,40.0,29.99,,
+primor,mujer,salad code,empathy  mujer,eau de parfum,49.99,40.0,29.99,4.33,3.0
+primor,mujer,issey miyake,l'eau d'issey eau & magnolia  intense,eau de toilette,83.0,35.0,53.95,5.0,1.0
+primor,mujer,hermes,l'ombre des merveilles ,eau de parfum,110.0,38.0,68.2,5.0,1.0
+primor,mujer,sisley,izia la nuit eau de ,eau de parfum,122.5,30.0,85.75,5.0,1.0
+primor,mujer,abercrombie & fitch,away women ,eau de parfum,55.0,63.0,20.35,,
+primor,mujer,paula echevarría,paula solar ,eau de toilette,10.95,0.0,10.95,,
+primor,mujer,police,to be free to dare woman ,eau de parfum,35.0,54.0,16.1,,
+primor,mujer,amichi,sensual flower ,eau de toilette,2.99,0.0,2.99,,
+primor,mujer,guerlain,aqua allegoria forte nerolia vetiver eau de ,eau de parfum,120.11,47.0,63.66,,
+primor,mujer,acqua di parma,siganutres of the sun osmanthus eau de ,eau de parfum,103.0,0.0,103.0,5.0,1.0
+primor,mujer,monotheme,il libro degli agrumi verde d'arancia  unisex,eau de toilette,38.0,47.0,20.14,5.0,1.0
+primor,mujer,vicky martín berrocal,alma ,eau de toilette,9.95,0.0,9.95,,
+primor,mujer,acqua di parma,signatures of the sun quercia eau de ,eau de parfum,103.0,0.0,103.0,0.0,0.0
+primor,mujer,acqua di parma,sakura eau de ,eau de parfum,103.0,0.0,103.0,5.0,1.0
+primor,mujer,furla,romántica ,eau de parfum,52.0,42.0,30.16,,
+primor,mujer,devota & lomba,infusión adictiva ,eau de toilette,36.0,58.0,15.12,0.0,0.0
+primor,mujer,guerlain,aqua allegoria harvest nerolia vetiver ,eau de toilette,153.15,48.0,79.64,0.0,0.0
+primor,mujer,nike,trendypink woman ,eau de toilette,14.99,0.0,14.99,0.0,0.0
+primor,mujer,kenzo,flower by kenzo poppy bouquet ,eau de toilette,59.5,46.0,32.13,,
+primor,mujer,armand basi,uniform build your self  sin género,eau de toilette,65.0,44.0,36.4,,
+primor,mujer,zadig & voltaire,this is her! zadig dream eau de  edición limitada,eau de parfum,120.0,35.0,78.0,0.0,0.0
+primor,mujer,bourjois,mon bourjois la magnetique eau de ,eau de parfum,14.95,18.0,12.26,,
+primor,mujer,acqua di parma,peonia nobile eau de ,eau de parfum,160.0,0.0,160.0,5.0,1.0
+primor,mujer,lacoste,l.12.12 french panache pour elle ,eau de toilette,99.2,51.0,48.61,,
+primor,mujer,lancôme,la nuit trésor  intense,eau de parfum,115.0,46.0,62.1,5.0,2.0
+primor,mujer,acqua di parma,signatures of the sun vaniglia eau de ,eau de parfum,290.0,0.0,290.0,5.0,1.0
+primor,mujer,monotheme,il libro degli agrumi  bergamotto  unisex,eau de toilette,38.0,47.0,20.14,5.0,1.0
+primor,mujer,guerlain,aqua allegoria flora salvaggia ,eau de toilette,144.5,52.0,69.36,5.0,1.0
+primor,mujer,sisley,eau de campagne ,eau de toilette,95.0,30.0,66.5,3.75,4.0
+primor,mujer,dior,poison girl ,eau de toilette,74.0,0.0,74.0,,
+primor,mujer,hollister,festival vibes for her ,eau de parfum,72.0,58.0,30.24,5.0,4.0
+primor,mujer,dior,miss dior rose n'roses ,eau de toilette,102.0,0.0,102.0,5.0,2.0
+primor,mujer,furla,preziosa ,eau de parfum,98.0,49.0,49.98,,
+primor,mujer,bvlgari,rose goldea ,eau de parfum,109.0,35.0,70.85,4.67,3.0
+primor,mujer,hermes,un jardín à cythère ,eau de toilette,70.0,37.0,44.1,0.0,0.0
+primor,mujer,karl lagerfeld,fleur de thé eau de ,eau de parfum,100.0,70.0,30.0,,
+primor,mujer,dior,j'adore roller-pearl eau de  infinissime,eau de parfum,64.0,0.0,64.0,,
+primor,mujer,acqua di parma,signatures of the sun oud eau de ,eau de parfum,103.0,0.0,103.0,0.0,0.0
+primor,mujer,el ganso,hey sunshine ,eau de toilette,51.5,36.0,32.96,,
+primor,mujer,rochas,girl life eau de ,eau de parfum,63.0,53.0,29.61,,
+primor,mujer,angel schlesser,les eaux d’un instant joyful nashi bloom ,eau de toilette,53.0,54.0,24.38,5.0,1.0
+primor,mujer,estée lauder,beautiful magnolia eau de ,eau de parfum,97.0,0.0,97.0,,
+primor,mujer,dolce & gabbana,pour femme ,eau de parfum,145.0,46.0,78.3,4.88,8.0
+primor,mujer,police,to be woman ,eau de parfum,62.0,58.0,26.04,5.0,1.0
+primor,mujer,trussardi,trussardi ,eau de parfum,61.0,56.0,26.84,,
+primor,mujer,salad code,gratitude  mujer,eau de parfum,49.99,40.0,29.99,,
+primor,mujer,salad code,happiness  mujer,eau de parfum,49.99,40.0,29.99,2.0,1.0
+primor,mujer,4711,acqua  melocotón y cilantro,eau de cologne,57.0,47.0,30.21,5.0,2.0
+primor,mujer,giorgio beverly hills,g eau de ,eau de parfum,39.78,50.0,19.89,4.0,1.0
+primor,mujer,elie saab,elie saab elixir eau de ,eau de parfum,101.0,35.0,65.65,,
+primor,mujer,angel schlesser,angel elixir  recarga,eau de parfum,145.0,45.0,79.75,,
+primor,mujer,bourjois,mon bourjois la formidable eau de ,eau de parfum,14.95,23.0,11.51,,
+primor,mujer,jimmy choo,illicit flower ,eau de toilette,115.0,58.0,48.3,5.0,1.0
+primor,mujer,hermes,caleche soie de ,parfum,185.0,30.0,129.5,5.0,1.0
+primor,mujer,abercrombie & fitch,first instinct for her ,eau de parfum,110.0,58.0,46.2,5.0,3.0
+primor,mujer,dolce & gabbana,dolce garden ,eau de parfum,115.0,48.0,59.8,5.0,2.0
+primor,mujer,acqua di parma,magnolia nobile eau de ,eau de parfum,90.0,0.0,90.0,,
+primor,mujer,boucheron,serpent bohème eau de ,eau de parfum,110.0,58.0,46.2,,
+primor,mujer,rochas,rochas girl  recargable,eau de toilette,100.0,53.0,47.0,,
+primor,mujer,monotheme,il libro degli agrumi zagara  unisex,eau de toilette,38.0,47.0,20.14,,
+primor,mujer,dsquared2,two wood ,eau de toilette,78.0,51.0,38.22,,
+primor,mujer,alyssa ashley,ambre gris eau ée  spray,eau de cologne,9.9,21.0,7.82,0.0,0.0
+primor,mujer,prada,infusion de figue eau de ,eau de parfum,150.0,43.0,85.5,,
+primor,mujer,carolina herrera,ch pasion eau de  para mujer,eau de parfum,127.5,41.0,75.23,0.0,0.0
+primor,mujer,hackett london,absolute eau de ,eau de parfum,98.0,49.0,49.98,,
+primor,mujer,guerlain,l'instant de guerlain ,eau de parfum,146.5,40.0,87.9,5.0,7.0
+primor,mujer,acqua di parma,signatures of the sun lily of the valley eau de ,eau de parfum,103.0,0.0,103.0,0.0,0.0
+primor,mujer,hermes,eau des merveilles bleue ,eau de toilette,110.0,30.0,77.0,,
+primor,mujer,cartier,carat eau de ,eau de parfum,83.0,0.0,83.0,4.8,5.0
+primor,mujer,dior,diorella ,eau de toilette,142.0,0.0,142.0,,
+primor,mujer,kenzo,flower by kenzo l'absolue ,eau de parfum,74.5,46.0,40.23,5.0,1.0
+primor,mujer,naf naf,spicy rose eau de  mujer,eau de parfum,39.9,35.0,25.94,,
+primor,mujer,naf naf,magic fizz eau de  para mujer,eau de parfum,39.9,35.0,25.94,,
+primor,mujer,agatha ruiz de la prada,look gold  para mujer,eau de toilette,23.4,45.0,12.87,0.0,0.0
+primor,mujer,nike,purplemood woman ,eau de toilette,14.99,7.0,13.94,0.0,0.0
+primor,mujer,tiffany,sheer ,eau de toilette,72.0,51.0,35.28,5.0,1.0
+primor,mujer,prada,infusion rosé ,eau de parfum,150.0,47.0,79.5,5.0,1.0
+primor,mujer,4711,acqua  lychee & white mint,eau de cologne,57.0,50.0,28.5,4.0,1.0
+primor,mujer,naf naf,hello paradise eau de  mujer,eau de parfum,39.9,35.0,25.94,,
+primor,mujer,saphir,esencias woman ambar duplo ,eau de toilette,3.99,0.0,3.99,0.0,0.0
+primor,mujer,pacha,ibiza 24/7 feeling women ,eau de toilette,10.95,0.0,10.95,,
+primor,mujer,dkny,original women fall edition eau de  edición limitada,eau de parfum,97.0,41.0,57.23,,
+primor,mujer,halloween,halloween blue drop ,eau de toilette,59.0,41.0,34.81,0.0,0.0
+primor,mujer,nike,sweet blossom woman ,eau de toilette,9.5,32.0,6.46,4.33,3.0
+primor,mujer,saphir,happy pour femme ,eau de parfum,12.9,0.0,12.9,4.5,4.0
+primor,mujer,mandarina duck,freedomland ,eau de toilette,44.0,55.0,19.8,4.5,2.0
+primor,mujer,yves saint laurent,elle eau de ,eau de parfum,160.0,44.0,89.6,5.0,4.0
+primor,mujer,britney spears,prerogative ,eau de parfum,57.0,65.0,19.95,4.64,14.0
+primor,mujer,the fruit company, de coco,eau de cologne,2.75,0.0,2.75,4.0,5.0
+primor,mujer,the fruit company, de cereza,eau de cologne,2.75,0.0,2.75,5.0,1.0
+primor,mujer,4711,acqua  azafrán e iris,eau de cologne,57.0,47.0,30.21,0.0,0.0
+primor,mujer,sjp beauty,lovely collection endless ,eau de parfum,55.0,64.0,19.8,0.0,0.0
+primor,mujer,desigual,fresh festival ,eau de toilette,44.0,36.0,28.16,0.0,0.0
+primor,mujer,caring,lucha women ,eau de toilette,14.95,33.0,10.02,0.0,0.0
+primor,mujer,courreges,s imaginaires 2060 cedar pulp,eau de cologne,100.0,40.0,60.0,0.0,0.0
+primor,mujer,star nature, star nature ,eau de cologne,1.99,0.0,1.99,4.1,277.0
+primor,mujer,escada,fairy love limited edition ,eau de toilette,43.0,40.0,25.8,4.17,6.0
+primor,mujer,pascal morabito,perle verte ,eau de parfum,16.9,41.0,9.97,0.0,0.0
+primor,mujer,cacharel,amor amor  edición limitada,eau de toilette,96.0,58.0,40.32,4.0,1.0
+primor,mujer,oscar de la renta,oscar ,eau de toilette,42.0,64.0,15.12,4.5,2.0
+primor,mujer,paris hilton,platinum rush women ,eau de parfum,39.9,50.0,19.95,0.0,0.0
+primor,mujer,van cleef&arpels,collection extraordinaire néroli amara ,eau de parfum,164.0,33.0,109.88,0.0,0.0
+primor,mujer,van cleef&arpels,collection extraordinaire precious oud ,eau de parfum,164.0,33.0,109.88,0.0,0.0
+primor,mujer,women's secret,eau my secret ,eau de toilette,19.95,22.0,15.56,5.0,9.0
+primor,mujer,halloween,halloween water lily ,eau de toilette,19.95,0.0,19.95,4.94,16.0
+primor,mujer,gres,cabotine floralie ,eau de toilette,69.0,86.0,9.66,4.09,22.0
+primor,mujer,britney spears,fantasy intimate edition ,eau de parfum,42.11,29.0,29.9,4.33,3.0
+primor,mujer,taï & jôn,red rose garden ,eau de parfum,29.95,67.0,9.88,2.0,2.0
+primor,mujer,puig,aitana ,eau de toilette,15.99,25.0,11.99,4.8,5.0
+primor,mujer,aitana,aitana 1999  mujer,eau de toilette,11.99,0.0,11.99,3.0,1.0
+primor,mujer,starck paris,peau de lumiere magique ,eau de parfum,99.0,70.0,29.7,5.0,1.0
+primor,mujer,javier larranzair,bouquet infinito eau de ,eau de parfum,3.99,0.0,3.99,5.0,1.0
+primor,mujer,fun & basics,funtastic woman eau de ,eau de parfum,29.9,67.0,9.87,0.0,0.0
+primor,mujer,gres,lumiere rose ,eau de parfum,69.0,57.0,29.67,0.0,0.0
+primor,mujer,marc jacobs,daisy dream forever ,eau de toilette,106.0,43.0,60.42,0.0,0.0
+primor,mujer,sjp beauty,lovely collection dawn ,eau de parfum,55.0,64.0,19.8,0.0,0.0
+primor,mujer,dolce & gabbana,dolce rose ,eau de toilette,102.0,41.0,60.18,0.0,0.0
+primor,mujer,hollister,wave crush for her ,eau de toilette,45.0,62.0,17.1,0.0,0.0
+primor,mujer,ng perfumes,crystal pink eau de ,eau de parfum,1.0,0.0,1.0,0.0,0.0
+primor,mujer,titto bluni,assoluto donna ,eau de toilette,2.29,0.0,2.29,3.5,4.0
+primor,mujer,calvin klein,ck one summer daze  unisex,eau de toilette,64.26,60.0,25.7,4.8,10.0
+primor,mujer,alyssa ashley,green tea essence eau ee,parfum,19.0,84.0,3.04,3.6,5.0
+primor,mujer,sjp beauty,covet ,eau de parfum,25.0,60.0,10.0,4.0,5.0
+primor,mujer,narciso rodriguez,for her fleur musc florale ,eau de toilette,106.0,35.0,68.9,0.0,0.0
+primor,mujer,sisley,eau de sisley 3 ,eau de toilette,86.0,30.0,60.2,0.0,0.0
+primor,mujer,pascal morabito,greedy essence ,eau de parfum,19.9,50.0,9.95,0.0,0.0
+primor,mujer,armani,ocean di gioia ,eau de parfum,125.0,52.0,60.0,0.0,0.0
+primor,mujer,van cleef&arpels,collection extraordinaire ambre imperial ,eau de parfum,164.0,33.0,109.88,0.0,0.0
+primor,mujer,van cleef&arpels,collection extraordinaire orchidée vanille ,eau de parfum,164.0,33.0,109.88,0.0,0.0
+primor,mujer,women's secret,eau it's fresh ,eau de toilette,19.95,22.0,15.56,5.0,3.0
+primor,mujer,taï & jôn,blackberry and tea ,eau de parfum,29.95,67.0,9.88,3.5,4.0
+primor,mujer,taï & jôn,blushing life ,eau de parfum,29.95,67.0,9.88,4.0,1.0
+primor,mujer,hotel habana,ay candela ,eau de toilette,19.95,50.0,9.98,5.0,2.0
+primor,mujer,saphir,oui intense ,eau de parfum,12.9,0.0,12.9,5.0,1.0
+primor,mujer,lacoste,l.12.12 rose eau de ,eau de parfum,107.8,51.0,52.82,5.0,1.0
+primor,mujer,roberto torretta,absolu ,eau de parfum,41.0,64.0,14.76,5.0,1.0
+primor,mujer,calvin klein,eternity summer daze for women eau de ,eau de parfum,94.33,58.0,39.62,4.5,2.0
+primor,mujer,nina ricci,nina soleil  edición limitada,eau de toilette,73.0,41.0,43.07,3.5,2.0
+primor,mujer,viktor & rolf,flowerbomb bloom ,eau de toilette,109.6,36.0,70.14,5.0,1.0
+primor,mujer,gres,lumiere noire ,eau de parfum,69.0,57.0,29.67,0.0,0.0
+primor,mujer,halloween,magic ,eau de toilette,76.0,53.0,35.72,0.0,0.0
+primor,mujer,givenchy,l'interdit edition couture ,eau de parfum,91.5,40.0,54.9,0.0,0.0
+primor,mujer,hotel habana,gato pardo ,eau de toilette,19.95,50.0,9.98,0.0,0.0
+primor,mujer,courreges,s imaginaires 2030 verbena crush,eau de cologne,100.0,40.0,60.0,0.0,0.0
+primor,mujer,chloe,rose tangerine ,eau de toilette,66.0,47.0,34.98,5.0,4.0
+primor,mujer,chloe,rose tangerine ,eau de toilette,93.0,46.0,50.22,5.0,4.0
+primor,mujer,jlo,still by jennifer lopez ,eau de parfum,71.0,63.0,26.27,5.0,1.0
+primor,mujer,mugler,alien goddess  recarga,eau de parfum,130.0,35.0,84.5,4.5,2.0
+primor,mujer,carolina herrera,ch hot! hot! hot! eau de ,eau de parfum,115.0,35.0,74.75,5.0,1.0
+primor,mujer,4711,remix  lavanda,eau de cologne,32.0,53.0,15.04,4.0,1.0
+primor,mujer,agatha ruiz de la prada,gotas de color bubble ,eau de toilette,4.25,7.0,3.95,4.6,5.0
+primor,mujer,van cleef&arpels,collection extraordinaire bois doré ,eau de parfum,164.0,33.0,109.88,0.0,0.0
+primor,mujer,van cleef&arpels,collection extraordinaire california reverie ,eau de parfum,164.0,33.0,109.88,0.0,0.0
+primor,mujer,van cleef&arpels,collection extraordinaire gardenia pétale ,eau de parfum,164.0,33.0,109.88,0.0,0.0
+primor,mujer,escada,fairy love limited edition ,eau de toilette,61.0,41.0,35.99,4.17,6.0
+primor,mujer,cacharel,noa  edición limitada,eau de toilette,98.0,56.0,43.12,,
+primor,mujer,saphir,esencias woman verbena duplo ,eau de toilette,3.99,0.0,3.99,0.0,0.0
+primor,mujer,taï & jôn,rose i magnolia ,eau de parfum,1.0,0.0,1.0,0.0,0.0
+primor,mujer,taï & jôn,mandarin i basil i lime ,eau de parfum,1.0,0.0,1.0,0.0,0.0
+primor,mujer,lancôme,la nuit tresor diamant blanc ,eau de parfum,95.99,40.0,57.59,0.0,0.0
+primor,mujer,narciso rodriguez,for her  generous spray ,eau de toilette,86.0,35.0,55.9,0.0,0.0
+primor,mujer,sjp beauty,lovely you ,eau de parfum,52.0,62.0,19.76,0.0,0.0
+primor,mujer,jlo,live ,eau de parfum,67.25,70.0,20.18,0.0,0.0
+primor,mujer,roberto torretta,mad about roberto ,eau de toilette,41.0,64.0,14.76,,
+primor,mujer,taï & jôn,salted chocolate ,eau de parfum,1.0,0.0,1.0,0.0,0.0
+primor,mujer,saphir,esencias woman musk duplo ,eau de toilette,3.99,0.0,3.99,0.0,0.0
+primor,mujer,ng perfumes,phenom eau de ,eau de parfum,1.0,0.0,1.0,0.0,0.0
+primor,mujer,paris hilton,gold rush for women ,eau de parfum,39.9,50.0,19.95,0.0,0.0
+primor,mujer,viktor & rolf,petite flowerbomb ,eau de parfum,52.0,42.0,30.16,4.0,1.0
+primor,mujer,jlo,glow ,eau de toilette,71.0,63.0,26.27,4.61,38.0
+primor,mujer,clarins,eau dynamisante ,eau de toilette,56.0,40.0,33.6,5.0,5.0
+primor,mujer,gres,cabotine eau vivide ,eau de toilette,69.0,86.0,9.66,3.75,4.0
+primor,mujer,alyssa ashley,vanilla eau ée,parfum,9.9,27.0,7.23,3.8,10.0
+primor,mujer,boucheron,eau de  fleurs femme,eau de parfum,121.0,50.0,60.5,5.0,1.0
+primor,mujer,agatha ruiz de la prada,rebel love bubble ,eau de toilette,4.25,7.0,3.95,5.0,2.0
+primor,mujer,dior,dior j'adore  roller-pearl,eau de toilette,51.0,0.0,51.0,0.0,0.0
+primor,mujer,van cleef&arpels,collection extraordinaire moonlight patchouli ,eau de parfum,164.0,33.0,109.88,0.0,0.0
+primor,mujer,van cleef&arpels,first ,eau de toilette,115.0,65.0,40.25,4.0,7.0
+primor,mujer,jimmy choo,l'eau ,eau de toilette,111.0,55.0,49.95,3.0,1.0
+primor,mujer,agatha ruiz de la prada,love love love ,eau de toilette,13.95,25.0,10.46,4.5,4.0
+primor,mujer,fila, for woman,eau de toilette,19.9,50.0,9.95,5.0,1.0
+primor,mujer,rochas,eau sensuelle ,eau de toilette,132.0,58.0,55.44,5.0,4.0
+primor,mujer,dior,hypnotic poison roller pearl ,eau de toilette,51.0,0.0,51.0,5.0,1.0
+primor,mujer,jean paul gaultier,la belle fleur terrible eau de  légère femenino edición limitada,eau de parfum,126.0,36.0,80.64,5.0,2.0
+primor,mujer,adidas,woman natural vitality ,eau de toilette,2.95,15.0,2.51,5.0,1.0
+primor,mujer,jean paul gaultier,gaultier classique  collector edition,eau de toilette,115.5,39.0,70.46,,
+primor,mujer,sjp beauty,born lovely ,eau de parfum,52.0,62.0,19.76,0.0,0.0
+primor,mujer,escada,cherry in japan  edición limitada,eau de toilette,92.0,50.0,46.0,4.5,4.0
+primor,mujer,4711,acqua  mandarina y cardamomo,eau de cologne,57.0,47.0,30.21,0.0,0.0
+primor,mujer,courreges,s imaginaires 2050 berrie flash,eau de cologne,100.0,40.0,60.0,0.0,0.0
+primor,mujer,taï & jôn,jasmin i mint ,eau de parfum,1.0,0.0,1.0,0.0,0.0
+primor,mujer,javier larranzair,gardenia exótica eau de ,eau de parfum,3.99,0.0,3.99,0.0,0.0
+primor,mujer,carolina herrera,good girl gold fantasy eau de ,eau de parfum,129.0,32.0,87.72,0.0,0.0
+primor,mujer,devota & lomba,paraiso escarchado ,eau de toilette,36.0,58.0,15.12,0.0,0.0
+primor,mujer,alain delon,rendez vous à st.tropez ,eau de toilette,59.0,83.0,10.03,0.0,0.0
+primor,mujer,pascal morabito,my diamond ,eau de parfum,16.9,41.0,9.97,0.0,0.0
+primor,mujer,escada,cherry in japan  edición limitada,eau de toilette,70.0,49.0,35.7,4.5,4.0
+primor,mujer,alyssa ashley,fizzy eau ée,parfum,9.9,20.0,7.92,0.0,0.0
+primor,mujer,caring,fuerza women ,eau de toilette,14.95,33.0,10.02,0.0,0.0
+primor,mujer,courreges,s imaginaires 2040 nectar tonka,eau de cologne,100.0,40.0,60.0,0.0,0.0
+primor,mujer,paris hilton,dazzle by paris hilton ,eau de parfum,39.9,50.0,19.95,1.0,1.0
+primor,mujer,van cleef&arpels,collection extraordinaire santal blanc ,eau de parfum,164.0,33.0,109.88,0.0,0.0
+primor,mujer,petro valverde,magnolia désir ,eau de toilette,9.95,40.0,5.97,5.0,3.0
+primor,mujer,petro valverde,fleur néroli ,eau de toilette,9.95,40.0,5.97,5.0,2.0
+primor,mujer,carolina herrera,212 vip rosé smiley ,eau de parfum,106.5,38.0,66.03,5.0,1.0
+primor,mujer,saphir,furor pour femme ,eau de parfum,12.9,0.0,12.9,5.0,1.0
+primor,mujer,taï & jôn,lime basil & mandarin ,eau de parfum,29.95,67.0,9.88,4.08,12.0
+primor,mujer,angel schlesser,femme adorable intense ,eau de parfum,90.0,59.0,36.9,5.0,2.0
+primor,mujer,sisley,eau de sisley 3 ,eau de toilette,138.0,30.0,96.6,0.0,0.0
+primor,mujer,van cleef&arpels,collection extraordinaire bois d'iris ,eau de parfum,164.0,33.0,109.88,0.0,0.0
+primor,mujer,aitana,be magnetic ,eau de toilette,15.99,29.0,11.35,4.0,1.0
+primor,mujer,rochas,eau de rochas escapade exotique ,eau de toilette,79.0,57.0,33.97,5.0,1.0
+primor,mujer,givenchy,eau de givenchy ,eau de toilette,79.5,40.0,47.7,5.0,5.0
+primor,mujer,boucheron,quatre absolu de nuit ,eau de parfum,114.0,56.0,50.16,5.0,1.0
+primor,mujer,paula echevarría,paula echevarría ,eau de toilette,11.95,29.0,8.48,4.73,15.0
+primor,mujer,taï & jôn,white jasmin & green mint ,eau de parfum,29.95,67.0,9.88,4.2,5.0
+primor,mujer,chloe,rose tangerine ,eau de toilette,113.0,47.0,59.89,5.0,4.0
+primor,mujer,tulipán negro, floral cristal rosa de oriente,eau de cologne,6.99,0.0,6.99,,
+primor,mujer,4711,acqua  mirra y kumquat,eau de cologne,57.0,47.0,30.21,0.0,0.0
+primor,mujer,narciso rodriguez,narciso poudrée generous  spray,eau de parfum,98.0,35.0,63.7,0.0,0.0
